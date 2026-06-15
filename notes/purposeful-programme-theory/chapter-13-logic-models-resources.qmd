@@ -1,0 +1,74 @@
+---
+title: "13. Logic Models Resources"
+description: "Study note on Chapter 13 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 4: Resources for Developing Program Theory</span>
+  <span>Source PDF pages 414-443</span>
+  <span>Chapter 13</span>
+</div>
+
+This note summarises Chapter 13, "Logic Models Resources," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Logic model resources and technologies can support representation, but the usefulness of a logic model depends more on conceptual clarity than on the drawing tool.
+
+## Study Summary
+
+This chapter reviews pipeline logic models, variations of outcomes chain models, drawn models, standard software, specialist visual tools, and dedicated logic model packages. It gives evaluators a practical sense of available representation formats.
+
+The chapter reinforces earlier cautions: a visually tidy model can still be conceptually weak, and a complex tool can obscure rather than clarify the theory. Technology should support the intended use, audience, and complexity of the program theory.
+
+The practical emphasis is on choosing the right representation environment. Some situations need quick sketches to support dialogue; others need formal models for documentation, monitoring, or reporting. The tool should make revision, communication, and use easier.
+
+## Key Concepts
+
+- Pipeline model variation: different ways to organize inputs, activities, outputs, and outcomes.
+- Outcomes-chain variation: different degrees of detail, nesting, and temporal structure in outcome pathways.
+- Representation technology: software or visual methods used to create and maintain logic models.
+- Tool fit: alignment between representation medium, audience, and purpose.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Pipeline Logic Models
+- Ways in Which Pipeline Logic Models Vary
+- Variations of Pipeline Logic Models
+- Variations Of Outcomes Chain Logic Models
+- Technology For Representing Program Theory
+- Drawn Logic Models
+- Standard Computer Packages
+- Long-Term
+- Outcomes
+- Outcomes
+- Short-
+- Term
+- Outputs
+- Processes
+
+## Practical Implications
+
+- Select tools after clarifying users and revision needs.
+- Do not let software templates dictate the causal logic.
+- Maintain models in formats that can be updated as evidence and use evolve.
+
+## Connections
+
+- Previous: [12. Some Common Program Archetypes](chapter-12-some-common-program-archetypes.qmd)
+- Next: [14. Developing a Monitoring and Evaluation Plan](chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about logic models resources?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

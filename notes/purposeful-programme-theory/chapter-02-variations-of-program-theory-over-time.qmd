@@ -1,0 +1,74 @@
+---
+title: "2. Variations of Program Theory over Time"
+description: "Study note on Chapter 2 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 1: Key Ideas in Program Theory</span>
+  <span>Source PDF pages 42-63</span>
+  <span>Chapter 2</span>
+</div>
+
+This note summarises Chapter 2, "Variations of Program Theory over Time," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Program theory is not a new invention but a family of related ideas with varied terminology, intellectual roots, and practical traditions; evaluators need to understand the vocabulary well enough to choose terms that support use rather than confusion.
+
+## Study Summary
+
+The chapter places program theory in a longer history of evaluation, planning, social science, and management practice. Rather than presenting one settled method, it shows how different traditions have emphasized causal explanation, planning logic, accountability, learning, stakeholder communication, and evidence synthesis.
+
+A substantial part of the chapter is terminological. Terms such as program theory, theory of change, theory of action, logic model, logframe, results chain, outcomes chain, and evaluation model are used differently across organizations and countries. The authors treat terminology as consequential because vocabulary shapes what people attend to and what they overlook.
+
+The chapter distinguishes key ideas without insisting on one universal label. The practical message is to define terms explicitly in each project, align language with users, and avoid assuming that a familiar diagram or phrase carries the same meaning for every stakeholder.
+
+## Key Concepts
+
+- Theory of change: the causal account of how and why change is expected to happen.
+- Theory of action: the account of what the program will do to activate or support the theory of change.
+- Logic model: a representation of program components and expected links, often but not always diagrammatic.
+- Terminological fit: choosing words that make the theory usable for the intended audience.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- A Short History Of Program Theory
+- Philosophical Roots
+- Early Examples
+- The First Boom Period
+- Innovations
+- The Current State
+- Terminology In Program Theory
+- Advantages and Disadvantages of Different Terminology
+- Terms for Components in a Pipeline Model
+- Australia: AusAID (Australian Agency for International Development) (Logframe)
+- Canada: Treasury
+- India: Comptroller and Auditor-General
+- South Africa: Framework for Managing Programme Performance Information, National Treasury
+- United States: University of Wisconsin Extension Service
+
+## Practical Implications
+
+- Define the working vocabulary at the start of a program theory exercise.
+- Expect organizational templates to encode assumptions about what counts as a good theory.
+- Treat debates over terms as design signals, not merely semantic disputes.
+
+## Connections
+
+- Previous: [1. The Essence of Program Theory](chapter-01-the-essence-of-program-theory.qmd)
+- Next: [3. Common Myths and Traps](chapter-03-common-myths-and-traps.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about variations of program theory over time?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

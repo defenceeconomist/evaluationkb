@@ -1,0 +1,85 @@
+---
+title: "Purposeful Program Theory"
+description: "Book overview and chapter index for Funnell and Rogers' Purposeful Program Theory."
+page-layout: full
+toc: true
+---
+
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Purposeful Program Theory
+
+Detailed study notes on Funnell and Rogers' *Purposeful Program Theory: Effective Use of Theories of Change and Logic Models* [@funnell_rogers_2011_purposeful_program_theory]. The notes are organized by the book's five-part structure and designed for later expansion into a multi-book evaluation knowledge base.
+
+<div class="page-metadata">
+  <span>16 chapter notes</span>
+  <span>5 parts</span>
+  <span>Theory of change</span>
+  <span>Logic models</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Review recurring distinctions such as theory of change, theory of action, logic models, assumptions, and causal inference.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Use the part and chapter sequence as a reading map for the book.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+Translate the book into practical habits for evaluation design, monitoring, causal analysis, and reporting.
+:::
+:::
+
+</div>
+
+## Part 1: Key Ideas in Program Theory
+
+- [1. The Essence of Program Theory](chapter-01-the-essence-of-program-theory.qmd) - source PDF pages 30-41
+- [2. Variations of Program Theory over Time](chapter-02-variations-of-program-theory-over-time.qmd) - source PDF pages 42-63
+- [3. Common Myths and Traps](chapter-03-common-myths-and-traps.qmd) - source PDF pages 64-81
+
+## Part 2: Assessing Your Circumstances
+
+- [4. Scoping Intended Uses](chapter-04-scoping-intended-uses.qmd) - source PDF pages 82-95
+- [5. The Nature of the Situation and the Intervention](chapter-05-the-nature-of-the-situation-and-the-intervention.qmd) - source PDF pages 96-121
+
+## Part 3: Developing and Representing Program Theory
+
+- [6. Processes to Identify or Develop a Program Theory](chapter-06-processes-to-identify-or-develop-a-program-theory.qmd) - source PDF pages 122-175
+- [7. Developing a Theory of Change](chapter-07-developing-a-theory-of-change.qmd) - source PDF pages 176-225
+- [8. Developing a Theory of Action](chapter-08-developing-a-theory-of-action.qmd) - source PDF pages 226-267
+- [9. Representing Program Theory](chapter-09-representing-program-theory.qmd) - source PDF pages 268-319
+- [10. Critiquing Program Theory](chapter-10-critiquing-program-theory.qmd) - source PDF pages 320-345
+
+## Part 4: Resources for Developing Program Theory
+
+- [11. Some Research-Based Theories of Change](chapter-11-some-research-based-theories-of-change.qmd) - source PDF pages 346-377
+- [12. Some Common Program Archetypes](chapter-12-some-common-program-archetypes.qmd) - source PDF pages 378-413
+- [13. Logic Models Resources](chapter-13-logic-models-resources.qmd) - source PDF pages 414-443
+
+## Part 5: Using Program Theory for Monitoring and Evaluation
+
+- [14. Developing a Monitoring and Evaluation Plan](chapter-14-developing-a-monitoring-and-evaluation-plan.qmd) - source PDF pages 444-495
+- [15. Causal Inference](chapter-15-causal-inference.qmd) - source PDF pages 496-527
+- [16. Synthesis and Reporting](chapter-16-synthesis-and-reporting.qmd) - source PDF pages 528-545
+
+
+## References

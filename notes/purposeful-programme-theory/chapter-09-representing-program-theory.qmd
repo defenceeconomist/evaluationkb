@@ -1,0 +1,74 @@
+---
+title: "9. Representing Program Theory"
+description: "Study note on Chapter 9 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 3: Developing and Representing Program Theory</span>
+  <span>Source PDF pages 268-319</span>
+  <span>Chapter 9</span>
+</div>
+
+This note summarises Chapter 9, "Representing Program Theory," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Representing program theory is a design choice: diagrams, matrices, narratives, and multiple models should be selected to fit the intervention’s causal structure, complexity, and intended use.
+
+## Study Summary
+
+This chapter surveys representation options, including pipeline logic models, outcomes chains, realist matrices, narratives, and multiple linked models. It treats representation as more than presentation: the form chosen shapes what users notice, question, and can use.
+
+The authors distinguish representations for complicated and complex programs. Multiple organizations, sequential interventions, parallel causal strands, context-specific mechanisms, emergent theory of action, vertical integration, and systems concepts may all require alternatives to a single diagram.
+
+The chapter ends with practical quality criteria. Good representations explain contribution, avoid dead ends, make arrows meaningful, show direction of change, focus on key elements, avoid clutter, and remove material that does not add meaning. The test is whether the representation clarifies the theory for its intended use.
+
+## Key Concepts
+
+- Pipeline logic model: a representation moving from inputs and activities through outputs and outcomes.
+- Outcomes chain model: a representation centered on consequential outcome progression.
+- Realist matrix: a representation that links context, mechanism, and outcome patterns.
+- Representational economy: including enough to guide use without overwhelming interpretation.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Options For Representation
+- A Pipeline Logic Model of a Computer Project
+- An Outcomes Chain Logic Model of a Computer Project
+- Comparing Pipeline Models and Outcomes Chain Models
+- Realist Matrices
+- Narratives
+- Developing More Than One Logic Model
+- Options for Formatting Logic Models
+- Representing Complicated Program Theory
+- Multiple Organizations Working in Parallel
+- Multiple Interventions Working Together Sequentially
+- Multiple Causal Strands Within an Intervention
+- Interventions That Work Only in Particular Contexts
+- Representing Complex Program Theory
+
+## Practical Implications
+
+- Choose representation after clarifying use and intervention complexity.
+- Use multiple models when one view cannot serve all users or levels.
+- Review diagrams for meaningful arrows, missing assumptions, and avoidable clutter.
+
+## Connections
+
+- Previous: [8. Developing a Theory of Action](chapter-08-developing-a-theory-of-action.qmd)
+- Next: [10. Critiquing Program Theory](chapter-10-critiquing-program-theory.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about representing program theory?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

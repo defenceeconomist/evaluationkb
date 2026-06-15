@@ -1,0 +1,68 @@
+---
+title: "1. The Essence of Program Theory"
+description: "Study note on Chapter 1 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 1: Key Ideas in Program Theory</span>
+  <span>Source PDF pages 30-41</span>
+  <span>Chapter 1</span>
+</div>
+
+This note summarises Chapter 1, "The Essence of Program Theory," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Program theory turns evaluation from a simple before-and-after judgement into an explanation of how an intervention is expected to generate change, where that explanation might fail, and what evidence would distinguish success, partial success, implementation failure, and theory failure.
+
+## Study Summary
+
+The opening chapter uses a deliberately simple health example to show why an evaluation without program theory can identify an outcome pattern but cannot say much about why it occurred. A black-box evaluation can report whether results changed, but it gives weak guidance about which mechanisms worked, which activities mattered, or what should be changed next.
+
+The chapter then reframes evaluation around a model of how resources, activities, outputs, intermediate outcomes, final outcomes, assumptions, and contextual factors are connected. This makes the evaluation more diagnostic: results can be interpreted against the expected chain of contribution rather than treated as a single program-versus-outcome comparison.
+
+A central practical point is that failure, partial success, and apparent success all need explanation. Program theory helps evaluators identify whether the intervention was implemented as intended, whether the causal logic was plausible, whether context disrupted the pathway, and whether observed results can be credibly attributed to the program.
+
+## Key Concepts
+
+- Black-box evaluation: an evaluation that relates an intervention to outcomes without unpacking the intervening causal pathway.
+- Program theory: an explicit account of how an intervention is expected to contribute to intended outcomes.
+- Implementation failure versus theory failure: a poor result may reflect weak delivery, weak causal assumptions, or both.
+- Partial success: evidence may support some links in the chain while exposing weak or missing links elsewhere.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Evaluation Without Program Theory
+- Evaluation With Program Theory
+- Learning from Failure
+- Learning from Partial Success
+- Learning from Success
+- Learning from “An Apple a Day”
+- Summary
+- Exercises
+
+## Practical Implications
+
+- Start evaluation design by asking what must be true for the intervention to work.
+- Collect evidence along the causal chain, not only at the final outcome.
+- Use the theory to diagnose why results occurred and what should be improved.
+
+## Connections
+
+- Previous: [Book overview](index.qmd)
+- Next: [2. Variations of Program Theory over Time](chapter-02-variations-of-program-theory-over-time.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about the essence of program theory?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

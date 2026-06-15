@@ -1,0 +1,39 @@
+---
+title: "Evaluation Practice Implications"
+description: "Practical evaluation design implications from Purposeful Program Theory."
+---
+
+## Source
+
+This synthesis draws on the full set of chapter notes for *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory].
+
+## Practical Habits
+
+1. Start by naming the intended users, uses, and timing of the program theory.
+2. Separate the problem analysis and desired change pathway from the program's activities and delivery model.
+3. Make assumptions explicit enough that they can be tested or monitored.
+4. Choose representation formats for use, not for visual polish.
+5. Critique the theory before using it to select indicators or evaluation methods.
+6. Use the theory to distinguish implementation failure, theory failure, contextual disruption, and partial success.
+7. Report evidence along the causal pathway so conclusions are traceable.
+
+## Evaluation Design Checklist
+
+- What decision or learning need should the program theory support?
+- Who needs to participate in developing, challenging, or using it?
+- What problem, causes, contributing factors, and opportunities does the theory identify?
+- Which outcomes form a genuine causal chain rather than a list of aspirations?
+- Which activities and outputs are expected to influence the causal factors?
+- What contextual or external factors could enable or block outcomes?
+- Which links in the theory are most uncertain, consequential, or worth testing?
+- What comparison, congruence evidence, or critical review is needed for causal inference?
+
+## Related Notes
+
+- [Scoping Intended Uses](chapter-04-scoping-intended-uses.qmd)
+- [Processes to Identify or Develop a Program Theory](chapter-06-processes-to-identify-or-develop-a-program-theory.qmd)
+- [Developing a Monitoring and Evaluation Plan](chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
+- [Causal Inference](chapter-15-causal-inference.qmd)
+- [Synthesis and Reporting](chapter-16-synthesis-and-reporting.qmd)
+
+## References

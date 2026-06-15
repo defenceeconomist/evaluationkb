@@ -1,0 +1,70 @@
+---
+title: "16. Synthesis and Reporting"
+description: "Study note on Chapter 16 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 5: Using Program Theory for Monitoring and Evaluation</span>
+  <span>Source PDF pages 528-545</span>
+  <span>Chapter 16</span>
+</div>
+
+This note summarises Chapter 16, "Synthesis and Reporting," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Synthesis and reporting should use program theory to integrate diverse evidence, explain causal contribution, support timely learning, and connect findings across linked evaluations.
+
+## Study Summary
+
+The final chapter focuses on how evidence is brought together and reported. For a single evaluation, program theory can organize diverse evidence along the outcomes chain, helping readers see how implementation, intermediate outcomes, final outcomes, context, and assumptions relate.
+
+The authors also discuss rapid reporting and software-supported reporting. The key issue is not format but usefulness: reporting should make the evidence traceable to the theory and support decisions while the information is still actionable.
+
+Across evaluations, program theory provides a structure for synthesis. It can connect findings from linked projects, compare evidence across different evaluations, and build cumulative understanding about what works, for whom, why, and under what conditions.
+
+## Key Concepts
+
+- Theory-based synthesis: integrating evidence according to the causal structure of the program theory.
+- Rapid reporting: timely communication designed to support ongoing decisions.
+- Cross-evaluation synthesis: using program theory to compare and integrate findings across studies.
+- Traceability: making clear how evidence supports conclusions and judgements.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Synthesis And Reporting For A Single Evaluation
+- Synthesizing Diverse Evidence Along the Outcomes Chain
+- Rapid Reporting
+- Software to Report Evidence in Terms of a Logic Model
+- Synthesis And Reporting Across Evaluations
+- Synthesis Across Linked Projects
+- Synthesis Across Different Evaluations
+- Summary
+- Exercises
+- N E W F R O N T I E R S F O R P R O G R A M T H E O R Y
+
+## Practical Implications
+
+- Structure reports around the theory when the theory is central to the evaluation.
+- Show where evidence is strong, weak, missing, or contradictory along the causal chain.
+- Use synthesis to refine theories for future programs and evaluations.
+
+## Connections
+
+- Previous: [15. Causal Inference](chapter-15-causal-inference.qmd)
+- Next: [Practice implications](evaluation-practice-implications.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about synthesis and reporting?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

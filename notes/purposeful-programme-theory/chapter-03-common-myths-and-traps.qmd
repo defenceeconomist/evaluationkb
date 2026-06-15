@@ -1,0 +1,74 @@
+---
+title: "3. Common Myths and Traps"
+description: "Study note on Chapter 3 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 1: Key Ideas in Program Theory</span>
+  <span>Source PDF pages 64-81</span>
+  <span>Chapter 3</span>
+</div>
+
+This note summarises Chapter 3, "Common Myths and Traps," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+The value of program theory depends on avoiding common myths and practical traps, especially the belief that drawing a diagram is enough or that one standard model can fit every evaluation purpose.
+
+## Study Summary
+
+The chapter clears away myths that weaken practice: program theory is not brand new, there is not one correct way to do it, it can be a serious evaluation model, and it does not necessarily require excessive time. The authors also challenge the idea that a theory is untestable or that causality can simply be assumed once a model is drawn.
+
+The traps are more operational. Program theory can become a compliance artifact, a vague outcomes list, an overcomplicated wall chart, or a model that ignores unintended outcomes and contextual variation. A particularly important trap is developing a theory for an evaluation and then failing to use it in evaluation design, data collection, analysis, and reporting.
+
+The chapter’s stance is pragmatic: program theory should be purposeful, proportionate, explicit, and used. A modest but well-targeted theory is better than an elaborate representation that nobody uses to make decisions.
+
+## Key Concepts
+
+- Myth: a mistaken belief about what program theory is or requires.
+- Trap: a recurring practice problem that undermines the usefulness of a program theory.
+- Purposeful proportionality: investing enough effort for the intended use without turning the exercise into an end in itself.
+- Unintended results: outcomes that are outside the intended chain but still matter for evaluation.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Some Common Myths
+- Myth 1: A New Approach
+- Myth 2: One Way to Do It
+- Myth 3: Not a Good Evaluation Model
+- Myth 4: Too Much Time
+- Myth 5: Just Draw It
+- Myth 6: Can’t Really Test It
+- Myth 7: Assume Causality
+- Traps To Avoid When Developing And Using Program Theory
+- Strategies to Avoid This Trap
+- Trap 2: Having a Poor Theory of Change
+- Trap 3: Poorly Specifying Intended Results
+- Trap 4: Ignoring Unintended Results
+- Trap 5: Oversimplifying
+
+## Practical Implications
+
+- Choose the level of detail to match the decision or evaluation use.
+- Build in explicit attention to unintended outcomes and alternative explanations.
+- Make sure the final theory controls actual choices about measures, methods, and reporting.
+
+## Connections
+
+- Previous: [2. Variations of Program Theory over Time](chapter-02-variations-of-program-theory-over-time.qmd)
+- Next: [4. Scoping Intended Uses](chapter-04-scoping-intended-uses.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about common myths and traps?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

@@ -1,0 +1,74 @@
+---
+title: "12. Some Common Program Archetypes"
+description: "Study note on Chapter 12 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 4: Resources for Developing Program Theory</span>
+  <span>Source PDF pages 378-413</span>
+  <span>Chapter 12</span>
+</div>
+
+This note summarises Chapter 12, "Some Common Program Archetypes," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Common program archetypes help evaluators recognize recurring intervention logics, but each archetype brings different assumptions, risks, and evidence needs.
+
+## Study Summary
+
+The chapter organizes recurring program forms such as advisory, information, education, incentives, deterrence, case management, community capacity building, and direct service delivery. These archetypes are useful because similar intervention forms often rely on similar causal assumptions.
+
+Each archetype points to different change mechanisms. Information programs assume attention, comprehension, relevance, and ability to act. Incentives assume behavior responds to rewards. Deterrence assumes detection, sanction, and perceived risk. Case management assumes coordinated support can address multiple barriers. Capacity building assumes communities or organizations can acquire and use new capability.
+
+The authors’ point is not to classify programs for its own sake. Archetypes help evaluators ask sharper questions about whether the chosen strategy fits the problem, what conditions are required, and what evidence would show that the mechanism is operating.
+
+## Key Concepts
+
+- Program archetype: a recurring intervention pattern with characteristic causal assumptions.
+- Carrots and sticks: incentive and deterrence approaches to changing behavior.
+- Case management: coordinated support addressing multiple participant needs or barriers.
+- Capacity building: strengthening ability to act at individual, organizational, or community levels.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Some Important Program Archetypes
+- Advisory, Information, And Education Program Archetype
+- Key Considerations When Using Advisory, Public Information, and Education Programs to Change Behavior
+- Relationship to Theories of Change
+- Carrots And Sticks Program Archetype
+- Carrot Programs to Motivate Behavior
+- Key Considerations When Using Carrots Program Archetype
+- Stick Programs to Deter Undesirable Behaviors
+- Key Considerations for Applying the Stick Archetype
+- Case Management Programs Program Archetype
+- Key Considerations for Applying the Archetype
+- Community Capacity-Building Program Archetype
+- Product Or Direct Service Delivery Program Archetype
+- Key Differences Within This Archetype for Consideration
+
+## Practical Implications
+
+- Identify the dominant archetype before selecting indicators.
+- Check whether the archetype’s assumptions fit the target population and context.
+- Use archetypes to anticipate common failure points and unintended effects.
+
+## Connections
+
+- Previous: [11. Some Research-Based Theories of Change](chapter-11-some-research-based-theories-of-change.qmd)
+- Next: [13. Logic Models Resources](chapter-13-logic-models-resources.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about some common program archetypes?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

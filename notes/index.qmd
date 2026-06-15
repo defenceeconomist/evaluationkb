@@ -1,0 +1,201 @@
+---
+title: "Notes"
+page-layout: full
+toc: false
+---
+
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Evaluation notes</span>
+
+# Notes overview
+
+This section collects source-grounded study notes. The first collection covers Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory].
+
+<div class="page-metadata">
+  <span>Book notes</span>
+  <span>Theory of change</span>
+  <span>Logic models</span>
+  <span><a href="../references.bib" download>Export BibTeX</a></span>
+</div>
+:::
+
+```{=html}
+<div class="notes-filter" role="search" aria-label="Filter note tiles">
+  <label for="notes-search">Find
+    <input id="notes-search" type="search" placeholder="Search notes" autocomplete="off" />
+  </label>
+  <label for="notes-section-filter">Section
+    <select id="notes-section-filter">
+      <option value="all">All sections</option>
+      <option value="Part 1">Part 1</option>
+      <option value="Part 2">Part 2</option>
+      <option value="Part 3">Part 3</option>
+      <option value="Part 4">Part 4</option>
+      <option value="Part 5">Part 5</option>
+    </select>
+  </label>
+  <label for="notes-type-filter">Type
+    <select id="notes-type-filter">
+      <option value="all">All types</option>
+      <option value="Chapter">Chapter</option>
+      <option value="Synthesis">Synthesis</option>
+    </select>
+  </label>
+</div>
+<p class="notes-filter-count" id="notes-filter-count" aria-live="polite"></p>
+```
+
+::: {.section-grid}
+::: {.section-card data-note-card="" data-section="Part 1" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-synthesis">Synthesis</span></div>
+
+### [Purposeful Program Theory](purposeful-programme-theory/index.qmd)
+
+Book overview, part structure, and reading routes for the chapter notes.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 1" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span></div>
+
+### [Core Concepts](purposeful-programme-theory/concepts.qmd)
+
+A consolidated guide to the book's central distinctions and recurring concepts.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [1. The Essence of Program Theory](purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd)
+
+Program theory turns evaluation from a simple before-and-after judgement into an explanation of how an intervention is expected to generate change, where that explanation might fail, and what evidence would distinguish success, partial success, implementation failure, and theory failure.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [2. Variations of Program Theory over Time](purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd)
+
+Program theory is not a new invention but a family of related ideas with varied terminology, intellectual roots, and practical traditions; evaluators need to understand the vocabulary well enough to choose terms that support use rather than confusion.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [3. Common Myths and Traps](purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd)
+
+The value of program theory depends on avoiding common myths and practical traps, especially the belief that drawing a diagram is enough or that one standard model can fit every evaluation purpose.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 2" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 2</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [4. Scoping Intended Uses](purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd)
+
+A program theory should be scoped around intended users, uses, and timing; the same intervention can need different theories for planning, communication, management, monitoring, evaluation, or evidence-informed policy.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 2" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 2</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [5. The Nature of the Situation and the Intervention](purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd)
+
+The nature of the intervention and its setting should shape the program theory; simple, complicated, and complex situations require different assumptions about focus, governance, consistency, necessity, sufficiency, and change trajectories.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [6. Processes to Identify or Develop a Program Theory](purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd)
+
+Developing a program theory is a methodological choice, not just a workshop activity; evaluators must decide who participates, what evidence informs the theory, how conflict is handled, how much resource to invest, and when to revisit the theory.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [7. Developing a Theory of Change](purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd)
+
+A theory of change explains the causal pathway from problem analysis to intended outcomes; it requires situation analysis, evidence-informed causal reasoning, careful focusing, and a defensible outcomes chain.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [8. Developing a Theory of Action](purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd)
+
+A theory of action explains what the program will do to activate the theory of change, including resources, activities, outputs, success criteria, assumptions, and factors that affect achievement.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [9. Representing Program Theory](purposeful-programme-theory/chapter-09-representing-program-theory.qmd)
+
+Representing program theory is a design choice: diagrams, matrices, narratives, and multiple models should be selected to fit the intervention’s causal structure, complexity, and intended use.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [10. Critiquing Program Theory](purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd)
+
+A program theory should be critiqued for clarity, plausibility, evidence, context, ethics, usefulness, and proportionality before it is used as the basis for monitoring or evaluation.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [11. Some Research-Based Theories of Change](purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd)
+
+Research-based theories of change can strengthen program theory when they are selected critically and adapted to the intervention context rather than imported mechanically.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [12. Some Common Program Archetypes](purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd)
+
+Common program archetypes help evaluators recognize recurring intervention logics, but each archetype brings different assumptions, risks, and evidence needs.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [13. Logic Models Resources](purposeful-programme-theory/chapter-13-logic-models-resources.qmd)
+
+Logic model resources and technologies can support representation, but the usefulness of a logic model depends more on conceptual clarity than on the drawing tool.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [14. Developing a Monitoring and Evaluation Plan](purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
+
+Program theory can anchor monitoring and evaluation plans by identifying what to measure, when to measure it, what comparisons are needed, and how evaluation questions connect to the expected causal pathway.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [15. Causal Inference](purposeful-programme-theory/chapter-15-causal-inference.qmd)
+
+Causal inference in program theory should be both scientific and pragmatic, combining congruence analysis, counterfactual comparisons, and critical review to assess whether the program plausibly contributed to observed outcomes.
+:::
+
+::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
+<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+
+### [16. Synthesis and Reporting](purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd)
+
+Synthesis and reporting should use program theory to integrate diverse evidence, explain causal contribution, support timely learning, and connect findings across linked evaluations.
+:::
+
+:::
+
+```{=html}
+<script src="../assets/js/notes_filter.js"></script>
+```
+
+</div>

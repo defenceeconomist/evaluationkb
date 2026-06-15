@@ -1,0 +1,74 @@
+---
+title: "7. Developing a Theory of Change"
+description: "Study note on Chapter 7 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 3: Developing and Representing Program Theory</span>
+  <span>Source PDF pages 176-225</span>
+  <span>Chapter 7</span>
+</div>
+
+This note summarises Chapter 7, "Developing a Theory of Change," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+A theory of change explains the causal pathway from problem analysis to intended outcomes; it requires situation analysis, evidence-informed causal reasoning, careful focusing, and a defensible outcomes chain.
+
+## Study Summary
+
+The chapter focuses on the change side of program theory: what problem is being addressed, what causes or contributing factors sustain it, what opportunities can be used, and what sequence of outcomes would indicate meaningful change. Situation analysis is presented as the foundation for a credible theory of change.
+
+The authors stress that causes, consequences, and opportunities should be investigated rather than assumed. Research evidence can inform which causal factors are plausible and which strategies are likely to influence them. Focusing and scoping are then needed because no program can address every cause, consequence, population, and context at once.
+
+The outcomes chain is the central device in the chapter. It connects early, intermediate, and long-term outcomes in a way that shows consequential progression rather than just listing desired results. A good outcomes chain makes the causal story inspectable and testable.
+
+## Key Concepts
+
+- Situation analysis: structured understanding of the problem, causes, consequences, and opportunities.
+- Outcomes chain: a sequence of linked outcomes showing expected progression toward longer-term change.
+- Focusing and scoping: deliberate choices about what the program will and will not address.
+- Causal plausibility: the extent to which the proposed pathway is supported by reasoning and evidence.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Features Of A Theory Of Change
+- Situation Analysis: Understanding The Problem, Its Causes, And Its Consequences
+- What a Situation Analysis Is
+- Causes, Contributing Factors, And Opportunities
+- Why a Situation Analysis Should Be Done
+- When and by Whom a Situation Analysis Should Be Done
+- Questions for Preparing a Situation Analysis
+- The Nature and Extent of the Main Problem That the Program Addresses
+- Causes and Contributing Factors
+- Consequences
+- How the Use of These Questions Might Vary with Choice of Program Theory Development Process
+- Using Research To Identify Causes And Select Strategies
+- Assessing Complication and Complexity
+- Focusing And Scoping
+
+## Practical Implications
+
+- Do not start with activities; start with the problem and causal conditions.
+- Use research and local evidence to identify leverage points.
+- Build outcomes chains that distinguish immediate outputs from meaningful changes in people, systems, or conditions.
+
+## Connections
+
+- Previous: [6. Processes to Identify or Develop a Program Theory](chapter-06-processes-to-identify-or-develop-a-program-theory.qmd)
+- Next: [8. Developing a Theory of Action](chapter-08-developing-a-theory-of-action.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about developing a theory of change?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

@@ -1,0 +1,74 @@
+---
+title: "15. Causal Inference"
+description: "Study note on Chapter 15 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 5: Using Program Theory for Monitoring and Evaluation</span>
+  <span>Source PDF pages 496-527</span>
+  <span>Chapter 15</span>
+</div>
+
+This note summarises Chapter 15, "Causal Inference," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Causal inference in program theory should be both scientific and pragmatic, combining congruence analysis, counterfactual comparisons, and critical review to assess whether the program plausibly contributed to observed outcomes.
+
+## Study Summary
+
+The chapter argues against polarized thinking about causal inference. Strong causal analysis requires rigor, but rigor does not always mean one design. Program theory helps evaluators choose and combine methods that are appropriate to the intervention, question, and available evidence.
+
+The authors organize causal analysis around congruence, counterfactual comparisons, and critical review. Congruence examines whether observed patterns match the theory across intermediate and final outcomes. Counterfactual comparisons ask what would have happened without the program. Critical review tests alternative explanations, exceptions, and weak links.
+
+The chapter is especially important for complicated and complex interventions, where single average effects may hide variation. Program theory supports disaggregation, mechanism testing, and careful explanation of why outcomes occurred for whom and under what conditions.
+
+## Key Concepts
+
+- Congruence analysis: checking whether evidence across the causal chain fits the program theory.
+- Counterfactual comparison: estimating what would have happened in the absence of the intervention.
+- Critical review: actively examining alternative explanations and exceptions.
+- Scientific pragmatism: using credible methods that fit the real evaluation problem.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- The Need To Be Scientific And Pragmatic
+- Myths About Causal Inference
+- Clarifying Terminology
+- Being Scientific
+- Being Pragmatic
+- A Framework For Causal Analysis Using Program Theory
+- Congruence
+- Comparing Achievement of Intermediate and Final Outcomes
+- Methods for Investigating Implementation and Theory Failure
+- Investigating Implementation Failure Of A Nutritional Program In Bangladesh
+- Disaggregating Results for Complicated Interventions
+- Comparing the Statistical Model and Actual Results
+- Asking Participants
+- Counterfactual Comparisons
+
+## Practical Implications
+
+- Do not treat program theory as a substitute for causal evidence; use it to structure causal tests.
+- Combine pattern evidence, comparison evidence, and alternative-explanation review.
+- Disaggregate results where the theory predicts different pathways or effects.
+
+## Connections
+
+- Previous: [14. Developing a Monitoring and Evaluation Plan](chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
+- Next: [16. Synthesis and Reporting](chapter-16-synthesis-and-reporting.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about causal inference?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

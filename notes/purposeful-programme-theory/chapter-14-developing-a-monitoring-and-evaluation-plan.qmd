@@ -1,0 +1,74 @@
+---
+title: "14. Developing a Monitoring and Evaluation Plan"
+description: "Study note on Chapter 14 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 5: Using Program Theory for Monitoring and Evaluation</span>
+  <span>Source PDF pages 444-495</span>
+  <span>Chapter 14</span>
+</div>
+
+This note summarises Chapter 14, "Developing a Monitoring and Evaluation Plan," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Program theory can anchor monitoring and evaluation plans by identifying what to measure, when to measure it, what comparisons are needed, and how evaluation questions connect to the expected causal pathway.
+
+## Study Summary
+
+This chapter shows how program theory becomes operational in performance monitoring and evaluation design. It helps decide which aspects of the situation, outcomes, success criteria, assumptions, implementation features, and causal links should be measured.
+
+The authors stress choice. A theory may contain many possible indicators, but a monitoring system must prioritize measures that are feasible, useful, and tied to decisions. Evaluation planning then uses the theory to identify timing, purposes, key questions, information needs, methods, and comparisons.
+
+The chapter also considers complicated and complex programs. In such cases, evaluation may need to examine variation across strands, sites, contexts, or emergent pathways rather than assume one uniform model. Program theory is useful when it guides these design choices rather than becoming a static appendix.
+
+## Key Concepts
+
+- Performance monitoring: routine tracking of selected aspects of implementation, context, outputs, outcomes, and assumptions.
+- Evaluation questions: focused questions that determine evidence needs and methods.
+- Comparison: a design feature used to interpret performance or causal contribution.
+- Theory-based measurement: choosing measures because they test or illuminate the program theory.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Using Program Theory For Performance Monitoring
+- Making Choices About What To Measure Within The Program Theory
+- Which Aspects of the Situation to Measure
+- Which Outcomes in the Chain of Outcomes to Measure
+- Choices Concerning Which Success Criteria to Monitor and Which to Evaluate
+- Choices Concerning Factors That Affect Success
+- Choices Concerning Aspects of Program Implementation to Measure
+- Choices Concerning Links in the Program Theory to Measure
+- Including Comparisons As Part Of The Performance Information System
+- Using Program Theory To Plan An Evaluation
+- Step 1: Timing and Purposes of an Evaluation
+- Step 2: Identifying Key Evaluation Questions
+- Step 3: Identifying Information Needed to Answer Evaluation Questions
+- Step 4: Evaluation Design and Methods of Data Collection
+
+## Practical Implications
+
+- Use the theory to decide what not to measure as well as what to measure.
+- Tie each indicator to a decision, assumption, or causal link.
+- Design evaluations that can distinguish implementation issues from weak causal theory.
+
+## Connections
+
+- Previous: [13. Logic Models Resources](chapter-13-logic-models-resources.qmd)
+- Next: [15. Causal Inference](chapter-15-causal-inference.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about developing a monitoring and evaluation plan?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

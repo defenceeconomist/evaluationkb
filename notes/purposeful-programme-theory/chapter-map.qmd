@@ -1,0 +1,51 @@
+---
+title: "Chapter Map"
+description: "Reading map for the Purposeful Program Theory chapter notes."
+toc: true
+---
+
+## Reading Sequence
+
+The notes follow the book's progression from basic concepts, through scoping and development, to representation, critique, resources, monitoring, causal inference, and reporting [@funnell_rogers_2011_purposeful_program_theory].
+
+1. [The Essence of Program Theory](chapter-01-the-essence-of-program-theory.qmd) - Part 1
+2. [Variations of Program Theory over Time](chapter-02-variations-of-program-theory-over-time.qmd) - Part 1
+3. [Common Myths and Traps](chapter-03-common-myths-and-traps.qmd) - Part 1
+4. [Scoping Intended Uses](chapter-04-scoping-intended-uses.qmd) - Part 2
+5. [The Nature of the Situation and the Intervention](chapter-05-the-nature-of-the-situation-and-the-intervention.qmd) - Part 2
+6. [Processes to Identify or Develop a Program Theory](chapter-06-processes-to-identify-or-develop-a-program-theory.qmd) - Part 3
+7. [Developing a Theory of Change](chapter-07-developing-a-theory-of-change.qmd) - Part 3
+8. [Developing a Theory of Action](chapter-08-developing-a-theory-of-action.qmd) - Part 3
+9. [Representing Program Theory](chapter-09-representing-program-theory.qmd) - Part 3
+10. [Critiquing Program Theory](chapter-10-critiquing-program-theory.qmd) - Part 3
+11. [Some Research-Based Theories of Change](chapter-11-some-research-based-theories-of-change.qmd) - Part 4
+12. [Some Common Program Archetypes](chapter-12-some-common-program-archetypes.qmd) - Part 4
+13. [Logic Models Resources](chapter-13-logic-models-resources.qmd) - Part 4
+14. [Developing a Monitoring and Evaluation Plan](chapter-14-developing-a-monitoring-and-evaluation-plan.qmd) - Part 5
+15. [Causal Inference](chapter-15-causal-inference.qmd) - Part 5
+16. [Synthesis and Reporting](chapter-16-synthesis-and-reporting.qmd) - Part 5
+
+## Knowledge Map Payload
+
+```{=html}
+<div class="notes-map-panel">
+  <p class="section-intro">The Quarto pre-render step generates a lightweight graph payload at <code>data/notes_link_graph_payload.json</code>. Render the site to refresh internal links and citation metadata.</p>
+  <ul class="notes-map-list" id="notes-map-list"></ul>
+</div>
+<script>
+fetch('../../data/notes_link_graph_payload.json')
+  .then(function (response) { return response.json(); })
+  .then(function (payload) {
+    var list = document.getElementById('notes-map-list');
+    if (!list) return;
+    payload.nodes.filter(function (node) { return node.path.indexOf('purposeful-programme-theory') !== -1; }).slice(0, 40).forEach(function (node) {
+      var links = payload.edges.filter(function (edge) { return edge.source === node.id; }).length;
+      var item = document.createElement('li');
+      item.innerHTML = '<strong>' + node.title + '</strong><small>' + node.path + ' - ' + links + ' internal link(s)</small>';
+      list.appendChild(item);
+    });
+  });
+</script>
+```
+
+## References

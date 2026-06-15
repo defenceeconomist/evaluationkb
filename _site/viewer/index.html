@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Book JSON Viewer</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Document navigation">
+        <div class="brand">
+          <div class="brand-title">Book JSON Viewer</div>
+          <div class="brand-meta" id="sourceMeta">Loading...</div>
+        </div>
+
+        <div class="panel">
+          <label class="field-label" for="searchInput">Search text</label>
+          <input id="searchInput" class="input" type="search" placeholder="Find in extracted text">
+          <div class="search-actions">
+            <button id="prevMatchBtn" class="icon-button" type="button" title="Previous match" aria-label="Previous match">&uarr;</button>
+            <button id="nextMatchBtn" class="icon-button" type="button" title="Next match" aria-label="Next match">&darr;</button>
+            <span id="matchCount" class="muted">0 matches</span>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-heading">Elements</div>
+          <div class="filter-grid" id="typeFilters"></div>
+        </div>
+
+        <div class="panel qa-panel">
+          <div class="panel-heading">Review</div>
+          <div class="qa-tabs" id="qaTabs">
+            <button type="button" class="qa-tab active" data-kind="all">All</button>
+            <button type="button" class="qa-tab" data-kind="figure">Figures</button>
+            <button type="button" class="qa-tab" data-kind="box">Boxes</button>
+            <button type="button" class="qa-tab" data-kind="table">Tables</button>
+          </div>
+          <div id="qaNavList" class="qa-nav-list"></div>
+        </div>
+
+        <div class="panel toc-panel">
+          <div class="panel-heading">Contents</div>
+          <div id="tocList" class="toc-list"></div>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="toolbar">
+          <div class="page-controls">
+            <button id="firstPageBtn" class="icon-button" type="button" title="First page" aria-label="First page">&laquo;</button>
+            <button id="prevPageBtn" class="icon-button" type="button" title="Previous page" aria-label="Previous page">&lsaquo;</button>
+            <label class="page-jump" for="pageInput">
+              <span>Page</span>
+              <input id="pageInput" class="page-input" type="number" min="1" value="1">
+              <span id="pageTotal">/ 0</span>
+            </label>
+            <button id="nextPageBtn" class="icon-button" type="button" title="Next page" aria-label="Next page">&rsaquo;</button>
+            <button id="lastPageBtn" class="icon-button" type="button" title="Last page" aria-label="Last page">&raquo;</button>
+          </div>
+
+          <div class="view-controls">
+            <label class="view-select" for="viewModeSelect">
+              <span>View</span>
+              <select id="viewModeSelect">
+                <option value="layout">Layout QA</option>
+                <option value="readable">Readable Text</option>
+              </select>
+            </label>
+            <label class="view-select" for="layerModeSelect">
+              <span>Layer</span>
+              <select id="layerModeSelect">
+                <option value="combined">Combined</option>
+                <option value="images">Images only</option>
+                <option value="text">Text only</option>
+              </select>
+            </label>
+            <label class="toggle">
+              <input id="hideFilterableToggle" type="checkbox">
+              <span>Hide filterable</span>
+            </label>
+            <label class="toggle">
+              <input id="showOverflowToggle" type="checkbox" checked>
+              <span>Overflow</span>
+            </label>
+            <label class="toggle">
+              <input id="showBoxesToggle" type="checkbox" checked>
+              <span>Boxes</span>
+            </label>
+            <label class="toggle">
+              <input id="showImagesToggle" type="checkbox" checked>
+              <span>Images</span>
+            </label>
+            <label class="zoom-control" for="zoomSlider">
+              <span>Zoom</span>
+              <input id="zoomSlider" type="range" min="60" max="180" step="10" value="100">
+              <output id="zoomOutput">100%</output>
+            </label>
+          </div>
+        </header>
+
+        <section class="status-row" aria-live="polite">
+          <div id="pageStats">No page loaded</div>
+          <div id="selectionSummary">No element selected</div>
+        </section>
+
+        <section class="content-area">
+          <div class="page-stage" id="pageStage">
+            <div class="page-surface" id="pageSurface"></div>
+          </div>
+          <aside class="inspector" aria-label="Selected element details">
+            <div class="panel-heading">Inspector</div>
+            <div id="elementInspector" class="json-view">Select an element.</div>
+          </aside>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

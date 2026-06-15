@@ -1,0 +1,832 @@
+{
+  "nodes": [
+    {
+      "id": "notes/index.qmd",
+      "title": "Notes",
+      "path": "notes/index.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "title": "1. The Essence of Program Theory",
+      "path": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "title": "2. Variations of Program Theory over Time",
+      "path": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "title": "3. Common Myths and Traps",
+      "path": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "title": "4. Scoping Intended Uses",
+      "path": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "title": "5. The Nature of the Situation and the Intervention",
+      "path": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "title": "6. Processes to Identify or Develop a Program Theory",
+      "path": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "title": "7. Developing a Theory of Change",
+      "path": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "title": "8. Developing a Theory of Action",
+      "path": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "title": "9. Representing Program Theory",
+      "path": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "title": "10. Critiquing Program Theory",
+      "path": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "title": "11. Some Research-Based Theories of Change",
+      "path": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "title": "12. Some Common Program Archetypes",
+      "path": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "title": "13. Logic Models Resources",
+      "path": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "title": "14. Developing a Monitoring and Evaluation Plan",
+      "path": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "title": "15. Causal Inference",
+      "path": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "title": "16. Synthesis and Reporting",
+      "path": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "title": "Chapter Map",
+      "path": "notes/purposeful-programme-theory/chapter-map.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/concepts.qmd",
+      "title": "Core Concepts in Purposeful Program Theory",
+      "path": "notes/purposeful-programme-theory/concepts.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "title": "Evaluation Practice Implications",
+      "path": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd"
+    },
+    {
+      "id": "notes/purposeful-programme-theory/index.qmd",
+      "title": "Purposeful Program Theory",
+      "path": "notes/purposeful-programme-theory/index.qmd"
+    }
+  ],
+  "edges": [
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "type": "internal-link"
+    }
+  ],
+  "citations": [
+    {
+      "source": "notes/index.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/chapter-map.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/concepts.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/purposeful-programme-theory/index.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    }
+  ]
+}

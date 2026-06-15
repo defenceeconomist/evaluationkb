@@ -1,0 +1,42 @@
+---
+title: "Core Concepts in Purposeful Program Theory"
+description: "Synthesis note on recurring concepts across Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+This synthesis draws across the chapter notes for Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory].
+
+## Program Theory
+
+Program theory is the explicit account of how an intervention is expected to contribute to change. Across the book, it functions as a bridge between design, implementation, monitoring, evaluation, causal inference, and reporting. The recurring discipline is to make assumptions visible enough that they can be discussed, tested, revised, and used.
+
+## Theory of Change and Theory of Action
+
+The book separates the theory of change from the theory of action. The theory of change explains the causal pathway from problem conditions to intended outcomes. The theory of action explains what the program does to activate that pathway: resources, activities, outputs, success criteria, implementation conditions, and assumptions about factors inside and outside the program's control.
+
+This distinction matters because a program may have a plausible desired change pathway but weak activities, or strong activities that do not address the causal factors identified in the situation analysis. The two theories need to be checked against each other.
+
+## Logic Models and Representation
+
+Logic models are representations of program theory, not the theory itself. Pipeline models, outcomes chains, realist matrices, narratives, and systems-informed diagrams each foreground different features. The right representation depends on intended use, intervention complexity, and audience.
+
+A good representation explains contribution, makes links meaningful, avoids dead ends, shows direction of change, and removes detail that does not help interpretation.
+
+## Assumptions and Context
+
+Assumptions appear throughout the book as testable claims about how change happens, what context permits, and what factors affect success. Program theory is strongest when assumptions are explicit enough to guide evidence collection and humble enough to be revised.
+
+## Causal Inference
+
+Program theory supports causal inference by organizing congruence analysis, counterfactual comparison, and critical review. It does not replace causal evidence; it makes causal claims more inspectable by showing what patterns should be observed if the theory is operating.
+
+## Links
+
+- [Chapter 1: The Essence of Program Theory](chapter-01-the-essence-of-program-theory.qmd)
+- [Chapter 7: Developing a Theory of Change](chapter-07-developing-a-theory-of-change.qmd)
+- [Chapter 8: Developing a Theory of Action](chapter-08-developing-a-theory-of-action.qmd)
+- [Chapter 9: Representing Program Theory](chapter-09-representing-program-theory.qmd)
+- [Chapter 15: Causal Inference](chapter-15-causal-inference.qmd)
+
+## References

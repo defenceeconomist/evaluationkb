@@ -1,0 +1,74 @@
+---
+title: "6. Processes to Identify or Develop a Program Theory"
+description: "Study note on Chapter 6 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 3: Developing and Representing Program Theory</span>
+  <span>Source PDF pages 122-175</span>
+  <span>Chapter 6</span>
+</div>
+
+This note summarises Chapter 6, "Processes to Identify or Develop a Program Theory," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Developing a program theory is a methodological choice, not just a workshop activity; evaluators must decide who participates, what evidence informs the theory, how conflict is handled, how much resource to invest, and when to revisit the theory.
+
+## Study Summary
+
+This long chapter sets out process options for identifying or developing program theory. It contrasts staff-led, evaluator-facilitated, stakeholder-engaged, deductive, inductive, and mental-model approaches, arguing that the right mix depends on purpose, context, evidence availability, and stakeholder politics.
+
+The authors give detailed attention to workshops and interviews, but they treat these as tools within a broader design. Workshops can surface divergent theories, build ownership, and negotiate shared models; they can also suppress disagreement if poorly facilitated. Interviews and document review may be better when perspectives are sensitive or dispersed.
+
+The chapter is also realistic about challenges: conflicting program theories, little research evidence, reluctance to disclose assumptions, weak engagement, and limited resources. The response is not to avoid theory development but to make trade-offs explicit and revisit the theory as evidence and circumstances change.
+
+## Key Concepts
+
+- Mental models: implicit stakeholder beliefs about how the program works.
+- Deductive development: building from formal theory, prior research, or established causal knowledge.
+- Inductive development: building from observations, cases, data, and practice experience.
+- Relative program theory: a theory that is fit for a purpose and moment rather than final for all uses.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Process Options For Developing Program Theory
+- Decision 1: Who Should Be Involved In Developing A Program Theory, And How?
+- Development of Program Theories by Staff, Funders, and Others
+- Facilitation or Development by Program Theorists and Evaluators
+- Decisions About Other Stakeholders to Involve
+- Decision 2: What Is An Appropriate Mix Of Approaches For Developing Or Eliciting The Program Theory?
+- Articulating Stakeholder Mental Models
+- Deductive Development
+- Inductive Development
+- Choosing an Approach: Articulating Mental Models, Deductive Approaches, or Inductive Approaches?
+- An Iterative Process Combining All Three Approaches To Program Theory Building
+- Implications of Choice of Approach for Who Should Be Involved
+- Decision 3: How Might Workshops And Interviews Be Used In Developing Program Theory?
+- Workshop Processes
+
+## Practical Implications
+
+- Design the theory-development process as carefully as the representation.
+- Combine stakeholder knowledge, research evidence, and empirical observation where possible.
+- Document disagreements and uncertainty instead of forcing premature consensus.
+
+## Connections
+
+- Previous: [5. The Nature of the Situation and the Intervention](chapter-05-the-nature-of-the-situation-and-the-intervention.qmd)
+- Next: [7. Developing a Theory of Change](chapter-07-developing-a-theory-of-change.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about processes to identify or develop a program theory?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

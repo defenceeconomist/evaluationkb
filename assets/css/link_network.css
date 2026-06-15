@@ -1,0 +1,19 @@
+.notes-map-panel {
+  border: 1px solid var(--ekb-line, #d9dfeb);
+  border-radius: 0.5rem;
+  background: #fff;
+  padding: 1rem;
+}
+.notes-map-list {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0;
+  padding: 0;
+}
+.notes-map-list li {
+  border-bottom: 1px solid var(--ekb-line, #d9dfeb);
+  list-style: none;
+  padding: 0 0 0.65rem;
+}
+.notes-map-list li:last-child { border-bottom: 0; padding-bottom: 0; }
+.notes-map-list small { color: var(--ekb-muted, #5d6678); display: block; }

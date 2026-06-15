@@ -1,0 +1,74 @@
+---
+title: "5. The Nature of the Situation and the Intervention"
+description: "Study note on Chapter 5 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 2: Assessing Your Circumstances</span>
+  <span>Source PDF pages 96-121</span>
+  <span>Chapter 5</span>
+</div>
+
+This note summarises Chapter 5, "The Nature of the Situation and the Intervention," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+The nature of the intervention and its setting should shape the program theory; simple, complicated, and complex situations require different assumptions about focus, governance, consistency, necessity, sufficiency, and change trajectories.
+
+## Study Summary
+
+The chapter introduces distinctions among simple, complicated, and complex interventions. Simple situations have relatively direct and stable pathways. Complicated situations involve multiple components, actors, sites, or technical dependencies. Complex situations involve adaptation, emergence, feedback, and context-sensitive pathways.
+
+The authors use these distinctions to warn against forcing every intervention into a linear model. A program theory may need to show multiple strands, variable implementation, different causal mechanisms in different settings, or pathways that emerge through learning. Governance and consistency also matter because centrally controlled programs differ from networked or locally adapted interventions.
+
+The chapter’s practical value is diagnostic. Before choosing a representation or evaluation design, evaluators should ask what kind of intervention they are dealing with and what type of causal claim is reasonable.
+
+## Key Concepts
+
+- Simple, complicated, complex: a continuum for thinking about intervention structure and causal predictability.
+- Necessariness and sufficiency: whether a component is required for success and whether it can generate success on its own.
+- Change trajectory: the expected pattern and timing of change.
+- Governance and consistency: how control, variation, and adaptation affect the theory.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Simple, Complicated, And Complex
+- Conceptualizing Simple, Complicated, and Complex
+- Implications for Program Theory
+- Focus
+- Simple
+- Complicated
+- Complex
+- Governance
+- Consistency
+- Necessariness
+- Sufficiency
+- Change Trajectory
+- Summary
+- Exercise
+
+## Practical Implications
+
+- Do not use a single linear chain when the intervention has interacting strands or adaptive pathways.
+- Use context and governance analysis to decide how general the theory can be.
+- Treat complexity as a design issue for monitoring and evaluation, not an excuse for vagueness.
+
+## Connections
+
+- Previous: [4. Scoping Intended Uses](chapter-04-scoping-intended-uses.qmd)
+- Next: [6. Processes to Identify or Develop a Program Theory](chapter-06-processes-to-identify-or-develop-a-program-theory.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about the nature of the situation and the intervention?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

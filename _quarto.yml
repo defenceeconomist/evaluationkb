@@ -1,0 +1,101 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - notes/index.qmd
+    - notes/**/*.qmd
+  pre-render:
+    - python3 scripts/extract_link_graph.py --output data/notes_link_graph_payload.json --include-prefix notes/
+  resources:
+    - data/notes_link_graph_payload.json
+    - book_extracted.json
+    - references.bib
+    - assets/**
+    - viewer/**
+
+website:
+  title: "Evaluation Knowledge Base"
+  page-footer:
+    center: "[defenceeconomist.github.io](https://defenceeconomist.github.io)"
+  navbar:
+    left:
+      - href: notes/index.qmd
+        text: Notes
+      - href: notes/purposeful-programme-theory/index.qmd
+        text: Purposeful Program Theory
+    right:
+      - icon: github
+        href: https://github.com/defenceeconomist/evaluation-kb
+        aria-label: GitHub repository
+  sidebar:
+    - id: notes
+      title: "Notes"
+      style: docked
+      search: true
+      collapse-level: 1
+      contents:
+        - href: notes/index.qmd
+          text: Notes Overview
+        - section: "Purposeful Program Theory"
+          href: notes/purposeful-programme-theory/index.qmd
+          contents:
+            - href: notes/purposeful-programme-theory/concepts.qmd
+              text: Core Concepts
+            - href: notes/purposeful-programme-theory/chapter-map.qmd
+              text: Chapter Map
+            - href: notes/purposeful-programme-theory/evaluation-practice-implications.qmd
+              text: Practice Implications
+        - section: "Part 1: Key Ideas"
+          contents:
+            - href: notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd
+              text: "1. The Essence of Program Theory"
+            - href: notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd
+              text: "2. Variations Over Time"
+            - href: notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd
+              text: "3. Common Myths and Traps"
+        - section: "Part 2: Assessing Circumstances"
+          contents:
+            - href: notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd
+              text: "4. Scoping Intended Uses"
+            - href: notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd
+              text: "5. Situation and Intervention"
+        - section: "Part 3: Developing and Representing"
+          contents:
+            - href: notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd
+              text: "6. Development Processes"
+            - href: notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd
+              text: "7. Theory of Change"
+            - href: notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd
+              text: "8. Theory of Action"
+            - href: notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd
+              text: "9. Representation"
+            - href: notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd
+              text: "10. Critique"
+        - section: "Part 4: Resources"
+          contents:
+            - href: notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd
+              text: "11. Research-Based Theories"
+            - href: notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd
+              text: "12. Program Archetypes"
+            - href: notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd
+              text: "13. Logic Model Resources"
+        - section: "Part 5: Monitoring and Evaluation"
+          contents:
+            - href: notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd
+              text: "14. M&E Plan"
+            - href: notes/purposeful-programme-theory/chapter-15-causal-inference.qmd
+              text: "15. Causal Inference"
+            - href: notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd
+              text: "16. Synthesis and Reporting"
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - assets/css/site.css
+      - assets/css/link_network.css
+    toc: true
+    toc-depth: 3
+
+bibliography: references.bib

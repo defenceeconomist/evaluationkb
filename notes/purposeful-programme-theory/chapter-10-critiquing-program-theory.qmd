@@ -1,0 +1,74 @@
+---
+title: "10. Critiquing Program Theory"
+description: "Study note on Chapter 10 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 3: Developing and Representing Program Theory</span>
+  <span>Source PDF pages 320-345</span>
+  <span>Chapter 10</span>
+</div>
+
+This note summarises Chapter 10, "Critiquing Program Theory," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+A program theory should be critiqued for clarity, plausibility, evidence, context, ethics, usefulness, and proportionality before it is used as the basis for monitoring or evaluation.
+
+## Study Summary
+
+The chapter provides criteria for reviewing program theory. Internal criteria examine whether the description is clear, whether the outcomes chain organizes the theory, whether outcomes address the problem, whether mechanisms are articulated, and whether the logical argument is plausible.
+
+External validation asks whether the theory is supported by research, consistent with accepted theories, attentive to context, ethically defensible, and appropriate for its intended use. This turns program theory into an evaluand: something that can itself be assessed and improved.
+
+The authors also emphasize stakeholder engagement and response. A critique is valuable only if its results inform revision, evaluation design, or decisions about whether the theory is good enough for the intended purpose.
+
+## Key Concepts
+
+- Internal critique: assessment of coherence, clarity, and logical structure.
+- External validation: assessment against evidence, accepted theory, context, ethics, and use.
+- Mechanism articulation: explaining how activities or conditions produce change.
+- Fitness for purpose: whether the theory is worth its cost for the intended use.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Clarity of Description
+- The Outcomes Chain as the Central Organizing Principle for the Program Theory
+- Demonstration of How the Desired Outcomes Relate to Addressing the Problem
+- The Strength and Plausibility of the Logical Argument
+- Articulation of Mechanisms for Change
+- Criteria For External Validation
+- Evidence Base for the Program Theory
+- Consistency with Accepted Theories
+- Whether the Program Theory Incorporates Consideration of Its Context
+- The Ethical Base for the Program Theory
+- The Intended Use of the Program Theory
+- Was It Worth the Time, Effort, and Resources Given the Purposes?
+- Engaging Stakeholders In The Review
+- Responding To The Results Of A Review Of A Program Theory
+
+## Practical Implications
+
+- Review program theory before locking in indicators and methods.
+- Use critique to prioritize evidence gaps and assumptions to test.
+- Involve stakeholders in judging plausibility, context, and ethical acceptability.
+
+## Connections
+
+- Previous: [9. Representing Program Theory](chapter-09-representing-program-theory.qmd)
+- Next: [11. Some Research-Based Theories of Change](chapter-11-some-research-based-theories-of-change.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about critiquing program theory?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

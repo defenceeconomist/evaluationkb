@@ -1,0 +1,58 @@
+---
+title: "Evaluation Knowledge Base"
+page-layout: full
+toc: false
+---
+
+<div class="landing-stack">
+
+::: {.hero-panel}
+<span class="hero-eyebrow">Evaluation study notes</span>
+
+# Evaluation Knowledge Base
+
+A Quarto knowledge base for detailed, source-grounded notes on evaluation books and guidance. The first collection covers Funnell and Rogers' *Purposeful Program Theory* and is structured for adding further books later.
+
+::: {.cta-row}
+[Open Notes](notes/index.qmd){.cta-button}
+[Purposeful Program Theory](notes/purposeful-programme-theory/index.qmd){.cta-button .secondary}
+[Core Concepts](notes/purposeful-programme-theory/concepts.qmd){.cta-button .secondary}
+[Export BibTeX](references.bib){.cta-button .secondary}
+:::
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Purposeful Program Theory](notes/purposeful-programme-theory/index.qmd)
+
+Read chapter-by-chapter study notes on theories of change, logic models, and theory-based monitoring and evaluation.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](notes/purposeful-programme-theory/concepts.qmd)
+
+Review the recurring concepts that connect the chapters: theory of change, theory of action, logic models, assumptions, and causal inference.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Knowledge map</span>
+
+### [Chapter Map](notes/purposeful-programme-theory/chapter-map.qmd)
+
+See the reading sequence and how chapter notes connect across the book.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Evaluation Practice Implications](notes/purposeful-programme-theory/evaluation-practice-implications.qmd)
+
+Translate the book's arguments into practical evaluation design habits.
+:::
+:::
+
+</div>

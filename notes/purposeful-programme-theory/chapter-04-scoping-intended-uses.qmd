@@ -1,0 +1,71 @@
+---
+title: "4. Scoping Intended Uses"
+description: "Study note on Chapter 4 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 2: Assessing Your Circumstances</span>
+  <span>Source PDF pages 82-95</span>
+  <span>Chapter 4</span>
+</div>
+
+This note summarises Chapter 4, "Scoping Intended Uses," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+A program theory should be scoped around intended users, uses, and timing; the same intervention can need different theories for planning, communication, management, monitoring, evaluation, or evidence-informed policy.
+
+## Study Summary
+
+This chapter shifts attention from what a program theory contains to what it is for. A theory intended for early design and stakeholder alignment may need different detail from one used for performance monitoring, impact evaluation, or synthesis across programs.
+
+The authors emphasize users as well as uses. Funders, managers, delivery staff, partners, participants, evaluators, and policymakers may need different representations and may also bring different knowledge about how the intervention is expected to work. Timing matters because a theory built before implementation supports design choices, while a theory reconstructed later supports evaluation and learning from what actually happened.
+
+The chapter presents program theory as a flexible tool across the program cycle. Its usefulness depends on making the intended use explicit before deciding who participates, what evidence is needed, how detailed the model should be, and how formal the representation needs to become.
+
+## Key Concepts
+
+- Intended users: people who will directly use the program theory or evaluation findings.
+- Intended uses: the decisions, actions, or learning processes the theory should support.
+- Timing: the point in the program cycle when the theory is developed or revised.
+- Use-sensitive design: tailoring theory development and representation to practical use.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Why Intended Use Matters
+- Considering Intended Users
+- Considering Timing
+- Considering Intended and Other Possible Uses
+- Using Program Theory
+- Using Program Theory for Planning
+- Using Program Theory for Managing, Engaging Stakeholders, and Communicating
+- Using Program Theory for Monitoring and Evaluation
+- Using Program Theory for Evidence-Based Policy and Practice
+- Summary
+- Exercises
+
+## Practical Implications
+
+- Begin each program theory task with a use case, not a template.
+- Identify who must understand, own, challenge, or apply the theory.
+- Revise the theory when the program moves from design to implementation to evaluation.
+
+## Connections
+
+- Previous: [3. Common Myths and Traps](chapter-03-common-myths-and-traps.qmd)
+- Next: [5. The Nature of the Situation and the Intervention](chapter-05-the-nature-of-the-situation-and-the-intervention.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about scoping intended uses?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

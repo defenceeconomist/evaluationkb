@@ -1,0 +1,74 @@
+---
+title: "11. Some Research-Based Theories of Change"
+description: "Study note on Chapter 11 of Funnell and Rogers' Purposeful Program Theory."
+---
+
+## Source
+
+<div class="chapter-meta">
+  <span>Part 4: Resources for Developing Program Theory</span>
+  <span>Source PDF pages 346-377</span>
+  <span>Chapter 11</span>
+</div>
+
+This note summarises Chapter 11, "Some Research-Based Theories of Change," from Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory]. It is a paraphrased study note based on the extracted source text, not a substitute for the chapter.
+
+## Core Argument
+
+Research-based theories of change can strengthen program theory when they are selected critically and adapted to the intervention context rather than imported mechanically.
+
+## Study Summary
+
+This chapter introduces several families of research-based theory, including reasoned action and planned behavior, stages of change, empowerment, diffusion, socioecological theory, and network theory. Each offers concepts that can help explain how change might occur.
+
+The authors do not present these theories as universal templates. Each has limits, assumptions, and domains of usefulness. The task is to use research-based theory to sharpen causal reasoning, identify intermediate outcomes, and choose measures, while still checking whether the theory fits the specific program and context.
+
+The chapter is especially useful as a bridge between general social science and practical evaluation. It shows how evaluators can use established theory to avoid purely local speculation without losing attention to implementation realities.
+
+## Key Concepts
+
+- Research-based theory: formal or empirical theory that can inform causal assumptions in a program theory.
+- Diffusion: the spread of ideas or practices through populations, networks, or systems.
+- Socioecological theory: attention to multiple levels of influence, from individual to institutional and environmental.
+- Theory selection: choosing concepts because they explain the intervention, not because they are familiar.
+
+## Chapter Structure
+
+The extracted chapter headings emphasize these topics:
+
+- Theory Of Reasoned Action And Theory Of Planned Behavior
+- Some Theory Limitations
+- Relevance to Building a Program Theory and Measuring Outcomes
+- Stages Of Change Theory
+- Some Limitations
+- Empowerment Theory
+- Diffusion Theory
+- Key Concepts and Related Theories
+- Relevance for Building a Program Theory and Measuring Outcomes
+- Socioecological Theory
+- Network Theory
+- Selecting And Using Theories Of Change
+- Summary
+- Exercises
+
+## Practical Implications
+
+- Use formal theory to identify mechanisms, assumptions, and intermediate outcomes.
+- State the limitations of imported theory and adapt it to context.
+- Avoid mixing theories without explaining how their mechanisms relate.
+
+## Connections
+
+- Previous: [10. Critiquing Program Theory](chapter-10-critiquing-program-theory.qmd)
+- Next: [12. Some Common Program Archetypes](chapter-12-some-common-program-archetypes.qmd)
+- Related synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Evaluation Practice Implications](evaluation-practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the chapter's main claim about some research-based theories of change?
+2. Which assumptions would need evidence before using this idea in an evaluation design?
+3. How would the chapter change the way an evaluator scopes indicators, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
