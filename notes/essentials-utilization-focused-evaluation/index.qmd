@@ -1,0 +1,75 @@
+---
+title: "Essentials of Utilization-Focused Evaluation"
+description: "Book overview and study-note index for Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Essentials of Utilization-Focused Evaluation
+
+Study notes on *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>2012</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Utilization-focused evaluation judges design quality by whether intended users can and will use the process and findings.
+
+## Major-Section Notes
+
+- [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd) - source pages 27-28
+- [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd) - source pages 36-37
+- [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd) - source pages 288-289
+
+## References

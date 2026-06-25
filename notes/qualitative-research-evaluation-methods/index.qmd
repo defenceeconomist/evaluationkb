@@ -1,0 +1,75 @@
+---
+title: "Qualitative Research & Evaluation Methods"
+description: "Book overview and study-note index for Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Qualitative Research & Evaluation Methods
+
+Study notes on *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>2015</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for Michael Quinn Patton's *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Qualitative inquiry is strongest when it is systematic, open to field realities, and connected to practical questions users need answered.
+
+## Major-Section Notes
+
+- [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd) - source pages 140-141
+- [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd) - source pages 269-270
+- [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd) - source pages 314-316
+
+## References

@@ -1,0 +1,93 @@
+---
+title: "Chapter 09: Eclectic Evaluation Approaches"
+description: "Detailed study notes for Chapter 9 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+part: "Part Two: An Evaluation of Evaluation Approaches and Models"
+source_pages: "247-261"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:approach-22-utilization-focused-evaluation:c0002"
+  - "chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0014"
+  - "chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0015"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 9</span><span>Source pages 247-261</span></div>
+
+This note summarises Chapter 9, "Eclectic Evaluation Approaches," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:approach-22-utilization-focused-evaluation:c0002`
+- `chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0014`
+- `chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0015`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Eclectic approaches deliberately borrow from multiple evaluation traditions to serve users and contexts, but they must still meet standards for sound evaluation.
+
+## Study Summary
+
+Chapter 9 focuses on utilization-focused evaluation and participatory evaluation as eclectic approaches. They do not fit cleanly into quasi-evaluation, improvement-accountability, or social agenda categories because they select concepts and methods according to user needs.
+
+Utilization-focused evaluation is organized around intended users and intended uses. The evaluator works with primary users to focus questions, select methods, interpret evidence, and support use. The chapter treats this as powerful but dependent on user commitment and evaluator skill.
+
+Participatory evaluation also involves stakeholders, but it is less restricted to a predefined group of intended users. It can build ownership and capacity, while raising questions about independence, representativeness, and control over judgments.
+
+The authors' standard-based frame remains in place. Eclecticism is not permission to improvise without discipline. It is defensible only when the selected combination of methods, roles, and values can be justified against utility, feasibility, propriety, accuracy, and accountability.
+
+For close reading, track how the chapter uses eclectic evaluation, utilization-focused evaluation, intended users, and intended use while moving through definition of eclectic approaches, utilization-focused evaluation, and participatory evaluation. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's standards-based assessment of evaluation approaches. Its classifications and ratings are their judgments about how well each approach supports defensible evaluation, not a neutral consensus ranking of the whole field.
+
+## Key Concepts
+
+- eclectic evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- utilization-focused evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- intended users: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- intended use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- participatory evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- stakeholder ownership: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation standards: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definition of eclectic approaches.
+- Utilization-focused evaluation.
+- Participatory evaluation.
+- Strengths and limitations.
+- Review prompts.
+
+## Practical Implications
+
+- Identify intended users before choosing a utilization-focused design.
+- Do not let participation obscure who is accountable for quality.
+- Explain why the selected mix of methods and roles fits the evaluation purpose.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Social Agenda and Advocacy Evaluation Approaches](chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd)
+- Next: [Chapter 10: Best Approaches for Twenty-first-century Evaluations](chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 9 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 9, pages 247-261.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

@@ -1,0 +1,62 @@
+---
+title: "Planning and Designing Useful Evaluations"
+description: "Study note on Planning and Designing Useful Evaluations in Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "49-51"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 49-51</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Planning and Designing Useful Evaluations" from Kathryn E. Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The chapter emphasizes that evaluation should improve programs as well as support accountability.
+
+## Study Summary
+
+The chapter emphasizes that evaluation should improve programs as well as support accountability.
+
+A study that produces defensible findings but no improvement leverage may not be worth its cost.
+
+The evaluator's practical task is to help managers and funders get credible information for decisions they actually face.
+
+## Key Concepts
+
+- Usefulness
+- Accountability
+- Program improvement
+- Decision support
+
+## Source Location
+
+- Section path: Part 1: Evaluation Planning and Design > Chapter 1: Planning and Designing Useful Evaluations
+- Evidence records: `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003`
+
+## Practical Implications
+
+- Ask what decision the evaluation will inform before choosing the design.
+- Include improvement questions alongside accountability questions where appropriate.
+- Report findings in ways managers can use.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Planning and Designing Useful Evaluations helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

@@ -1,0 +1,75 @@
+---
+title: "Impact Evaluation in Practice"
+description: "Book overview and study-note index for Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Impact Evaluation in Practice
+
+Study notes on *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>2016</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for Paul J. Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Impact evaluation estimates causal effects by turning policy questions into testable designs with credible counterfactuals.
+
+## Major-Section Notes
+
+- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd) - source pages 37
+- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd) - source pages 62
+- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd) - source pages 77-78
+
+## References

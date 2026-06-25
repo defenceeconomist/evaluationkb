@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Qualitative Research & Evaluation Methods"
+description: "Synthesis note on recurring concepts in Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods].
+
+## Central Logic
+
+Qualitative inquiry is strongest when it is systematic, open to field realities, and connected to practical questions users need answered.
+
+## Concepts
+
+- Qualitative inquiry: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Strategic qualitative principles: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Utilization-focused inquiry: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Case study: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Implementation and process evidence: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Theory of change clarification: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## References

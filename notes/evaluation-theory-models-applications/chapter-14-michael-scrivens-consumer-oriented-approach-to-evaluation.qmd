@@ -1,0 +1,97 @@
+---
+title: "Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation"
+description: "Detailed study notes for Chapter 14 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 14
+part: "Part Three: Explication of Selected Evaluation Approaches"
+source_pages: "377-405"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001"
+  - "chunk:evaluation-theory-models-applications:overview-of-scriven-s-contributions-to-evaluation:c0001"
+  - "chunk:evaluation-theory-models-applications:formative-and-summative-evaluation:c0002"
+  - "chunk:evaluation-theory-models-applications:scriven-s-look-to-evaluation-s-future:c0007"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 14</span><span>Source pages 377-405</span></div>
+
+This note summarises Chapter 14, "Michael Scriven's Consumer-oriented Approach to Evaluation," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001`
+- `chunk:evaluation-theory-models-applications:overview-of-scriven-s-contributions-to-evaluation:c0001`
+- `chunk:evaluation-theory-models-applications:formative-and-summative-evaluation:c0002`
+- `chunk:evaluation-theory-models-applications:scriven-s-look-to-evaluation-s-future:c0007`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Scriven's consumer-oriented approach asks evaluators to act as independent value judges on behalf of consumers and public welfare.
+
+## Study Summary
+
+Chapter 14 reviews Scriven's extensive contributions to evaluation. The authors emphasize his insistence that evaluation is fundamentally about judging value, not merely documenting objective attainment or producing value-free social science.
+
+Consumer orientation means evaluating programs, services, or products in relation to consumer needs, alternatives, costs, and wider social significance. The evaluator is expected to function as an informed surrogate consumer with strong ethical responsibility.
+
+The chapter covers formative and summative evaluation, goal-free evaluation, scoring, ranking, grading, apportioning, causal reasoning, and the Key Evaluation Checklist. These tools support Scriven's broader effort to make evaluation a disciplined transdiscipline.
+
+Scriven's approach contrasts sharply with responsive or utilization-focused traditions. It places more weight on independent judgment and defensible criteria, while still recognizing that formative evaluation can improve what will later be judged summatively.
+
+For close reading, track how the chapter uses consumer-oriented evaluation, surrogate consumer, formative evaluation, and summative evaluation while moving through Scriven's orientation, critique of objectives-based evaluation, and formative and summative roles. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Three, this chapter turns a named approach into a design option. The issue for study is not whether the model has a memorable label, but which evaluation tasks it handles well, what ethical stance it implies, and where it needs supplementation by standards, mixed methods, or metaevaluation.
+
+## Key Concepts
+
+- consumer-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- surrogate consumer: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- formative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- summative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- goal-free evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- Key Evaluation Checklist: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- transdiscipline: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- value judgment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Scriven's orientation.
+- Critique of objectives-based evaluation.
+- Formative and summative roles.
+- Goal-free evaluation.
+- Key concepts and tools.
+- Future of evaluation.
+
+## Practical Implications
+
+- Ask whose needs and alternatives define consumer value.
+- Protect evaluator independence when a summative judgment is required.
+- Use goal-free inquiry to search for unintended effects and missed criteria.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation](chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd)
+- Next: [Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach](chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 14 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 14, pages 377-405.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

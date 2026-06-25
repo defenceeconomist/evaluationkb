@@ -1,0 +1,99 @@
+---
+title: "Evaluation Theory, Models, and Applications Chapter Map"
+description: "Full reading map for Evaluation Theory, Models, and Applications chapter notes."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001"
+  - "chunk:evaluation-theory-models-applications:ch02-chapter-2-evaluation-theory:c0001"
+  - "chunk:evaluation-theory-models-applications:ch03-chapter-3-standards-for-program-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch04-chapter-4-background-for-assessing-evaluation-approaches:c0001"
+  - "chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001"
+  - "chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001"
+  - "chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003"
+  - "chunk:evaluation-theory-models-applications:approach-22-utilization-focused-evaluation:c0002"
+  - "chunk:evaluation-theory-models-applications:ch10-chapter-10-best-approaches-for-twenty-first-century-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:chapter-overview:c0001"
+  - "chunk:evaluation-theory-models-applications:ch12-chapter-12-case-study-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001"
+  - "chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001"
+  - "chunk:evaluation-theory-models-applications:ch15-chapter-15-robert-stake-s-responsive-or-stakeholder-centered-evaluation-approach:c0002"
+  - "chunk:evaluation-theory-models-applications:ch16-chapter-16-michael-patton-s-utilization-focused-evaluation:c0003"
+  - "chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0001"
+  - "chunk:evaluation-theory-models-applications:ch18-chapter-18-first-steps-in-addressing-evaluation-opportunities:c0001"
+  - "chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch20-chapter-20-budgeting-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch22-chapter-22-collecting-evaluative-information:c0001"
+  - "chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0001"
+  - "chunk:evaluation-theory-models-applications:ch24-chapter-24-communicating-evaluation-findings:c0001"
+  - "chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch26-chapter-26-institutionalizing-and-mainstreaming-evaluation:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+This map uses selected MCP research-library sections from *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications].
+
+## Reading Route
+
+### Part One: Fundamentals of Evaluation
+
+- [Chapter 1: Overview of the Evaluation Field](chapter-01-overview-of-the-evaluation-field.qmd) - pages 39-79; `Part One: Fundamentals of Evaluation > Chapter 1: Overview of the Evaluation Field`
+- [Chapter 2: Evaluation Theory](chapter-02-evaluation-theory.qmd) - pages 81-102; `Part One: Fundamentals of Evaluation > Chapter 2: Evaluation Theory`
+- [Chapter 3: Standards for Program Evaluations](chapter-03-standards-for-program-evaluations.qmd) - pages 105-138; `Part One: Fundamentals of Evaluation > Chapter 3: Standards for Program Evaluations`
+
+### Part Two: An Evaluation of Evaluation Approaches and Models
+
+- [Chapter 4: Background for Assessing Evaluation Approaches](chapter-04-background-for-assessing-evaluation-approaches.qmd) - pages 143-150; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 4: Background for Assessing Evaluation Approaches`
+- [Chapter 5: Pseudoevaluations](chapter-05-pseudoevaluations.qmd) - pages 151-168; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 5: Pseudoevaluations`
+- [Chapter 6: Quasi-evaluation Studies](chapter-06-quasi-evaluation-studies.qmd) - pages 169-208; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 6: Quasi-evaluation Studies`
+- [Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches](chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd) - pages 209-226; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches`
+- [Chapter 8: Social Agenda and Advocacy Evaluation Approaches](chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd) - pages 227-245; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 8: Social Agenda and Advocacy Evaluation Approaches`
+- [Chapter 9: Eclectic Evaluation Approaches](chapter-09-eclectic-evaluation-approaches.qmd) - pages 247-261; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 9: Eclectic Evaluation Approaches`
+- [Chapter 10: Best Approaches for Twenty-first-century Evaluations](chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd) - pages 265-281; `Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 10: Best Approaches for Twenty-first-century Evaluations`
+
+### Part Three: Explication of Selected Evaluation Approaches
+
+- [Chapter 11: Experimental and Quasi-experimental Design Evaluations](chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd) - pages 285-324; `Part Three: Explication of Selected Evaluation Approaches > Chapter 11: Experimental and Quasi-experimental Design Evaluations`
+- [Chapter 12: Case Study Evaluations](chapter-12-case-study-evaluations.qmd) - pages 327-342; `Part Three: Explication of Selected Evaluation Approaches > Chapter 12: Case Study Evaluations`
+- [Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation](chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd) - pages 345-375; `Part Three: Explication of Selected Evaluation Approaches > Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation: an Improvement- and Accountability-oriented Approach`
+- [Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation](chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd) - pages 377-405; `Part Three: Explication of Selected Evaluation Approaches > Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation`
+- [Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach](chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd) - pages 409-435; `Part Three: Explication of Selected Evaluation Approaches > Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach`
+- [Chapter 16: Michael Patton's Utilization-focused Evaluation](chapter-16-michael-pattons-utilization-focused-evaluation.qmd) - pages 439-453; `Part Three: Explication of Selected Evaluation Approaches > Chapter 16: Michael Patton's Utilization-focused Evaluation`
+
+### Part Four: Evaluation Tasks, Procedures, and Tools
+
+- [Chapter 17: Identifying and Assessing Evaluation Opportunities](chapter-17-identifying-and-assessing-evaluation-opportunities.qmd) - pages 459-468; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 17: Identifying and Assessing Evaluation Opportunities`
+- [Chapter 18: First Steps in Addressing Evaluation Opportunities](chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd) - pages 471-479; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 18: First Steps in Addressing Evaluation Opportunities`
+- [Chapter 19: Designing Evaluations](chapter-19-designing-evaluations.qmd) - pages 481-510; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 19: Designing Evaluations`
+- [Chapter 20: Budgeting Evaluations](chapter-20-budgeting-evaluations.qmd) - pages 515-539; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 20: Budgeting Evaluations`
+- [Chapter 21: Contracting Evaluations](chapter-21-contracting-evaluations.qmd) - pages 541-554; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 21: Contracting Evaluations`
+- [Chapter 22: Collecting Evaluative Information](chapter-22-collecting-evaluative-information.qmd) - pages 555-579; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 22: Collecting Evaluative Information`
+- [Chapter 23: Analyzing and Synthesizing Information](chapter-23-analyzing-and-synthesizing-information.qmd) - pages 593-624; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 23: Analyzing and Synthesizing Information`
+- [Chapter 24: Communicating Evaluation Findings](chapter-24-communicating-evaluation-findings.qmd) - pages 625-662; `Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 24: Communicating Evaluation Findings`
+
+### Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation
+
+- [Chapter 25: Metaevaluation: Evaluating Evaluations](chapter-25-metaevaluation-evaluating-evaluations.qmd) - pages 667-705; `Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation > Chapter 25: Metaevaluation: Evaluating Evaluations`
+- [Chapter 26: Institutionalizing and Mainstreaming Evaluation](chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd) - pages 707-725; `Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation > Chapter 26: Institutionalizing and Mainstreaming Evaluation`
+
+## How to Use This Map
+
+- Start with Part One to ground definitions, standards, and theory.
+- Use Part Two to compare evaluation approaches and understand the authors' standards-based judgments.
+- Use Part Three when choosing among selected models such as CIPP, consumer-oriented, responsive, or utilization-focused evaluation.
+- Use Part Four as a procedural guide for scoping, designing, budgeting, contracting, collecting, analyzing, reporting, and follow-up.
+- Use Part Five to check evaluation quality and organizational evaluation capacity.
+
+## Seed Notes
+
+- [Program Evaluation Standards and Theory Development](section-01-evaluation-theory-development.qmd)
+- [CIPP Model Overview](section-02-cipp-overview.qmd)
+- [Standards and Metaevaluation](section-03-standards-and-metaevaluation.qmd)
+
+## References

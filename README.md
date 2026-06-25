@@ -1,6 +1,7 @@
 # Evaluation Knowledge Base
 
 This repository contains a Quarto website for source-grounded study notes on evaluation books and guidance. The first book section covers Sue C. Funnell and Patricia J. Rogers' *Purposeful Program Theory: Effective Use of Theories of Change and Logic Models*.
+The site also includes generated major-section study notes for the ready `evaluation-texts` books in the MCP research library.
 
 ## Site Structure
 
@@ -19,10 +20,14 @@ This repository contains a Quarto website for source-grounded study notes on eva
 │   ├── css/
 │   └── js/
 ├── data/
-│   └── notes_link_graph_payload.json
+│   ├── notes_link_graph_payload.json
+│   ├── research_library_notes_manifest.json
+│   └── research-library/
 ├── scripts/
 │   ├── extract_book_to_json.py
+│   ├── generate_research_library_notes.py
 │   ├── qa_book_extraction.py
+│   ├── qa_research_library_notes.py
 │   └── extract_link_graph.py
 └── viewer/
 ```
@@ -36,6 +41,17 @@ quarto render
 ```
 
 The pre-render step scans notes and writes `data/notes_link_graph_payload.json`, which supports the notes map.
+
+## MCP Research-Library Notes
+
+Regenerate the MCP-derived notes from the curated manifest in `scripts/generate_research_library_notes.py`:
+
+```bash
+python3 scripts/generate_research_library_notes.py
+python3 scripts/qa_research_library_notes.py
+```
+
+Refresh the curated evidence IDs with the `mcp__researchlibrary` tools before changing the generator's book or section records. The checked-in evidence summaries store retrieval IDs and source locations, not copied source text.
 
 ## Extraction QA
 

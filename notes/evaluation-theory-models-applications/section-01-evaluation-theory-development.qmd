@@ -1,0 +1,62 @@
+---
+title: "Program Evaluation Standards and Theory Development"
+description: "Study note on Program Evaluation Standards and Theory Development in Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "101"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:program-evaluation-standards-and-theory-development:c0005"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 101</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Program Evaluation Standards and Theory Development" from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section assesses evaluation theory as a field rich in concepts, standards, and approaches but still developing stronger validated theory.
+
+## Study Summary
+
+The section assesses evaluation theory as a field rich in concepts, standards, and approaches but still developing stronger validated theory.
+
+It argues for converting useful approaches into better-tested theories through research and metaevaluation.
+
+The practical implication is humility: models should be used critically and improved through evidence.
+
+## Key Concepts
+
+- Theory development
+- Evaluation standards
+- Metaevaluation
+- Validated theory
+
+## Source Location
+
+- Section path: Part One: Fundamentals of Evaluation > Chapter 2: Evaluation Theory > Program Evaluation Standards and Theory Development
+- Evidence records: `chunk:evaluation-theory-models-applications:program-evaluation-standards-and-theory-development:c0005`
+
+## Practical Implications
+
+- Treat models as aids to judgment, not recipes.
+- Use standards to critique an evaluation approach before adopting it.
+- Document what the evaluation model predicts and how that prediction is checked.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Program Evaluation Standards and Theory Development helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

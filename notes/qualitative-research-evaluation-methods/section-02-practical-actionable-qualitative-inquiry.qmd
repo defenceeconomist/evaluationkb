@@ -1,0 +1,62 @@
+---
+title: "Practical and Actionable Qualitative Inquiry"
+description: "Study note on Practical and Actionable Qualitative Inquiry in Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "269-270"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 269-270</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Practical and Actionable Qualitative Inquiry" from Michael Quinn Patton's *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+This section links qualitative inquiry to practical purposes: better questions, clearer interpretations, and answers that can guide action.
+
+## Study Summary
+
+This section links qualitative inquiry to practical purposes: better questions, clearer interpretations, and answers that can guide action.
+
+It emphasizes pragmatic and utilization-focused framing, where the point of inquiry is not only understanding but improvement.
+
+Qualitative methods are presented as especially useful for questions that need explanation, depth, and sensitivity to local circumstances.
+
+## Key Concepts
+
+- Actionable answers
+- Pragmatic inquiry
+- Utilization focus
+- Problem-focused evaluation
+
+## Source Location
+
+- Section path: Part 1 > Chapter 4: Practical and Actionable Qualitative Applications > Module 20
+- Evidence records: `chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005`
+
+## Practical Implications
+
+- Phrase qualitative questions so that answers can inform a decision.
+- Use fieldwork to understand why performance differs across people, sites, or conditions.
+- Report patterns with enough context to support use.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Practical and Actionable Qualitative Inquiry helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

@@ -1,0 +1,35 @@
+---
+title: "Handbook of Practical Program Evaluation Practice Implications"
+description: "Practice synthesis for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+  - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].
+
+## Evaluation Practice Implications
+
+- Balance rigor, cost, timing, and likely usefulness.
+- Fit the evaluation design to the program's life cycle and decision context.
+- Treat performance measurement and evaluation as complementary evidence systems.
+- Use stakeholder engagement to sharpen, not dilute, evaluation focus.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## References

@@ -1,0 +1,93 @@
+---
+title: "Chapter 06: Quasi-evaluation Studies"
+description: "Detailed study notes for Chapter 6 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+part: "Part Two: An Evaluation of Evaluation Approaches and Models"
+source_pages: "169-208"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001"
+  - "chunk:evaluation-theory-models-applications:quasi-evaluation-approaches-defined:c0001"
+  - "chunk:evaluation-theory-models-applications:approach-14-meta-analysis:c0011"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 6</span><span>Source pages 169-208</span></div>
+
+This note summarises Chapter 6, "Quasi-evaluation Studies," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001`
+- `chunk:evaluation-theory-models-applications:quasi-evaluation-approaches-defined:c0001`
+- `chunk:evaluation-theory-models-applications:approach-14-meta-analysis:c0011`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Quasi-evaluations can answer focused questions well, but their narrow scope means they should not be mistaken for full judgments of merit and worth.
+
+## Study Summary
+
+Chapter 6 covers approaches that are technically useful but limited by question scope, method scope, or both. Objectives-based studies, success case work, value-added assessment, experiments, cost studies, connoisseurship, theory-based evaluation, and meta-analysis can all serve evaluators.
+
+The authors' caution is that a high-quality answer to a narrow question is not necessarily a complete evaluation. For example, objective attainment does not by itself show whether objectives were worth pursuing, whether needs were met, or whether side effects mattered.
+
+The chapter is not anti-method. It asks evaluators to know these approaches well enough to use them appropriately. Narrow studies may be valuable when clients need focused, timely evidence, but the reporting should make the limits explicit.
+
+The chapter also prepares readers for later chapters on experimental designs and case studies. Some approaches receive fuller treatment in Part Three because they are common and powerful, but their limitations still need to be understood.
+
+For close reading, track how the chapter uses quasi-evaluation, objectives-based study, success case method, and value-added assessment while moving through definition and functions, strengths and weaknesses, and eight quasi-evaluation approaches. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's standards-based assessment of evaluation approaches. Its classifications and ratings are their judgments about how well each approach supports defensible evaluation, not a neutral consensus ranking of the whole field.
+
+## Key Concepts
+
+- quasi-evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- objectives-based study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- success case method: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- value-added assessment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- experimental study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- cost study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- meta-analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- narrow-scope evidence: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definition and functions.
+- Strengths and weaknesses.
+- Eight quasi-evaluation approaches.
+- Summary and cautions.
+
+## Practical Implications
+
+- Match a narrow approach to a narrow question and say so in the report.
+- Add value criteria when a client asks for conclusions about merit or worth.
+- Use focused studies as components of broader evaluations when stakes require fuller judgment.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Pseudoevaluations](chapter-05-pseudoevaluations.qmd)
+- Next: [Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches](chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 6 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 6, pages 169-208.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

@@ -1,0 +1,62 @@
+---
+title: "Evaluation Design and Its Components"
+description: "Study note on Evaluation Design and Its Components in Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "39-40"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 39-40</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Evaluation Design and Its Components" from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section treats evaluation design as an explicit agreement about purpose, methodology, program description, and the information needs the evaluation must serve.
+
+## Study Summary
+
+The section treats evaluation design as an explicit agreement about purpose, methodology, program description, and the information needs the evaluation must serve.
+
+A useful design does more than select methods. It asks whether the program is described coherently enough to support evaluation and whether stakeholders need a logic model, a fuller program theory, or both.
+
+The practical lesson is proportionality: choose enough structure to make the evaluation credible and useful without forcing every program into the same template.
+
+## Key Concepts
+
+- Evaluation purpose
+- Program description
+- Method fit
+- Stakeholder agreement
+
+## Source Location
+
+- Section path: Chapter 1: Fundamentals of Program Evaluation > Evaluation Design and Its Components
+- Evidence records: `chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002`
+
+## Practical Implications
+
+- Do not move to methods before the program description is adequate.
+- Use design conversations to surface what stakeholders expect the evaluation to decide.
+- Escalate from a logic model to program theory when context or causal mechanisms need to be examined.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Evaluation Design and Its Components helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

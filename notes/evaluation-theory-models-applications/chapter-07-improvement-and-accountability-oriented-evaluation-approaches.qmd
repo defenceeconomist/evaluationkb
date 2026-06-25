@@ -1,0 +1,93 @@
+---
+title: "Chapter 07: Improvement- and Accountability-oriented Evaluation Approaches"
+description: "Detailed study notes for Chapter 7 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+part: "Part Two: An Evaluation of Evaluation Approaches and Models"
+source_pages: "209-226"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001"
+  - "chunk:evaluation-theory-models-applications:approach-15-decision-and-accountability-oriented-studies:c0001"
+  - "chunk:evaluation-theory-models-applications:approach-17-accreditation-and-certification:c0004"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 7</span><span>Source pages 209-226</span></div>
+
+This note summarises Chapter 7, "Improvement- and Accountability-oriented Evaluation Approaches," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001`
+- `chunk:evaluation-theory-models-applications:approach-15-decision-and-accountability-oriented-studies:c0001`
+- `chunk:evaluation-theory-models-applications:approach-17-accreditation-and-certification:c0004`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Improvement- and accountability-oriented approaches are closest to the authors' definition of evaluation because they explicitly assess value while serving decisions and public responsibility.
+
+## Study Summary
+
+Chapter 7 describes approaches that seek to determine an evaluand's value rather than only answer a technical subquestion. The chapter covers decision- and accountability-oriented studies, consumer-oriented studies, and accreditation or certification.
+
+Decision- and accountability-oriented studies are represented mainly through CIPP. They combine improvement feedback with retrospective judgment, attend to stakeholders, and use multiple methods to assess context, plans, implementation, outcomes, and value.
+
+Consumer-oriented studies, associated with Scriven, are more directly focused on consumers' needs, alternatives, costs, and comparative value. Accreditation and certification add a standards-based institutional form in which a program or organization is judged against external criteria.
+
+The authors present these approaches as generally stronger than quasi-evaluations because they confront value. Their differences matter: CIPP is more improvement and systems oriented, consumer-oriented evaluation is more independent and comparative, and accreditation is more rule-bound.
+
+For close reading, track how the chapter uses improvement, accountability, decision-oriented evaluation, and CIPP while moving through definition and functions, general strengths and weaknesses, and decision- and accountability-oriented studies. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's standards-based assessment of evaluation approaches. Its classifications and ratings are their judgments about how well each approach supports defensible evaluation, not a neutral consensus ranking of the whole field.
+
+## Key Concepts
+
+- improvement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- accountability: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- decision-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- CIPP: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- consumer-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- accreditation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- certification: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definition and functions.
+- General strengths and weaknesses.
+- Decision- and accountability-oriented studies.
+- Consumer-oriented studies.
+- Accreditation and certification.
+
+## Practical Implications
+
+- Select these approaches when the client needs a defensible value judgment.
+- Clarify the balance between improvement feedback and accountability reporting.
+- Check whether external standards or consumer needs should dominate the value frame.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: Quasi-evaluation Studies](chapter-06-quasi-evaluation-studies.qmd)
+- Next: [Chapter 8: Social Agenda and Advocacy Evaluation Approaches](chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 7 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 7, pages 209-226.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

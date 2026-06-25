@@ -1,0 +1,62 @@
+---
+title: "Strategic Qualitative Principles in Practice"
+description: "Study note on Strategic Qualitative Principles in Practice in Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "140-141"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 140-141</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Strategic Qualitative Principles in Practice" from Michael Quinn Patton's *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section frames qualitative inquiry as a set of strategic principles that must be adapted to practical field conditions.
+
+## Study Summary
+
+The section frames qualitative inquiry as a set of strategic principles that must be adapted to practical field conditions.
+
+It rejects the idea that qualitative methods only belong in ideal situations; their value often appears when evaluation questions require context-sensitive judgment.
+
+The evaluator's task is to maintain qualitative discipline while adjusting to real constraints in access, time, and use.
+
+## Key Concepts
+
+- Strategic principles
+- Field adaptation
+- Qualitative rigor
+- Practical constraints
+
+## Source Location
+
+- Section path: Part 1 > Chapter 2: Strategic Themes in Qualitative Inquiry > Module 8
+- Evidence records: `chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010`
+
+## Practical Implications
+
+- Define what qualitative evidence is expected to clarify before collecting data.
+- Plan for adaptation while protecting documentation and analytic transparency.
+- Use qualitative design choices to make trade-offs explicit.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Strategic Qualitative Principles in Practice helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

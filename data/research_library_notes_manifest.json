@@ -1,0 +1,754 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "source": {
+    "mcp_tool": "mcp__researchlibrary",
+    "collection_discovery": "library_list_collections",
+    "section_discovery": "rag_search",
+    "notes": "Generated notes are paraphrases from selected MCP retrieval records; verbatim source text is not stored."
+  },
+  "books": [
+    {
+      "book_id": "purposeful-program-theory",
+      "slug": "purposeful-programme-theory",
+      "title": "Purposeful Program Theory",
+      "full_title": "Purposeful Program Theory: Effective Use of Theories of Change and Logic Models",
+      "authors": [
+        "Sue C. Funnell",
+        "Patricia J. Rogers"
+      ],
+      "year": "2011",
+      "citation": "funnell_rogers_2011_purposeful_program_theory",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "existing-hand-authored",
+      "target_path": "notes/purposeful-programme-theory/index.qmd",
+      "sections": []
+    },
+    {
+      "book_id": "practical-program-evaluation",
+      "slug": "practical-program-evaluation",
+      "title": "Practical Program Evaluation",
+      "full_title": "Practical Program Evaluation",
+      "authors": [
+        "Huey T. Chen"
+      ],
+      "year": "2015",
+      "citation": "chen_2015_practical_program_evaluation",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/practical-program-evaluation/index.qmd",
+      "sections": [
+        {
+          "id": "evaluation-design-components",
+          "title": "Evaluation Design and Its Components",
+          "source_pages": "39-40",
+          "section_path": "Chapter 1: Fundamentals of Program Evaluation > Evaluation Design and Its Components",
+          "evidence_ids": [
+            "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+          ],
+          "target_path": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd"
+        },
+        {
+          "id": "logic-models-and-program-theory",
+          "title": "Logic Models and the Action Model/Change Model Schema",
+          "source_pages": "79",
+          "section_path": "Part I: Introduction > Chapter 3: Logic Models and the Action Model/change Model Schema (program Theory)",
+          "evidence_ids": [
+            "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+          ],
+          "target_path": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd"
+        },
+        {
+          "id": "logic-model-limits",
+          "title": "When Logic Models Do Not Work as Expected",
+          "source_pages": "382",
+          "section_path": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected > A Guide to Productively Applying the Logic Model and the Action Model/change Model Schema",
+          "evidence_ids": [
+            "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+          ],
+          "target_path": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "qualitative-research-evaluation-methods",
+      "slug": "qualitative-research-evaluation-methods",
+      "title": "Qualitative Research & Evaluation Methods",
+      "full_title": "Qualitative Research & Evaluation Methods",
+      "authors": [
+        "Michael Quinn Patton"
+      ],
+      "year": "2015",
+      "citation": "patton_2015_qualitative_research_evaluation_methods",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "sections": [
+        {
+          "id": "strategic-qualitative-principles",
+          "title": "Strategic Qualitative Principles in Practice",
+          "source_pages": "140-141",
+          "section_path": "Part 1 > Chapter 2: Strategic Themes in Qualitative Inquiry > Module 8",
+          "evidence_ids": [
+            "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+          ],
+          "target_path": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd"
+        },
+        {
+          "id": "practical-actionable-qualitative-inquiry",
+          "title": "Practical and Actionable Qualitative Inquiry",
+          "source_pages": "269-270",
+          "section_path": "Part 1 > Chapter 4: Practical and Actionable Qualitative Applications > Module 20",
+          "evidence_ids": [
+            "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+          ],
+          "target_path": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd"
+        },
+        {
+          "id": "program-models-and-theories-of-change",
+          "title": "Program Models, Theories of Change, and Qualitative Methods",
+          "source_pages": "314-316",
+          "section_path": "Part 1 > Chapter 4 > Module 23: Evaluating Program Models and Theories of Change",
+          "evidence_ids": [
+            "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+          ],
+          "target_path": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "realistic-evaluation",
+      "slug": "realistic-evaluation",
+      "title": "Realistic Evaluation",
+      "full_title": "Realistic Evaluation",
+      "authors": [
+        "Ray Pawson",
+        "Nick Tilley"
+      ],
+      "year": "1997",
+      "citation": "pawson_tilley_1997_realistic_evaluation",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/realistic-evaluation/index.qmd",
+      "sections": [
+        {
+          "id": "reader-guide-cmo",
+          "title": "Reader's Guide to Context, Mechanism, and Outcome",
+          "source_pages": "14-15",
+          "section_path": "Introduction",
+          "evidence_ids": [
+            "chunk:realistic-evaluation:introduction:c0011"
+          ],
+          "target_path": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd"
+        },
+        {
+          "id": "scientific-realism-and-cmo",
+          "title": "Scientific Realism and CMO Hypotheses",
+          "source_pages": "94-95",
+          "section_path": "Chapter 3: In with the New: Introducing Scientific Realism",
+          "evidence_ids": [
+            "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+          ],
+          "target_path": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd"
+        },
+        {
+          "id": "new-rules-cmo-configurations",
+          "title": "The New Rules and CMO Configurations",
+          "source_pages": "234",
+          "section_path": "Chapter 9: The New Rules of Realistic Evaluation",
+          "evidence_ids": [
+            "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+          ],
+          "target_path": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "impact-evaluation-in-practice",
+      "slug": "impact-evaluation-in-practice",
+      "title": "Impact Evaluation in Practice",
+      "full_title": "Impact Evaluation in Practice",
+      "authors": [
+        "Paul J. Gertler",
+        "Sebastian Martinez",
+        "Patrick Premand",
+        "Laura B. Rawlings",
+        "Christel M. J. Vermeersch"
+      ],
+      "year": "2016",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/impact-evaluation-in-practice/index.qmd",
+      "sections": [
+        {
+          "id": "what-is-impact-evaluation",
+          "title": "What Is Impact Evaluation?",
+          "source_pages": "37",
+          "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate? > What Is Impact Evaluation?",
+          "evidence_ids": [
+            "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+          ],
+          "target_path": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd"
+        },
+        {
+          "id": "constructing-theory-of-change",
+          "title": "Constructing a Theory of Change",
+          "source_pages": "62",
+          "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation > Constructing a Theory of Change",
+          "evidence_ids": [
+            "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+          ],
+          "target_path": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd"
+        },
+        {
+          "id": "causal-inference-counterfactuals",
+          "title": "Causal Inference and Counterfactuals",
+          "source_pages": "77-78",
+          "section_path": "Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals > Causal Inference",
+          "evidence_ids": [
+            "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+          ],
+          "target_path": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "handbook-practical-program-evaluation",
+      "slug": "handbook-practical-program-evaluation",
+      "title": "Handbook of Practical Program Evaluation",
+      "full_title": "Handbook of Practical Program Evaluation",
+      "authors": [
+        "Kathryn E. Newcomer",
+        "Harry P. Hatry",
+        "Joseph S. Wholey"
+      ],
+      "year": "2015",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/handbook-practical-program-evaluation/index.qmd",
+      "sections": [
+        {
+          "id": "planning-and-design",
+          "title": "Evaluation Planning and Design",
+          "source_pages": "43-45",
+          "section_path": "Part 1: Evaluation Planning and Design",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:part-1:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0004"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd"
+        },
+        {
+          "id": "planning-useful-evaluations",
+          "title": "Planning and Designing Useful Evaluations",
+          "source_pages": "49-51",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 1: Planning and Designing Useful Evaluations",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd"
+        },
+        {
+          "id": "performance-measurement",
+          "title": "Performance Measurement and Program Evaluation",
+          "source_pages": "150-151",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 5: Performance Measurement",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "evaluation-systematic-approach",
+      "slug": "evaluation-systematic-approach",
+      "title": "Evaluation: A Systematic Approach",
+      "full_title": "Evaluation: A Systematic Approach",
+      "authors": [
+        "Peter H. Rossi",
+        "Mark W. Lipsey",
+        "Howard E. Freeman"
+      ],
+      "year": "2004",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/evaluation-systematic-approach/index.qmd",
+      "sections": [
+        {
+          "id": "tailoring-evaluations",
+          "title": "Tailoring Evaluations",
+          "source_pages": "38-39",
+          "section_path": "Chapter 2: Tailoring Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+          ],
+          "target_path": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd"
+        },
+        {
+          "id": "formulating-questions",
+          "title": "Identifying Issues and Formulating Questions",
+          "source_pages": "89-90",
+          "section_path": "Chapter 3: Identifying Issues and Formulating Questions",
+          "evidence_ids": [
+            "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+          ],
+          "target_path": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd"
+        },
+        {
+          "id": "program-theory-assessment",
+          "title": "Expressing and Assessing Program Theory",
+          "source_pages": "120-121",
+          "section_path": "Chapter 5: Expressing and Assessing Program Theory",
+          "evidence_ids": [
+            "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+          ],
+          "target_path": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "essentials-utilization-focused-evaluation",
+      "slug": "essentials-utilization-focused-evaluation",
+      "title": "Essentials of Utilization-Focused Evaluation",
+      "full_title": "Essentials of Utilization-Focused Evaluation",
+      "authors": [
+        "Michael Quinn Patton"
+      ],
+      "year": "2012",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "sections": [
+        {
+          "id": "utilization-focused-overview",
+          "title": "Utilization-Focused Evaluation Overview",
+          "source_pages": "27-28",
+          "section_path": "Introduction, Overview, and Context",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd"
+        },
+        {
+          "id": "seventeen-steps",
+          "title": "The 17-Step Utilization-Focused Checklist",
+          "source_pages": "36-37",
+          "section_path": "Introduction, Overview, and Context",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd"
+        },
+        {
+          "id": "methods-for-use",
+          "title": "Negotiating Methods for Intended Use",
+          "source_pages": "288-289",
+          "section_path": "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "magenta-book",
+      "slug": "magenta-book",
+      "title": "Magenta Book",
+      "full_title": "Magenta Book: Central Government guidance on evaluation",
+      "authors": [
+        "HM Treasury",
+        "Evaluation Task Force"
+      ],
+      "year": "2020",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-major-sections",
+      "target_path": "notes/magenta-book/index.qmd",
+      "sections": [
+        {
+          "id": "executive-summary",
+          "title": "Executive Summary and Evaluation Types",
+          "source_pages": "3",
+          "section_path": "Executive summary",
+          "evidence_ids": [
+            "chunk:magenta-book:magenta-book-executive-summary:c0003"
+          ],
+          "target_path": "notes/magenta-book/section-01-executive-summary.qmd"
+        },
+        {
+          "id": "evaluation-methods",
+          "title": "Choosing Evaluation Methods",
+          "source_pages": "6",
+          "section_path": "3. Evaluation methods",
+          "evidence_ids": [
+            "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
+          ],
+          "target_path": "notes/magenta-book/section-02-evaluation-methods.qmd"
+        },
+        {
+          "id": "managing-evaluation",
+          "title": "Managing an Evaluation",
+          "source_pages": "8",
+          "section_path": "5. Managing an evaluation",
+          "evidence_ids": [
+            "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+          ],
+          "target_path": "notes/magenta-book/section-03-managing-evaluation.qmd"
+        }
+      ]
+    },
+    {
+      "book_id": "evaluation-theory-models-applications",
+      "slug": "evaluation-theory-models-applications",
+      "title": "Evaluation Theory, Models, and Applications",
+      "full_title": "Evaluation Theory, Models, and Applications",
+      "authors": [
+        "Daniel L. Stufflebeam",
+        "Chris L. S. Coryn"
+      ],
+      "year": "2014",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications",
+      "source_status": "needs_review",
+      "rag_status": "ready",
+      "generation_mode": "generated-chapter-notes",
+      "target_path": "notes/evaluation-theory-models-applications/index.qmd",
+      "sections": [
+        {
+          "id": "chapter-01",
+          "title": "Chapter 1: Overview of the Evaluation Field",
+          "source_pages": "39-79",
+          "section_path": "Part One: Fundamentals of Evaluation > Chapter 1: Overview of the Evaluation Field",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001",
+            "chunk:evaluation-theory-models-applications:how-should-evaluations-be-used:c0005",
+            "chunk:evaluation-theory-models-applications:what-are-the-main-historical-milestones-in-the-evaluation-field-s-development:c0028"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd"
+        },
+        {
+          "id": "chapter-02",
+          "title": "Chapter 2: Evaluation Theory",
+          "source_pages": "81-102",
+          "section_path": "Part One: Fundamentals of Evaluation > Chapter 2: Evaluation Theory",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch02-chapter-2-evaluation-theory:c0001",
+            "chunk:evaluation-theory-models-applications:criteria-for-judging-program-evaluation-theories:c0003",
+            "chunk:evaluation-theory-models-applications:program-evaluation-standards-and-theory-development:c0005"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd"
+        },
+        {
+          "id": "chapter-03",
+          "title": "Chapter 3: Standards for Program Evaluations",
+          "source_pages": "105-138",
+          "section_path": "Part One: Fundamentals of Evaluation > Chapter 3: Standards for Program Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch03-chapter-3-standards-for-program-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:the-need-for-evaluation-standards:c0002",
+            "chunk:evaluation-theory-models-applications:using-evaluation-standards:c0005"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd"
+        },
+        {
+          "id": "chapter-04",
+          "title": "Chapter 4: Background for Assessing Evaluation Approaches",
+          "source_pages": "143-150",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 4: Background for Assessing Evaluation Approaches",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch04-chapter-4-background-for-assessing-evaluation-approaches:c0001",
+            "chunk:evaluation-theory-models-applications:previous-classifications-of-alternative-evaluation-approaches:c0003",
+            "chunk:evaluation-theory-models-applications:caveats:c0003"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd"
+        },
+        {
+          "id": "chapter-05",
+          "title": "Chapter 5: Pseudoevaluations",
+          "source_pages": "151-168",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 5: Pseudoevaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001",
+            "chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0006",
+            "chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0010"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd"
+        },
+        {
+          "id": "chapter-06",
+          "title": "Chapter 6: Quasi-evaluation Studies",
+          "source_pages": "169-208",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 6: Quasi-evaluation Studies",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001",
+            "chunk:evaluation-theory-models-applications:quasi-evaluation-approaches-defined:c0001",
+            "chunk:evaluation-theory-models-applications:approach-14-meta-analysis:c0011"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd"
+        },
+        {
+          "id": "chapter-07",
+          "title": "Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches",
+          "source_pages": "209-226",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001",
+            "chunk:evaluation-theory-models-applications:approach-15-decision-and-accountability-oriented-studies:c0001",
+            "chunk:evaluation-theory-models-applications:approach-17-accreditation-and-certification:c0004"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd"
+        },
+        {
+          "id": "chapter-08",
+          "title": "Chapter 8: Social Agenda and Advocacy Evaluation Approaches",
+          "source_pages": "227-245",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 8: Social Agenda and Advocacy Evaluation Approaches",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003",
+            "chunk:evaluation-theory-models-applications:approach-19-constructivist-evaluation:c0006",
+            "chunk:evaluation-theory-models-applications:approach-21-transformative-evaluation:c0006"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd"
+        },
+        {
+          "id": "chapter-09",
+          "title": "Chapter 9: Eclectic Evaluation Approaches",
+          "source_pages": "247-261",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 9: Eclectic Evaluation Approaches",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:approach-22-utilization-focused-evaluation:c0002",
+            "chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0014",
+            "chunk:evaluation-theory-models-applications:approach-23-participatory-evaluation:c0015"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd"
+        },
+        {
+          "id": "chapter-10",
+          "title": "Chapter 10: Best Approaches for Twenty-first-century Evaluations",
+          "source_pages": "265-281",
+          "section_path": "Part Two: An Evaluation of Evaluation Approaches and Models > Chapter 10: Best Approaches for Twenty-first-century Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch10-chapter-10-best-approaches-for-twenty-first-century-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:the-bottom-line:c0002",
+            "chunk:evaluation-theory-models-applications:overall-observations:c0003"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd"
+        },
+        {
+          "id": "chapter-11",
+          "title": "Chapter 11: Experimental and Quasi-experimental Design Evaluations",
+          "source_pages": "285-324",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 11: Experimental and Quasi-experimental Design Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:chapter-overview:c0001",
+            "chunk:evaluation-theory-models-applications:chapter-overview:c0003",
+            "chunk:evaluation-theory-models-applications:contemporary-concepts-associated-with-the-experimental-and-quasi-experimental-de:c0006"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd"
+        },
+        {
+          "id": "chapter-12",
+          "title": "Chapter 12: Case Study Evaluations",
+          "source_pages": "327-342",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 12: Case Study Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch12-chapter-12-case-study-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:overview-of-the-chapter:c0001",
+            "chunk:evaluation-theory-models-applications:particular-case-study-information-collection-methods:c0010"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd"
+        },
+        {
+          "id": "chapter-13",
+          "title": "Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation",
+          "source_pages": "345-375",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation: an Improvement- and Accountability-oriented Approach",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001",
+            "chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002",
+            "chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006",
+            "chunk:evaluation-theory-models-applications:use-of-the-cipp-model-as-a-systems-strategy-for-improvement:c0009"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd"
+        },
+        {
+          "id": "chapter-14",
+          "title": "Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation",
+          "source_pages": "377-405",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001",
+            "chunk:evaluation-theory-models-applications:overview-of-scriven-s-contributions-to-evaluation:c0001",
+            "chunk:evaluation-theory-models-applications:formative-and-summative-evaluation:c0002",
+            "chunk:evaluation-theory-models-applications:scriven-s-look-to-evaluation-s-future:c0007"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd"
+        },
+        {
+          "id": "chapter-15",
+          "title": "Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach",
+          "source_pages": "409-435",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch15-chapter-15-robert-stake-s-responsive-or-stakeholder-centered-evaluation-approach:c0002",
+            "chunk:evaluation-theory-models-applications:stake-s-1967-countenance-of-educational-evaluation-article:c0016",
+            "chunk:evaluation-theory-models-applications:stake-s-recent-rethinking-of-responsive-evaluation:c0004"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd"
+        },
+        {
+          "id": "chapter-16",
+          "title": "Chapter 16: Michael Patton's Utilization-focused Evaluation",
+          "source_pages": "439-453",
+          "section_path": "Part Three: Explication of Selected Evaluation Approaches > Chapter 16: Michael Patton's Utilization-focused Evaluation",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch16-chapter-16-michael-patton-s-utilization-focused-evaluation:c0003",
+            "chunk:evaluation-theory-models-applications:some-general-aspects-of-patton-s-utilization-focused-evaluation:c0003",
+            "chunk:evaluation-theory-models-applications:planning-utilization-focused-evaluations:c0003",
+            "chunk:evaluation-theory-models-applications:limitations-of-the-utilization-focused-evaluation-approach:c0005"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd"
+        },
+        {
+          "id": "chapter-17",
+          "title": "Chapter 17: Identifying and Assessing Evaluation Opportunities",
+          "source_pages": "459-468",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 17: Identifying and Assessing Evaluation Opportunities",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0001",
+            "chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0002"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd"
+        },
+        {
+          "id": "chapter-18",
+          "title": "Chapter 18: First Steps in Addressing Evaluation Opportunities",
+          "source_pages": "471-479",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 18: First Steps in Addressing Evaluation Opportunities",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch18-chapter-18-first-steps-in-addressing-evaluation-opportunities:c0001",
+            "chunk:evaluation-theory-models-applications:developing-the-evaluation-team:c0002",
+            "chunk:evaluation-theory-models-applications:planning-for-a-stakeholder-review-panel:c0003"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd"
+        },
+        {
+          "id": "chapter-19",
+          "title": "Chapter 19: Designing Evaluations",
+          "source_pages": "481-510",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 19: Designing Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0002",
+            "chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0003",
+            "chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0016"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd"
+        },
+        {
+          "id": "chapter-20",
+          "title": "Chapter 20: Budgeting Evaluations",
+          "source_pages": "515-539",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 20: Budgeting Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch20-chapter-20-budgeting-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:ch20-chapter-20-budgeting-evaluations:c0004",
+            "chunk:evaluation-theory-models-applications:generic-checklist-for-developing-evaluation-budgets:c0001"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd"
+        },
+        {
+          "id": "chapter-21",
+          "title": "Chapter 21: Contracting Evaluations",
+          "source_pages": "541-554",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 21: Contracting Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:negotiating-evaluation-agreements:c0002",
+            "chunk:evaluation-theory-models-applications:evaluation-contracting-checklist:c0002"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd"
+        },
+        {
+          "id": "chapter-22",
+          "title": "Chapter 22: Collecting Evaluative Information",
+          "source_pages": "555-579",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 22: Collecting Evaluative Information",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch22-chapter-22-collecting-evaluative-information:c0001",
+            "chunk:evaluation-theory-models-applications:ch22-chapter-22-collecting-evaluative-information:c0002",
+            "chunk:evaluation-theory-models-applications:key-standards-for-information-collection:c0040",
+            "chunk:evaluation-theory-models-applications:key-standards-for-information-collection:c0045"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd"
+        },
+        {
+          "id": "chapter-23",
+          "title": "Chapter 23: Analyzing and Synthesizing Information",
+          "source_pages": "593-624",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 23: Analyzing and Synthesizing Information",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0001",
+            "chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0002",
+            "chunk:evaluation-theory-models-applications:principles-for-analyzing-and-synthesizing-information:c0002",
+            "chunk:evaluation-theory-models-applications:analysis-of-qualitative-information:c0007"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd"
+        },
+        {
+          "id": "chapter-24",
+          "title": "Chapter 24: Communicating Evaluation Findings",
+          "source_pages": "625-662",
+          "section_path": "Part Four: Evaluation Tasks, Procedures, and Tools > Chapter 24: Communicating Evaluation Findings",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch24-chapter-24-communicating-evaluation-findings:c0001",
+            "chunk:evaluation-theory-models-applications:ch24-chapter-24-communicating-evaluation-findings:c0004",
+            "chunk:evaluation-theory-models-applications:providing-interim-evaluative-feedback:c0002",
+            "chunk:evaluation-theory-models-applications:providing-follow-up-support-to-enhance-an-evaluation-s-impact:c0017"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd"
+        },
+        {
+          "id": "chapter-25",
+          "title": "Chapter 25: Metaevaluation: Evaluating Evaluations",
+          "source_pages": "667-705",
+          "section_path": "Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation > Chapter 25: Metaevaluation: Evaluating Evaluations",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001",
+            "chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0002",
+            "chunk:evaluation-theory-models-applications:the-role-of-context-and-resource-constraints:c0006",
+            "chunk:evaluation-theory-models-applications:comparative-metaevaluations:c0003"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd"
+        },
+        {
+          "id": "chapter-26",
+          "title": "Chapter 26: Institutionalizing and Mainstreaming Evaluation",
+          "source_pages": "707-725",
+          "section_path": "Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation > Chapter 26: Institutionalizing and Mainstreaming Evaluation",
+          "evidence_ids": [
+            "chunk:evaluation-theory-models-applications:ch26-chapter-26-institutionalizing-and-mainstreaming-evaluation:c0001",
+            "chunk:evaluation-theory-models-applications:overview-of-the-remainder-of-the-chapter:c0001",
+            "chunk:evaluation-theory-models-applications:checklist-for-use-in-institutionalizing-and-mainstreaming-evaluation:c0025"
+          ],
+          "target_path": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd"
+        }
+      ]
+    }
+  ]
+}

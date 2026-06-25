@@ -1,0 +1,30 @@
+---
+title: "Impact Evaluation in Practice Chapter Map"
+description: "Reading map for selected Impact Evaluation in Practice notes."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
+
+## Reading Route
+
+1. [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd) - pages 37; `Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate? > What Is Impact Evaluation?`
+2. [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd) - pages 62; `Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation > Constructing a Theory of Change`
+3. [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd) - pages 77-78; `Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals > Causal Inference`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

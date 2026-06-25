@@ -1,0 +1,75 @@
+---
+title: "Evaluation: A Systematic Approach"
+description: "Book overview and study-note index for Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Evaluation: A Systematic Approach
+
+Study notes on *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>2004</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Evaluation design should be tailored to the question type, program circumstances, stakeholder relationship, and feasible evidence.
+
+## Major-Section Notes
+
+- [Tailoring Evaluations](section-01-tailoring-evaluations.qmd) - source pages 38-39
+- [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd) - source pages 89-90
+- [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd) - source pages 120-121
+
+## References

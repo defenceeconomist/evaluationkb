@@ -1,0 +1,62 @@
+---
+title: "The 17-Step Utilization-Focused Checklist"
+description: "Study note on The 17-Step Utilization-Focused Checklist in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "36-37"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 36-37</span><span>Major section</span></div>
+This note summarises the MCP research-library section "The 17-Step Utilization-Focused Checklist" from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The checklist gives a practical sequence for evaluations that are useful and actually used.
+
+## Study Summary
+
+The checklist gives a practical sequence for evaluations that are useful and actually used.
+
+It moves from evaluator readiness and user identification through questions, methods, data, interpretation, reporting, and follow-through.
+
+The structure makes utilization a design discipline rather than a hope at the end.
+
+## Key Concepts
+
+- Checklist
+- Evaluator readiness
+- Priority uses
+- Process use
+
+## Source Location
+
+- Section path: Introduction, Overview, and Context
+- Evidence records: `chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027`
+
+## Practical Implications
+
+- Use the checklist as a design audit across the whole evaluation cycle.
+- Return to earlier steps when users, uses, or context change.
+- Treat use as a continuing facilitation task.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that The 17-Step Utilization-Focused Checklist helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

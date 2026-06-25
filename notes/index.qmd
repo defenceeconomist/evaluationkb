@@ -11,12 +11,12 @@ toc: false
 
 # Notes overview
 
-This section collects source-grounded study notes. The first collection covers Funnell and Rogers' *Purposeful Program Theory* [@funnell_rogers_2011_purposeful_program_theory].
+This section collects source-grounded study notes from the MCP research library's `evaluation-texts` collection. The notes combine the existing hand-authored Purposeful Program Theory section with generated major-section notes for the other ready evaluation texts.
 
 <div class="page-metadata">
-  <span>Book notes</span>
-  <span>Theory of change</span>
-  <span>Logic models</span>
+  <span>10 books</span>
+  <span>Evaluation texts</span>
+  <span>MCP sourced</span>
   <span><a href="../references.bib" download>Export BibTeX</a></span>
 </div>
 :::
@@ -26,21 +26,28 @@ This section collects source-grounded study notes. The first collection covers F
   <label for="notes-search">Find
     <input id="notes-search" type="search" placeholder="Search notes" autocomplete="off" />
   </label>
-  <label for="notes-section-filter">Section
-    <select id="notes-section-filter">
-      <option value="all">All sections</option>
-      <option value="Part 1">Part 1</option>
-      <option value="Part 2">Part 2</option>
-      <option value="Part 3">Part 3</option>
-      <option value="Part 4">Part 4</option>
-      <option value="Part 5">Part 5</option>
-    </select>
+  <label for="notes-book-filter">Book
+    <select id="notes-book-filter">
+      <option value="all">All books</option>
+              <option value="purposeful-programme-theory">Purposeful Program Theory</option>
+              <option value="practical-program-evaluation">Practical Program Evaluation</option>
+              <option value="qualitative-research-evaluation-methods">Qualitative Research & Evaluation Methods</option>
+              <option value="realistic-evaluation">Realistic Evaluation</option>
+              <option value="impact-evaluation-in-practice">Impact Evaluation in Practice</option>
+              <option value="handbook-practical-program-evaluation">Handbook of Practical Program Evaluation</option>
+              <option value="evaluation-systematic-approach">Evaluation: A Systematic Approach</option>
+              <option value="essentials-utilization-focused-evaluation">Essentials of Utilization-Focused Evaluation</option>
+              <option value="magenta-book">Magenta Book</option>
+              <option value="evaluation-theory-models-applications">Evaluation Theory, Models, and Applications</option>
+</select>
   </label>
   <label for="notes-type-filter">Type
     <select id="notes-type-filter">
       <option value="all">All types</option>
-      <option value="Chapter">Chapter</option>
+      <option value="Book">Book</option>
       <option value="Synthesis">Synthesis</option>
+      <option value="Map">Map</option>
+      <option value="Practice">Practice</option>
     </select>
   </label>
 </div>
@@ -48,150 +55,286 @@ This section collects source-grounded study notes. The first collection covers F
 ```
 
 ::: {.section-grid}
-::: {.section-card data-note-card="" data-section="Part 1" data-type="Synthesis"}
-<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-synthesis">Synthesis</span></div>
+::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2011</span></div>
 
 ### [Purposeful Program Theory](purposeful-programme-theory/index.qmd)
 
-Book overview, part structure, and reading routes for the chapter notes.
+Theories of change, theories of action, logic models, assumptions, and causal inference for program theory use.
 :::
+::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2011</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 1" data-type="Synthesis"}
-<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span></div>
+### [Core Concepts: Purposeful Program Theory](purposeful-programme-theory/concepts.qmd)
 
-### [Core Concepts](purposeful-programme-theory/concepts.qmd)
-
-A consolidated guide to the book's central distinctions and recurring concepts.
+Recurring concepts and distinctions for this source.
 :::
+::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2011</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Chapter Map: Purposeful Program Theory](purposeful-programme-theory/chapter-map.qmd)
 
-### [1. The Essence of Program Theory](purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd)
-
-Program theory turns evaluation from a simple before-and-after judgement into an explanation of how an intervention is expected to generate change, where that explanation might fail, and what evidence would distinguish success, partial success, implementation failure, and theory failure.
+Selected source sections, evidence IDs, and reading route.
 :::
+::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2011</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Practice Implications: Purposeful Program Theory](purposeful-programme-theory/evaluation-practice-implications.qmd)
 
-### [2. Variations of Program Theory over Time](purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd)
-
-Program theory is not a new invention but a family of related ideas with varied terminology, intellectual roots, and practical traditions; evaluators need to understand the vocabulary well enough to choose terms that support use rather than confusion.
+Evaluation design habits and practical uses.
 :::
+::: {.section-card data-note-card="" data-book="practical-program-evaluation" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 1" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 1</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Practical Program Evaluation](practical-program-evaluation/index.qmd)
 
-### [3. Common Myths and Traps](purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd)
-
-The value of program theory depends on avoiding common myths and practical traps, especially the belief that drawing a diagram is enough or that one standard model can fit every evaluation purpose.
+A practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.
 :::
+::: {.section-card data-note-card="" data-book="practical-program-evaluation" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 2" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 2</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Core Concepts: Practical Program Evaluation](practical-program-evaluation/concepts.qmd)
 
-### [4. Scoping Intended Uses](purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd)
-
-A program theory should be scoped around intended users, uses, and timing; the same intervention can need different theories for planning, communication, management, monitoring, evaluation, or evidence-informed policy.
+Recurring concepts and distinctions for this source.
 :::
+::: {.section-card data-note-card="" data-book="practical-program-evaluation" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 2" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 2</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Chapter Map: Practical Program Evaluation](practical-program-evaluation/chapter-map.qmd)
 
-### [5. The Nature of the Situation and the Intervention](purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd)
-
-The nature of the intervention and its setting should shape the program theory; simple, complicated, and complex situations require different assumptions about focus, governance, consistency, necessity, sufficiency, and change trajectories.
+Selected source sections, evidence IDs, and reading route.
 :::
+::: {.section-card data-note-card="" data-book="practical-program-evaluation" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Practice Implications: Practical Program Evaluation](practical-program-evaluation/practice-implications.qmd)
 
-### [6. Processes to Identify or Develop a Program Theory](purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd)
-
-Developing a program theory is a methodological choice, not just a workshop activity; evaluators must decide who participates, what evidence informs the theory, how conflict is handled, how much resource to invest, and when to revisit the theory.
+Evaluation design habits and practical uses.
 :::
+::: {.section-card data-note-card="" data-book="qualitative-research-evaluation-methods" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd)
 
-### [7. Developing a Theory of Change](purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd)
-
-A theory of change explains the causal pathway from problem analysis to intended outcomes; it requires situation analysis, evidence-informed causal reasoning, careful focusing, and a defensible outcomes chain.
+Qualitative inquiry for evaluation questions where context, meaning, process, and use matter.
 :::
+::: {.section-card data-note-card="" data-book="qualitative-research-evaluation-methods" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Core Concepts: Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/concepts.qmd)
 
-### [8. Developing a Theory of Action](purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd)
-
-A theory of action explains what the program will do to activate the theory of change, including resources, activities, outputs, success criteria, assumptions, and factors that affect achievement.
+Recurring concepts and distinctions for this source.
 :::
+::: {.section-card data-note-card="" data-book="qualitative-research-evaluation-methods" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Chapter Map: Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/chapter-map.qmd)
 
-### [9. Representing Program Theory](purposeful-programme-theory/chapter-09-representing-program-theory.qmd)
-
-Representing program theory is a design choice: diagrams, matrices, narratives, and multiple models should be selected to fit the intervention’s causal structure, complexity, and intended use.
+Selected source sections, evidence IDs, and reading route.
 :::
+::: {.section-card data-note-card="" data-book="qualitative-research-evaluation-methods" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2015</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 3" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 3</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Practice Implications: Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/practice-implications.qmd)
 
-### [10. Critiquing Program Theory](purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd)
-
-A program theory should be critiqued for clarity, plausibility, evidence, context, ethics, usefulness, and proportionality before it is used as the basis for monitoring or evaluation.
+Evaluation design habits and practical uses.
 :::
+::: {.section-card data-note-card="" data-book="realistic-evaluation" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">1997</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Realistic Evaluation](realistic-evaluation/index.qmd)
 
-### [11. Some Research-Based Theories of Change](purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd)
-
-Research-based theories of change can strengthen program theory when they are selected critically and adapted to the intervention context rather than imported mechanically.
+A realist approach to explaining what works, for whom, in what circumstances, and why.
 :::
+::: {.section-card data-note-card="" data-book="realistic-evaluation" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">1997</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Core Concepts: Realistic Evaluation](realistic-evaluation/concepts.qmd)
 
-### [12. Some Common Program Archetypes](purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd)
-
-Common program archetypes help evaluators recognize recurring intervention logics, but each archetype brings different assumptions, risks, and evidence needs.
+Recurring concepts and distinctions for this source.
 :::
+::: {.section-card data-note-card="" data-book="realistic-evaluation" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">1997</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 4" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 4</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Chapter Map: Realistic Evaluation](realistic-evaluation/chapter-map.qmd)
 
-### [13. Logic Models Resources](purposeful-programme-theory/chapter-13-logic-models-resources.qmd)
-
-Logic model resources and technologies can support representation, but the usefulness of a logic model depends more on conceptual clarity than on the drawing tool.
+Selected source sections, evidence IDs, and reading route.
 :::
+::: {.section-card data-note-card="" data-book="realistic-evaluation" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">1997</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Practice Implications: Realistic Evaluation](realistic-evaluation/practice-implications.qmd)
 
-### [14. Developing a Monitoring and Evaluation Plan](purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
-
-Program theory can anchor monitoring and evaluation plans by identifying what to measure, when to measure it, what comparisons are needed, and how evaluation questions connect to the expected causal pathway.
+Evaluation design habits and practical uses.
 :::
+::: {.section-card data-note-card="" data-book="impact-evaluation-in-practice" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2016</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd)
 
-### [15. Causal Inference](purposeful-programme-theory/chapter-15-causal-inference.qmd)
-
-Causal inference in program theory should be both scientific and pragmatic, combining congruence analysis, counterfactual comparisons, and critical review to assess whether the program plausibly contributed to observed outcomes.
+Impact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.
 :::
+::: {.section-card data-note-card="" data-book="impact-evaluation-in-practice" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2016</span></div>
 
-::: {.section-card data-note-card="" data-section="Part 5" data-type="Chapter"}
-<div class="badge-row"><span class="page-badge badge-part">Part 5</span><span class="page-badge badge-chapter">Chapter</span></div>
+### [Core Concepts: Impact Evaluation in Practice](impact-evaluation-in-practice/concepts.qmd)
 
-### [16. Synthesis and Reporting](purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd)
-
-Synthesis and reporting should use program theory to integrate diverse evidence, explain causal contribution, support timely learning, and connect findings across linked evaluations.
+Recurring concepts and distinctions for this source.
 :::
+::: {.section-card data-note-card="" data-book="impact-evaluation-in-practice" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2016</span></div>
 
+### [Chapter Map: Impact Evaluation in Practice](impact-evaluation-in-practice/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="impact-evaluation-in-practice" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2016</span></div>
+
+### [Practice Implications: Impact Evaluation in Practice](impact-evaluation-in-practice/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
+::: {.section-card data-note-card="" data-book="handbook-practical-program-evaluation" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2015</span></div>
+
+### [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd)
+
+A broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.
+:::
+::: {.section-card data-note-card="" data-book="handbook-practical-program-evaluation" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2015</span></div>
+
+### [Core Concepts: Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/concepts.qmd)
+
+Recurring concepts and distinctions for this source.
+:::
+::: {.section-card data-note-card="" data-book="handbook-practical-program-evaluation" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2015</span></div>
+
+### [Chapter Map: Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="handbook-practical-program-evaluation" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2015</span></div>
+
+### [Practice Implications: Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-systematic-approach" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2004</span></div>
+
+### [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd)
+
+A systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-systematic-approach" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2004</span></div>
+
+### [Core Concepts: Evaluation: A Systematic Approach](evaluation-systematic-approach/concepts.qmd)
+
+Recurring concepts and distinctions for this source.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-systematic-approach" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2004</span></div>
+
+### [Chapter Map: Evaluation: A Systematic Approach](evaluation-systematic-approach/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-systematic-approach" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2004</span></div>
+
+### [Practice Implications: Evaluation: A Systematic Approach](evaluation-systematic-approach/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
+::: {.section-card data-note-card="" data-book="essentials-utilization-focused-evaluation" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2012</span></div>
+
+### [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd)
+
+A compact guide to designing evaluations for primary intended users and actual use.
+:::
+::: {.section-card data-note-card="" data-book="essentials-utilization-focused-evaluation" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2012</span></div>
+
+### [Core Concepts: Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/concepts.qmd)
+
+Recurring concepts and distinctions for this source.
+:::
+::: {.section-card data-note-card="" data-book="essentials-utilization-focused-evaluation" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2012</span></div>
+
+### [Chapter Map: Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="essentials-utilization-focused-evaluation" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2012</span></div>
+
+### [Practice Implications: Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
+::: {.section-card data-note-card="" data-book="magenta-book" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2020</span></div>
+
+### [Magenta Book](magenta-book/index.qmd)
+
+UK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.
+:::
+::: {.section-card data-note-card="" data-book="magenta-book" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2020</span></div>
+
+### [Core Concepts: Magenta Book](magenta-book/concepts.qmd)
+
+Recurring concepts and distinctions for this source.
+:::
+::: {.section-card data-note-card="" data-book="magenta-book" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2020</span></div>
+
+### [Chapter Map: Magenta Book](magenta-book/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="magenta-book" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2020</span></div>
+
+### [Practice Implications: Magenta Book](magenta-book/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-theory-models-applications" data-type="Book"}
+<div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2014</span></div>
+
+### [Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/index.qmd)
+
+A survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-theory-models-applications" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">2014</span></div>
+
+### [Core Concepts: Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/concepts.qmd)
+
+Recurring concepts and distinctions for this source.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-theory-models-applications" data-type="Map"}
+<div class="badge-row"><span class="page-badge badge-map">Map</span><span class="page-badge badge-chapter">2014</span></div>
+
+### [Chapter Map: Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/chapter-map.qmd)
+
+Selected source sections, evidence IDs, and reading route.
+:::
+::: {.section-card data-note-card="" data-book="evaluation-theory-models-applications" data-type="Practice"}
+<div class="badge-row"><span class="page-badge badge-practice">Practice</span><span class="page-badge badge-chapter">2014</span></div>
+
+### [Practice Implications: Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/practice-implications.qmd)
+
+Evaluation design habits and practical uses.
+:::
 :::
 
 ```{=html}

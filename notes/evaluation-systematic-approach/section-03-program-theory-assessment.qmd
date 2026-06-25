@@ -1,0 +1,62 @@
+---
+title: "Expressing and Assessing Program Theory"
+description: "Study note on Expressing and Assessing Program Theory in Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "120-121"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 120-121</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Expressing and Assessing Program Theory" from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The chapter treats program theory as part of the evaluand, not only as an evaluator's planning aid.
+
+## Study Summary
+
+The chapter treats program theory as part of the evaluand, not only as an evaluator's planning aid.
+
+Assessment asks whether the program's logic, objectives, activities, and causal assumptions are explicit and plausible.
+
+This work helps identify whether later impact evaluation would be meaningful.
+
+## Key Concepts
+
+- Program theory
+- Evaluability
+- Logic and plausibility
+- Implementation failure
+
+## Source Location
+
+- Section path: Chapter 5: Expressing and Assessing Program Theory
+- Evidence records: `chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001`
+
+## Practical Implications
+
+- Assess program theory before estimating impact.
+- Look for missing links between program activities and expected benefits.
+- Use theory assessment to decide whether the program or evaluation design needs revision first.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Expressing and Assessing Program Theory helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

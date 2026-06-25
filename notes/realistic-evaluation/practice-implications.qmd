@@ -1,0 +1,35 @@
+---
+title: "Realistic Evaluation Practice Implications"
+description: "Practice synthesis for Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0011"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+
+## Evaluation Practice Implications
+
+- Specify conjectured CMO configurations before selecting data collection methods.
+- Analyze variation across contexts and participants instead of averaging it away too quickly.
+- Use evaluation findings to refine program theory for future adaptation.
+- Report findings as conditional explanations, not universal effects.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## References

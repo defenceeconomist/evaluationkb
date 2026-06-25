@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "impact-evaluation-in-practice",
+  "book_title": "Impact Evaluation in Practice",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "what-is-impact-evaluation",
+      "section_title": "What Is Impact Evaluation?",
+      "source_pages": "37",
+      "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate? > What Is Impact Evaluation?",
+      "evidence_ids": [
+        "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+      ]
+    },
+    {
+      "section_id": "constructing-theory-of-change",
+      "section_title": "Constructing a Theory of Change",
+      "source_pages": "62",
+      "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation > Constructing a Theory of Change",
+      "evidence_ids": [
+        "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+      ]
+    },
+    {
+      "section_id": "causal-inference-counterfactuals",
+      "section_title": "Causal Inference and Counterfactuals",
+      "source_pages": "77-78",
+      "section_path": "Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals > Causal Inference",
+      "evidence_ids": [
+        "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+      ]
+    }
+  ]
+}

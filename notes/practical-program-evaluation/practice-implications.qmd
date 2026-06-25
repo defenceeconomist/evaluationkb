@@ -1,0 +1,35 @@
+---
+title: "Practical Program Evaluation Practice Implications"
+description: "Practice synthesis for Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+  - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Practical Program Evaluation* [@chen_2015_practical_program_evaluation].
+
+## Evaluation Practice Implications
+
+- Begin by clarifying the program stage and intended evaluation purpose.
+- Use logic models for tractable program description and program theory when mechanisms and context matter.
+- Treat stakeholder assumptions as evaluation design evidence, not background noise.
+- Check whether a familiar logic-model format is hiding system-change or contextual complexity.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
+- [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
+- [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+
+## References

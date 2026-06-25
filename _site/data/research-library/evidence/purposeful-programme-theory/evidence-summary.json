@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "purposeful-program-theory",
+  "book_title": "Purposeful Program Theory",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": []
+}

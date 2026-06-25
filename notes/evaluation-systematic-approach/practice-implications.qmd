@@ -1,0 +1,35 @@
+---
+title: "Evaluation: A Systematic Approach Practice Implications"
+description: "Practice synthesis for Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach].
+
+## Evaluation Practice Implications
+
+- Classify evaluation questions before selecting methods.
+- Assess program theory and process before attempting impact claims.
+- Use stakeholder relationships deliberately: independent, collaborative, or capacity-building.
+- Prioritize questions that can influence understanding or decisions.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## References

@@ -1,0 +1,62 @@
+---
+title: "Negotiating Methods for Intended Use"
+description: "Study note on Negotiating Methods for Intended Use in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "288-289"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 288-289</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Negotiating Methods for Intended Use" from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section frames methods choice as a facilitated negotiation about credibility, utility, and constraints.
+
+## Study Summary
+
+The section frames methods choice as a facilitated negotiation about credibility, utility, and constraints.
+
+Intended users need to understand methodological debates enough to judge what evidence will be credible for their use.
+
+The evaluator's role includes surfacing trade-offs before data collection locks them in.
+
+## Key Concepts
+
+- Methods negotiation
+- Credible evidence
+- User capacity
+- Trade-offs
+
+## Source Location
+
+- Section path: Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users
+- Evidence records: `chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005`
+
+## Practical Implications
+
+- Discuss methodological controversies before committing to a design.
+- Make criteria for credibility explicit with intended users.
+- Choose methods that answer priority questions within real constraints.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Negotiating Methods for Intended Use helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

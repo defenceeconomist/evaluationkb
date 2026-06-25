@@ -1,0 +1,63 @@
+---
+title: "Standards and Metaevaluation"
+description: "Study note on Standards and Metaevaluation in Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "353"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 353</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Standards and Metaevaluation" from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section connects CIPP to professional standards and metaevaluation.
+
+## Study Summary
+
+The section connects CIPP to professional standards and metaevaluation.
+
+Evaluation quality is judged against utility, feasibility, propriety, accuracy, and accountability.
+
+Metaevaluation is both formative, guiding correction during the work, and summative, judging final quality.
+
+## Key Concepts
+
+- Utility
+- Feasibility
+- Propriety
+- Accuracy
+- Evaluation accountability
+
+## Source Location
+
+- Section path: Part Three > Chapter 13 > Philosophy and Code of Ethics Underlying the CIPP Model
+- Evidence records: `chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006`
+
+## Practical Implications
+
+- Use standards as checkpoints during the evaluation, not only after completion.
+- Report how the evaluation met relevant quality standards.
+- Seek independent metaevaluation when stakes justify it.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Standards and Metaevaluation helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

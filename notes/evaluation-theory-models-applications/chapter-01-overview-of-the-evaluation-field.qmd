@@ -1,0 +1,93 @@
+---
+title: "Chapter 01: Overview of the Evaluation Field"
+description: "Detailed study notes for Chapter 1 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+part: "Part One: Fundamentals of Evaluation"
+source_pages: "39-79"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001"
+  - "chunk:evaluation-theory-models-applications:how-should-evaluations-be-used:c0005"
+  - "chunk:evaluation-theory-models-applications:what-are-the-main-historical-milestones-in-the-evaluation-field-s-development:c0028"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part One: Fundamentals of Evaluation</span><span>Chapter 1</span><span>Source pages 39-79</span></div>
+
+This note summarises Chapter 1, "Overview of the Evaluation Field," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001`
+- `chunk:evaluation-theory-models-applications:how-should-evaluations-be-used:c0005`
+- `chunk:evaluation-theory-models-applications:what-are-the-main-historical-milestones-in-the-evaluation-field-s-development:c0028`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation is presented as a systematic value-oriented discipline that society needs for improvement, accountability, and protection from weak or unsafe services.
+
+## Study Summary
+
+The opening chapter separates formal evaluation from everyday judgment. Informal evaluation is unavoidable, but it is often unsystematic and weakly documented. Formal evaluation is treated as a disciplined process for judging merit, worth, probity, safety, effectiveness, efficiency, and related criteria.
+
+The chapter broadens evaluation beyond objectives and outcomes. Programs, policies, services, products, personnel systems, and organizations can all be evaluands. A sound evaluation asks what value criteria matter, whose needs are at stake, what evidence is credible, and how findings should be communicated.
+
+Formative and summative uses organize much of the chapter. Formative evaluation supports development and improvement, while summative evaluation supports overall judgment, accountability, adoption, or discontinuation. The authors stress that the two uses can interact and should not be treated as mutually exclusive.
+
+The historical review positions evaluation as a profession that grew through educational measurement, objectives-based evaluation, federal program accountability, professional standards, and later multidisciplinary expansion. The field's history is used as a warning against narrow method loyalties and as a rationale for standards-based practice.
+
+For close reading, track how the chapter uses formal evaluation, informal evaluation, evaluand, and merit and worth while moving through definitions and objects of evaluation, criteria for judging value, and formative and summative uses. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the foundations that make later model ratings and procedural guidance intelligible. It supplies vocabulary for judging approaches, reading standards, and distinguishing evaluation from narrower forms of measurement, monitoring, research, or administrative review.
+
+## Key Concepts
+
+- formal evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- informal evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluand: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- merit and worth: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- probity: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- formative use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- summative use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- professionalization: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definitions and objects of evaluation.
+- Criteria for judging value.
+- Formative and summative uses.
+- Internal and external evaluation.
+- Historical periods in the field.
+
+## Practical Implications
+
+- Clarify the evaluand and value criteria before selecting methods.
+- Treat formative and summative needs as design choices, not labels added after the fact.
+- Use professional standards to check credibility when evaluation findings will affect public decisions.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 2: Evaluation Theory](chapter-02-evaluation-theory.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 1 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 1, pages 39-79.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

@@ -1,0 +1,93 @@
+---
+title: "Chapter 05: Pseudoevaluations"
+description: "Detailed study notes for Chapter 5 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+part: "Part Two: An Evaluation of Evaluation Approaches and Models"
+source_pages: "151-168"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0006"
+  - "chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0010"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 5</span><span>Source pages 151-168</span></div>
+
+This note summarises Chapter 5, "Pseudoevaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001`
+- `chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0006`
+- `chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0010`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Pseudoevaluations use the appearance of evaluation while failing to provide independent, credible, and value-focused assessment.
+
+## Study Summary
+
+Chapter 5 identifies approaches that the authors judge to be invalid or dangerously incomplete when presented as evaluation. The point is not that every activity described is always useless, but that each can mislead when it substitutes for defensible assessment of merit and worth.
+
+The authors discuss politically controlled studies, public relations studies, accountability theatre, and other forms in which the evaluation process is bent toward a predetermined interest. The harm is practical and ethical: weak evidence can legitimate bad decisions and reduce confidence in evaluation.
+
+A recurring warning is that good intentions do not rescue a flawed evaluation structure. Even approaches meant to empower stakeholders can become pseudoevaluative if they give interested parties control over evidence quality and judgment while presenting the result as independent evaluation.
+
+The chapter is a professional ethics checkpoint. Evaluators need to recognize assignments that would compromise independence, distort reporting, hide findings, or confuse satisfaction feedback with a credible value judgment.
+
+For close reading, track how the chapter uses pseudoevaluation, political control, public relations evaluation, and customer feedback while moving through definition of pseudoevaluation, types of misleading studies, and political and public relations risks. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's standards-based assessment of evaluation approaches. Its classifications and ratings are their judgments about how well each approach supports defensible evaluation, not a neutral consensus ranking of the whole field.
+
+## Key Concepts
+
+- pseudoevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- political control: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- public relations evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- customer feedback: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- empowerment risk: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- independence: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- credible reporting: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definition of pseudoevaluation.
+- Types of misleading studies.
+- Political and public relations risks.
+- Customer feedback and empowerment concerns.
+- Professional cautions.
+
+## Practical Implications
+
+- Screen assignments for control over questions, evidence, and reporting.
+- Do not market satisfaction data as a full evaluation of value.
+- Negotiate independence and publication conditions before accepting high-risk work.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Background for Assessing Evaluation Approaches](chapter-04-background-for-assessing-evaluation-approaches.qmd)
+- Next: [Chapter 6: Quasi-evaluation Studies](chapter-06-quasi-evaluation-studies.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 5 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 5, pages 151-168.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

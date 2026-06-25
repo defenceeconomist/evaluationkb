@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "handbook-practical-program-evaluation",
+  "book_title": "Handbook of Practical Program Evaluation",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "planning-and-design",
+      "section_title": "Evaluation Planning and Design",
+      "source_pages": "43-45",
+      "section_path": "Part 1: Evaluation Planning and Design",
+      "evidence_ids": [
+        "chunk:handbook-practical-program-evaluation:part-1:c0001",
+        "chunk:handbook-practical-program-evaluation:part-1:c0004"
+      ]
+    },
+    {
+      "section_id": "planning-useful-evaluations",
+      "section_title": "Planning and Designing Useful Evaluations",
+      "source_pages": "49-51",
+      "section_path": "Part 1: Evaluation Planning and Design > Chapter 1: Planning and Designing Useful Evaluations",
+      "evidence_ids": [
+        "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+      ]
+    },
+    {
+      "section_id": "performance-measurement",
+      "section_title": "Performance Measurement and Program Evaluation",
+      "source_pages": "150-151",
+      "section_path": "Part 1: Evaluation Planning and Design > Chapter 5: Performance Measurement",
+      "evidence_ids": [
+        "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+      ]
+    }
+  ]
+}

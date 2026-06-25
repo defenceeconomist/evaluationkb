@@ -1,9 +1,384 @@
 {
   "nodes": [
     {
+      "id": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "title": "Essentials of Utilization-Focused Evaluation Chapter Map",
+      "path": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "title": "Core Concepts in Essentials of Utilization-Focused Evaluation",
+      "path": "notes/essentials-utilization-focused-evaluation/concepts.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "title": "Essentials of Utilization-Focused Evaluation",
+      "path": "notes/essentials-utilization-focused-evaluation/index.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "title": "Essentials of Utilization-Focused Evaluation Practice Implications",
+      "path": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "title": "Utilization-Focused Evaluation Overview",
+      "path": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "title": "The 17-Step Utilization-Focused Checklist",
+      "path": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "title": "Negotiating Methods for Intended Use",
+      "path": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "title": "Evaluation: A Systematic Approach Chapter Map",
+      "path": "notes/evaluation-systematic-approach/chapter-map.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/concepts.qmd",
+      "title": "Core Concepts in Evaluation: A Systematic Approach",
+      "path": "notes/evaluation-systematic-approach/concepts.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/index.qmd",
+      "title": "Evaluation: A Systematic Approach",
+      "path": "notes/evaluation-systematic-approach/index.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "title": "Evaluation: A Systematic Approach Practice Implications",
+      "path": "notes/evaluation-systematic-approach/practice-implications.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "title": "Tailoring Evaluations",
+      "path": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "title": "Identifying Issues and Formulating Questions",
+      "path": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "title": "Expressing and Assessing Program Theory",
+      "path": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "title": "Chapter 01: Overview of the Evaluation Field",
+      "path": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "title": "Chapter 02: Evaluation Theory",
+      "path": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "title": "Chapter 03: Standards for Program Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "title": "Chapter 04: Background for Assessing Evaluation Approaches",
+      "path": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "title": "Chapter 05: Pseudoevaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "title": "Chapter 06: Quasi-evaluation Studies",
+      "path": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "title": "Chapter 07: Improvement- and Accountability-oriented Evaluation Approaches",
+      "path": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "title": "Chapter 08: Social Agenda and Advocacy Evaluation Approaches",
+      "path": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "title": "Chapter 09: Eclectic Evaluation Approaches",
+      "path": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "title": "Chapter 10: Best Approaches for Twenty-first-century Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "title": "Chapter 11: Experimental and Quasi-experimental Design Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "title": "Chapter 12: Case Study Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "title": "Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation",
+      "path": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "title": "Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation",
+      "path": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "title": "Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach",
+      "path": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "title": "Chapter 16: Michael Patton's Utilization-focused Evaluation",
+      "path": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "title": "Chapter 17: Identifying and Assessing Evaluation Opportunities",
+      "path": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "title": "Chapter 18: First Steps in Addressing Evaluation Opportunities",
+      "path": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "title": "Chapter 19: Designing Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "title": "Chapter 20: Budgeting Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "title": "Chapter 21: Contracting Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "title": "Chapter 22: Collecting Evaluative Information",
+      "path": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "title": "Chapter 23: Analyzing and Synthesizing Information",
+      "path": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "title": "Chapter 24: Communicating Evaluation Findings",
+      "path": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "title": "Chapter 25: Metaevaluation: Evaluating Evaluations",
+      "path": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "title": "Chapter 26: Institutionalizing and Mainstreaming Evaluation",
+      "path": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "title": "Evaluation Theory, Models, and Applications Chapter Map",
+      "path": "notes/evaluation-theory-models-applications/chapter-map.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "title": "Core Concepts in Evaluation Theory, Models, and Applications",
+      "path": "notes/evaluation-theory-models-applications/concepts.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/index.qmd",
+      "title": "Evaluation Theory, Models, and Applications",
+      "path": "notes/evaluation-theory-models-applications/index.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "title": "Evaluation Theory, Models, and Applications Practice Implications",
+      "path": "notes/evaluation-theory-models-applications/practice-implications.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "title": "Program Evaluation Standards and Theory Development",
+      "path": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "title": "CIPP Model Overview",
+      "path": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd"
+    },
+    {
+      "id": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "title": "Standards and Metaevaluation",
+      "path": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "title": "Handbook of Practical Program Evaluation Chapter Map",
+      "path": "notes/handbook-practical-program-evaluation/chapter-map.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "title": "Core Concepts in Handbook of Practical Program Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/concepts.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/index.qmd",
+      "title": "Handbook of Practical Program Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/index.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "title": "Handbook of Practical Program Evaluation Practice Implications",
+      "path": "notes/handbook-practical-program-evaluation/practice-implications.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "title": "Evaluation Planning and Design",
+      "path": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "title": "Planning and Designing Useful Evaluations",
+      "path": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "title": "Performance Measurement and Program Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "title": "Impact Evaluation in Practice Chapter Map",
+      "path": "notes/impact-evaluation-in-practice/chapter-map.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "title": "Core Concepts in Impact Evaluation in Practice",
+      "path": "notes/impact-evaluation-in-practice/concepts.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/index.qmd",
+      "title": "Impact Evaluation in Practice",
+      "path": "notes/impact-evaluation-in-practice/index.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "title": "Impact Evaluation in Practice Practice Implications",
+      "path": "notes/impact-evaluation-in-practice/practice-implications.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "title": "What Is Impact Evaluation?",
+      "path": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "title": "Constructing a Theory of Change",
+      "path": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "title": "Causal Inference and Counterfactuals",
+      "path": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd"
+    },
+    {
       "id": "notes/index.qmd",
       "title": "Notes",
       "path": "notes/index.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-map.qmd",
+      "title": "Magenta Book Chapter Map",
+      "path": "notes/magenta-book/chapter-map.qmd"
+    },
+    {
+      "id": "notes/magenta-book/concepts.qmd",
+      "title": "Core Concepts in Magenta Book",
+      "path": "notes/magenta-book/concepts.qmd"
+    },
+    {
+      "id": "notes/magenta-book/index.qmd",
+      "title": "Magenta Book",
+      "path": "notes/magenta-book/index.qmd"
+    },
+    {
+      "id": "notes/magenta-book/practice-implications.qmd",
+      "title": "Magenta Book Practice Implications",
+      "path": "notes/magenta-book/practice-implications.qmd"
+    },
+    {
+      "id": "notes/magenta-book/section-01-executive-summary.qmd",
+      "title": "Executive Summary and Evaluation Types",
+      "path": "notes/magenta-book/section-01-executive-summary.qmd"
+    },
+    {
+      "id": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "title": "Choosing Evaluation Methods",
+      "path": "notes/magenta-book/section-02-evaluation-methods.qmd"
+    },
+    {
+      "id": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "title": "Managing an Evaluation",
+      "path": "notes/magenta-book/section-03-managing-evaluation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-map.qmd",
+      "title": "Practical Program Evaluation Chapter Map",
+      "path": "notes/practical-program-evaluation/chapter-map.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/concepts.qmd",
+      "title": "Core Concepts in Practical Program Evaluation",
+      "path": "notes/practical-program-evaluation/concepts.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/index.qmd",
+      "title": "Practical Program Evaluation",
+      "path": "notes/practical-program-evaluation/index.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/practice-implications.qmd",
+      "title": "Practical Program Evaluation Practice Implications",
+      "path": "notes/practical-program-evaluation/practice-implications.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "title": "Evaluation Design and Its Components",
+      "path": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "title": "Logic Models and the Action Model/Change Model Schema",
+      "path": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "title": "When Logic Models Do Not Work as Expected",
+      "path": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd"
     },
     {
       "id": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
@@ -104,9 +479,2034 @@
       "id": "notes/purposeful-programme-theory/index.qmd",
       "title": "Purposeful Program Theory",
       "path": "notes/purposeful-programme-theory/index.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "title": "Qualitative Research & Evaluation Methods Chapter Map",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-map.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "title": "Core Concepts in Qualitative Research & Evaluation Methods",
+      "path": "notes/qualitative-research-evaluation-methods/concepts.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "title": "Qualitative Research & Evaluation Methods",
+      "path": "notes/qualitative-research-evaluation-methods/index.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "title": "Qualitative Research & Evaluation Methods Practice Implications",
+      "path": "notes/qualitative-research-evaluation-methods/practice-implications.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "title": "Strategic Qualitative Principles in Practice",
+      "path": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "title": "Practical and Actionable Qualitative Inquiry",
+      "path": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "title": "Program Models, Theories of Change, and Qualitative Methods",
+      "path": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-map.qmd",
+      "title": "Realistic Evaluation Chapter Map",
+      "path": "notes/realistic-evaluation/chapter-map.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/concepts.qmd",
+      "title": "Core Concepts in Realistic Evaluation",
+      "path": "notes/realistic-evaluation/concepts.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/index.qmd",
+      "title": "Realistic Evaluation",
+      "path": "notes/realistic-evaluation/index.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/practice-implications.qmd",
+      "title": "Realistic Evaluation Practice Implications",
+      "path": "notes/realistic-evaluation/practice-implications.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "title": "Reader's Guide to Context, Mechanism, and Outcome",
+      "path": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "title": "Scientific Realism and CMO Hypotheses",
+      "path": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "title": "The New Rules and CMO Configurations",
+      "path": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd"
     }
   ],
   "edges": [
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
     {
       "source": "notes/index.qmd",
       "target": "notes/purposeful-programme-theory/index.qmd",
@@ -119,82 +2519,462 @@
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-map.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-02-variations-of-program-theory-over-time.qmd",
+      "target": "notes/purposeful-programme-theory/evaluation-practice-implications.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-04-scoping-intended-uses.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-05-the-nature-of-the-situation-and-the-intervention.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-06-processes-to-identify-or-develop-a-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-08-developing-a-theory-of-action.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-09-representing-program-theory.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-10-critiquing-program-theory.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-11-some-research-based-theories-of-change.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-12-some-common-program-archetypes.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-13-logic-models-resources.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/index.qmd",
-      "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/section-01-executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/section-01-executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/section-01-executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/section-01-executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
       "type": "internal-link"
     },
     {
@@ -741,12 +3521,578 @@
       "source": "notes/purposeful-programme-theory/index.qmd",
       "target": "notes/purposeful-programme-theory/chapter-16-synthesis-and-reporting.qmd",
       "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
     }
   ],
   "citations": [
     {
-      "source": "notes/index.qmd",
-      "citation": "funnell_rogers_2011_purposeful_program_theory"
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-02-evaluation-theory.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-03-standards-for-program-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-04-background-for-assessing-evaluation-approaches.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-05-pseudoevaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-06-quasi-evaluation-studies.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-08-social-agenda-and-advocacy-evaluation-approaches.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-09-eclectic-evaluation-approaches.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-11-experimental-and-quasi-experimental-design-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-12-case-study-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-16-michael-pattons-utilization-focused-evaluation.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-17-identifying-and-assessing-evaluation-opportunities.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-19-designing-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-20-budgeting-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-21-contracting-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-22-collecting-evaluative-information.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-23-analyzing-and-synthesizing-information.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-24-communicating-evaluation-findings.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-25-metaevaluation-evaluating-evaluations.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/chapter-map.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/concepts.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/index.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
     },
     {
       "source": "notes/purposeful-programme-theory/chapter-01-the-essence-of-program-theory.qmd",
@@ -827,6 +4173,62 @@
     {
       "source": "notes/purposeful-programme-theory/index.qmd",
       "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
     }
   ]
 }

@@ -1,0 +1,62 @@
+---
+title: "Scientific Realism and CMO Hypotheses"
+description: "Study note on Scientific Realism and CMO Hypotheses in Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "94-95"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 94-95</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Scientific Realism and CMO Hypotheses" from Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+This section turns realist philosophy into an evaluation task: identify, articulate, test, and refine CMO configurations.
+
+## Study Summary
+
+This section turns realist philosophy into an evaluation task: identify, articulate, test, and refine CMO configurations.
+
+The emphasis is on hypotheses about how mechanisms operate under social and cultural conditions.
+
+Realist evidence therefore depends on comparing where the same mechanism appears to work differently.
+
+## Key Concepts
+
+- Scientific realism
+- Hypothesis testing
+- Mechanism question
+- Context question
+
+## Source Location
+
+- Section path: Chapter 3: In with the New: Introducing Scientific Realism
+- Evidence records: `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051`
+
+## Practical Implications
+
+- Translate broad program theory into testable CMO hypotheses.
+- Design comparisons that can expose how context changes mechanism activation.
+- Use contrary cases as theory-refining evidence.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Scientific Realism and CMO Hypotheses helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

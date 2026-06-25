@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Essentials of Utilization-Focused Evaluation"
+description: "Synthesis note on recurring concepts in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation].
+
+## Central Logic
+
+Utilization-focused evaluation judges design quality by whether intended users can and will use the process and findings.
+
+## Concepts
+
+- Primary intended users: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Primary intended uses: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Situation analysis: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Process use: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Methods negotiation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Findings use: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd)
+- [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd)
+- [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd)
+
+## References

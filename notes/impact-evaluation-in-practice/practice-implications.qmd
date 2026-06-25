@@ -1,0 +1,35 @@
+---
+title: "Impact Evaluation in Practice Practice Implications"
+description: "Practice synthesis for Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
+
+## Evaluation Practice Implications
+
+- Clarify whether the question is descriptive, implementation-focused, or causal.
+- Build the evaluation around a theory of change before selecting an identification strategy.
+- Assess whether program rules, timing, and eligibility create feasible comparison options.
+- Plan data and sample size early enough to protect credibility.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## References

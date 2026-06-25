@@ -1,0 +1,62 @@
+---
+title: "When Logic Models Do Not Work as Expected"
+description: "Study note on When Logic Models Do Not Work as Expected in Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "382"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 382</span><span>Major section</span></div>
+This note summarises the MCP research-library section "When Logic Models Do Not Work as Expected" from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section warns that logic models can become misleading when programs combine intervention delivery with wider system change.
+
+## Study Summary
+
+The section warns that logic models can become misleading when programs combine intervention delivery with wider system change.
+
+The problem is not that logic models are useless, but that they need to be applied with judgment about what the program is trying to change and how stable the causal path is.
+
+When the model cannot represent system dynamics or multiple layers of action, evaluators should supplement it with richer program theory.
+
+## Key Concepts
+
+- System change
+- Model fit
+- Program complexity
+- Representation limits
+
+## Source Location
+
+- Section path: Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected > A Guide to Productively Applying the Logic Model and the Action Model/change Model Schema
+- Evidence records: `chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001`
+
+## Practical Implications
+
+- Check whether the model represents both the intervention and the system it seeks to change.
+- Look for confusion caused by compressing multiple causal routes into one linear chain.
+- Revise the representation before it drives data collection.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that When Logic Models Do Not Work as Expected helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

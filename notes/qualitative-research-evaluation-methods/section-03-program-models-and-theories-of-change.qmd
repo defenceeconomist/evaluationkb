@@ -1,0 +1,62 @@
+---
+title: "Program Models, Theories of Change, and Qualitative Methods"
+description: "Study note on Program Models, Theories of Change, and Qualitative Methods in Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "314-316"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 314-316</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Program Models, Theories of Change, and Qualitative Methods" from Michael Quinn Patton's *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section shows how qualitative inquiry can test and refine program models by connecting processes, implementation, and outcomes.
+
+## Study Summary
+
+The section shows how qualitative inquiry can test and refine program models by connecting processes, implementation, and outcomes.
+
+Qualitative evidence is useful where the formal theory of change is incomplete, contested, or too abstract to explain practice.
+
+This makes qualitative methods a complement to logic models: they can reveal how the model is experienced and enacted.
+
+## Key Concepts
+
+- Program model
+- Theory of change
+- Process study
+- Implementation evidence
+
+## Source Location
+
+- Section path: Part 1 > Chapter 4 > Module 23: Evaluating Program Models and Theories of Change
+- Evidence records: `chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024`
+
+## Practical Implications
+
+- Use interviews and observations to test whether the stated program model matches implementation.
+- Look for mechanisms and unanticipated outcomes that the initial theory missed.
+- Treat qualitative findings as evidence for revising the theory of change.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Program Models, Theories of Change, and Qualitative Methods helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

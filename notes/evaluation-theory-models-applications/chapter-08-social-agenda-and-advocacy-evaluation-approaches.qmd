@@ -1,0 +1,94 @@
+---
+title: "Chapter 08: Social Agenda and Advocacy Evaluation Approaches"
+description: "Detailed study notes for Chapter 8 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+part: "Part Two: An Evaluation of Evaluation Approaches and Models"
+source_pages: "227-245"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003"
+  - "chunk:evaluation-theory-models-applications:approach-19-constructivist-evaluation:c0006"
+  - "chunk:evaluation-theory-models-applications:approach-21-transformative-evaluation:c0006"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 8</span><span>Source pages 227-245</span></div>
+
+This note summarises Chapter 8, "Social Agenda and Advocacy Evaluation Approaches," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003`
+- `chunk:evaluation-theory-models-applications:approach-19-constructivist-evaluation:c0006`
+- `chunk:evaluation-theory-models-applications:approach-21-transformative-evaluation:c0006`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Social agenda and advocacy approaches bring democratic and justice commitments into evaluation, but they require strong safeguards against bias, impracticality, and loss of closure.
+
+## Study Summary
+
+Chapter 8 examines approaches that use evaluation to serve equity, democratic participation, and social change. Responsive or stakeholder-centered evaluation, constructivist evaluation, deliberative democratic evaluation, and transformative evaluation all give stakeholders a central role.
+
+The authors recognize the strengths of these approaches: they engage affected groups, surface multiple value perspectives, and challenge evaluations that ignore power and injustice. These strengths make them important correctives to technocratic evaluation.
+
+The chapter also raises concerns. Extensive participation can be expensive and difficult to close; relativist assumptions can make bottom-line judgment harder; advocacy commitments can create bias risks if not checked by evidence, standards, and metaevaluation.
+
+The practical lesson is to separate legitimate value commitments from uncontrolled advocacy. A justice-oriented evaluation still needs explicit standards, defensible evidence, transparent roles, and credible reporting.
+
+For close reading, track how the chapter uses responsive evaluation, constructivist evaluation, deliberative democratic evaluation, and transformative evaluation while moving through overview of advocacy approaches, responsive or stakeholder-centered evaluation, and constructivist evaluation. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's standards-based assessment of evaluation approaches. Its classifications and ratings are their judgments about how well each approach supports defensible evaluation, not a neutral consensus ranking of the whole field.
+
+## Key Concepts
+
+- responsive evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- constructivist evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- deliberative democratic evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- transformative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- social justice: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- stakeholder engagement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- bias control: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Overview of advocacy approaches.
+- Responsive or stakeholder-centered evaluation.
+- Constructivist evaluation.
+- Deliberative democratic evaluation.
+- Transformative evaluation.
+- Shared strengths and weaknesses.
+
+## Practical Implications
+
+- Design stakeholder participation with clear roles and limits.
+- Protect marginalized perspectives without giving up evidence standards.
+- Use independent metaevaluation when advocacy commitments could be questioned.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Improvement- and Accountability-oriented Evaluation Approaches](chapter-07-improvement-and-accountability-oriented-evaluation-approaches.qmd)
+- Next: [Chapter 9: Eclectic Evaluation Approaches](chapter-09-eclectic-evaluation-approaches.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 8 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 8, pages 227-245.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

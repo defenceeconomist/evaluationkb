@@ -1,0 +1,96 @@
+---
+title: "Chapter 19: Designing Evaluations"
+description: "Detailed study notes for Chapter 19 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 19
+part: "Part Four: Evaluation Tasks, Procedures, and Tools"
+source_pages: "481-510"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0002"
+  - "chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0003"
+  - "chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0016"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 19</span><span>Source pages 481-510</span></div>
+
+This note summarises Chapter 19, "Designing Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0001`
+- `chunk:evaluation-theory-models-applications:ch19-chapter-19-designing-evaluations:c0002`
+- `chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0003`
+- `chunk:evaluation-theory-models-applications:generic-checklist-for-designing-evaluations:c0016`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation design is an integrated set of decisions about purpose, users, questions, values, evidence, analysis, reporting, administration, and use.
+
+## Study Summary
+
+Chapter 19 defines an evaluation design as the decision architecture required to carry out a study. It includes the evaluand, audiences, questions, values, criteria, information sources, methods, analysis, reporting, schedule, administration, and use support.
+
+The chapter uses CIPP and standards as design resources, but the generic checklist is intended to work across approaches. The design must be detailed enough to guide action while remaining adaptable when formative or responsive evaluations surface new questions.
+
+Information planning is treated as part of design, not a later methods step. Evaluators should identify sources, instruments, sampling procedures, multiple evidence points, data control, analysis assumptions, and synthesis plans before fieldwork begins.
+
+The chapter also connects design to budgeting, contracting, reporting, and use. A design that ignores resources, roles, communication, or file management is incomplete even if its methods section looks technically sound.
+
+For close reading, track how the chapter uses evaluation design, evaluation question, value criteria, and information source while moving through definition and design skills, CIPP-based example, and standards in design. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Four, this chapter shifts attention from approach selection to execution. It is most useful when read as procedural guidance that still depends on earlier choices about purpose, standards, users, evaluand boundaries, and the kind of value judgment the evaluation must support.
+
+## Key Concepts
+
+- evaluation design: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation question: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- value criteria: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- information source: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- sampling: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- synthesis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- administration: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- CIPP design: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definition and design skills.
+- Cipp-based example.
+- Standards in design.
+- Generic design checklist.
+- Information organization and administration.
+
+## Practical Implications
+
+- Design from intended decisions and value criteria, not from preferred methods.
+- Plan analysis and synthesis before collecting information.
+- Keep the design revisable when the evaluation is formative or responsive.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 18: First Steps in Addressing Evaluation Opportunities](chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd)
+- Next: [Chapter 20: Budgeting Evaluations](chapter-20-budgeting-evaluations.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 19 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 19, pages 481-510.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

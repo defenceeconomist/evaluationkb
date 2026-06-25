@@ -1,0 +1,62 @@
+---
+title: "Utilization-Focused Evaluation Overview"
+description: "Study note on Utilization-Focused Evaluation Overview in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "27-28"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 27-28</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Utilization-Focused Evaluation Overview" from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The overview anchors U-FE in a practical sequence from findings to interpretation to action.
+
+## Study Summary
+
+The overview anchors U-FE in a practical sequence from findings to interpretation to action.
+
+Reports are not the purpose of evaluation; use is the purpose.
+
+The evaluator facilitates a process in which design decisions are judged by utility and actual use.
+
+## Key Concepts
+
+- Utility
+- Actual use
+- Primary intended users
+- Action
+
+## Source Location
+
+- Section path: Introduction, Overview, and Context
+- Evidence records: `chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007`
+
+## Practical Implications
+
+- Name who will use the evaluation and how.
+- Make use criteria visible in design decisions.
+- Plan beyond the report to interpretation and action.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Utilization-Focused Evaluation Overview helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

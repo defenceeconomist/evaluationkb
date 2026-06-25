@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Magenta Book"
+description: "Synthesis note on recurring concepts in Magenta Book."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book].
+
+## Central Logic
+
+Government evaluation should be scoped around decision needs, appropriate methods, robust data, quality assurance, and clear use of findings.
+
+## Concepts
+
+- Process evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Impact evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Value for money evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Theory-based methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Experimental and quasi-experimental methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Evaluation management: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [Executive Summary and Evaluation Types](section-01-executive-summary.qmd)
+- [Choosing Evaluation Methods](section-02-evaluation-methods.qmd)
+- [Managing an Evaluation](section-03-managing-evaluation.qmd)
+
+## References

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "qualitative-research-evaluation-methods",
+  "book_title": "Qualitative Research & Evaluation Methods",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "strategic-qualitative-principles",
+      "section_title": "Strategic Qualitative Principles in Practice",
+      "source_pages": "140-141",
+      "section_path": "Part 1 > Chapter 2: Strategic Themes in Qualitative Inquiry > Module 8",
+      "evidence_ids": [
+        "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+      ]
+    },
+    {
+      "section_id": "practical-actionable-qualitative-inquiry",
+      "section_title": "Practical and Actionable Qualitative Inquiry",
+      "source_pages": "269-270",
+      "section_path": "Part 1 > Chapter 4: Practical and Actionable Qualitative Applications > Module 20",
+      "evidence_ids": [
+        "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+      ]
+    },
+    {
+      "section_id": "program-models-and-theories-of-change",
+      "section_title": "Program Models, Theories of Change, and Qualitative Methods",
+      "source_pages": "314-316",
+      "section_path": "Part 1 > Chapter 4 > Module 23: Evaluating Program Models and Theories of Change",
+      "evidence_ids": [
+        "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+      ]
+    }
+  ]
+}

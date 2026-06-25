@@ -1,0 +1,95 @@
+---
+title: "Chapter 16: Michael Patton's Utilization-focused Evaluation"
+description: "Detailed study notes for Chapter 16 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 16
+part: "Part Three: Explication of Selected Evaluation Approaches"
+source_pages: "439-453"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch16-chapter-16-michael-patton-s-utilization-focused-evaluation:c0003"
+  - "chunk:evaluation-theory-models-applications:some-general-aspects-of-patton-s-utilization-focused-evaluation:c0003"
+  - "chunk:evaluation-theory-models-applications:planning-utilization-focused-evaluations:c0003"
+  - "chunk:evaluation-theory-models-applications:limitations-of-the-utilization-focused-evaluation-approach:c0005"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 16</span><span>Source pages 439-453</span></div>
+
+This note summarises Chapter 16, "Michael Patton's Utilization-focused Evaluation," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch16-chapter-16-michael-patton-s-utilization-focused-evaluation:c0003`
+- `chunk:evaluation-theory-models-applications:some-general-aspects-of-patton-s-utilization-focused-evaluation:c0003`
+- `chunk:evaluation-theory-models-applications:planning-utilization-focused-evaluations:c0003`
+- `chunk:evaluation-theory-models-applications:limitations-of-the-utilization-focused-evaluation-approach:c0005`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Utilization-focused evaluation designs every major evaluation choice around intended users and intended uses.
+
+## Study Summary
+
+Chapter 16 expands the utilization-focused approach introduced in Chapter 9. Patton's central claim is that evaluation should be judged by its actual usefulness to specific primary intended users for specific intended uses.
+
+The evaluator is not a detached judge in this approach. The evaluator facilitates decisions about focus, questions, values, methods, interpretation, and reporting with users who are expected to act on findings. This requires skill in group process, negotiation, values analysis, and standards.
+
+The chapter contrasts utilization-focused evaluation with responsive and constructivist approaches. It shares their attention to stakeholders, but it is more explicit about selecting primary users and building the evaluation around expected use.
+
+Limitations follow from the same strength. If intended users are poorly selected, uncommitted, unrepresentative, or unwilling to engage evidence, the evaluation can lose credibility or relevance. The approach also needs safeguards so use does not override propriety or accuracy.
+
+For close reading, track how the chapter uses utilization-focused evaluation, primary intended users, intended use, and facilitation while moving through general aspects of UFE, values and judgments, and planning UFE. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Three, this chapter turns a named approach into a design option. The issue for study is not whether the model has a memorable label, but which evaluation tasks it handles well, what ethical stance it implies, and where it needs supplementation by standards, mixed methods, or metaevaluation.
+
+## Key Concepts
+
+- utilization-focused evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- primary intended users: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- intended use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- facilitation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- values negotiation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- use standards: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- stakeholder commitment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- General aspects of ufe.
+- Values and judgments.
+- Planning ufe.
+- Premises and methods.
+- Limitations.
+
+## Practical Implications
+
+- Identify primary intended users explicitly and test their commitment.
+- Tie each major design decision to an intended use.
+- Protect standards for evidence and propriety when users strongly shape the agenda.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 15: Robert Stake's Responsive or Stakeholder-centered Evaluation Approach](chapter-15-robert-stakes-responsive-or-stakeholder-centered-evaluation-approach.qmd)
+- Next: [Chapter 17: Identifying and Assessing Evaluation Opportunities](chapter-17-identifying-and-assessing-evaluation-opportunities.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 16 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 16, pages 439-453.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

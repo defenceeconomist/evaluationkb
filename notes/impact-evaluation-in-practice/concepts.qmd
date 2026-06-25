@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Impact Evaluation in Practice"
+description: "Synthesis note on recurring concepts in Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
+
+## Central Logic
+
+Impact evaluation estimates causal effects by turning policy questions into testable designs with credible counterfactuals.
+
+## Concepts
+
+- Impact evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Monitoring versus evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Theory of change: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Evaluation question: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Counterfactual: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Power and sampling: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## References

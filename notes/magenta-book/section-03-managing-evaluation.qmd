@@ -1,0 +1,62 @@
+---
+title: "Managing an Evaluation"
+description: "Study note on Managing an Evaluation in Magenta Book."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "8"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 8</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Managing an Evaluation" from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The management section highlights the balance between consistency and flexibility.
+
+## Study Summary
+
+The management section highlights the balance between consistency and flexibility.
+
+Experimental and quasi-experimental designs often need stable delivery and measurement, while complex or innovative interventions may require adaptive evaluation management.
+
+Quality assurance and early planning help maintain credibility when evaluation requirements change.
+
+## Key Concepts
+
+- Evaluation management
+- Flexibility
+- Consistency
+- Quality assurance
+
+## Source Location
+
+- Section path: 5. Managing an evaluation
+- Evidence records: `chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017`
+
+## Practical Implications
+
+- Build adaptation rules into the evaluation plan.
+- Protect comparability when design consistency is required.
+- Use quality assurance to manage changes transparently.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Managing an Evaluation helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

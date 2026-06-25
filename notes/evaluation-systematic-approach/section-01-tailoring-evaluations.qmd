@@ -1,0 +1,62 @@
+---
+title: "Tailoring Evaluations"
+description: "Study note on Tailoring Evaluations in Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "38-39"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 38-39</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Tailoring Evaluations" from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The chapter presents evaluation design as a fit problem rather than a fixed sequence.
+
+## Study Summary
+
+The chapter presents evaluation design as a fit problem rather than a fixed sequence.
+
+A good plan responds to purposes, stakeholder expectations, program organization, available resources, and question type.
+
+The major question types include needs, theory, process, impact, and efficiency assessment.
+
+## Key Concepts
+
+- Tailoring
+- Evaluation purpose
+- Question type
+- Resource constraints
+
+## Source Location
+
+- Section path: Chapter 2: Tailoring Evaluations
+- Evidence records: `chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002`
+
+## Practical Implications
+
+- Name the evaluation question type before choosing a method.
+- Check whether the program is organized enough for the proposed question.
+- Make the evaluator-stakeholder relationship explicit.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Tailoring Evaluations helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

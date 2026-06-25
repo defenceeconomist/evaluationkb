@@ -1,0 +1,30 @@
+---
+title: "Practical Program Evaluation Chapter Map"
+description: "Reading map for selected Practical Program Evaluation notes."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+  - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Practical Program Evaluation* [@chen_2015_practical_program_evaluation].
+
+## Reading Route
+
+1. [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd) - pages 39-40; `Chapter 1: Fundamentals of Program Evaluation > Evaluation Design and Its Components`
+2. [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd) - pages 79; `Part I: Introduction > Chapter 3: Logic Models and the Action Model/change Model Schema (program Theory)`
+3. [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd) - pages 382; `Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected > A Guide to Productively Applying the Logic Model and the Action Model/change Model Schema`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

@@ -1,0 +1,94 @@
+---
+title: "Chapter 02: Evaluation Theory"
+description: "Detailed study notes for Chapter 2 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+part: "Part One: Fundamentals of Evaluation"
+source_pages: "81-102"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch02-chapter-2-evaluation-theory:c0001"
+  - "chunk:evaluation-theory-models-applications:criteria-for-judging-program-evaluation-theories:c0003"
+  - "chunk:evaluation-theory-models-applications:program-evaluation-standards-and-theory-development:c0005"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part One: Fundamentals of Evaluation</span><span>Chapter 2</span><span>Source pages 81-102</span></div>
+
+This note summarises Chapter 2, "Evaluation Theory," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch02-chapter-2-evaluation-theory:c0001`
+- `chunk:evaluation-theory-models-applications:criteria-for-judging-program-evaluation-theories:c0003`
+- `chunk:evaluation-theory-models-applications:program-evaluation-standards-and-theory-development:c0005`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation approaches should be developed and tested as theories rather than treated only as branded models or practitioner traditions.
+
+## Study Summary
+
+Chapter 2 asks what it would mean for evaluation to have stronger theory. The authors distinguish a theory from an approach or model: a theory should contain conceptual, hypothetical, pragmatic, and ethical principles that explain and guide evaluation practice.
+
+The chapter argues that the evaluation field has generated many useful concepts, standards, approaches, and practical guidelines, but fewer well-tested propositions about what evaluation actions produce useful consequences in particular contexts. This makes humility important when applying any model.
+
+Criteria for judging evaluation theories include their contribution to professionalizing evaluation, supporting research, guiding planning, structuring implementation, and strengthening use. The existing major-section note on theory development belongs here because it captures the authors' argument that standards and metaevaluation should help convert promising approaches into better tested theories.
+
+The chapter frames theory development as both creative and empirical. Evaluators need conceptual imagination, but they also need metaevaluations and research on evaluation to test whether an approach actually improves utility, feasibility, propriety, accuracy, accountability, and use.
+
+For close reading, track how the chapter uses evaluation theory, evaluation model, evaluation approach, and theory development while moving through role of theory in the field, theory versus model or approach, and components of sound theory. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the foundations that make later model ratings and procedural guidance intelligible. It supplies vocabulary for judging approaches, reading standards, and distinguishing evaluation from narrower forms of measurement, monitoring, research, or administrative review.
+
+## Key Concepts
+
+- evaluation theory: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation model: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation approach: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- theory development: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- research on evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- program evaluation standards: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Role of theory in the field.
+- Theory versus model or approach.
+- Components of sound theory.
+- Criteria for judging theories.
+- Standards and theory development.
+
+## Practical Implications
+
+- Name the theory or model being used and what it is expected to improve.
+- Use standards as a critique of an approach before adopting it.
+- Document evaluation assumptions so later metaevaluation can test whether they held.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: Overview of the Evaluation Field](chapter-01-overview-of-the-evaluation-field.qmd)
+- Next: [Chapter 3: Standards for Program Evaluations](chapter-03-standards-for-program-evaluations.qmd)
+- Seed note folded in: [Program Evaluation Standards and Theory Development](section-01-evaluation-theory-development.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 2 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 2, pages 81-102.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

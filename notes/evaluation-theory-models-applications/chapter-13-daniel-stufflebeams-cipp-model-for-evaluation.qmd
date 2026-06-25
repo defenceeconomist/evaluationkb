@@ -1,0 +1,99 @@
+---
+title: "Chapter 13: Daniel Stufflebeam's CIPP Model for Evaluation"
+description: "Detailed study notes for Chapter 13 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 13
+part: "Part Three: Explication of Selected Evaluation Approaches"
+source_pages: "345-375"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001"
+  - "chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002"
+  - "chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006"
+  - "chunk:evaluation-theory-models-applications:use-of-the-cipp-model-as-a-systems-strategy-for-improvement:c0009"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 13</span><span>Source pages 345-375</span></div>
+
+This note summarises Chapter 13, "Daniel Stufflebeam's CIPP Model for Evaluation," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001`
+- `chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002`
+- `chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006`
+- `chunk:evaluation-theory-models-applications:use-of-the-cipp-model-as-a-systems-strategy-for-improvement:c0009`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The CIPP model links context, input, process, and product evaluation to support both improvement and accountability across a program's life cycle.
+
+## Study Summary
+
+Chapter 13 gives the fullest account of Stufflebeam's CIPP model. The model defines evaluation as delineating, obtaining, reporting, and applying descriptive and judgmental information about an object's value, with attention to quality, worth, probity, equity, cost, efficiency, safety, and significance.
+
+The four CIPP categories organize different decision needs. Context evaluation clarifies setting, needs, problems, assets, and goals. Input evaluation assesses strategies, plans, resources, and alternatives. Process evaluation monitors implementation and costs. Product evaluation identifies intended and unintended outcomes.
+
+The current CIPP seed note belongs here because it captures the chapter's overview: CIPP is designed for formative and summative use, works across sectors, and asks evaluators to attend to stakeholders, values, standards, procedures, and systems.
+
+The standards-and-metaevaluation seed note also partly belongs here. The CIPP chapter grounds the model in professional standards, an objectivist orientation, democratic values, improvement, stakeholder service, and internal or external metaevaluation as part of responsible practice.
+
+For close reading, track how the chapter uses CIPP, context evaluation, input evaluation, and process evaluation while moving through overview and roots, applications, and definitions of evaluation. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Three, this chapter turns a named approach into a design option. The issue for study is not whether the model has a memorable label, but which evaluation tasks it handles well, what ethical stance it implies, and where it needs supplementation by standards, mixed methods, or metaevaluation.
+
+## Key Concepts
+
+- CIPP: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- context evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- input evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- process evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- product evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- objectivist evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- systems orientation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Overview and roots.
+- Applications.
+- Definitions of evaluation.
+- Cipp categories and procedures.
+- Philosophy and ethics.
+- Systems strategy for improvement.
+
+## Practical Implications
+
+- Map questions to context, input, process, and product before selecting methods.
+- Use CIPP formatively and summatively rather than reducing it to an outcomes model.
+- Build standards and metaevaluation into CIPP designs from the start.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 12: Case Study Evaluations](chapter-12-case-study-evaluations.qmd)
+- Next: [Chapter 14: Michael Scriven's Consumer-oriented Approach to Evaluation](chapter-14-michael-scrivens-consumer-oriented-approach-to-evaluation.qmd)
+- Seed note folded in: [CIPP Model Overview](section-02-cipp-overview.qmd)
+- Related seed note: [Standards and Metaevaluation](section-03-standards-and-metaevaluation.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 13 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 13, pages 345-375.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

@@ -1,0 +1,62 @@
+---
+title: "Causal Inference and Counterfactuals"
+description: "Study note on Causal Inference and Counterfactuals in Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "77-78"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 77-78</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Causal Inference and Counterfactuals" from Paul J. Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section explains why before-and-after observation alone is not sufficient for causal inference.
+
+## Study Summary
+
+The section explains why before-and-after observation alone is not sufficient for causal inference.
+
+Impact evaluation requires an estimate of what would have happened to participants without the program.
+
+The central design problem is therefore to construct a credible counterfactual.
+
+## Key Concepts
+
+- Causal inference
+- Counterfactual
+- Attribution
+- Outcome comparison
+
+## Source Location
+
+- Section path: Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals > Causal Inference
+- Evidence records: `chunk:impact-evaluation-in-practice:causal-inference:c0001`
+
+## Practical Implications
+
+- Identify the counterfactual strategy before collecting outcome data.
+- Avoid interpreting observed change as impact without a comparison logic.
+- Explain the assumptions that make the comparison credible.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Causal Inference and Counterfactuals helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

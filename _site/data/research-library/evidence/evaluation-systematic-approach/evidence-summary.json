@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "evaluation-systematic-approach",
+  "book_title": "Evaluation: A Systematic Approach",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "tailoring-evaluations",
+      "section_title": "Tailoring Evaluations",
+      "source_pages": "38-39",
+      "section_path": "Chapter 2: Tailoring Evaluations",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+      ]
+    },
+    {
+      "section_id": "formulating-questions",
+      "section_title": "Identifying Issues and Formulating Questions",
+      "source_pages": "89-90",
+      "section_path": "Chapter 3: Identifying Issues and Formulating Questions",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+      ]
+    },
+    {
+      "section_id": "program-theory-assessment",
+      "section_title": "Expressing and Assessing Program Theory",
+      "source_pages": "120-121",
+      "section_path": "Chapter 5: Expressing and Assessing Program Theory",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+---
+title: "Identifying Issues and Formulating Questions"
+description: "Study note on Identifying Issues and Formulating Questions in Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "89-90"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 89-90</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Identifying Issues and Formulating Questions" from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section stresses that evaluation questions organize design, analysis, and eventual use.
+
+## Study Summary
+
+The section stresses that evaluation questions organize design, analysis, and eventual use.
+
+Questions may matter even when immediate instrumental use is not obvious, because evaluation can shape understanding and debate.
+
+The evaluator must therefore prioritize questions for practical decision value and conceptual influence.
+
+## Key Concepts
+
+- Question formulation
+- Prioritization
+- Conceptual use
+- Persuasive use
+
+## Source Location
+
+- Section path: Chapter 3: Identifying Issues and Formulating Questions
+- Evidence records: `chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055`
+
+## Practical Implications
+
+- Separate interesting questions from decision-critical questions.
+- Keep questions broad enough to support learning but narrow enough to answer.
+- Document why lower-priority questions were deferred.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Identifying Issues and Formulating Questions helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

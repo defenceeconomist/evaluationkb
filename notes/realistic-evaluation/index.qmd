@@ -1,0 +1,75 @@
+---
+title: "Realistic Evaluation"
+description: "Book overview and study-note index for Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0011"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Realistic Evaluation
+
+Study notes on *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>1997</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Realist evaluation studies programs through context-mechanism-outcome configurations rather than asking only whether a whole program worked.
+
+## Major-Section Notes
+
+- [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd) - source pages 14-15
+- [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd) - source pages 94-95
+- [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd) - source pages 234
+
+## References

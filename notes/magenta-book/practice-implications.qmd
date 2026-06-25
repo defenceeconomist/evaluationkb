@@ -1,0 +1,35 @@
+---
+title: "Magenta Book Practice Implications"
+description: "Practice synthesis for Magenta Book."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book].
+
+## Evaluation Practice Implications
+
+- Scope evaluation questions before choosing methods.
+- Use theory-based, experimental, quasi-experimental, qualitative, and economic methods proportionately.
+- Build quality assurance and flexibility into evaluation management.
+- Plan dissemination around users and decision timing.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Executive Summary and Evaluation Types](section-01-executive-summary.qmd)
+- [Choosing Evaluation Methods](section-02-evaluation-methods.qmd)
+- [Managing an Evaluation](section-03-managing-evaluation.qmd)
+
+## References

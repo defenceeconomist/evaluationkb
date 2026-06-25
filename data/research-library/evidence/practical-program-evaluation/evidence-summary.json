@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "practical-program-evaluation",
+  "book_title": "Practical Program Evaluation",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "evaluation-design-components",
+      "section_title": "Evaluation Design and Its Components",
+      "source_pages": "39-40",
+      "section_path": "Chapter 1: Fundamentals of Program Evaluation > Evaluation Design and Its Components",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+      ]
+    },
+    {
+      "section_id": "logic-models-and-program-theory",
+      "section_title": "Logic Models and the Action Model/Change Model Schema",
+      "source_pages": "79",
+      "section_path": "Part I: Introduction > Chapter 3: Logic Models and the Action Model/change Model Schema (program Theory)",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+      ]
+    },
+    {
+      "section_id": "logic-model-limits",
+      "section_title": "When Logic Models Do Not Work as Expected",
+      "source_pages": "382",
+      "section_path": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected > A Guide to Productively Applying the Logic Model and the Action Model/change Model Schema",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+      ]
+    }
+  ]
+}

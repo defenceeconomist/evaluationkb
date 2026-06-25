@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Evaluation: A Systematic Approach"
+description: "Synthesis note on recurring concepts in Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach].
+
+## Central Logic
+
+Evaluation design should be tailored to the question type, program circumstances, stakeholder relationship, and feasible evidence.
+
+## Concepts
+
+- Evaluation question: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Needs assessment: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Program theory assessment: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Process evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Impact assessment: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Efficiency assessment: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## References

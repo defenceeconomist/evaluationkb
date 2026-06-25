@@ -1,0 +1,94 @@
+---
+title: "Chapter 26: Institutionalizing and Mainstreaming Evaluation"
+description: "Detailed study notes for Chapter 26 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 26
+part: "Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation"
+source_pages: "707-725"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch26-chapter-26-institutionalizing-and-mainstreaming-evaluation:c0001"
+  - "chunk:evaluation-theory-models-applications:overview-of-the-remainder-of-the-chapter:c0001"
+  - "chunk:evaluation-theory-models-applications:checklist-for-use-in-institutionalizing-and-mainstreaming-evaluation:c0025"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation</span><span>Chapter 26</span><span>Source pages 707-725</span></div>
+
+This note summarises Chapter 26, "Institutionalizing and Mainstreaming Evaluation," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch26-chapter-26-institutionalizing-and-mainstreaming-evaluation:c0001`
+- `chunk:evaluation-theory-models-applications:overview-of-the-remainder-of-the-chapter:c0001`
+- `chunk:evaluation-theory-models-applications:checklist-for-use-in-institutionalizing-and-mainstreaming-evaluation:c0025`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Organizations should move evaluation from occasional projects to a mainstreamed system for planning, accountability, learning, and improvement.
+
+## Study Summary
+
+Chapter 26 closes the book by shifting from individual evaluation studies to organizational evaluation systems. The authors argue that organizations should institutionalize and mainstream evaluation so that it becomes part of routine governance and improvement.
+
+Institutionalizing evaluation means establishing a durable system, roles, standards, policies, resources, and review mechanisms. Mainstreaming evaluation means embedding use of that system across levels and functions rather than leaving evaluation in a specialist corner.
+
+The chapter reviews the book's themes and translates them into organizational principles. Evaluation systems should be grounded in theory, standards, stakeholder engagement, sound methods, metaevaluation, communication, and systematic use.
+
+A central practical tool is a checklist for establishing or strengthening an organizational evaluation system. The notes do not reproduce the checklist, but they treat it as a staged planning aid for design teams, review teams, standards selection, communication, capacity building, and periodic review.
+
+For close reading, track how the chapter uses institutionalizing evaluation, mainstreaming evaluation, evaluation system, and design team while moving through review of book themes, definitions and rationale, and early efforts and advances. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Five, this chapter asks how evaluation itself is judged, governed, and made durable. It connects the book's standards language to organizational routines so that evaluation quality is not left to isolated projects or individual evaluator preference.
+
+## Key Concepts
+
+- institutionalizing evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- mainstreaming evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation system: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- design team: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- review team: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- organizational standards: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- capacity building: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- periodic review: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Review of book themes.
+- Definitions and rationale.
+- Early efforts and advances.
+- Principles.
+- Institutionalization checklist.
+- Conclusions.
+
+## Practical Implications
+
+- Treat evaluation capacity as an organizational system, not a series of ad hoc studies.
+- Assign responsibility for standards, review, communication, and use.
+- Periodically evaluate the evaluation system itself and revise it.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 25: Metaevaluation: Evaluating Evaluations](chapter-25-metaevaluation-evaluating-evaluations.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 26 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 26, pages 707-725.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

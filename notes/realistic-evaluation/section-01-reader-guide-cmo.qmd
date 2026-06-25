@@ -1,0 +1,62 @@
+---
+title: "Reader's Guide to Context, Mechanism, and Outcome"
+description: "Study note on Reader's Guide to Context, Mechanism, and Outcome in Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "14-15"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0011"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 14-15</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Reader's Guide to Context, Mechanism, and Outcome" from Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The introduction identifies context, mechanism, and outcome as the conceptual backbone of realist evaluation.
+
+## Study Summary
+
+The introduction identifies context, mechanism, and outcome as the conceptual backbone of realist evaluation.
+
+These terms reorient evaluation from a single effect estimate toward explanation of how program resources interact with circumstances.
+
+The reader is invited to treat evaluation design as a theory-building exercise from the start.
+
+## Key Concepts
+
+- Context
+- Mechanism
+- Outcome
+- Realist explanation
+
+## Source Location
+
+- Section path: Introduction
+- Evidence records: `chunk:realistic-evaluation:introduction:c0011`
+
+## Practical Implications
+
+- State the initial CMO proposition before fieldwork.
+- Collect data about circumstances and mechanisms, not only outcomes.
+- Expect the evaluation design to evolve as the theory becomes sharper.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Reader's Guide to Context, Mechanism, and Outcome helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

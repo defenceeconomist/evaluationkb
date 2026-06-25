@@ -1,0 +1,92 @@
+---
+title: "Chapter 17: Identifying and Assessing Evaluation Opportunities"
+description: "Detailed study notes for Chapter 17 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 17
+part: "Part Four: Evaluation Tasks, Procedures, and Tools"
+source_pages: "459-468"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0001"
+  - "chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0002"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 17</span><span>Source pages 459-468</span></div>
+
+This note summarises Chapter 17, "Identifying and Assessing Evaluation Opportunities," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0001`
+- `chunk:evaluation-theory-models-applications:ch17-chapter-17-identifying-and-assessing-evaluation-opportunities:c0002`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Before accepting evaluation work, evaluators should systematically identify, screen, and improve opportunities so that the assignment can be conducted credibly.
+
+## Study Summary
+
+Chapter 17 begins the procedural part of the book. It addresses how evaluators find opportunities such as RFPs, RFQs, internal assignments, sole-source requests, evaluator-initiated opportunities, grants, contracts, and cooperative agreements.
+
+The chapter's central practical question is whether an opportunity is worth pursuing. Evaluators should consider purpose, feasibility, ethical conditions, political climate, access to information, reporting freedom, resources, timeline, and fit with their competence.
+
+Internal evaluators sometimes cannot decline assignments. The authors therefore discuss how to ameliorate weak conditions: negotiate scope, clarify standards, document limitations, protect independence where possible, and communicate risks to clients.
+
+The chapter reframes opportunity assessment as quality assurance. The earliest decision about whether and how to engage an assignment can determine whether later design, evidence collection, and reporting will be credible.
+
+For close reading, track how the chapter uses evaluation opportunity, RFP, RFQ, and sole-source request while moving through types of opportunities, sources of information, and questions for deciding whether to pursue. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Four, this chapter shifts attention from approach selection to execution. It is most useful when read as procedural guidance that still depends on earlier choices about purpose, standards, users, evaluand boundaries, and the kind of value judgment the evaluation must support.
+
+## Key Concepts
+
+- evaluation opportunity: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- RFP: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- RFQ: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- sole-source request: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- grant: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- contract: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- cooperative agreement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- assignment screening: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Types of opportunities.
+- Sources of information.
+- Questions for deciding whether to pursue.
+- Negative assignments that cannot be declined.
+- Practical advice.
+
+## Practical Implications
+
+- Use a go/no-go screen before investing proposal time.
+- Identify conditions that could invalidate the evaluation before accepting.
+- For unavoidable assignments, document constraints and negotiate improvements.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 16: Michael Patton's Utilization-focused Evaluation](chapter-16-michael-pattons-utilization-focused-evaluation.qmd)
+- Next: [Chapter 18: First Steps in Addressing Evaluation Opportunities](chapter-18-first-steps-in-addressing-evaluation-opportunities.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 17 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 17, pages 459-468.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

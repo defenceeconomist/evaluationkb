@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "realistic-evaluation",
+  "book_title": "Realistic Evaluation",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "reader-guide-cmo",
+      "section_title": "Reader's Guide to Context, Mechanism, and Outcome",
+      "source_pages": "14-15",
+      "section_path": "Introduction",
+      "evidence_ids": [
+        "chunk:realistic-evaluation:introduction:c0011"
+      ]
+    },
+    {
+      "section_id": "scientific-realism-and-cmo",
+      "section_title": "Scientific Realism and CMO Hypotheses",
+      "source_pages": "94-95",
+      "section_path": "Chapter 3: In with the New: Introducing Scientific Realism",
+      "evidence_ids": [
+        "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+      ]
+    },
+    {
+      "section_id": "new-rules-cmo-configurations",
+      "section_title": "The New Rules and CMO Configurations",
+      "source_pages": "234",
+      "section_path": "Chapter 9: The New Rules of Realistic Evaluation",
+      "evidence_ids": [
+        "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+      ]
+    }
+  ]
+}

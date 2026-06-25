@@ -1,0 +1,37 @@
+---
+title: "Core Concepts in Realistic Evaluation"
+description: "Synthesis note on recurring concepts in Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Synthesis"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0011"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+source_status: "needs_review"
+---
+## Source
+
+This synthesis draws across the generated notes for *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+
+## Central Logic
+
+Realist evaluation studies programs through context-mechanism-outcome configurations rather than asking only whether a whole program worked.
+
+## Concepts
+
+- Context-mechanism-outcome configuration: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Realist research design: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Theory testing: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Outcome patterns: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Subgroup variation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+- Teacher-learner cycle: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+
+## Links
+
+- [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## References

@@ -1,0 +1,63 @@
+---
+title: "Evaluation Planning and Design"
+description: "Study note on Evaluation Planning and Design in Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "43-45"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0004"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 43-45</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Evaluation Planning and Design" from Kathryn E. Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The part overview frames planning and design as the work of producing credible, useful evaluation evidence under real constraints.
+
+## Study Summary
+
+The part overview frames planning and design as the work of producing credible, useful evaluation evidence under real constraints.
+
+It covers stakeholder engagement, logic modeling, evaluability assessment, monitoring, impact designs, case studies, multisite work, and culturally responsive evaluation.
+
+The recurring design tension is between the precision and generalizability desired and the time and resources available.
+
+## Key Concepts
+
+- Design trade-offs
+- Stakeholder engagement
+- Evaluation approach
+- Usefulness
+
+## Source Location
+
+- Section path: Part 1: Evaluation Planning and Design
+- Evidence records: `chunk:handbook-practical-program-evaluation:part-1:c0001`, `chunk:handbook-practical-program-evaluation:part-1:c0004`
+
+## Practical Implications
+
+- Plan evaluation around information needs, not only available methods.
+- Make cost, rigor, and timing trade-offs explicit.
+- Choose design options that stakeholders can act on.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Evaluation Planning and Design helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

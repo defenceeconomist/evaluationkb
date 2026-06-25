@@ -1,0 +1,93 @@
+---
+title: "Chapter 11: Experimental and Quasi-experimental Design Evaluations"
+description: "Detailed study notes for Chapter 11 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 11
+part: "Part Three: Explication of Selected Evaluation Approaches"
+source_pages: "285-324"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:chapter-overview:c0001"
+  - "chunk:evaluation-theory-models-applications:chapter-overview:c0003"
+  - "chunk:evaluation-theory-models-applications:contemporary-concepts-associated-with-the-experimental-and-quasi-experimental-de:c0006"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 11</span><span>Source pages 285-324</span></div>
+
+This note summarises Chapter 11, "Experimental and Quasi-experimental Design Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:chapter-overview:c0001`
+- `chunk:evaluation-theory-models-applications:chapter-overview:c0003`
+- `chunk:evaluation-theory-models-applications:contemporary-concepts-associated-with-the-experimental-and-quasi-experimental-de:c0006`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Experimental and quasi-experimental designs are valuable for causal inference when conditions fit, but they are not sufficient by themselves for many evaluation purposes.
+
+## Study Summary
+
+Chapter 11 explains the logic of experimental and quasi-experimental design evaluations. Random assignment is the key feature of the strongest experimental designs, while quasi-experimental designs use other assignment, comparison, and measurement strategies when randomization is not feasible.
+
+The authors present these designs as part of the evaluator's repertoire, not as the universal model of evaluation. They are especially useful for estimating effects, but they can be weak on context, implementation, side effects, values, and ongoing improvement feedback.
+
+The chapter connects older scientific evaluation traditions to contemporary field trials and quasi-experimental design notation. Design elements include assignment, measurement timing, comparison groups, treatments, and validity threats.
+
+A major practical warning is that causal inference requirements can conflict with real program conditions. Evaluators must consider feasibility, ethics, stakeholder acceptance, treatment stability, and whether a narrow effect estimate will answer the evaluation's value questions.
+
+For close reading, track how the chapter uses random assignment, quasi-experimental design, comparison group, and validity threat while moving through chapter overview, scientific approach, and randomized field trials. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Three, this chapter turns a named approach into a design option. The issue for study is not whether the model has a memorable label, but which evaluation tasks it handles well, what ethical stance it implies, and where it needs supplementation by standards, mixed methods, or metaevaluation.
+
+## Key Concepts
+
+- random assignment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- quasi-experimental design: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- comparison group: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- validity threat: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- causal inference: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- field trial: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- design notation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Chapter overview.
+- Scientific approach.
+- Randomized field trials.
+- Quasi-experimental concepts.
+- Planning and execution guidelines.
+
+## Practical Implications
+
+- Use experiments when the assignment process and intervention conditions can support them.
+- Supplement effect estimates with context, process, cost, and value evidence.
+- Make validity assumptions explicit before reporting causal claims.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 10: Best Approaches for Twenty-first-century Evaluations](chapter-10-best-approaches-for-twenty-first-century-evaluations.qmd)
+- Next: [Chapter 12: Case Study Evaluations](chapter-12-case-study-evaluations.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 11 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 11, pages 285-324.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

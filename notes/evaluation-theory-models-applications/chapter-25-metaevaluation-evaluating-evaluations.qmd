@@ -1,0 +1,97 @@
+---
+title: "Chapter 25: Metaevaluation: Evaluating Evaluations"
+description: "Detailed study notes for Chapter 25 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 25
+part: "Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation"
+source_pages: "667-705"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0002"
+  - "chunk:evaluation-theory-models-applications:the-role-of-context-and-resource-constraints:c0006"
+  - "chunk:evaluation-theory-models-applications:comparative-metaevaluations:c0003"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation</span><span>Chapter 25</span><span>Source pages 667-705</span></div>
+
+This note summarises Chapter 25, "Metaevaluation: Evaluating Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001`
+- `chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0002`
+- `chunk:evaluation-theory-models-applications:the-role-of-context-and-resource-constraints:c0006`
+- `chunk:evaluation-theory-models-applications:comparative-metaevaluations:c0003`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Metaevaluation is the professional requirement to evaluate evaluations for improvement, accountability, and public trust.
+
+## Study Summary
+
+Chapter 25 defines metaevaluation as evaluating evaluations. Metaevaluators can support evaluators formatively by reviewing plans, procedures, reports, and impacts, and summatively by judging the completed evaluation's utility, feasibility, propriety, accuracy, and accountability.
+
+The standards-and-metaevaluation seed note belongs here because this chapter turns standards into a direct quality-assurance process. Standards-based metaevaluation is treated as analogous to auditing in accounting: a profession should not ask society to trust its products without independent scrutiny.
+
+The chapter presents tasks, arrangements, cases, checklists, and qualifications for metaevaluation. It distinguishes metaevaluation from meta-analysis: the former judges an evaluation's quality, while the latter synthesizes results across studies.
+
+The authors also add judgment about scale and context. Not every small local improvement study needs an independent metaevaluation, but high-stakes, public, controversial, or widely used evaluations require stronger review.
+
+For close reading, track how the chapter uses metaevaluation, formative metaevaluation, summative metaevaluation, and standards-based review while moving through rationale and definition, standards and caveats, and responsibilities. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Five, this chapter asks how evaluation itself is judged, governed, and made durable. It connects the book's standards language to organizational routines so that evaluation quality is not left to isolated projects or individual evaluator preference.
+
+## Key Concepts
+
+- metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- formative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- summative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- standards-based review: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluation accountability: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- meta-analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- comparative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Rationale and definition.
+- Standards and caveats.
+- Responsibilities.
+- Tasks and checklists.
+- Cases and comparative metaevaluation.
+- Context and constraints.
+
+## Practical Implications
+
+- Decide metaevaluation intensity based on stakes, audience, and risk.
+- Use standards to review plans before flaws become final findings.
+- Report limitations and quality judgments transparently.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 24: Communicating Evaluation Findings](chapter-24-communicating-evaluation-findings.qmd)
+- Next: [Chapter 26: Institutionalizing and Mainstreaming Evaluation](chapter-26-institutionalizing-and-mainstreaming-evaluation.qmd)
+- Related seed note: [Standards and Metaevaluation](section-03-standards-and-metaevaluation.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 25 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 25, pages 667-705.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

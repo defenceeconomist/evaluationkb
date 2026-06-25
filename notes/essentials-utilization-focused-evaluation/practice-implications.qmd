@@ -1,0 +1,35 @@
+---
+title: "Essentials of Utilization-Focused Evaluation Practice Implications"
+description: "Practice synthesis for Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation].
+
+## Evaluation Practice Implications
+
+- Identify real users, not abstract audiences.
+- Focus questions around intended uses before choosing methods.
+- Engage users in methods trade-offs so credibility and utility are negotiated together.
+- Plan interpretation and action, not only reporting.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd)
+- [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd)
+- [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd)
+
+## References

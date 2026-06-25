@@ -1,0 +1,30 @@
+---
+title: "Qualitative Research & Evaluation Methods Chapter Map"
+description: "Reading map for selected Qualitative Research & Evaluation Methods notes."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods].
+
+## Reading Route
+
+1. [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd) - pages 140-141; `Part 1 > Chapter 2: Strategic Themes in Qualitative Inquiry > Module 8`
+2. [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd) - pages 269-270; `Part 1 > Chapter 4: Practical and Actionable Qualitative Applications > Module 20`
+3. [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd) - pages 314-316; `Part 1 > Chapter 4 > Module 23: Evaluating Program Models and Theories of Change`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

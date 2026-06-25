@@ -1,0 +1,62 @@
+---
+title: "The New Rules and CMO Configurations"
+description: "Study note on The New Rules and CMO Configurations in Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "234"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 234</span><span>Major section</span></div>
+This note summarises the MCP research-library section "The New Rules and CMO Configurations" from Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The new-rules section describes CMO configurations as propositions about what works for whom in what circumstances.
+
+## Study Summary
+
+The new-rules section describes CMO configurations as propositions about what works for whom in what circumstances.
+
+A conjectured configuration is the starting point; a refined configuration is the evaluation finding.
+
+The cumulative ambition is not exact replication of effects but better focusing of mechanisms across settings.
+
+## Key Concepts
+
+- CMO proposition
+- Theory refinement
+- Cumulative learning
+- Local adaptation
+
+## Source Location
+
+- Section path: Chapter 9: The New Rules of Realistic Evaluation
+- Evidence records: `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008`
+
+## Practical Implications
+
+- Write findings as refined explanations rather than as simple success/failure claims.
+- Compare evaluations by the mechanisms and contexts they illuminate.
+- Use findings to adapt programs to local circumstances.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that The New Rules and CMO Configurations helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

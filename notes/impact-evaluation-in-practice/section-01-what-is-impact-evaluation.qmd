@@ -1,0 +1,62 @@
+---
+title: "What Is Impact Evaluation?"
+description: "Study note on What Is Impact Evaluation? in Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "37"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 37</span><span>Major section</span></div>
+This note summarises the MCP research-library section "What Is Impact Evaluation?" from Paul J. Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section distinguishes monitoring, evaluation, and impact evaluation as related but different evidence functions.
+
+## Study Summary
+
+The section distinguishes monitoring, evaluation, and impact evaluation as related but different evidence functions.
+
+Monitoring tracks program activity and performance over time; evaluation answers selected questions about design, implementation, and results.
+
+Impact evaluation focuses on the causal effect of a program or design innovation on outcomes of interest.
+
+## Key Concepts
+
+- Monitoring
+- Evaluation
+- Impact evaluation
+- Causal effect
+
+## Source Location
+
+- Section path: Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate? > What Is Impact Evaluation?
+- Evidence records: `chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001`
+
+## Practical Implications
+
+- Do not ask an impact design to answer every monitoring or implementation question.
+- Use monitoring data as context and operational evidence for the impact study.
+- State clearly which outcomes the causal claim will cover.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that What Is Impact Evaluation? helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

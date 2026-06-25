@@ -1,0 +1,30 @@
+---
+title: "Realistic Evaluation Chapter Map"
+description: "Reading map for selected Realistic Evaluation notes."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0011"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+
+## Reading Route
+
+1. [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd) - pages 14-15; `Introduction`
+2. [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd) - pages 94-95; `Chapter 3: In with the New: Introducing Scientific Realism`
+3. [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd) - pages 234; `Chapter 9: The New Rules of Realistic Evaluation`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

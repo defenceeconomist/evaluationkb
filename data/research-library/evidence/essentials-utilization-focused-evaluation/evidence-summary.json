@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "essentials-utilization-focused-evaluation",
+  "book_title": "Essentials of Utilization-Focused Evaluation",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "utilization-focused-overview",
+      "section_title": "Utilization-Focused Evaluation Overview",
+      "source_pages": "27-28",
+      "section_path": "Introduction, Overview, and Context",
+      "evidence_ids": [
+        "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+      ]
+    },
+    {
+      "section_id": "seventeen-steps",
+      "section_title": "The 17-Step Utilization-Focused Checklist",
+      "source_pages": "36-37",
+      "section_path": "Introduction, Overview, and Context",
+      "evidence_ids": [
+        "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+      ]
+    },
+    {
+      "section_id": "methods-for-use",
+      "section_title": "Negotiating Methods for Intended Use",
+      "source_pages": "288-289",
+      "section_path": "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users",
+      "evidence_ids": [
+        "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+---
+title: "Chapter 21: Contracting Evaluations"
+description: "Detailed study notes for Chapter 21 of Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 21
+part: "Part Four: Evaluation Tasks, Procedures, and Tools"
+source_pages: "541-554"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001"
+  - "chunk:evaluation-theory-models-applications:negotiating-evaluation-agreements:c0002"
+  - "chunk:evaluation-theory-models-applications:evaluation-contracting-checklist:c0002"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 21</span><span>Source pages 541-554</span></div>
+
+This note summarises Chapter 21, "Contracting Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+Evidence records used in the chapter draft:
+
+- `chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001`
+- `chunk:evaluation-theory-models-applications:negotiating-evaluation-agreements:c0002`
+- `chunk:evaluation-theory-models-applications:evaluation-contracting-checklist:c0002`
+
+These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation contracts and memoranda of agreement protect evaluation quality by making roles, rights, questions, evidence, reporting, and follow-up explicit in advance.
+
+## Study Summary
+
+Chapter 21 ties contracting to design and budgeting. Once an evaluation design and budget are accepted, evaluator and client still need an enforceable or mutually binding agreement that governs how the evaluation will proceed.
+
+The chapter covers contracts and memoranda of agreement. It stresses that agreements should identify the evaluand, purpose, client, audiences, evaluator authority, standards, questions, information requirements, methods, analysis, reporting, schedule, budget, ownership, and follow-up responsibilities.
+
+Advance agreement is especially important for information access, stakeholder cooperation, report review, dissemination, and dealing with potentially harmful findings. These topics become much harder to negotiate after the evaluation is underway.
+
+The contracting checklist is not reproduced in the notes, but its function is central: it turns expectations into explicit commitments so that evaluation independence, feasibility, propriety, and utility are less vulnerable to later conflict.
+
+For close reading, track how the chapter uses evaluation contract, memorandum of agreement, client authority, and evaluator responsibility while moving through definitions, core requirements, and rationale for advance agreements. The notes below treat those moves as study scaffolding: they identify what the chapter asks the evaluator to notice, what judgment problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within Part Four, this chapter shifts attention from approach selection to execution. It is most useful when read as procedural guidance that still depends on earlier choices about purpose, standards, users, evaluand boundaries, and the kind of value judgment the evaluation must support.
+
+## Key Concepts
+
+- evaluation contract: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- memorandum of agreement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- client authority: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- evaluator responsibility: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- reporting rights: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- stakeholder cooperation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- advance agreement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+
+## Chapter Structure
+
+- Definitions.
+- Core requirements.
+- Rationale for advance agreements.
+- Negotiation process.
+- Contracting checklist.
+
+## Practical Implications
+
+- Negotiate reporting and dissemination rights before data collection.
+- Specify access, confidentiality, and stakeholder roles in writing.
+- Align contract terms with the design and budget rather than treating them separately.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 20: Budgeting Evaluations](chapter-20-budgeting-evaluations.qmd)
+- Next: [Chapter 22: Collecting Evaluative Information](chapter-22-collecting-evaluative-information.qmd)
+
+## Study Prompts
+
+1. What value problem does Chapter 21 help an evaluator diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References
+
+- Stufflebeam, D. L., & Coryn, C. L. S. (2014). *Evaluation Theory, Models, and Applications*. Jossey-Bass. Chapter 21, pages 541-554.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-theory-models-applications/chapter-evidence-summary.json`.

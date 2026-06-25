@@ -1,0 +1,62 @@
+---
+title: "CIPP Model Overview"
+description: "Study note on CIPP Model Overview in Evaluation Theory, Models, and Applications."
+book_id: "evaluation-theory-models-applications"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "345"
+citation_key: "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+evidence_ids:
+  - "chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 345</span><span>Major section</span></div>
+This note summarises the MCP research-library section "CIPP Model Overview" from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The CIPP overview introduces context, input, process, and product evaluation as linked ways to support improvement and accountability.
+
+## Study Summary
+
+The CIPP overview introduces context, input, process, and product evaluation as linked ways to support improvement and accountability.
+
+The model can be used formatively and summatively across sectors.
+
+Its systems orientation asks evaluators to attend to stakeholders, values, procedures, and use.
+
+## Key Concepts
+
+- Context evaluation
+- Input evaluation
+- Process evaluation
+- Product evaluation
+
+## Source Location
+
+- Section path: Part Three > Chapter 13: Daniel Stufflebeam's CIPP Model > Overview of the Chapter
+- Evidence records: `chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002`
+
+## Practical Implications
+
+- Use context evaluation to clarify needs and goals.
+- Use input evaluation to judge strategies and plans.
+- Use process and product evaluation to track implementation and results.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that CIPP Model Overview helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

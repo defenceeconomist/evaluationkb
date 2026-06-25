@@ -1,0 +1,62 @@
+---
+title: "Constructing a Theory of Change"
+description: "Study note on Constructing a Theory of Change in Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "62"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 62</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Constructing a Theory of Change" from Paul J. Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The section treats theory of change as an early design step for causal evaluation.
+
+## Study Summary
+
+The section treats theory of change as an early design step for causal evaluation.
+
+A theory of change maps the causal logic linking program inputs, activities, outputs, behavior change, and outcomes.
+
+Working through this logic with stakeholders can clarify both the evaluation question and the program design itself.
+
+## Key Concepts
+
+- Theory of change
+- Causal pathway
+- Assumptions
+- Stakeholder clarification
+
+## Source Location
+
+- Section path: Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation > Constructing a Theory of Change
+- Evidence records: `chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001`
+
+## Practical Implications
+
+- Use the theory of change to choose outcomes and intermediate indicators.
+- Surface assumptions that could invalidate the impact claim.
+- Revise the evaluation question if the causal pathway is unclear.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Constructing a Theory of Change helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

@@ -1,0 +1,35 @@
+---
+title: "Qualitative Research & Evaluation Methods Practice Implications"
+description: "Practice synthesis for Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Practice"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+source_status: "needs_review"
+---
+## Source
+
+This practice synthesis draws on selected notes from *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods].
+
+## Evaluation Practice Implications
+
+- Match qualitative methods to questions about meaning, implementation, variation, and unanticipated effects.
+- Use observation and interviewing as disciplined ways to learn from context, not as informal anecdotes.
+- Document qualitative evidence systematically enough that interpretation can be challenged and refined.
+- Connect qualitative findings to decisions, not only to rich description.
+
+## Applying the Notes
+
+Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+
+## Links
+
+- [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## References

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-25",
+  "collection_id": "evaluation-texts",
+  "book_id": "magenta-book",
+  "book_title": "Magenta Book",
+  "source_status": "needs_review",
+  "rag_status": "ready",
+  "source_tool": "mcp__researchlibrary.rag_search",
+  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
+  "records": [
+    {
+      "section_id": "executive-summary",
+      "section_title": "Executive Summary and Evaluation Types",
+      "source_pages": "3",
+      "section_path": "Executive summary",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-executive-summary:c0003"
+      ]
+    },
+    {
+      "section_id": "evaluation-methods",
+      "section_title": "Choosing Evaluation Methods",
+      "source_pages": "6",
+      "section_path": "3. Evaluation methods",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
+      ]
+    },
+    {
+      "section_id": "managing-evaluation",
+      "section_title": "Managing an Evaluation",
+      "source_pages": "8",
+      "section_path": "5. Managing an evaluation",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+      ]
+    }
+  ]
+}

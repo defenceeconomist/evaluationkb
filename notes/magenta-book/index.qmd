@@ -1,0 +1,75 @@
+---
+title: "Magenta Book"
+description: "Book overview and study-note index for Magenta Book."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Book"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+source_status: "needs_review"
+---
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Book notes</span>
+
+# Magenta Book
+
+Study notes on *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+
+<div class="page-metadata">
+  <span>3 major-section notes</span>
+  <span>2020</span>
+  <span>Source status: needs_review</span>
+  <span>MCP evaluation-texts</span>
+</div>
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Core Concepts](concepts.qmd)
+
+Recurring ideas and distinctions used across these notes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-map">Map</span>
+
+### [Chapter Map](chapter-map.qmd)
+
+Selected source sections, page ranges, and reading routes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-practice">Practice</span>
+
+### [Practice Implications](practice-implications.qmd)
+
+Practical evaluation design habits drawn from the notes.
+:::
+:::
+
+</div>
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+
+This index summarises generated study notes for HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+
+## Core Argument
+
+Government evaluation should be scoped around decision needs, appropriate methods, robust data, quality assurance, and clear use of findings.
+
+## Major-Section Notes
+
+- [Executive Summary and Evaluation Types](section-01-executive-summary.qmd) - source pages 3
+- [Choosing Evaluation Methods](section-02-evaluation-methods.qmd) - source pages 6
+- [Managing an Evaluation](section-03-managing-evaluation.qmd) - source pages 8
+
+## References

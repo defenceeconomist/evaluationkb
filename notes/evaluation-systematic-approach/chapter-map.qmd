@@ -1,0 +1,30 @@
+---
+title: "Evaluation: A Systematic Approach Chapter Map"
+description: "Reading map for selected Evaluation: A Systematic Approach notes."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach].
+
+## Reading Route
+
+1. [Tailoring Evaluations](section-01-tailoring-evaluations.qmd) - pages 38-39; `Chapter 2: Tailoring Evaluations`
+2. [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd) - pages 89-90; `Chapter 3: Identifying Issues and Formulating Questions`
+3. [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd) - pages 120-121; `Chapter 5: Expressing and Assessing Program Theory`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

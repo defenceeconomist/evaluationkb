@@ -11,12 +11,11 @@ toc: false
 
 # Evaluation Knowledge Base
 
-A Quarto knowledge base for detailed, source-grounded notes on evaluation books and guidance. The first collection covers Funnell and Rogers' *Purposeful Program Theory* and is structured for adding further books later.
+A Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready `evaluation-texts` records from the MCP research library, with detailed hand-authored notes for Purposeful Program Theory and generated major-section notes for the wider collection.
 
 ::: {.cta-row}
 [Open Notes](notes/index.qmd){.cta-button}
 [Purposeful Program Theory](notes/purposeful-programme-theory/index.qmd){.cta-button .secondary}
-[Core Concepts](notes/purposeful-programme-theory/concepts.qmd){.cta-button .secondary}
 [Export BibTeX](references.bib){.cta-button .secondary}
 :::
 :::
@@ -27,31 +26,70 @@ A Quarto knowledge base for detailed, source-grounded notes on evaluation books 
 
 ### [Purposeful Program Theory](notes/purposeful-programme-theory/index.qmd)
 
-Read chapter-by-chapter study notes on theories of change, logic models, and theory-based monitoring and evaluation.
+Theories of change, theories of action, logic models, assumptions, and causal inference for program theory use.
 :::
-
 ::: {.section-card}
-<span class="page-badge badge-synthesis">Synthesis</span>
+<span class="page-badge badge-book">Book notes</span>
 
-### [Core Concepts](notes/purposeful-programme-theory/concepts.qmd)
+### [Practical Program Evaluation](notes/practical-program-evaluation/index.qmd)
 
-Review the recurring concepts that connect the chapters: theory of change, theory of action, logic models, assumptions, and causal inference.
+A practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.
 :::
-
 ::: {.section-card}
-<span class="page-badge badge-map">Knowledge map</span>
+<span class="page-badge badge-book">Book notes</span>
 
-### [Chapter Map](notes/purposeful-programme-theory/chapter-map.qmd)
+### [Qualitative Research & Evaluation Methods](notes/qualitative-research-evaluation-methods/index.qmd)
 
-See the reading sequence and how chapter notes connect across the book.
+Qualitative inquiry for evaluation questions where context, meaning, process, and use matter.
 :::
-
 ::: {.section-card}
-<span class="page-badge badge-practice">Practice</span>
+<span class="page-badge badge-book">Book notes</span>
 
-### [Evaluation Practice Implications](notes/purposeful-programme-theory/evaluation-practice-implications.qmd)
+### [Realistic Evaluation](notes/realistic-evaluation/index.qmd)
 
-Translate the book's arguments into practical evaluation design habits.
+A realist approach to explaining what works, for whom, in what circumstances, and why.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Impact Evaluation in Practice](notes/impact-evaluation-in-practice/index.qmd)
+
+Impact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Handbook of Practical Program Evaluation](notes/handbook-practical-program-evaluation/index.qmd)
+
+A broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Evaluation: A Systematic Approach](notes/evaluation-systematic-approach/index.qmd)
+
+A systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Essentials of Utilization-Focused Evaluation](notes/essentials-utilization-focused-evaluation/index.qmd)
+
+A compact guide to designing evaluations for primary intended users and actual use.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Magenta Book](notes/magenta-book/index.qmd)
+
+UK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.
+:::
+::: {.section-card}
+<span class="page-badge badge-book">Book notes</span>
+
+### [Evaluation Theory, Models, and Applications](notes/evaluation-theory-models-applications/index.qmd)
+
+A survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications.
 :::
 :::
 

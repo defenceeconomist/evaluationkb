@@ -1,0 +1,30 @@
+---
+title: "Essentials of Utilization-Focused Evaluation Chapter Map"
+description: "Reading map for selected Essentials of Utilization-Focused Evaluation notes."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation].
+
+## Reading Route
+
+1. [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd) - pages 27-28; `Introduction, Overview, and Context`
+2. [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd) - pages 36-37; `Introduction, Overview, and Context`
+3. [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd) - pages 288-289; `Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References

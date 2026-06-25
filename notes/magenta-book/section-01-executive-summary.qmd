@@ -1,0 +1,62 @@
+---
+title: "Executive Summary and Evaluation Types"
+description: "Study note on Executive Summary and Evaluation Types in Magenta Book."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Major section"
+source_pages: "3"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
+source_status: "needs_review"
+---
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 3</span><span>Major section</span></div>
+This note summarises the MCP research-library section "Executive Summary and Evaluation Types" from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
+
+## Core Argument
+
+The executive summary defines the main evaluation types and the structure of the guidance.
+
+## Study Summary
+
+The executive summary defines the main evaluation types and the structure of the guidance.
+
+It distinguishes process, impact, and value for money evaluation while emphasizing that interventions need to be understood across design, delivery, results, and costs.
+
+The guide is organized around why and when to evaluate, scoping, methods, data, management, findings use, and capability.
+
+## Key Concepts
+
+- Process evaluation
+- Impact evaluation
+- Value for money
+- Evaluation lifecycle
+
+## Source Location
+
+- Section path: Executive summary
+- Evidence records: `chunk:magenta-book:magenta-book-executive-summary:c0003`
+
+## Practical Implications
+
+- Choose evaluation type based on the decision problem.
+- Combine evaluation types when a single question cannot cover design, delivery, impact, and costs.
+- Use the guidance as a lifecycle checklist.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Concepts: [Core Concepts](concepts.qmd)
+- Map: [Chapter Map](chapter-map.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+
+## Study Prompts
+
+1. What is the main evaluation problem that Executive Summary and Evaluation Types helps diagnose?
+2. Which assumptions would need evidence before using this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, or reporting?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## References

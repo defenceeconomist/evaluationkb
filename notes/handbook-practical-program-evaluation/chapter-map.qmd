@@ -1,0 +1,30 @@
+---
+title: "Handbook of Practical Program Evaluation Chapter Map"
+description: "Reading map for selected Handbook of Practical Program Evaluation notes."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Map"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+  - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+source_status: "needs_review"
+---
+## Source
+
+This map uses selected MCP research-library sections from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].
+
+## Reading Route
+
+1. [Evaluation Planning and Design](section-01-planning-and-design.qmd) - pages 43-45; `Part 1: Evaluation Planning and Design`
+2. [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd) - pages 49-51; `Part 1: Evaluation Planning and Design > Chapter 1: Planning and Designing Useful Evaluations`
+3. [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd) - pages 150-151; `Part 1: Evaluation Planning and Design > Chapter 5: Performance Measurement`
+
+## How to Use This Map
+
+- Start with the first section for the book's framing logic.
+- Use the middle section to inspect the main design or method implications.
+- Use the final section to check limits, quality standards, or implications for use.
+
+## References
