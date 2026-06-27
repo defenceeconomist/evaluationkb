@@ -1,0 +1,155 @@
+---
+title: "Chapter 6: The Use and Dissemination of Evaluation Findings"
+description: "Detailed study notes for Chapter 6: The Use and Dissemination of Evaluation Findings in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "9"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0004"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0007"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0008"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0010"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>6. The use and dissemination of evaluation findings</span><span>Source pages 9</span><span>Chapter</span></div>
+
+This note summarises 6. The use and dissemination of evaluation findings from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation findings have value only if their users, decision points, products, publication route,
+and transparency commitments are planned from the start.
+
+## Study Summary
+
+Chapter 6 treats use and dissemination as design issues, not communication tasks left until the
+report is drafted. Evaluators need to know which groups need what information, when they need it,
+and what form will make it usable.
+
+The chapter distinguishes direct and indirect users. Direct users may need findings for live policy
+decisions, spending reviews, or delivery improvement; indirect users may need learning for future
+policy, scrutiny, or wider public understanding.
+
+The dissemination plan should be agreed early with stakeholders, communication teams, and
+ministerial offices where relevant. This reduces surprises and protects publication decisions from
+appearing to depend on whether findings are favourable.
+
+Openness and transparency are central. Registration, published protocols, clear reporting,
+accessible limitations, and publication expectations strengthen trust and public value.
+
+For close reading, track how this note uses evaluation use, dissemination, transparency, and
+evaluation registry while moving through users and evidence needs, use and dissemination plan, and
+tailored reporting. The notes below treat those moves as study scaffolding: they identify what the
+guidance asks the evaluator to notice, what judgment problem it helps solve, and what should be
+checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **evaluation use**: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.
+- **dissemination**: Planned communication of findings to audiences who need evidence for decisions, scrutiny, or learning.
+- **transparency**: Making evaluation plans, evidence, analysis, and findings open enough to support trust, challenge, and reuse.
+- **evaluation registry**: A transparency mechanism for recording planned, live, and completed government evaluations.
+- **reporting transparency**: Clear reporting of methods, uncertainty, robustness, limitations, and interpretation.
+- **pre-registration**: Documenting evaluation plans or analysis choices before data collection or analysis to reduce selective reporting.
+- **accountability**: Use of evaluation evidence to support scrutiny, transparency, spending decisions, and public confidence.
+
+## Chapter Structure
+
+- Users and evidence needs.
+- Use and dissemination plan.
+- Tailored reporting.
+- Publication.
+- Openness and transparency.
+
+## Practical Implications
+
+- Start dissemination planning when the evaluation is scoped, not when findings arrive.
+- Tailor outputs to audience decisions while keeping limitations and uncertainty visible.
+- Agree publication and transparency expectations early enough to protect credibility.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does The Use and Dissemination of Evaluation Findings help government handle?"]
+  Central["Concept: The Use and Dissemination of Evaluation Findings"]
+  Concept1["Concept: evaluation use"]
+  Concept2["Concept: dissemination"]
+  Concept3["Concept: transparency"]
+  Mechanism1["Mechanism: users and evidence needs"]
+  Mechanism2["Mechanism: use and dissemination plan"]
+  Mechanism3["Mechanism: tailored reporting"]
+  Implication1["Policy implication: Start dissemination planning when the evaluation is scoped, not when findings arrive."]
+  Implication2["Policy implication: Tailor outputs to audience decisions while keeping limitations and uncertainty visible."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Managing an Evaluation](chapter-05-managing-an-evaluation.qmd)
+- Next: [Chapter 7: Evaluation Capabilities](chapter-07-evaluation-capabilities.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does The Use and Dissemination of Evaluation Findings help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0007</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0008</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0010</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 6. The use and dissemination of evaluation findings, pages 9.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

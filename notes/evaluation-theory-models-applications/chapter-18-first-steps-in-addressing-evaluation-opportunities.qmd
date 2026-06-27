@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 18</span><span>Source pages 471-479</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 18</span><span>Source pages 471-479</span></div>
 
 This note summarises Chapter 18, "First Steps in Addressing Evaluation Opportunities," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch18-chapter-18-first-steps-in-addressing-evaluation-opportunities:c0001`
-- `chunk:evaluation-theory-models-applications:developing-the-evaluation-team:c0002`
-- `chunk:evaluation-theory-models-applications:planning-for-a-stakeholder-review-panel:c0003`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,13 +43,13 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 
 ## Key Concepts
 
-- evaluation team: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- subcontracting: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- institutional support: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- human subjects review: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- proposal appendix: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- stakeholder review panel: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- start-up activities: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **evaluation team**: The people and roles assembled to design, conduct, manage, analyze, report, and support evaluation use.
+- **subcontracting**: Assigning parts of the evaluation work to external people or organizations under agreed responsibilities.
+- **institutional support**: Organizational backing, permissions, resources, and authority needed for evaluation work to proceed.
+- **human subjects review**: Ethics review focused on protecting people affected by data collection or evaluation procedures.
+- **proposal appendix**: Supporting proposal material such as staff credentials, schedules, work samples, instruments, or institutional documents.
+- **stakeholder review panel**: A group of stakeholders convened to review evaluation plans, access issues, draft findings, or usefulness.
+- **start-up activities**: Early tasks that prepare an evaluation, including team formation, access, approvals, planning, and review arrangements.
 
 ## Chapter Structure
 
@@ -72,6 +66,44 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 - Secure institutional approvals and support early.
 - Use stakeholder panels for review and access, not as a substitute for evaluator responsibility.
 
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 18 help evaluators handle?"]
+  Central["Concept: First Steps in Addressing Evaluation Opportunities"]
+  Concept1["Concept: evaluation team"]
+  Concept2["Concept: subcontracting"]
+  Mechanism1["Mechanism: team development"]
+  Mechanism2["Mechanism: recruitment"]
+  Implication1["Policy implication: Define team roles and credentials before committing to the proposal."]
+  Implication2["Policy implication: Secure institutional approvals and support early."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
 ## Connections
 
 - Book overview: [Overview](index.qmd)
@@ -87,6 +119,17 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch18-chapter-18-first-steps-in-addressing-evaluation-opportunities:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:developing-the-evaluation-team:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:planning-for-a-stakeholder-review-panel:c0003</code></li>
+</ul>
+</details>
 
 ## References
 

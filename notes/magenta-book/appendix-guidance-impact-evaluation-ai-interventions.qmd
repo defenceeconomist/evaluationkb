@@ -1,0 +1,160 @@
+---
+title: "Guidance on the Impact Evaluation of AI Interventions"
+description: "Detailed study notes for Guidance on the Impact Evaluation of AI Interventions in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "75-90"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:ai-impact-evaluation-summary:c0001"
+  - "chunk:magenta-book:ai-impact-evaluation-1-introduction:c0002"
+  - "chunk:magenta-book:ai-impact-evaluation-2-opportunities-and-challenges-for-the-evaluation-of-ai-interventions:c0001"
+  - "chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0002"
+  - "chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0007"
+  - "chunk:magenta-book:ai-impact-evaluation-a-2-practical-example-2-using-an-llm-based-application-to-help-civil-servan:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Guidance on the Impact Evaluation of AI Interventions</span><span>Source pages 75-90</span><span>Appendix</span></div>
+
+This note summarises Appendices > Guidance on the Impact Evaluation of AI Interventions from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The AI impact evaluation guide applies Magenta Book impact principles to AI interventions whose
+novelty, digital rollout, risks, and iteration create both opportunities and evaluation challenges.
+
+## Study Summary
+
+This guide argues that the core principles of impact evaluation still apply to AI interventions, but
+the intervention context adds distinctive risks, opportunities, and feasibility issues.
+
+AI interventions often have high uncertainty, high learning value, and potential public trust
+implications. That means they may warrant more substantial evaluation than routine digital changes
+of similar cost.
+
+The digital nature of many AI interventions can make randomisation, phased rollout, and data
+collection more feasible. At the same time, iteration, changing models, public attitudes, bias, and
+unintended harms require broader theory and process evidence.
+
+The guide encourages evaluators to plan early, define objectives and theory of change, choose
+experimental, quasi-experimental, or theory-based designs as appropriate, and use case examples to
+reason through data and ethics.
+
+For close reading, track how this note uses impact evaluation, AI intervention, experimental
+methods, and quasi-experimental methods while moving through summary principles, introduction, and
+opportunities and challenges. The notes below treat those moves as study scaffolding: they identify
+what the guidance asks the evaluator to notice, what judgment problem it helps solve, and what
+should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **impact evaluation**: Evaluation focused on whether, to what extent, how, and why an intervention caused outcomes.
+- **AI intervention**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **experimental methods**: Impact designs that use random assignment or controlled rollout to estimate causal effects.
+- **quasi-experimental methods**: Impact designs that construct credible comparison groups without random assignment.
+- **theory-based methods**: Impact methods that test causal explanations and contribution claims using multiple evidence sources.
+- **evaluation ethics**: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.
+- **public trust**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+
+## Appendix Structure
+
+- Summary principles.
+- Introduction.
+- Opportunities and challenges.
+- Choosing approaches.
+- Public attitudes and risks.
+- Hypothetical case studies.
+- Glossary.
+
+## Practical Implications
+
+- Plan AI evaluation alongside design and rollout so randomisation or phased access remains possible.
+- Treat bias, public attitudes, explainability, and unintended effects as evaluation issues, not only technical assurance issues.
+- Combine quantitative impact evidence with theory-based and qualitative evidence when AI mechanisms or user responses matter.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Guidance on the Impact Evaluation of AI Interventions help government handle?"]
+  Central["Concept: Guidance on the Impact Evaluation of AI Interventions"]
+  Concept1["Concept: impact evaluation"]
+  Concept2["Concept: AI intervention"]
+  Concept3["Concept: experimental methods"]
+  Mechanism1["Mechanism: summary principles"]
+  Mechanism2["Mechanism: introduction"]
+  Mechanism3["Mechanism: opportunities and challenges"]
+  Implication1["Policy implication: Plan AI evaluation alongside design and rollout so randomisation or phased access remains possible."]
+  Implication2["Policy implication: Treat bias, public attitudes, explainability, and unintended effects as evaluation issues, not only technical assurance issues."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Realist Evaluation](appendix-realist-evaluation.qmd)
+- Next: [Transparency in Government Evaluation Research](appendix-transparency-in-government-evaluation-research.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Guidance on the Impact Evaluation of AI Interventions help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:ai-impact-evaluation-summary:c0001</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-1-introduction:c0002</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-2-opportunities-and-challenges-for-the-evaluation-of-ai-interventions:c0001</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0002</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0007</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-a-2-practical-example-2-using-an-llm-based-application-to-help-civil-servan:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Guidance on the Impact Evaluation of AI Interventions, pages 75-90.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

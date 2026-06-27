@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 8</span><span>Source pages 227-245</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 8</span><span>Source pages 227-245</span></div>
 
 This note summarises Chapter 8, "Social Agenda and Advocacy Evaluation Approaches," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003`
-- `chunk:evaluation-theory-models-applications:approach-19-constructivist-evaluation:c0006`
-- `chunk:evaluation-theory-models-applications:approach-21-transformative-evaluation:c0006`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,13 +43,13 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 
 ## Key Concepts
 
-- responsive evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- constructivist evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- deliberative democratic evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- transformative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- social justice: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- stakeholder engagement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- bias control: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **responsive evaluation**: Evaluation shaped around stakeholder concerns, observed program activity, local context, and plural values.
+- **constructivist evaluation**: An approach that treats stakeholder meanings and negotiated constructions as central evaluation evidence.
+- **deliberative democratic evaluation**: An approach that uses reasoned stakeholder deliberation to inform value judgments and public accountability.
+- **transformative evaluation**: Evaluation that explicitly addresses power, inequity, and social change while still needing credible evidence.
+- **social justice**: A value commitment to fairness, equity, inclusion, rights, and attention to groups affected by power differences.
+- **stakeholder engagement**: Deliberate involvement of affected or interested groups in questions, evidence, interpretation, or use.
+- **bias control**: Design and reporting safeguards that keep value commitments, stakeholder influence, or political interests from distorting evidence.
 
 ## Chapter Structure
 
@@ -72,6 +66,44 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 - Protect marginalized perspectives without giving up evidence standards.
 - Use independent metaevaluation when advocacy commitments could be questioned.
 
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 8 help evaluators handle?"]
+  Central["Concept: Social Agenda and Advocacy Evaluation Approaches"]
+  Concept1["Concept: responsive evaluation"]
+  Concept2["Concept: constructivist evaluation"]
+  Mechanism1["Mechanism: overview of advocacy approaches"]
+  Mechanism2["Mechanism: responsive or stakeholder-centered evaluation"]
+  Implication1["Policy implication: Design stakeholder participation with clear roles and limits."]
+  Implication2["Policy implication: Protect marginalized perspectives without giving up evidence standards."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
 ## Connections
 
 - Book overview: [Overview](index.qmd)
@@ -87,6 +119,17 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:overview-of-social-agenda-and-advocacy-approaches:c0003</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-19-constructivist-evaluation:c0006</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-21-transformative-evaluation:c0006</code></li>
+</ul>
+</details>
 
 ## References
 

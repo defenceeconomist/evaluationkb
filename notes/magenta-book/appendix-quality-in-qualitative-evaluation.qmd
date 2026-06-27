@@ -1,0 +1,155 @@
+---
+title: "Quality in Qualitative Evaluation"
+description: "Detailed study notes for Quality in Qualitative Evaluation in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "54-59"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001"
+  - "chunk:magenta-book:quality-qualitative-evaluation-2-scope-of-the-framework:c0001"
+  - "chunk:magenta-book:quality-qualitative-evaluation-3-application-of-the-framework:c0001"
+  - "chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0001"
+  - "chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0002"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Quality in qualitative evaluation</span><span>Source pages 54-59</span><span>Appendix</span></div>
+
+This note summarises Appendices > Quality in qualitative evaluation from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The qualitative quality guide provides a framework for judging whether qualitative evaluation
+evidence is defensible, transparent, useful, and fit for purpose.
+
+## Study Summary
+
+This appendix gives a framework for appraising qualitative evaluations, especially those concerned
+with policy, programmes, and practice. It is built from literature review, government evaluation
+practice, existing quality frameworks, and expert consultation.
+
+The framework is mainly designed for assessing written outputs, but selected questions can also
+inform proposals, protocols, training, and research management.
+
+Quality assessment focuses on the findings and on the research process behind them: design,
+sampling, data collection, analysis, reporting, reflexivity, ethics, neutrality, and auditability.
+
+The guide emphasises professional judgment. Quality indicators support appraisal, but the assessor
+still has to decide what matters most for the evaluation's purpose, method, and policy context.
+
+For close reading, track how this note uses qualitative quality, data quality, professional
+judgment, and auditability while moving through framework purpose, scope, and application. The notes
+below treat those moves as study scaffolding: they identify what the guidance asks the evaluator to
+notice, what judgment problem it helps solve, and what should be checked against the saved evidence
+records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **qualitative quality**: Judgment about whether qualitative design, sampling, data, analysis, and reporting are fit for purpose.
+- **data quality**: The fitness of evaluation data, including relevance, validity, completeness, timeliness, and bias control.
+- **professional judgment**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **auditability**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **reflexivity**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **evaluation ethics**: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.
+- **fitness for purpose**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+
+## Appendix Structure
+
+- Framework purpose.
+- Scope.
+- Application.
+- Guiding principles.
+- Appraisal questions.
+- Quality indicators.
+
+## Practical Implications
+
+- Assess qualitative findings together with the design and analysis process that produced them.
+- Use quality questions to strengthen proposals and protocols, not only completed reports.
+- Keep judgment proportionate to the evaluation purpose and method rather than applying a mechanical checklist.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Quality in Qualitative Evaluation help government handle?"]
+  Central["Concept: Quality in Qualitative Evaluation"]
+  Concept1["Concept: qualitative quality"]
+  Concept2["Concept: data quality"]
+  Concept3["Concept: professional judgment"]
+  Mechanism1["Mechanism: framework purpose"]
+  Mechanism2["Mechanism: scope"]
+  Mechanism3["Mechanism: application"]
+  Implication1["Policy implication: Assess qualitative findings together with the design and analysis process that produced them."]
+  Implication2["Policy implication: Use quality questions to strengthen proposals and protocols, not only completed reports."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Handling Complexity in Policy Evaluation](appendix-handling-complexity-in-policy-evaluation.qmd)
+- Next: [Quality in Policy Impact Evaluation](appendix-quality-in-policy-impact-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Quality in Qualitative Evaluation help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-2-scope-of-the-framework:c0001</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-3-application-of-the-framework:c0001</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0001</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0002</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Quality in qualitative evaluation, pages 54-59.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

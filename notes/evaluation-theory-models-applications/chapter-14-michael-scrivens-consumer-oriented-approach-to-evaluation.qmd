@@ -18,18 +18,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 14</span><span>Source pages 377-405</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Three: Explication of Selected Evaluation Approaches</span><span>Chapter 14</span><span>Source pages 377-405</span></div>
 
 This note summarises Chapter 14, "Michael Scriven's Consumer-oriented Approach to Evaluation," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001`
-- `chunk:evaluation-theory-models-applications:overview-of-scriven-s-contributions-to-evaluation:c0001`
-- `chunk:evaluation-theory-models-applications:formative-and-summative-evaluation:c0002`
-- `chunk:evaluation-theory-models-applications:scriven-s-look-to-evaluation-s-future:c0007`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -51,14 +44,14 @@ Within Part Three, this chapter turns a named approach into a design option. The
 
 ## Key Concepts
 
-- consumer-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- surrogate consumer: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- formative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- summative evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- goal-free evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- Key Evaluation Checklist: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- transdiscipline: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- value judgment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **consumer-oriented evaluation**: Evaluation that judges value from the standpoint of consumers, alternatives, costs, and public welfare.
+- **surrogate consumer**: An evaluator role in which the evaluator judges value on behalf of consumers or the public.
+- **formative evaluation**: Evaluation used while a program or product is being developed or improved.
+- **summative evaluation**: Evaluation used to make an overall judgment about continuation, adoption, accountability, or value.
+- **goal-free evaluation**: Evaluation that deliberately looks beyond stated goals to identify actual effects, side effects, and consumer value.
+- **Key Evaluation Checklist**: Scriven's tool for systematically considering needs, values, alternatives, costs, effects, and judgment.
+- **transdiscipline**: Scriven's idea of evaluation as a discipline that supplies value-judgment logic across fields.
+- **value judgment**: A conclusion about merit, worth, significance, or probity based on evidence and criteria.
 
 ## Chapter Structure
 
@@ -75,6 +68,44 @@ Within Part Three, this chapter turns a named approach into a design option. The
 - Protect evaluator independence when a summative judgment is required.
 - Use goal-free inquiry to search for unintended effects and missed criteria.
 
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 14 help evaluators handle?"]
+  Central["Concept: Michael Scriven's Consumer-oriented Approach to Evaluation"]
+  Concept1["Concept: consumer-oriented evaluation"]
+  Concept2["Concept: surrogate consumer"]
+  Mechanism1["Mechanism: Scriven's orientation"]
+  Mechanism2["Mechanism: critique of objectives-based evaluation"]
+  Implication1["Policy implication: Ask whose needs and alternatives define consumer value."]
+  Implication2["Policy implication: Protect evaluator independence when a summative judgment is required."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
 ## Connections
 
 - Book overview: [Overview](index.qmd)
@@ -90,6 +121,18 @@ Within Part Three, this chapter turns a named approach into a design option. The
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch14-chapter-14-michael-scriven-s-consumer-oriented-approach-to-evaluation:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:overview-of-scriven-s-contributions-to-evaluation:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:formative-and-summative-evaluation:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:scriven-s-look-to-evaluation-s-future:c0007</code></li>
+</ul>
+</details>
 
 ## References
 

@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part One: Fundamentals of Evaluation</span><span>Chapter 1</span><span>Source pages 39-79</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part One: Fundamentals of Evaluation</span><span>Chapter 1</span><span>Source pages 39-79</span></div>
 
 This note summarises Chapter 1, "Overview of the Evaluation Field," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001`
-- `chunk:evaluation-theory-models-applications:how-should-evaluations-be-used:c0005`
-- `chunk:evaluation-theory-models-applications:what-are-the-main-historical-milestones-in-the-evaluation-field-s-development:c0028`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,14 +43,14 @@ Within the wider book, this chapter belongs to the foundations that make later m
 
 ## Key Concepts
 
-- formal evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- informal evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- evaluand: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- merit and worth: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- probity: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- formative use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- summative use: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- professionalization: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **formal evaluation**: Systematic, documented inquiry that uses explicit criteria and evidence to judge an evaluand's value.
+- **informal evaluation**: Everyday judgment that may be useful but is usually less systematic, documented, and reviewable than formal evaluation.
+- **evaluand**: The program, policy, product, service, organization, or other object being evaluated.
+- **merit and worth**: Merit concerns intrinsic quality; worth concerns value in context, given needs, costs, and alternatives.
+- **probity**: Integrity, honesty, and ethical soundness in the evaluand or in the evaluation process.
+- **formative use**: Use of evaluation to guide development, correction, improvement, or adaptation before final judgment.
+- **summative use**: Use of evaluation for overall judgment, accountability, adoption, continuation, expansion, or termination.
+- **professionalization**: The field-building process of developing standards, roles, competencies, ethics, research, and quality controls.
 
 ## Chapter Structure
 
@@ -72,6 +66,44 @@ Within the wider book, this chapter belongs to the foundations that make later m
 - Treat formative and summative needs as design choices, not labels added after the fact.
 - Use professional standards to check credibility when evaluation findings will affect public decisions.
 
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 1 help evaluators handle?"]
+  Central["Concept: Overview of the Evaluation Field"]
+  Concept1["Concept: formal evaluation"]
+  Concept2["Concept: informal evaluation"]
+  Mechanism1["Mechanism: definitions and objects of evaluation"]
+  Mechanism2["Mechanism: criteria for judging value"]
+  Implication1["Policy implication: Clarify the evaluand and value criteria before selecting methods."]
+  Implication2["Policy implication: Treat formative and summative needs as design choices, not labels added after the fact."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
 ## Connections
 
 - Book overview: [Overview](index.qmd)
@@ -86,6 +118,17 @@ Within the wider book, this chapter belongs to the foundations that make later m
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch01-chapter-1-overview-of-the-evaluation-field:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:how-should-evaluations-be-used:c0005</code></li>
+<li><code>chunk:evaluation-theory-models-applications:what-are-the-main-historical-milestones-in-the-evaluation-field-s-development:c0028</code></li>
+</ul>
+</details>
 
 ## References
 

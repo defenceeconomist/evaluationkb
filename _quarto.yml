@@ -22,10 +22,6 @@ website:
     left:
       - href: notes/index.qmd
         text: Notes
-      - href: notes/purposeful-programme-theory/index.qmd
-        text: Purposeful Program Theory
-      - href: notes/magenta-book/index.qmd
-        text: Magenta Book
     right:
       - icon: github
         href: https://github.com/defenceeconomist/evaluation-kb

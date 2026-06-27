@@ -1,0 +1,157 @@
+---
+title: "Chapter 4: Data Collection, Data Access and Data Linking"
+description: "Detailed study notes for Chapter 4: Data Collection, Data Access and Data Linking in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 4
+source_pages: "7"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0002"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0004"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0005"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0013"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>4. Data collection, data access and data linking</span><span>Source pages 7</span><span>Chapter</span></div>
+
+This note summarises 4. Data collection, data access and data linking from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation data must be planned with the intervention, because evidence quality, access, linkage,
+and governance determine what questions can be answered.
+
+## Study Summary
+
+Chapter 4 treats data planning as central to evaluation design. Data access, collection, and linkage
+need attention while the intervention is still being designed; otherwise the eventual evaluation may
+be weak, expensive, or impossible.
+
+The chapter distinguishes existing administrative and monitoring data, long-term surveys, and new
+primary data collection. Existing data can reduce cost and burden, but it may not align exactly with
+evaluation questions or collect measures at the right time.
+
+Triangulation strengthens confidence by combining sources such as monitoring data, surveys,
+interviews, social media data, and bespoke research. Data quality checks, piloting, bias reduction,
+and clear definitions matter across all sources.
+
+The chapter also foregrounds data protection, access protocols, and data linking. Linking can enrich
+evaluation datasets, but it raises governance, security, legal, ethical, and practical issues that
+must be resolved early.
+
+For close reading, track how this note uses data quality, data access, administrative data, and
+monitoring while moving through data requirements, existing and new data sources, and administrative
+and monitoring data. The notes below treat those moves as study scaffolding: they identify what the
+guidance asks the evaluator to notice, what judgment problem it helps solve, and what should be
+checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **data quality**: The fitness of evaluation data, including relevance, validity, completeness, timeliness, and bias control.
+- **data access**: The legal, ethical, technical, and practical ability to obtain data needed for evaluation questions.
+- **administrative data**: Operational data collected by public services or delivery systems that can support evaluation if fit for purpose.
+- **monitoring**: Routine tracking of delivery, outputs, performance, or benefits that can inform but does not replace evaluation.
+- **triangulation**: Using multiple evidence sources or methods to test, compare, and strengthen interpretation.
+- **data linking**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **evaluation ethics**: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.
+
+## Chapter Structure
+
+- Data requirements.
+- Existing and new data sources.
+- Administrative and monitoring data.
+- Data quality.
+- Data protection.
+- Linkage.
+
+## Practical Implications
+
+- Specify data needs during intervention design, not after delivery is complete.
+- Check whether existing administrative data measure the evaluation concepts directly enough.
+- Plan data sharing, linkage, ethics, and quality assurance before fieldwork or analysis starts.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Data Collection, Data Access and Data Linking help government handle?"]
+  Central["Concept: Data Collection, Data Access and Data Linking"]
+  Concept1["Concept: data quality"]
+  Concept2["Concept: data access"]
+  Concept3["Concept: administrative data"]
+  Mechanism1["Mechanism: data requirements"]
+  Mechanism2["Mechanism: existing and new data sources"]
+  Mechanism3["Mechanism: administrative and monitoring data"]
+  Implication1["Policy implication: Specify data needs during intervention design, not after delivery is complete."]
+  Implication2["Policy implication: Check whether existing administrative data measure the evaluation concepts directly enough."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 3: Evaluation Methods](chapter-03-evaluation-methods.qmd)
+- Next: [Chapter 5: Managing an Evaluation](chapter-05-managing-an-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Data Collection, Data Access and Data Linking help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0005</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0013</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 4. Data collection, data access and data linking, pages 7.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

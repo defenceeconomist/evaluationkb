@@ -89,6 +89,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../assets/css/site.css">
@@ -116,14 +119,6 @@ div.csl-indent {
     <a class="nav-link" href="../../notes/index.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../notes/purposeful-programme-theory/index.html"> 
-<span class="menu-text">Purposeful Program Theory</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../notes/magenta-book/index.html"> 
-<span class="menu-text">Magenta Book</span></a>
-  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -149,8 +144,17 @@ div.csl-indent {
   <ul>
   <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
   <li><a href="#central-logic" id="toc-central-logic" class="nav-link" data-scroll-target="#central-logic">Central Logic</a></li>
-  <li><a href="#concepts" id="toc-concepts" class="nav-link" data-scroll-target="#concepts">Concepts</a></li>
+  <li><a href="#concept-map" id="toc-concept-map" class="nav-link" data-scroll-target="#concept-map">Concept Map</a></li>
+  <li><a href="#concepts" id="toc-concepts" class="nav-link" data-scroll-target="#concepts">Concepts</a>
+  <ul class="collapse">
+  <li><a href="#purpose-and-use" id="toc-purpose-and-use" class="nav-link" data-scroll-target="#purpose-and-use">Purpose and Use</a></li>
+  <li><a href="#design-and-scoping" id="toc-design-and-scoping" class="nav-link" data-scroll-target="#design-and-scoping">Design and Scoping</a></li>
+  <li><a href="#methods-and-causality" id="toc-methods-and-causality" class="nav-link" data-scroll-target="#methods-and-causality">Methods and Causality</a></li>
+  <li><a href="#data-and-quality" id="toc-data-and-quality" class="nav-link" data-scroll-target="#data-and-quality">Data and Quality</a></li>
+  <li><a href="#specialist-guidance" id="toc-specialist-guidance" class="nav-link" data-scroll-target="#specialist-guidance">Specialist Guidance</a></li>
+  </ul></li>
   <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#source-chunks" id="toc-source-chunks" class="nav-link" data-scroll-target="#source-chunks">Source Chunks</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -184,30 +188,204 @@ div.csl-indent {
 
 <section id="source" class="level2">
 <h2 class="anchored" data-anchor-id="source">Source</h2>
-<p>This synthesis draws across the generated notes for <em>Magenta Book: Central Government guidance on evaluation</em> <span class="citation" data-cites="hm_treasury_evaluation_task_force_2020_magenta_book">(<a href="#ref-hm_treasury_evaluation_task_force_2020_magenta_book" role="doc-biblioref">HM Treasury and Evaluation Task Force 2020</a>)</span>.</p>
+<p>This synthesis draws across the expanded notes for <em>Magenta Book: Central Government guidance on evaluation</em> <span class="citation" data-cites="hm_treasury_evaluation_task_force_2020_magenta_book">(<a href="#ref-hm_treasury_evaluation_task_force_2020_magenta_book" role="doc-biblioref">HM Treasury and Evaluation Task Force 2020</a>)</span>.</p>
 </section>
 <section id="central-logic" class="level2">
 <h2 class="anchored" data-anchor-id="central-logic">Central Logic</h2>
-<p>Government evaluation should be scoped around decision needs, appropriate methods, robust data, quality assurance, and clear use of findings.</p>
+<p>The guidance treats evaluation as a lifecycle discipline: clarify the intervention and decision need, choose proportionate methods and data, manage quality and ethics, communicate findings transparently, and build capability for use.</p>
+</section>
+<section id="concept-map" class="level2">
+<h2 class="anchored" data-anchor-id="concept-map">Concept Map</h2>
+<div class="concept-map">
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  Problem["Problem: What concepts hold the Magenta Book's evaluation logic together?"]
+  Central["Concept: Core concepts"]
+  Concept1["Concept: learning and accountability"]
+  Concept2["Concept: theory of change and questions"]
+  Concept3["Concept: methods, data, and use"]
+  Mechanism1["Mechanism: scoping"]
+  Mechanism2["Mechanism: triangulation and quality assurance"]
+  Mechanism3["Mechanism: transparent dissemination"]
+  Implication1["Policy implication: Make evaluation questions and use visible before choosing methods."]
+  Implication2["Policy implication: Treat transparency and capability as part of evaluation quality."]
+  Question["Open question: Which concept cluster is doing the most work in a given evaluation design?"]
+
+  Problem --&gt; Central
+  Central --&gt; Question
+  Central --&gt; Concept1
+  Central --&gt; Concept2
+  Central --&gt; Concept3
+  Concept1 --&gt; Mechanism1
+  Concept2 --&gt; Mechanism2
+  Concept3 --&gt; Mechanism3
+  Mechanism1 --&gt; Implication1
+  Mechanism2 --&gt; Implication2
+  Implication1 --&gt; Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div>
 </section>
 <section id="concepts" class="level2">
 <h2 class="anchored" data-anchor-id="concepts">Concepts</h2>
+<section id="purpose-and-use" class="level3">
+<h3 class="anchored" data-anchor-id="purpose-and-use">Purpose and Use</h3>
 <ul>
-<li>Process evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Impact evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Value for money evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Theory-based methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Experimental and quasi-experimental methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Evaluation management: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
+<li><strong>learning</strong>: Use of evaluation to reduce uncertainty, improve interventions, and strengthen future policy design.</li>
+<li><strong>accountability</strong>: Use of evaluation evidence to support scrutiny, transparency, spending decisions, and public confidence.</li>
+<li><strong>evaluation use</strong>: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.</li>
+<li><strong>dissemination</strong>: Planned communication of findings to audiences who need evidence for decisions, scrutiny, or learning.</li>
+<li><strong>transparency</strong>: Making evaluation plans, evidence, analysis, and findings open enough to support trust, challenge, and reuse.</li>
 </ul>
+</section>
+<section id="design-and-scoping" class="level3">
+<h3 class="anchored" data-anchor-id="design-and-scoping">Design and Scoping</h3>
+<ul>
+<li><strong>scoping</strong>: Early work to clarify the intervention, theory of change, users, questions, data, methods, and feasibility.</li>
+<li><strong>theory of change</strong>: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.</li>
+<li><strong>evaluation question</strong>: A focused question that determines what evidence and analysis an evaluation must provide.</li>
+<li><strong>evaluation design</strong>: The plan that connects evaluation purpose, questions, theory, data, methods, governance, analysis, and use.</li>
+<li><strong>proportionality</strong>: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.</li>
+</ul>
+</section>
+<section id="methods-and-causality" class="level3">
+<h3 class="anchored" data-anchor-id="methods-and-causality">Methods and Causality</h3>
+<ul>
+<li><strong>process evaluation</strong>: Evaluation of whether and how an intervention is implemented, how it operates, and why delivery varies.</li>
+<li><strong>impact evaluation</strong>: Evaluation focused on whether, to what extent, how, and why an intervention caused outcomes.</li>
+<li><strong>counterfactual</strong>: An estimate of what would have happened without the intervention, used to support impact claims.</li>
+<li><strong>theory-based methods</strong>: Impact methods that test causal explanations and contribution claims using multiple evidence sources.</li>
+<li><strong>experimental methods</strong>: Impact designs that use random assignment or controlled rollout to estimate causal effects.</li>
+<li><strong>value for money</strong>: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.</li>
+</ul>
+</section>
+<section id="data-and-quality" class="level3">
+<h3 class="anchored" data-anchor-id="data-and-quality">Data and Quality</h3>
+<ul>
+<li><strong>data quality</strong>: The fitness of evaluation data, including relevance, validity, completeness, timeliness, and bias control.</li>
+<li><strong>data access</strong>: The legal, ethical, technical, and practical ability to obtain data needed for evaluation questions.</li>
+<li><strong>administrative data</strong>: Operational data collected by public services or delivery systems that can support evaluation if fit for purpose.</li>
+<li><strong>triangulation</strong>: Using multiple evidence sources or methods to test, compare, and strengthen interpretation.</li>
+<li><strong>quality assurance</strong>: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.</li>
+<li><strong>evaluation ethics</strong>: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.</li>
+</ul>
+</section>
+<section id="specialist-guidance" class="level3">
+<h3 class="anchored" data-anchor-id="specialist-guidance">Specialist Guidance</h3>
+<ul>
+<li><strong>complexity</strong>: Conditions such as uncertainty, interdependence, emergence, nonlinearity, and multiple stakeholder perspectives.</li>
+<li><strong>realist evaluation</strong>: Theory-based evaluation that tests context-mechanism-outcome explanations of what works, for whom, and how.</li>
+<li><strong>test and learn</strong>: An iterative approach that tests assumptions, learns from real-world feedback, and adapts before scaling.</li>
+<li><strong>policy impact evaluation</strong>: Impact evaluation applied to government policy, with attention to attribution, design quality, and feasibility.</li>
+<li><strong>qualitative quality</strong>: Judgment about whether qualitative design, sampling, data, analysis, and reporting are fit for purpose.</li>
+<li><strong>open science</strong>: Practices that make research plans, materials, analysis, and outputs more transparent and accessible.</li>
+</ul>
+</section>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <ul>
-<li><a href="../../notes/magenta-book/section-01-executive-summary.html">Executive Summary and Evaluation Types</a></li>
-<li><a href="../../notes/magenta-book/section-02-evaluation-methods.html">Choosing Evaluation Methods</a></li>
-<li><a href="../../notes/magenta-book/section-03-managing-evaluation.html">Managing an Evaluation</a></li>
+<li><a href="../../notes/magenta-book/executive-summary.html">Executive Summary and Evaluation Types</a></li>
+<li><a href="../../notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.html">Chapter 1: Why, How and When to Evaluate?</a></li>
+<li><a href="../../notes/magenta-book/chapter-02-evaluation-scoping.html">Chapter 2: Evaluation Scoping</a></li>
+<li><a href="../../notes/magenta-book/chapter-03-evaluation-methods.html">Chapter 3: Evaluation Methods</a></li>
+<li><a href="../../notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.html">Chapter 4: Data Collection, Data Access and Data Linking</a></li>
+<li><a href="../../notes/magenta-book/chapter-05-managing-an-evaluation.html">Chapter 5: Managing an Evaluation</a></li>
+<li><a href="../../notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.html">Chapter 6: The Use and Dissemination of Evaluation Findings</a></li>
+<li><a href="../../notes/magenta-book/chapter-07-evaluation-capabilities.html">Chapter 7: Evaluation Capabilities</a></li>
+<li><a href="../../notes/magenta-book/appendix-annex-a-analytical-methods.html">Annex A: Analytical Methods for Use Within an Evaluation</a></li>
+<li><a href="../../notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.html">Government Analytical Evaluation Capabilities Framework</a></li>
+<li><a href="../../notes/magenta-book/appendix-regulatory-post-implementation-review.html">Guidance for Conducting Regulatory Post Implementation Review</a></li>
+<li><a href="../../notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.html">Handling Complexity in Policy Evaluation</a></li>
+<li><a href="../../notes/magenta-book/appendix-quality-in-qualitative-evaluation.html">Quality in Qualitative Evaluation</a></li>
+<li><a href="../../notes/magenta-book/appendix-quality-in-policy-impact-evaluation.html">Quality in Policy Impact Evaluation</a></li>
+<li><a href="../../notes/magenta-book/appendix-realist-evaluation.html">Realist Evaluation</a></li>
+<li><a href="../../notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.html">Guidance on the Impact Evaluation of AI Interventions</a></li>
+<li><a href="../../notes/magenta-book/appendix-transparency-in-government-evaluation-research.html">Transparency in Government Evaluation Research</a></li>
+<li><a href="../../notes/magenta-book/appendix-test-and-learn.html">Test and Learn</a></li>
 </ul>
+</section>
+<section id="source-chunks" class="level2">
+<h2 class="anchored" data-anchor-id="source-chunks">Source Chunks</h2>
+<details class="source-chunks">
+<summary>
+Source chunks
+</summary>
+<ul class="source-chunk-list">
+<li>
+<code>chunk:magenta-book:magenta-book-executive-summary:c0002</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002</code>
+</li>
+<li>
+<code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007</code>
+</li>
+<li>
+<code>chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:ai-impact-evaluation-summary:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:tiger-transparency-foreword:c0001</code>
+</li>
+<li>
+<code>chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001</code>
+</li>
+</ul>
+</details>
 </section>
 <section id="references" class="level2">
 

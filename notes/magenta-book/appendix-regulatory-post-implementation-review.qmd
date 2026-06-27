@@ -1,0 +1,156 @@
+---
+title: "Guidance for Conducting Regulatory Post Implementation Review"
+description: "Detailed study notes for Guidance for Conducting Regulatory Post Implementation Review in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "38-44"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001"
+  - "chunk:magenta-book:regulatory-post-implementation-review-2-preparing-for-a-pir:c0002"
+  - "chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0001"
+  - "chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0010"
+  - "chunk:magenta-book:regulatory-post-implementation-review-annex-1-pir-case-studies-footnote-10:c0012"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Supplementary Guide: Guidance for conducting regulatory post implementation review</span><span>Source pages 38-44</span><span>Appendix</span></div>
+
+This note summarises Appendices > Supplementary Guide: Guidance for conducting regulatory post implementation review from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The PIR guide adapts Magenta Book evaluation logic to regulatory review, where proportional
+evidence, monitoring data, stakeholder evidence, and feasible counterfactuals are central.
+
+## Study Summary
+
+The regulatory post implementation review guide focuses on evaluating whether regulation remains
+justified, effective, proportionate, and fit for purpose after implementation.
+
+Preparation involves clarifying the measure, baseline, intended effects, monitoring arrangements,
+existing evidence, proportionality, and review obligations. Where early planning was missed, the
+guide still pushes reviewers to build the best feasible evidence base.
+
+PIR methods often combine monitoring data, stakeholder engagement, process evidence, impact
+evidence, and value for money considerations. Strong counterfactual impact designs may be difficult
+when regulation applies to all affected parties, so limitations need to be explicit.
+
+Case material is used to show how different review strategies can meet scrutiny needs when evidence,
+timing, or implementation constraints vary.
+
+For close reading, track how this note uses monitoring, counterfactual, impact evaluation, and
+process evaluation while moving through glossary and scope, preparing for a PIR, and monitoring
+data. The notes below treat those moves as study scaffolding: they identify what the guidance asks
+the evaluator to notice, what judgment problem it helps solve, and what should be checked against
+the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **monitoring**: Routine tracking of delivery, outputs, performance, or benefits that can inform but does not replace evaluation.
+- **counterfactual**: An estimate of what would have happened without the intervention, used to support impact claims.
+- **impact evaluation**: Evaluation focused on whether, to what extent, how, and why an intervention caused outcomes.
+- **process evaluation**: Evaluation of whether and how an intervention is implemented, how it operates, and why delivery varies.
+- **proportionality**: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+- **accountability**: Use of evaluation evidence to support scrutiny, transparency, spending decisions, and public confidence.
+
+## Appendix Structure
+
+- Glossary and scope.
+- Preparing for a pir.
+- Monitoring data.
+- Stakeholder engagement.
+- Evaluation evidence.
+- Case studies.
+
+## Practical Implications
+
+- Plan review evidence while the regulation is being designed, not only when the PIR deadline arrives.
+- Use monitoring and stakeholder evidence proportionately when causal comparison is infeasible.
+- State clearly what can and cannot be attributed to regulation using the available evidence.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Guidance for Conducting Regulatory Post Implementation Review help government handle?"]
+  Central["Concept: Guidance for Conducting Regulatory Post Implementation Review"]
+  Concept1["Concept: monitoring"]
+  Concept2["Concept: counterfactual"]
+  Concept3["Concept: impact evaluation"]
+  Mechanism1["Mechanism: glossary and scope"]
+  Mechanism2["Mechanism: preparing for a PIR"]
+  Mechanism3["Mechanism: monitoring data"]
+  Implication1["Policy implication: Plan review evidence while the regulation is being designed, not only when the PIR deadline arrives."]
+  Implication2["Policy implication: Use monitoring and stakeholder evidence proportionately when causal comparison is infeasible."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Government Analytical Evaluation Capabilities Framework](appendix-government-analytical-evaluation-capabilities-framework.qmd)
+- Next: [Handling Complexity in Policy Evaluation](appendix-handling-complexity-in-policy-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Guidance for Conducting Regulatory Post Implementation Review help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-2-preparing-for-a-pir:c0002</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0001</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0010</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-annex-1-pir-case-studies-footnote-10:c0012</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Supplementary Guide: Guidance for conducting regulatory post implementation review, pages 38-44.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

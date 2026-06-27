@@ -31,6 +31,186 @@ PARTS = [
 ]
 
 
+CONCEPT_GLOSSES = {
+    "accuracy": "The standard concerned with technically sound information, defensible analysis, and warranted conclusions.",
+    "accountability": "The obligation to justify decisions, performance, and resource use to clients, stakeholders, funders, or the public.",
+    "accreditation": "A formal judgment that a program or organization meets specified external standards.",
+    "administration": "The management arrangements, roles, records, schedules, and resources needed to carry out an evaluation design.",
+    "advance agreement": "Written agreement on expectations, access, reporting, ownership, and responsibilities before evaluation work begins.",
+    "analysis": "The process of organizing and interpreting evidence so it can answer evaluation questions.",
+    "antecedents": "Conditions that exist before program action and shape how transactions and outcomes should be interpreted.",
+    "approach classification": "A taxonomy for comparing evaluation approaches by purpose, scope, standards fit, and ability to judge value.",
+    "approach rating": "A structured judgment about how well an evaluation approach meets selected standards or criteria.",
+    "assignment screening": "Early judgment about whether an evaluation opportunity is feasible, ethical, useful, and within evaluator competence.",
+    "bias control": "Design and reporting safeguards that keep value commitments, stakeholder influence, or political interests from distorting evidence.",
+    "budgeting": "The translation of evaluation design commitments into transparent resource, time, and cost estimates.",
+    "capacity building": "Developing the people, routines, policies, and skills that let an organization use evaluation repeatedly.",
+    "case study": "In-depth examination of a bounded case in context, often using multiple sources and interpretive detail.",
+    "case study evaluation": "Evaluation that uses case study logic to understand program activity, context, meaning, and value in depth.",
+    "causal inference": "Reasoning about whether and how an intervention produced observed effects.",
+    "certification": "A standards-based judgment that a person, program, process, or organization satisfies defined requirements.",
+    "CIPP": "A model organizing evaluation around context, input, process, and product information for improvement and accountability.",
+    "CIPP design": "An evaluation design that uses context, input, process, and product questions to organize evidence and judgment.",
+    "client authority": "The formal power a client has to commission, shape, accept, or act on evaluation work.",
+    "cooperative agreement": "A funding or working arrangement that involves substantial sponsor and evaluator cooperation.",
+    "comparison group": "A group used to estimate what might have happened without the program or treatment.",
+    "comparative metaevaluation": "Review that compares multiple evaluations or evaluation systems against common quality criteria.",
+    "constructivist evaluation": "An approach that treats stakeholder meanings and negotiated constructions as central evaluation evidence.",
+    "consumer needs": "The needs, interests, alternatives, costs, and protections relevant to those served or affected by an evaluand.",
+    "consumer-oriented evaluation": "Evaluation that judges value from the standpoint of consumers, alternatives, costs, and public welfare.",
+    "content analysis": "Systematic coding and interpretation of documents, interviews, records, or other text-based evidence.",
+    "context evaluation": "CIPP inquiry into needs, problems, assets, opportunities, and setting before judging plans or results.",
+    "contract": "A binding agreement that specifies evaluation scope, deliverables, resources, rights, and responsibilities.",
+    "cost factor": "A task, assumption, rate, or condition that drives the cost of evaluation work.",
+    "cost study": "Focused inquiry into the costs, efficiency, or economic dimensions of a program or alternative.",
+    "countenance model": "Stake's framework distinguishing antecedents, transactions, outcomes, description, and judgment.",
+    "credible reporting": "Reporting that is transparent about evidence, limitations, judgments, and the conditions under which findings can be trusted.",
+    "customer feedback": "User or customer response data that can inform improvement but does not by itself constitute a full evaluation.",
+    "data quality": "The fitness of data for evaluation use, including relevance, completeness, reliability, validity, and traceability.",
+    "decision-oriented evaluation": "Evaluation organized to support choices about planning, implementation, continuation, or improvement.",
+    "deliberative democratic evaluation": "An approach that uses reasoned stakeholder deliberation to inform value judgments and public accountability.",
+    "design notation": "Compact symbols used to represent assignment, treatment, measurement, and comparison structures in experimental designs.",
+    "design team": "A group responsible for shaping or strengthening an evaluation system, plan, or institutional approach.",
+    "dissemination": "The planned distribution of findings to audiences who need access to evaluation evidence and conclusions.",
+    "eclectic evaluation": "An approach that intentionally combines ideas, methods, and roles from multiple evaluation traditions.",
+    "empowerment risk": "The risk that stakeholder control or capacity-building goals weaken independence, evidence standards, or defensible judgment.",
+    "ethical budgeting": "Budgeting that honestly matches promised work to feasible resources and makes uncertainty explicit.",
+    "evaluand": "The program, policy, product, service, organization, or other object being evaluated.",
+    "evaluative information": "Information collected because it can support a judgment about merit, worth, significance, probity, or use.",
+    "evaluation accountability": "The requirement that evaluation work itself be documented, reviewable, and judged against quality standards.",
+    "evaluation approach": "A coherent orientation to evaluation practice, usually combining assumptions, purposes, methods, and roles.",
+    "evaluation budget": "A resource plan that links evaluation tasks, staffing, timing, travel, support, and deliverables to cost.",
+    "evaluation contract": "A formal agreement governing the evaluation's scope, authority, access, schedule, budget, reporting, and use.",
+    "evaluation design": "The integrated plan for evaluand boundaries, users, questions, criteria, evidence, methods, analysis, reporting, and use.",
+    "evaluation model": "A more structured evaluation framework that guides what to examine, how to organize evidence, and how to judge value.",
+    "evaluation opportunity": "A possible assignment, request, funding opening, or internal need that may justify evaluation work.",
+    "evaluation question": "A focused question that guides what evidence must be collected and what judgment the evaluation must support.",
+    "evaluation standards": "Professional criteria used to judge whether evaluation work is useful, feasible, proper, accurate, and accountable.",
+    "evaluation system": "An organization's durable arrangements for commissioning, conducting, reviewing, using, and improving evaluation.",
+    "evaluation team": "The people and roles assembled to design, conduct, manage, analyze, report, and support evaluation use.",
+    "evaluation theory": "A set of principles and propositions explaining how evaluation should be planned, conducted, judged, and used.",
+    "evaluation use": "The ways intended users apply evaluation processes or findings to decisions, learning, accountability, or improvement.",
+    "experimental design evaluation": "Evaluation that uses experimental logic, especially controlled comparison and assignment, to estimate effects.",
+    "experimental study": "A focused study that uses controlled assignment or comparison to estimate causal effects.",
+    "expert judgment": "Structured professional judgment applied when standards, evidence, and context must be weighed together.",
+    "facilitation": "Evaluator work that helps users clarify purposes, questions, values, interpretations, and intended uses.",
+    "fact-value synthesis": "The evaluative act of combining empirical findings with value criteria to reach justified conclusions.",
+    "feasibility": "The standard concerned with practical, affordable, politically viable, and minimally disruptive evaluation work.",
+    "field trial": "An experimental or quasi-experimental test conducted in real operating conditions rather than an artificial setting.",
+    "final report": "A culminating communication of evaluation evidence, interpretation, conclusions, limitations, and recommendations.",
+    "formal evaluation": "Systematic, documented inquiry that uses explicit criteria and evidence to judge an evaluand's value.",
+    "formative evaluation": "Evaluation used while a program or product is being developed or improved.",
+    "formative metaevaluation": "Quality review conducted during an evaluation so defects can be corrected before completion.",
+    "formative use": "Use of evaluation to guide development, correction, improvement, or adaptation before final judgment.",
+    "goal-free evaluation": "Evaluation that deliberately looks beyond stated goals to identify actual effects, side effects, and consumer value.",
+    "government auditing standards": "Public-sector standards that inform independence, evidence, reporting, and accountability expectations.",
+    "grant": "A funding arrangement that supports evaluation or program work under specified sponsor conditions.",
+    "guiding principles": "Broad ethical and professional principles that orient evaluator conduct and responsibility.",
+    "human subjects review": "Ethics review focused on protecting people affected by data collection or evaluation procedures.",
+    "improvement": "Use of evaluation to strengthen plans, implementation, services, products, or organizational performance.",
+    "improvement and accountability": "A family of approaches that combines support for better performance with defensible value judgment.",
+    "independence": "Evaluator freedom to ask, analyze, judge, and report without inappropriate sponsor or stakeholder control.",
+    "informal evaluation": "Everyday judgment that may be useful but is usually less systematic, documented, and reviewable than formal evaluation.",
+    "information management": "Procedures for organizing, protecting, documenting, storing, retrieving, and controlling evaluation information.",
+    "information scope": "The range of context, inputs, activities, costs, outputs, outcomes, side effects, and perspectives considered.",
+    "information source": "A person, document, record, observation, dataset, or artifact that can provide evaluation evidence.",
+    "input evaluation": "CIPP inquiry into alternative strategies, plans, resources, and capacities before implementation choices are made.",
+    "institutional support": "Organizational backing, permissions, resources, and authority needed for evaluation work to proceed.",
+    "institutionalizing evaluation": "Creating durable policies, roles, standards, resources, and routines that make evaluation part of governance.",
+    "intended use": "The specific decision, action, learning, accountability, or improvement purpose an evaluation is meant to serve.",
+    "intended users": "The people expected to engage with and act on the evaluation's process or findings.",
+    "interim feedback": "Evaluation communication delivered during implementation so users can correct, learn, or adapt before final reporting.",
+    "justified conclusions": "Conclusions whose logic from criteria, evidence, analysis, and limitations is explicit and defensible.",
+    "Key Evaluation Checklist": "Scriven's tool for systematically considering needs, values, alternatives, costs, effects, and judgment.",
+    "line-item budget": "A budget format that itemizes costs by categories such as personnel, travel, materials, and indirect costs.",
+    "mainstreaming evaluation": "Embedding evaluation expectations and use across normal organizational planning, management, and accountability.",
+    "memorandum of agreement": "A less formal written agreement that records mutual evaluation expectations, roles, and commitments.",
+    "merit and worth": "Merit concerns intrinsic quality; worth concerns value in context, given needs, costs, and alternatives.",
+    "meta-analysis": "Statistical or systematic synthesis of findings across studies; distinct from metaevaluation of evaluation quality.",
+    "metaevaluation": "The evaluation of an evaluation's design, conduct, reporting, utility, propriety, accuracy, and accountability.",
+    "modular budget": "A budget format that groups costs into larger modules or rounded categories rather than detailed line items.",
+    "multiple methods": "Use of more than one evidence source or method to strengthen coverage, triangulation, or credibility.",
+    "narrow-scope evidence": "Evidence that answers a focused question but cannot alone support a full judgment of merit or worth.",
+    "naturalistic inquiry": "Inquiry that studies cases and settings as they operate naturally rather than under controlled intervention.",
+    "noninterventionist evaluation": "Evaluation that observes and interprets a case without manipulating the program or setting.",
+    "objectivist evaluation": "Evaluation that gives priority to explicit criteria, evidence, standards, and evaluator responsibility for judgment.",
+    "objectives-based study": "A focused study that judges performance mainly by whether stated objectives were achieved.",
+    "opportunity assessment": "The evaluation of whether a possible assignment is worth pursuing and under what conditions.",
+    "outcomes": "The results, effects, or changes associated with a program, including intended and unintended consequences.",
+    "participatory evaluation": "Evaluation involving stakeholders in design, data, interpretation, or use to improve relevance and ownership.",
+    "periodic review": "Scheduled reassessment of evaluation systems, procedures, or studies to maintain quality and usefulness.",
+    "plural values": "Multiple, sometimes conflicting value perspectives that an evaluation must surface and handle transparently.",
+    "political control": "Sponsor or stakeholder influence that constrains questions, evidence, interpretation, or reporting for political ends.",
+    "primary intended users": "The specific users whose decisions and uses drive a utilization-focused evaluation.",
+    "probity": "Integrity, honesty, and ethical soundness in the evaluand or in the evaluation process.",
+    "process evaluation": "CIPP inquiry into implementation, operations, costs, barriers, fidelity, and needed corrections.",
+    "product evaluation": "CIPP inquiry into outcomes, side effects, effectiveness, significance, and value after or during implementation.",
+    "professionalization": "The field-building process of developing standards, roles, competencies, ethics, research, and quality controls.",
+    "program evaluation standards": "The Joint Committee standards used to guide and judge program evaluation quality.",
+    "proposal appendix": "Supporting proposal material such as staff credentials, schedules, work samples, instruments, or institutional documents.",
+    "propriety": "The standard concerned with ethics, fairness, rights, legality, respect, and attention to affected groups.",
+    "pseudoevaluation": "An activity presented as evaluation while lacking credible, independent, or value-focused judgment.",
+    "public relations evaluation": "Evaluation-like activity designed mainly to promote or defend an evaluand rather than test its value.",
+    "qualitative analysis": "Systematic interpretation of nonnumeric evidence such as interviews, observations, documents, and cases.",
+    "quantitative analysis": "Statistical or numerical analysis used to summarize, compare, estimate, or test evaluation evidence.",
+    "quasi-evaluation": "A focused study that may use rigorous methods but does not by itself provide a full value judgment.",
+    "quasi-experimental design": "A causal design using comparison, timing, or statistical controls when random assignment is not feasible.",
+    "random assignment": "Assignment by chance to treatment or comparison conditions to reduce selection bias.",
+    "reliability": "The consistency and dependability of measurement, coding, data collection, or judgment procedures.",
+    "reporting rights": "Agreed authority over review, release, dissemination, confidentiality, and publication of evaluation findings.",
+    "research on evaluation": "Empirical or conceptual inquiry into how evaluation approaches, methods, standards, and uses work.",
+    "responsive evaluation": "Evaluation shaped around stakeholder concerns, observed program activity, local context, and plural values.",
+    "review team": "A group responsible for reviewing evaluation plans, reports, systems, standards, or quality.",
+    "RFQ": "A request for qualifications used to identify evaluators with suitable expertise before selecting or contracting.",
+    "RFP": "A request for proposals that specifies an evaluation opportunity, requirements, submission rules, and selection criteria.",
+    "sampling": "The selection of cases, people, sites, records, or observations from which evaluation evidence will be collected.",
+    "social agenda and advocacy": "A family of approaches that uses evaluation to support participation, equity, justice, or social change.",
+    "social justice": "A value commitment to fairness, equity, inclusion, rights, and attention to groups affected by power differences.",
+    "sole-source request": "An evaluation request directed to one provider without open competition.",
+    "stakeholder-centered evaluation": "Evaluation that organizes inquiry around stakeholder concerns, perspectives, interactions, and judgments.",
+    "stakeholder commitment": "The willingness of intended users or affected groups to engage with evidence and act on findings.",
+    "stakeholder cooperation": "Access, participation, information sharing, and review support from people involved in or affected by the evaluand.",
+    "stakeholder engagement": "Deliberate involvement of affected or interested groups in questions, evidence, interpretation, or use.",
+    "stakeholder ownership": "A sense among stakeholders that the evaluation is relevant, legitimate, and worth using.",
+    "standards-based comparison": "Comparison of evaluation approaches or studies against explicit quality standards.",
+    "standards-based review": "Review of an evaluation plan, process, or report using explicit professional standards.",
+    "start-up activities": "Early tasks that prepare an evaluation, including team formation, access, approvals, planning, and review arrangements.",
+    "subjective information": "Stakeholder experience, perception, judgment, and meaning treated as evidence requiring careful interpretation.",
+    "subcontracting": "Assigning parts of the evaluation work to external people or organizations under agreed responsibilities.",
+    "success case method": "Focused inquiry into especially successful cases to understand what worked, for whom, and under what conditions.",
+    "summative evaluation": "Evaluation used to make an overall judgment about continuation, adoption, accountability, or value.",
+    "summative metaevaluation": "Quality review conducted after completion to judge the evaluation's overall merit and accountability.",
+    "summative use": "Use of evaluation for overall judgment, accountability, adoption, continuation, expansion, or termination.",
+    "surrogate consumer": "An evaluator role in which the evaluator judges value on behalf of consumers or the public.",
+    "synthesis": "The combination of findings, criteria, and value perspectives into an overall evaluative conclusion.",
+    "systems orientation": "Attention to the evaluand as part of a wider set of inputs, processes, contexts, relationships, and effects.",
+    "theory development": "The work of turning evaluation concepts and approaches into clearer, testable, and improvable theory.",
+    "transactions": "The activities, interactions, and processes occurring during program operation in Stake's countenance framework.",
+    "transformative evaluation": "Evaluation that explicitly addresses power, inequity, and social change while still needing credible evidence.",
+    "transdiscipline": "Scriven's idea of evaluation as a discipline that supplies value-judgment logic across fields.",
+    "triangulation": "Using multiple sources, methods, or perspectives to test and strengthen interpretation.",
+    "use standards": "Criteria for ensuring an evaluation is designed and communicated in ways that support intended use.",
+    "utilization-focused evaluation": "Evaluation designed around specific primary intended users and their intended uses.",
+    "utility": "The standard concerned with serving information needs and supporting actual evaluation use.",
+    "validity": "The degree to which evidence and interpretations support the claims being made.",
+    "validity threat": "A condition that could undermine a causal, descriptive, or evaluative claim.",
+    "validated theory": "Evaluation theory strengthened by evidence, metaevaluation, and research on whether its claims hold.",
+    "value judgment": "A conclusion about merit, worth, significance, or probity based on evidence and criteria.",
+    "value criteria": "The standards or dimensions used to decide what counts as good, valuable, proper, or significant.",
+    "value-added assessment": "A focused approach that estimates contribution to outcomes after accounting for starting points or comparison conditions.",
+    "values negotiation": "Deliberation with users or stakeholders to clarify criteria, priorities, and acceptable tradeoffs.",
+    "effect size": "A quantitative estimate of the size of a difference or effect, useful for judging practical importance.",
+    "evaluator responsibility": "The evaluator's professional obligation to protect quality, ethics, evidence standards, and clear reporting.",
+    "follow-up support": "Post-report assistance that helps users interpret findings, plan responses, and sustain appropriate use.",
+    "organizational standards": "Criteria, policies, and expectations an organization adopts to guide and judge its evaluation system.",
+    "practical significance": "The real-world importance of a finding, apart from whether it is statistically significant.",
+    "site visit": "A field-based evidence collection activity used to observe settings, interview participants, and review local records.",
+    "Stake": "Robert Stake, whose work emphasizes responsive, naturalistic, and stakeholder-centered case study evaluation.",
+    "stakeholder review panel": "A group of stakeholders convened to review evaluation plans, access issues, draft findings, or usefulness.",
+    "Yin": "Robert Yin, whose case study work emphasizes systematic design, evidence, and logic for case-based inquiry.",
+}
+
+
 CHAPTERS = [
     {
         "number": 1,
@@ -662,8 +842,97 @@ def yaml_list(items: list[str]) -> str:
     return "\n".join(f'  - "{item}"' for item in items)
 
 
+def mermaid_label(text: str) -> str:
+    return text.replace('"', "'")
+
+
+def source_chunks(evidence_ids: list[str]) -> str:
+    items = "\n".join(f"<li><code>{evidence_id}</code></li>" for evidence_id in evidence_ids)
+    return (
+        '<details class="source-chunks">\n'
+        "<summary>Source chunks</summary>\n"
+        '<ul class="source-chunk-list">\n'
+        f"{items}\n"
+        "</ul>\n"
+        "</details>"
+    )
+
+
+def default_map_data(chapter: dict) -> dict:
+    return {
+        "map_problem": chapter.get("map_problem", f"What value problem does Chapter {chapter['number']} help evaluators handle?"),
+        "map_concepts": chapter.get("map_concepts", chapter["concepts"][:2]),
+        "map_mechanisms": chapter.get("map_mechanisms", chapter["structure"][:2]),
+        "map_implications": chapter.get("map_implications", chapter["implications"][:2]),
+        "map_question": chapter.get("map_question", "What evidence would make this guidance credible in a live evaluation?"),
+    }
+
+
+def render_concept_map(map_data: dict, central_label: str = "Evaluative judgment") -> str:
+    concepts = map_data.get("map_concepts", [])[:3]
+    mechanisms = map_data.get("map_mechanisms", [])[:3]
+    implications = map_data.get("map_implications", [])[:3]
+    lines = [
+        "::: {.concept-map}",
+        "```{mermaid}",
+        "flowchart TD",
+        f'  Problem["Problem: {mermaid_label(map_data["map_problem"])}"]',
+        f'  Central["Concept: {mermaid_label(central_label)}"]',
+    ]
+    for idx, concept in enumerate(concepts, start=1):
+        lines.append(f'  Concept{idx}["Concept: {mermaid_label(concept)}"]')
+    for idx, mechanism in enumerate(mechanisms, start=1):
+        lines.append(f'  Mechanism{idx}["Mechanism: {mermaid_label(mechanism)}"]')
+    for idx, implication in enumerate(implications, start=1):
+        lines.append(f'  Implication{idx}["Policy implication: {mermaid_label(implication)}"]')
+    lines.append(f'  Question["Open question: {mermaid_label(map_data["map_question"])}"]')
+    lines.extend(
+        [
+            "",
+            "  Problem --> Central",
+            "  Central --> Question",
+        ]
+    )
+    for idx in range(1, len(concepts) + 1):
+        lines.append(f"  Central --> Concept{idx}")
+    for idx in range(1, len(mechanisms) + 1):
+        if concepts:
+            lines.append(f"  Concept{min(idx, len(concepts))} --> Mechanism{idx}")
+        else:
+            lines.append(f"  Central --> Mechanism{idx}")
+    for idx in range(1, len(implications) + 1):
+        if mechanisms:
+            lines.append(f"  Mechanism{min(idx, len(mechanisms))} --> Implication{idx}")
+        else:
+            lines.append(f"  Central --> Implication{idx}")
+    if implications:
+        lines.append("  Implication1 --> Question")
+    lines.extend(
+        [
+            "",
+            "  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;",
+            "  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;",
+            "  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;",
+            "  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;",
+            "  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;",
+            "  class Problem problem;",
+            "  class Central concept;",
+        ]
+    )
+    if concepts:
+        lines.append(f"  class {','.join(f'Concept{idx}' for idx in range(1, len(concepts) + 1))} concept;")
+    if mechanisms:
+        lines.append(f"  class {','.join(f'Mechanism{idx}' for idx in range(1, len(mechanisms) + 1))} mechanism;")
+    if implications:
+        lines.append(f"  class {','.join(f'Implication{idx}' for idx in range(1, len(implications) + 1))},Question implication;")
+    else:
+        lines.append("  class Question implication;")
+    lines.extend(["```", ":::"])
+    return "\n".join(lines)
+
+
 def metadata(extra: list[str]) -> str:
-    spans = "".join(f"<span>{item}</span>" for item in [YEAR, "MCP evaluation-texts", f"Status: {SOURCE_STATUS}", *extra])
+    spans = "".join(f"<span>{item}</span>" for item in [YEAR, *extra])
     return f'<div class="chapter-meta">{spans}</div>'
 
 
@@ -676,6 +945,17 @@ def sentence_join(items: list[str], limit: int = 4) -> str:
     if len(selected) == 1:
         return selected[0]
     return ", ".join(selected[:-1]) + f", and {selected[-1]}"
+
+
+def concept_gloss(concept: str, chapter: dict) -> str:
+    glosses = {key.lower(): value for key, value in CONCEPT_GLOSSES.items()}
+    gloss = glosses.get(concept.lower())
+    if gloss:
+        return gloss
+    return (
+        f"A chapter-specific idea used to connect {sentence_join(chapter['structure'], 2)} "
+        f"to the chapter's wider argument about {chapter['title'].lower()}."
+    )
 
 
 def render_reading_note(chapter: dict) -> str:
@@ -751,11 +1031,7 @@ def render_chapter(chapter: dict, prev_chapter: dict | None, next_chapter: dict 
         "",
         f"This note summarises Chapter {chapter['number']}, \"{chapter['title']},\" from {AUTHORS}'s *{FULL_TITLE}* [@{CITATION}]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.",
         "",
-        "Evidence records used in the chapter draft:",
-        "",
-        *[f"- `{evidence_id}`" for evidence_id in evidence_ids],
-        "",
-        "These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.",
+        "The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.",
         "",
         "## Core Argument",
         "",
@@ -771,7 +1047,7 @@ def render_chapter(chapter: dict, prev_chapter: dict | None, next_chapter: dict 
         "## Key Concepts",
         "",
         *[
-            f"- {concept}: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use."
+            f"- **{concept}**: {concept_gloss(concept, chapter)}"
             for concept in chapter["concepts"]
         ],
         "",
@@ -782,6 +1058,10 @@ def render_chapter(chapter: dict, prev_chapter: dict | None, next_chapter: dict 
         "## Practical Implications",
         "",
         *[f"- {item}" for item in chapter["implications"]],
+        "",
+        "## Concept Map",
+        "",
+        render_concept_map(default_map_data(chapter), chapter["title"]),
         "",
         "## Connections",
         "",
@@ -810,6 +1090,10 @@ def render_chapter(chapter: dict, prev_chapter: dict | None, next_chapter: dict 
             "2. Which assumptions would need evidence before applying this chapter in a live evaluation?",
             "3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?",
             "4. Where could the guidance be misused if treated as a fixed template?",
+            "",
+            "## Source Chunks",
+            "",
+            source_chunks(evidence_ids),
             "",
             "## References",
             "",
@@ -848,8 +1132,6 @@ def render_index() -> str:
         '<div class="page-metadata">',
         "  <span>26 chapter notes</span>",
         f"  <span>{YEAR}</span>",
-        f"  <span>Source status: {SOURCE_STATUS}</span>",
-        "  <span>MCP evaluation-texts</span>",
         "</div>",
         ":::",
         "",
@@ -891,6 +1173,19 @@ def render_index() -> str:
         "",
         "Evaluation approaches should be chosen, adapted, and judged by their contribution to defensible value judgments, practical improvement, accountability, standards compliance, and use.",
         "",
+        "## Concept Map",
+        "",
+        render_concept_map(
+            {
+                "map_problem": "How should evaluators choose and judge evaluation approaches?",
+                "map_concepts": ["value judgment", "professional standards", "evaluation approaches"],
+                "map_mechanisms": ["theory development", "model comparison", "metaevaluation"],
+                "map_implications": ["Select approaches by fit, standards, and intended use.", "Treat models as design resources rather than recipes."],
+                "map_question": "Which approach best supports defensible judgment in this evaluation context?",
+            },
+            TITLE,
+        ),
+        "",
         "## Chapter Notes",
         "",
     ]
@@ -901,13 +1196,9 @@ def render_index() -> str:
         lines.append("")
     lines.extend(
         [
-            "## Seed Major-Section Notes",
+            "## Source Chunks",
             "",
-            "These earlier generated notes are retained for link stability and as topical extracts.",
-            "",
-            "- [Program Evaluation Standards and Theory Development](section-01-evaluation-theory-development.qmd) - folded into Chapter 2",
-            "- [CIPP Model Overview](section-02-cipp-overview.qmd) - folded into Chapter 13",
-            "- [Standards and Metaevaluation](section-03-standards-and-metaevaluation.qmd) - folded into Chapters 13 and 25",
+            source_chunks(evidence),
             "",
             "## References",
             "",
@@ -953,11 +1244,28 @@ def render_chapter_map() -> str:
             "- Use Part Four as a procedural guide for scoping, designing, budgeting, contracting, collecting, analyzing, reporting, and follow-up.",
             "- Use Part Five to check evaluation quality and organizational evaluation capacity.",
             "",
+            "## Concept Map",
+            "",
+            render_concept_map(
+                {
+                    "map_problem": "How does the book move from foundations to evaluation systems?",
+                    "map_concepts": ["fundamentals", "approach families", "selected models"],
+                    "map_mechanisms": ["procedural tasks", "standards review", "organizational mainstreaming"],
+                    "map_implications": ["Read model choice and evaluation procedure as connected decisions.", "Use standards to connect design, conduct, reporting, and review."],
+                    "map_question": "Where in the reading route does a live evaluation decision need support?",
+                },
+                "Book reading route",
+            ),
+            "",
             "## Seed Notes",
             "",
             "- [Program Evaluation Standards and Theory Development](section-01-evaluation-theory-development.qmd)",
             "- [CIPP Model Overview](section-02-cipp-overview.qmd)",
             "- [Standards and Metaevaluation](section-03-standards-and-metaevaluation.qmd)",
+            "",
+            "## Source Chunks",
+            "",
+            source_chunks(evidence),
             "",
             "## References",
             "",
@@ -996,6 +1304,19 @@ def render_concepts() -> str:
         "",
         "The book treats evaluation as a standards-guided practice for producing defensible judgments of value and helping users improve programs, make decisions, and meet accountability obligations.",
         "",
+        "## Concept Map",
+        "",
+        render_concept_map(
+            {
+                "map_problem": "What concepts hold the book's evaluation logic together?",
+                "map_concepts": ["merit and worth", "utility, feasibility, propriety, accuracy, and accountability", "evaluation use"],
+                "map_mechanisms": ["approach classification", "model selection", "analysis and synthesis"],
+                "map_implications": ["Make value criteria explicit before drawing conclusions.", "Check every evaluation model against standards and use."],
+                "map_question": "Which concept cluster is doing the most work in a given evaluation design?",
+            },
+            "Core concepts",
+        ),
+        "",
         "## Concepts",
         "",
     ]
@@ -1007,7 +1328,7 @@ def render_concepts() -> str:
     lines.extend(["## Links", ""])
     for chapter in CHAPTERS:
         lines.append(f"- {chapter_link(chapter)}")
-    lines.extend(["", "## References", ""])
+    lines.extend(["", "## Source Chunks", "", source_chunks(evidence), "", "## References", ""])
     return "\n".join(lines)
 
 
@@ -1049,9 +1370,26 @@ def render_practice() -> str:
         "",
         "Use these implications as checks during scoping, proposal decisions, design review, method selection, reporting, follow-up, and metaevaluation. They should be adapted to the evaluation's context, available resources, stakeholder needs, and standards obligations.",
         "",
+        "## Concept Map",
+        "",
+        render_concept_map(
+            {
+                "map_problem": "How should ETMA change evaluation practice?",
+                "map_concepts": ["evaluand and users", "value criteria and standards", "intended use"],
+                "map_mechanisms": ["design review", "information collection", "analysis, synthesis, and reporting"],
+                "map_implications": ["Build standards into every phase of the evaluation.", "Use metaevaluation proportionate to stakes and risk."],
+                "map_question": "What has to be true for these notes to improve a real evaluation?",
+            },
+            "Practice implications",
+        ),
+        "",
         "## Links",
         "",
         *[f"- {chapter_link(chapter)}" for chapter in CHAPTERS],
+        "",
+        "## Source Chunks",
+        "",
+        source_chunks(evidence),
         "",
         "## References",
         "",

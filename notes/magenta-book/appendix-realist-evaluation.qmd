@@ -1,0 +1,157 @@
+---
+title: "Realist Evaluation"
+description: "Detailed study notes for Realist Evaluation in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "67-74"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001"
+  - "chunk:magenta-book:realist-evaluation-2-introducing-realist-evaluation:c0001"
+  - "chunk:magenta-book:realist-evaluation-3-developing-realist-theory-context-mechanism-and-outcome:c0001"
+  - "chunk:magenta-book:realist-evaluation-5-applying-the-realist-frame-to-evaluation:c0001"
+  - "chunk:magenta-book:realist-evaluation-6-further-examples-of-realist-evaluation:c0003"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Supplementary Guide: Realist evaluation</span><span>Source pages 67-74</span><span>Appendix</span></div>
+
+This note summarises Appendices > Supplementary Guide: Realist evaluation from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The realist evaluation guide explains how to test and refine context-mechanism-outcome theories when
+evaluators need to know what works, for whom, how, and under what conditions.
+
+## Study Summary
+
+The realist guide positions realist evaluation as a theory-based approach for programmes where
+average effects are not enough. It asks how the intervention creates opportunities that people
+respond to differently in different contexts.
+
+The central explanatory unit is the context-mechanism-outcome configuration. The intervention does
+not act mechanically; outcomes arise when people respond to resources, opportunities, incentives, or
+constraints in a context.
+
+Realist evaluation develops, tests, and refines hypotheses. It begins with programme theory,
+translates that theory into realist terms, collects evidence about how mechanisms operate, and
+revises explanations as evidence accumulates.
+
+The guide is especially useful where programmes are new, being scaled, producing mixed outcomes, or
+operating in complex systems where understanding why and for whom matters for future adaptation.
+
+For close reading, track how this note uses realist evaluation, theory-based methods, context, and
+mechanism while moving through what realist evaluation is, introducing the realist frame, and
+context-mechanism-outcome theory. The notes below treat those moves as study scaffolding: they
+identify what the guidance asks the evaluator to notice, what judgment problem it helps solve, and
+what should be checked against the saved evidence records before relying on the summary in applied
+work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **realist evaluation**: Theory-based evaluation that tests context-mechanism-outcome explanations of what works, for whom, and how.
+- **theory-based methods**: Impact methods that test causal explanations and contribution claims using multiple evidence sources.
+- **context**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **mechanism**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **outcome**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **causal attribution**: Reasoning about whether observed outcomes were caused by the intervention rather than other factors.
+- **complexity**: Conditions such as uncertainty, interdependence, emergence, nonlinearity, and multiple stakeholder perspectives.
+
+## Appendix Structure
+
+- What realist evaluation is.
+- Introducing the realist frame.
+- Context-mechanism-outcome theory.
+- Realist cycle.
+- Examples and resources.
+
+## Practical Implications
+
+- Use realist evaluation when adaptation and transfer depend on understanding mechanisms in context.
+- Write causal hypotheses in a form that can be tested with evidence.
+- Avoid reducing realist work to broad narrative explanation without explicit CMO testing.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Realist Evaluation help government handle?"]
+  Central["Concept: Realist Evaluation"]
+  Concept1["Concept: realist evaluation"]
+  Concept2["Concept: theory-based methods"]
+  Concept3["Concept: context"]
+  Mechanism1["Mechanism: what realist evaluation is"]
+  Mechanism2["Mechanism: introducing the realist frame"]
+  Mechanism3["Mechanism: context-mechanism-outcome theory"]
+  Implication1["Policy implication: Use realist evaluation when adaptation and transfer depend on understanding mechanisms in context."]
+  Implication2["Policy implication: Write causal hypotheses in a form that can be tested with evidence."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Quality in Policy Impact Evaluation](appendix-quality-in-policy-impact-evaluation.qmd)
+- Next: [Guidance on the Impact Evaluation of AI Interventions](appendix-guidance-impact-evaluation-ai-interventions.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Realist Evaluation help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-2-introducing-realist-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-3-developing-realist-theory-context-mechanism-and-outcome:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-5-applying-the-realist-frame-to-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-6-further-examples-of-realist-evaluation:c0003</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Supplementary Guide: Realist evaluation, pages 67-74.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

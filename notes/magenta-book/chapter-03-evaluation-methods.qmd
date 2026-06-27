@@ -1,0 +1,158 @@
+---
+title: "Chapter 3: Evaluation Methods"
+description: "Detailed study notes for Chapter 3: Evaluation Methods in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "6"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0006"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0012"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0015"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>3. Evaluation methods</span><span>Source pages 6</span><span>Chapter</span></div>
+
+This note summarises 3. Evaluation methods from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Method choice should follow the evaluation questions, theory of change, assumptions, feasibility,
+and stakeholder need for causal, process, synthesis, or value for money evidence.
+
+## Study Summary
+
+Chapter 3 surveys methods for government evaluation and groups them around generic research methods,
+theory-based impact evaluation, experimental and quasi-experimental impact evaluation, value for
+money analysis, and synthesis.
+
+The chapter warns against method-led evaluation. No single method answers every evaluation question,
+and most evaluations need mixed methods because process, impact, and economic questions illuminate
+different parts of the intervention.
+
+Theory-based methods are used when causal explanation, mechanisms, context, and contribution matter.
+Experimental and quasi-experimental methods are used when credible comparison is feasible and the
+evaluation needs stronger attribution.
+
+Value for money methods need to be planned early and aligned with appraisal and impact evidence.
+Synthesis methods help combine existing evidence, but the suitability of each approach depends on
+the evidence base and evaluation purpose.
+
+For close reading, track how this note uses mixed methods, theory-based methods, experimental
+methods, and quasi-experimental methods while moving through method selection, generic research
+methods, and theory-based impact methods. The notes below treat those moves as study scaffolding:
+they identify what the guidance asks the evaluator to notice, what judgment problem it helps solve,
+and what should be checked against the saved evidence records before relying on the summary in
+applied work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **mixed methods**: Use of qualitative, quantitative, and other evidence sources together to answer complementary questions.
+- **theory-based methods**: Impact methods that test causal explanations and contribution claims using multiple evidence sources.
+- **experimental methods**: Impact designs that use random assignment or controlled rollout to estimate causal effects.
+- **quasi-experimental methods**: Impact designs that construct credible comparison groups without random assignment.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+- **synthesis**: Combining evidence from multiple sources or studies to answer evaluation questions and support judgment.
+- **causal attribution**: Reasoning about whether observed outcomes were caused by the intervention rather than other factors.
+
+## Chapter Structure
+
+- Method selection.
+- Generic research methods.
+- Theory-based impact methods.
+- Experimental and quasi-experimental methods.
+- Value for money methods.
+- Synthesis methods.
+
+## Practical Implications
+
+- Choose methods after clarifying questions, theory, assumptions, and feasible data.
+- Use mixed methods when implementation, impact, and value questions all matter.
+- Make tradeoffs explicit when cost, timing, ethics, or respondent burden limit the strongest method.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Evaluation Methods help government handle?"]
+  Central["Concept: Evaluation Methods"]
+  Concept1["Concept: mixed methods"]
+  Concept2["Concept: theory-based methods"]
+  Concept3["Concept: experimental methods"]
+  Mechanism1["Mechanism: method selection"]
+  Mechanism2["Mechanism: generic research methods"]
+  Mechanism3["Mechanism: theory-based impact methods"]
+  Implication1["Policy implication: Choose methods after clarifying questions, theory, assumptions, and feasible data."]
+  Implication2["Policy implication: Use mixed methods when implementation, impact, and value questions all matter."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Evaluation Scoping](chapter-02-evaluation-scoping.qmd)
+- Next: [Chapter 4: Data Collection, Data Access and Data Linking](chapter-04-data-collection-data-access-and-data-linking.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Evaluation Methods help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0006</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0012</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0015</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 3. Evaluation methods, pages 6.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

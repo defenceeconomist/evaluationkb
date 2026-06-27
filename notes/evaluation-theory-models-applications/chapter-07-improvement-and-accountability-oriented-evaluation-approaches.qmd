@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 7</span><span>Source pages 209-226</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 7</span><span>Source pages 209-226</span></div>
 
 This note summarises Chapter 7, "Improvement- and Accountability-oriented Evaluation Approaches," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001`
-- `chunk:evaluation-theory-models-applications:approach-15-decision-and-accountability-oriented-studies:c0001`
-- `chunk:evaluation-theory-models-applications:approach-17-accreditation-and-certification:c0004`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,13 +43,13 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 
 ## Key Concepts
 
-- improvement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- accountability: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- decision-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- CIPP: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- consumer-oriented evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- accreditation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- certification: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **improvement**: Use of evaluation to strengthen plans, implementation, services, products, or organizational performance.
+- **accountability**: The obligation to justify decisions, performance, and resource use to clients, stakeholders, funders, or the public.
+- **decision-oriented evaluation**: Evaluation organized to support choices about planning, implementation, continuation, or improvement.
+- **CIPP**: A model organizing evaluation around context, input, process, and product information for improvement and accountability.
+- **consumer-oriented evaluation**: Evaluation that judges value from the standpoint of consumers, alternatives, costs, and public welfare.
+- **accreditation**: A formal judgment that a program or organization meets specified external standards.
+- **certification**: A standards-based judgment that a person, program, process, or organization satisfies defined requirements.
 
 ## Chapter Structure
 
@@ -70,6 +64,44 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 - Select these approaches when the client needs a defensible value judgment.
 - Clarify the balance between improvement feedback and accountability reporting.
 - Check whether external standards or consumer needs should dominate the value frame.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 7 help evaluators handle?"]
+  Central["Concept: Improvement- and Accountability-oriented Evaluation Approaches"]
+  Concept1["Concept: improvement"]
+  Concept2["Concept: accountability"]
+  Mechanism1["Mechanism: definition and functions"]
+  Mechanism2["Mechanism: general strengths and weaknesses"]
+  Implication1["Policy implication: Select these approaches when the client needs a defensible value judgment."]
+  Implication2["Policy implication: Clarify the balance between improvement feedback and accountability reporting."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -86,6 +118,17 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:improvement-and-accountability-oriented-evaluation-defined:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-15-decision-and-accountability-oriented-studies:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-17-accreditation-and-certification:c0004</code></li>
+</ul>
+</details>
 
 ## References
 

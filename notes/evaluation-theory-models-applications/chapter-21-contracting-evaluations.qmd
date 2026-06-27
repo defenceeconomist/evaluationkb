@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 21</span><span>Source pages 541-554</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 21</span><span>Source pages 541-554</span></div>
 
 This note summarises Chapter 21, "Contracting Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001`
-- `chunk:evaluation-theory-models-applications:negotiating-evaluation-agreements:c0002`
-- `chunk:evaluation-theory-models-applications:evaluation-contracting-checklist:c0002`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,13 +43,13 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 
 ## Key Concepts
 
-- evaluation contract: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- memorandum of agreement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- client authority: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- evaluator responsibility: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- reporting rights: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- stakeholder cooperation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- advance agreement: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **evaluation contract**: A formal agreement governing the evaluation's scope, authority, access, schedule, budget, reporting, and use.
+- **memorandum of agreement**: A less formal written agreement that records mutual evaluation expectations, roles, and commitments.
+- **client authority**: The formal power a client has to commission, shape, accept, or act on evaluation work.
+- **evaluator responsibility**: The evaluator's professional obligation to protect quality, ethics, evidence standards, and clear reporting.
+- **reporting rights**: Agreed authority over review, release, dissemination, confidentiality, and publication of evaluation findings.
+- **stakeholder cooperation**: Access, participation, information sharing, and review support from people involved in or affected by the evaluand.
+- **advance agreement**: Written agreement on expectations, access, reporting, ownership, and responsibilities before evaluation work begins.
 
 ## Chapter Structure
 
@@ -70,6 +64,44 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 - Negotiate reporting and dissemination rights before data collection.
 - Specify access, confidentiality, and stakeholder roles in writing.
 - Align contract terms with the design and budget rather than treating them separately.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 21 help evaluators handle?"]
+  Central["Concept: Contracting Evaluations"]
+  Concept1["Concept: evaluation contract"]
+  Concept2["Concept: memorandum of agreement"]
+  Mechanism1["Mechanism: definitions"]
+  Mechanism2["Mechanism: core requirements"]
+  Implication1["Policy implication: Negotiate reporting and dissemination rights before data collection."]
+  Implication2["Policy implication: Specify access, confidentiality, and stakeholder roles in writing."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -86,6 +118,17 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch21-chapter-21-contracting-evaluations:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:negotiating-evaluation-agreements:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:evaluation-contracting-checklist:c0002</code></li>
+</ul>
+</details>
 
 ## References
 

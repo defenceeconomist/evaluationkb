@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 5</span><span>Source pages 151-168</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 5</span><span>Source pages 151-168</span></div>
 
 This note summarises Chapter 5, "Pseudoevaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001`
-- `chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0006`
-- `chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0010`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,13 +43,13 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 
 ## Key Concepts
 
-- pseudoevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- political control: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- public relations evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- customer feedback: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- empowerment risk: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- independence: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- credible reporting: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **pseudoevaluation**: An activity presented as evaluation while lacking credible, independent, or value-focused judgment.
+- **political control**: Sponsor or stakeholder influence that constrains questions, evidence, interpretation, or reporting for political ends.
+- **public relations evaluation**: Evaluation-like activity designed mainly to promote or defend an evaluand rather than test its value.
+- **customer feedback**: User or customer response data that can inform improvement but does not by itself constitute a full evaluation.
+- **empowerment risk**: The risk that stakeholder control or capacity-building goals weaken independence, evidence standards, or defensible judgment.
+- **independence**: Evaluator freedom to ask, analyze, judge, and report without inappropriate sponsor or stakeholder control.
+- **credible reporting**: Reporting that is transparent about evidence, limitations, judgments, and the conditions under which findings can be trusted.
 
 ## Chapter Structure
 
@@ -70,6 +64,44 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 - Screen assignments for control over questions, evidence, and reporting.
 - Do not market satisfaction data as a full evaluation of value.
 - Negotiate independence and publication conditions before accepting high-risk work.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 5 help evaluators handle?"]
+  Central["Concept: Pseudoevaluations"]
+  Concept1["Concept: pseudoevaluation"]
+  Concept2["Concept: political control"]
+  Mechanism1["Mechanism: definition of pseudoevaluation"]
+  Mechanism2["Mechanism: types of misleading studies"]
+  Implication1["Policy implication: Screen assignments for control over questions, evidence, and reporting."]
+  Implication2["Policy implication: Do not market satisfaction data as a full evaluation of value."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -86,6 +118,17 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch05-chapter-5-pseudoevaluations:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0006</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-6-customer-feedback-evaluation:c0010</code></li>
+</ul>
+</details>
 
 ## References
 

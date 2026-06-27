@@ -12,7 +12,7 @@ source_status: "needs_review"
 ---
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 353</span><span>Major section</span></div>
+<div class="chapter-meta"><span>2014</span><span>Source pages 353</span><span>Major section</span></div>
 This note summarises the MCP research-library section "Standards and Metaevaluation" from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
 
 ## Core Argument
@@ -38,13 +38,49 @@ Metaevaluation is both formative, guiding correction during the work, and summat
 ## Source Location
 
 - Section path: Part Three > Chapter 13 > Philosophy and Code of Ethics Underlying the CIPP Model
-- Evidence records: `chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006`
 
 ## Practical Implications
 
 - Use standards as checkpoints during the evaluation, not only after completion.
 - Report how the evaluation met relevant quality standards.
 - Seek independent metaevaluation when stakes justify it.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: How does Standards and Metaevaluation guide evaluation practice?"]
+  Central["Concept: Standards and Metaevaluation"]
+  Concept1["Concept: Utility"]
+  Concept2["Concept: Feasibility"]
+  Concept3["Concept: Propriety"]
+  Evidence["Evidence: Source pages 353"]
+  Implication1["Policy implication: Use standards as checkpoints during the evaluation, not only after completion."]
+  Implication2["Policy implication: Report how the evaluation met relevant quality standards."]
+  Question["Open question: What would need checking before applying this guidance?"]
+
+  Problem --> Central
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Central --> Evidence
+  Concept1 --> Implication1
+  Concept2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Evidence evidence;
+  class Concept1,Concept2,Concept3 concept;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -59,5 +95,14 @@ Metaevaluation is both formative, guiding correction during the work, and summat
 2. Which assumptions would need evidence before using this guidance in a live evaluation?
 3. How would this change the way an evaluator scopes questions, methods, or reporting?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006</code></li>
+</ul>
+</details>
 
 ## References

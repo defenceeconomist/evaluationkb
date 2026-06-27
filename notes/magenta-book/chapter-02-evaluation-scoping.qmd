@@ -1,0 +1,157 @@
+---
+title: "Chapter 2: Evaluation Scoping"
+description: "Detailed study notes for Chapter 2: Evaluation Scoping in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+source_pages: "5"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0010"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0014"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0016"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0025"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>2. Evaluation scoping</span><span>Source pages 5</span><span>Chapter</span></div>
+
+This note summarises 2. Evaluation scoping from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Scoping turns an intervention, its theory of change, users, and uncertainties into answerable
+evaluation questions and a feasible design route.
+
+## Study Summary
+
+Chapter 2 treats scoping as the disciplined bridge between policy need and evaluation design.
+Evaluators need to understand the intervention, its context, its theory of change, and what
+decisions the evaluation must inform.
+
+A theory of change is used to identify assumptions, mechanisms, outcomes, data needs, and evidence
+gaps. The chapter stresses that evaluation approaches can be complementary: process evidence can
+support theory-based impact claims, and value for money work usually depends on impact evidence.
+
+Evaluation questions are a control point. A long list of possible questions has to be prioritised
+into a smaller set of high-level questions that can guide design and remain manageable across
+delivery.
+
+Scoping also includes practical feasibility: data access, timing, resources, stakeholder needs,
+ethical issues, transparency, and whether planned methods can answer the priority questions.
+
+For close reading, track how this note uses scoping, theory of change, evaluation question, and
+evaluation design while moving through understanding the intervention, theory of change, and
+evaluation types and approaches. The notes below treat those moves as study scaffolding: they
+identify what the guidance asks the evaluator to notice, what judgment problem it helps solve, and
+what should be checked against the saved evidence records before relying on the summary in applied
+work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **scoping**: Early work to clarify the intervention, theory of change, users, questions, data, methods, and feasibility.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **evaluation question**: A focused question that determines what evidence and analysis an evaluation must provide.
+- **evaluation design**: The plan that connects evaluation purpose, questions, theory, data, methods, governance, analysis, and use.
+- **data access**: The legal, ethical, technical, and practical ability to obtain data needed for evaluation questions.
+- **pre-registration**: Documenting evaluation plans or analysis choices before data collection or analysis to reduce selective reporting.
+- **proportionality**: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.
+
+## Chapter Structure
+
+- Understanding the intervention.
+- Theory of change.
+- Evaluation types and approaches.
+- Evaluation questions.
+- Design and feasibility.
+- Registration.
+
+## Practical Implications
+
+- Use the theory of change to decide what evidence matters, not only to describe the programme.
+- Prioritise evaluation questions before committing to methods or supplier specifications.
+- Document design changes transparently when feasibility or evidence changes during implementation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Evaluation Scoping help government handle?"]
+  Central["Concept: Evaluation Scoping"]
+  Concept1["Concept: scoping"]
+  Concept2["Concept: theory of change"]
+  Concept3["Concept: evaluation question"]
+  Mechanism1["Mechanism: understanding the intervention"]
+  Mechanism2["Mechanism: theory of change"]
+  Mechanism3["Mechanism: evaluation types and approaches"]
+  Implication1["Policy implication: Use the theory of change to decide what evidence matters, not only to describe the programme."]
+  Implication2["Policy implication: Prioritise evaluation questions before committing to methods or supplier specifications."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: Why, How and When to Evaluate?](chapter-01-why-how-and-when-to-evaluate.qmd)
+- Next: [Chapter 3: Evaluation Methods](chapter-03-evaluation-methods.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Evaluation Scoping help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0010</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0014</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0016</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0025</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 2. Evaluation scoping, pages 5.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

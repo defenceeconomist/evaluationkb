@@ -1,0 +1,160 @@
+---
+title: "Transparency in Government Evaluation Research"
+description: "Detailed study notes for Transparency in Government Evaluation Research in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "91-103"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:tiger-transparency-foreword:c0001"
+  - "chunk:magenta-book:tiger-transparency-introduction:c0001"
+  - "chunk:magenta-book:tiger-transparency-introduction:c0003"
+  - "chunk:magenta-book:tiger-transparency-planning-transparency:c0001"
+  - "chunk:magenta-book:tiger-transparency-analysis-transparency:c0001"
+  - "chunk:magenta-book:tiger-transparency-reporting-transparency:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Transparency in Government Evaluation Research (T I G E R)</span><span>Source pages 91-103</span><span>Appendix</span></div>
+
+This note summarises Appendices > Transparency in Government Evaluation Research (T I G E R) from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The TIGER annex operationalises open science for government evaluation through proportionate
+planning, analysis, and reporting transparency.
+
+## Study Summary
+
+The transparency annex adapts open science practices to government evaluation. It aims to make
+evaluation plans, analysis, and reporting transparent enough to strengthen integrity, trust, reuse,
+and value for money.
+
+The annex is explicitly proportionate. Higher stakes, higher cost, high-profile, high learning
+value, novel, or complex evaluations should receive stronger transparency practices, while legal and
+data constraints still matter.
+
+Planning transparency includes registration, evaluation plans, protocols, statistical analysis
+plans, timestamping, and archiving. These practices create a record before data collection or
+analysis can be shaped by results.
+
+Analysis and reporting transparency require preserving materials, data, code, and methodological
+choices; communicating uncertainty; and showing whether findings are robust to reasonable
+alternative choices.
+
+For close reading, track how this note uses transparency, open science, evaluation registry, and
+pre-registration while moving through transparency rationale, proportionality, and planning
+transparency. The notes below treat those moves as study scaffolding: they identify what the
+guidance asks the evaluator to notice, what judgment problem it helps solve, and what should be
+checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **transparency**: Making evaluation plans, evidence, analysis, and findings open enough to support trust, challenge, and reuse.
+- **open science**: Practices that make research plans, materials, analysis, and outputs more transparent and accessible.
+- **evaluation registry**: A transparency mechanism for recording planned, live, and completed government evaluations.
+- **pre-registration**: Documenting evaluation plans or analysis choices before data collection or analysis to reduce selective reporting.
+- **analysis transparency**: Preserving and, where proportionate, sharing the materials, data, code, and choices behind evaluation analysis.
+- **reporting transparency**: Clear reporting of methods, uncertainty, robustness, limitations, and interpretation.
+- **robustness**: The extent to which findings remain credible under reasonable checks, assumptions, and alternative analyses.
+
+## Appendix Structure
+
+- Transparency rationale.
+- Proportionality.
+- Planning transparency.
+- Analysis transparency.
+- Reporting transparency.
+- Tools and recommendations.
+
+## Practical Implications
+
+- Decide transparency practices during design, before data collection or analysis begins.
+- Archive plans, materials, code, and analysis decisions even when public release is not possible.
+- Report uncertainty and robustness in language decision-makers can understand.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Transparency in Government Evaluation Research help government handle?"]
+  Central["Concept: Transparency in Government Evaluation Research"]
+  Concept1["Concept: transparency"]
+  Concept2["Concept: open science"]
+  Concept3["Concept: evaluation registry"]
+  Mechanism1["Mechanism: transparency rationale"]
+  Mechanism2["Mechanism: proportionality"]
+  Mechanism3["Mechanism: planning transparency"]
+  Implication1["Policy implication: Decide transparency practices during design, before data collection or analysis begins."]
+  Implication2["Policy implication: Archive plans, materials, code, and analysis decisions even when public release is not possible."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Guidance on the Impact Evaluation of AI Interventions](appendix-guidance-impact-evaluation-ai-interventions.qmd)
+- Next: [Test and Learn](appendix-test-and-learn.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Transparency in Government Evaluation Research help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:tiger-transparency-foreword:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-introduction:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-introduction:c0003</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-planning-transparency:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-analysis-transparency:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-reporting-transparency:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Transparency in Government Evaluation Research (T I G E R), pages 91-103.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

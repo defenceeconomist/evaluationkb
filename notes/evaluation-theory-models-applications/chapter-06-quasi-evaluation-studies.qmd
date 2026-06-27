@@ -17,17 +17,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 6</span><span>Source pages 169-208</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Two: An Evaluation of Evaluation Approaches and Models</span><span>Chapter 6</span><span>Source pages 169-208</span></div>
 
 This note summarises Chapter 6, "Quasi-evaluation Studies," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001`
-- `chunk:evaluation-theory-models-applications:quasi-evaluation-approaches-defined:c0001`
-- `chunk:evaluation-theory-models-applications:approach-14-meta-analysis:c0011`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -49,14 +43,14 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 
 ## Key Concepts
 
-- quasi-evaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- objectives-based study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- success case method: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- value-added assessment: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- experimental study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- cost study: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- meta-analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- narrow-scope evidence: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **quasi-evaluation**: A focused study that may use rigorous methods but does not by itself provide a full value judgment.
+- **objectives-based study**: A focused study that judges performance mainly by whether stated objectives were achieved.
+- **success case method**: Focused inquiry into especially successful cases to understand what worked, for whom, and under what conditions.
+- **value-added assessment**: A focused approach that estimates contribution to outcomes after accounting for starting points or comparison conditions.
+- **experimental study**: A focused study that uses controlled assignment or comparison to estimate causal effects.
+- **cost study**: Focused inquiry into the costs, efficiency, or economic dimensions of a program or alternative.
+- **meta-analysis**: Statistical or systematic synthesis of findings across studies; distinct from metaevaluation of evaluation quality.
+- **narrow-scope evidence**: Evidence that answers a focused question but cannot alone support a full judgment of merit or worth.
 
 ## Chapter Structure
 
@@ -70,6 +64,44 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 - Match a narrow approach to a narrow question and say so in the report.
 - Add value criteria when a client asks for conclusions about merit or worth.
 - Use focused studies as components of broader evaluations when stakes require fuller judgment.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 6 help evaluators handle?"]
+  Central["Concept: Quasi-evaluation Studies"]
+  Concept1["Concept: quasi-evaluation"]
+  Concept2["Concept: objectives-based study"]
+  Mechanism1["Mechanism: definition and functions"]
+  Mechanism2["Mechanism: strengths and weaknesses"]
+  Implication1["Policy implication: Match a narrow approach to a narrow question and say so in the report."]
+  Implication2["Policy implication: Add value criteria when a client asks for conclusions about merit or worth."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -86,6 +118,17 @@ Within Part Two, this chapter should be read as part of Stufflebeam and Coryn's 
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch06-chapter-6-quasi-evaluation-studies:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:quasi-evaluation-approaches-defined:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:approach-14-meta-analysis:c0011</code></li>
+</ul>
+</details>
 
 ## References
 

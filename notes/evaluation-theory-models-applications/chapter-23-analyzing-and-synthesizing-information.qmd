@@ -18,18 +18,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 23</span><span>Source pages 593-624</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Four: Evaluation Tasks, Procedures, and Tools</span><span>Chapter 23</span><span>Source pages 593-624</span></div>
 
 This note summarises Chapter 23, "Analyzing and Synthesizing Information," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0001`
-- `chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0002`
-- `chunk:evaluation-theory-models-applications:principles-for-analyzing-and-synthesizing-information:c0002`
-- `chunk:evaluation-theory-models-applications:analysis-of-qualitative-information:c0007`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -51,14 +44,14 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 
 ## Key Concepts
 
-- analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- synthesis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- quantitative analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- qualitative analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- practical significance: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- effect size: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- fact-value synthesis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- justified conclusions: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **analysis**: The process of organizing and interpreting evidence so it can answer evaluation questions.
+- **synthesis**: The combination of findings, criteria, and value perspectives into an overall evaluative conclusion.
+- **quantitative analysis**: Statistical or numerical analysis used to summarize, compare, estimate, or test evaluation evidence.
+- **qualitative analysis**: Systematic interpretation of nonnumeric evidence such as interviews, observations, documents, and cases.
+- **practical significance**: The real-world importance of a finding, apart from whether it is statistically significant.
+- **effect size**: A quantitative estimate of the size of a difference or effect, useful for judging practical importance.
+- **fact-value synthesis**: The evaluative act of combining empirical findings with value criteria to reach justified conclusions.
+- **justified conclusions**: Conclusions whose logic from criteria, evidence, analysis, and limitations is explicit and defensible.
 
 ## Chapter Structure
 
@@ -73,6 +66,44 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 - Choose analysis methods before collecting data when assumptions matter.
 - Keep an audit trail from findings back to sources.
 - Separate statistical significance from practical and evaluative significance.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 23 help evaluators handle?"]
+  Central["Concept: Analyzing and Synthesizing Information"]
+  Concept1["Concept: analysis"]
+  Concept2["Concept: synthesis"]
+  Mechanism1["Mechanism: rationale for conclusion-oriented evaluation"]
+  Mechanism2["Mechanism: quantitative analysis"]
+  Implication1["Policy implication: Choose analysis methods before collecting data when assumptions matter."]
+  Implication2["Policy implication: Keep an audit trail from findings back to sources."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -89,6 +120,18 @@ Within Part Four, this chapter shifts attention from approach selection to execu
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:ch23-chapter-23-analyzing-and-synthesizing-information:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:principles-for-analyzing-and-synthesizing-information:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:analysis-of-qualitative-information:c0007</code></li>
+</ul>
+</details>
 
 ## References
 

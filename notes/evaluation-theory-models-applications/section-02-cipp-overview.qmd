@@ -12,7 +12,7 @@ source_status: "needs_review"
 ---
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 345</span><span>Major section</span></div>
+<div class="chapter-meta"><span>2014</span><span>Source pages 345</span><span>Major section</span></div>
 This note summarises the MCP research-library section "CIPP Model Overview" from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.
 
 ## Core Argument
@@ -37,13 +37,49 @@ Its systems orientation asks evaluators to attend to stakeholders, values, proce
 ## Source Location
 
 - Section path: Part Three > Chapter 13: Daniel Stufflebeam's CIPP Model > Overview of the Chapter
-- Evidence records: `chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002`
 
 ## Practical Implications
 
 - Use context evaluation to clarify needs and goals.
 - Use input evaluation to judge strategies and plans.
 - Use process and product evaluation to track implementation and results.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: How does CIPP Model Overview guide evaluation practice?"]
+  Central["Concept: CIPP Model Overview"]
+  Concept1["Concept: Context evaluation"]
+  Concept2["Concept: Input evaluation"]
+  Concept3["Concept: Process evaluation"]
+  Evidence["Evidence: Source pages 345"]
+  Implication1["Policy implication: Use context evaluation to clarify needs and goals."]
+  Implication2["Policy implication: Use input evaluation to judge strategies and plans."]
+  Question["Open question: What would need checking before applying this guidance?"]
+
+  Problem --> Central
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Central --> Evidence
+  Concept1 --> Implication1
+  Concept2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Evidence evidence;
+  class Concept1,Concept2,Concept3 concept;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -58,5 +94,14 @@ Its systems orientation asks evaluators to attend to stakeholders, values, proce
 2. Which assumptions would need evidence before using this guidance in a live evaluation?
 3. How would this change the way an evaluator scopes questions, methods, or reporting?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:overview-of-the-chapter-2:c0002</code></li>
+</ul>
+</details>
 
 ## References

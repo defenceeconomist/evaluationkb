@@ -311,14 +311,104 @@
       "path": "notes/index.qmd"
     },
     {
+      "id": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "title": "Annex A: Analytical Methods for Use Within an Evaluation",
+      "path": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "title": "Government Analytical Evaluation Capabilities Framework",
+      "path": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "title": "Guidance on the Impact Evaluation of AI Interventions",
+      "path": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "title": "Handling Complexity in Policy Evaluation",
+      "path": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "title": "Quality in Policy Impact Evaluation",
+      "path": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "title": "Quality in Qualitative Evaluation",
+      "path": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "title": "Realist Evaluation",
+      "path": "notes/magenta-book/appendix-realist-evaluation.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "title": "Guidance for Conducting Regulatory Post Implementation Review",
+      "path": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "title": "Test and Learn",
+      "path": "notes/magenta-book/appendix-test-and-learn.qmd"
+    },
+    {
+      "id": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "title": "Transparency in Government Evaluation Research",
+      "path": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "title": "Chapter 1: Why, How and When to Evaluate?",
+      "path": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "title": "Chapter 2: Evaluation Scoping",
+      "path": "notes/magenta-book/chapter-02-evaluation-scoping.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "title": "Chapter 3: Evaluation Methods",
+      "path": "notes/magenta-book/chapter-03-evaluation-methods.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "title": "Chapter 4: Data Collection, Data Access and Data Linking",
+      "path": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "title": "Chapter 5: Managing an Evaluation",
+      "path": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "title": "Chapter 6: The Use and Dissemination of Evaluation Findings",
+      "path": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd"
+    },
+    {
+      "id": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "title": "Chapter 7: Evaluation Capabilities",
+      "path": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd"
+    },
+    {
       "id": "notes/magenta-book/chapter-map.qmd",
-      "title": "Magenta Book Chapter Map",
+      "title": "Magenta Book Chapter and Appendix Map",
       "path": "notes/magenta-book/chapter-map.qmd"
     },
     {
       "id": "notes/magenta-book/concepts.qmd",
       "title": "Core Concepts in Magenta Book",
       "path": "notes/magenta-book/concepts.qmd"
+    },
+    {
+      "id": "notes/magenta-book/executive-summary.qmd",
+      "title": "Executive Summary and Evaluation Types",
+      "path": "notes/magenta-book/executive-summary.qmd"
     },
     {
       "id": "notes/magenta-book/index.qmd",
@@ -329,21 +419,6 @@
       "id": "notes/magenta-book/practice-implications.qmd",
       "title": "Magenta Book Practice Implications",
       "path": "notes/magenta-book/practice-implications.qmd"
-    },
-    {
-      "id": "notes/magenta-book/section-01-executive-summary.qmd",
-      "title": "Executive Summary and Evaluation Types",
-      "path": "notes/magenta-book/section-01-executive-summary.qmd"
-    },
-    {
-      "id": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "title": "Choosing Evaluation Methods",
-      "path": "notes/magenta-book/section-02-evaluation-methods.qmd"
-    },
-    {
-      "id": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "title": "Managing an Evaluation",
-      "path": "notes/magenta-book/section-03-managing-evaluation.qmd"
     },
     {
       "id": "notes/practical-program-evaluation/chapter-map.qmd",
@@ -2033,21 +2108,6 @@
       "type": "internal-link"
     },
     {
-      "source": "notes/evaluation-theory-models-applications/index.qmd",
-      "target": "notes/evaluation-theory-models-applications/section-01-evaluation-theory-development.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/evaluation-theory-models-applications/index.qmd",
-      "target": "notes/evaluation-theory-models-applications/section-02-cipp-overview.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/evaluation-theory-models-applications/index.qmd",
-      "target": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
-      "type": "internal-link"
-    },
-    {
       "source": "notes/evaluation-theory-models-applications/practice-implications.qmd",
       "target": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
       "type": "internal-link"
@@ -2708,138 +2768,908 @@
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/chapter-map.qmd",
-      "target": "notes/magenta-book/section-01-executive-summary.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/chapter-map.qmd",
-      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/chapter-map.qmd",
-      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/concepts.qmd",
-      "target": "notes/magenta-book/section-01-executive-summary.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/concepts.qmd",
-      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/concepts.qmd",
-      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/concepts.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/chapter-map.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/practice-implications.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/section-01-executive-summary.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/index.qmd",
-      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/practice-implications.qmd",
-      "target": "notes/magenta-book/section-01-executive-summary.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/practice-implications.qmd",
-      "target": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/practice-implications.qmd",
-      "target": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
       "target": "notes/magenta-book/index.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-01-executive-summary.qmd",
-      "target": "notes/magenta-book/concepts.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
       "target": "notes/magenta-book/chapter-map.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-01-executive-summary.qmd",
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
       "target": "notes/magenta-book/practice-implications.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
       "target": "notes/magenta-book/index.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "target": "notes/magenta-book/concepts.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
       "target": "notes/magenta-book/chapter-map.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
       "target": "notes/magenta-book/practice-implications.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
       "target": "notes/magenta-book/index.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
-      "target": "notes/magenta-book/concepts.qmd",
-      "type": "internal-link"
-    },
-    {
-      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
       "target": "notes/magenta-book/chapter-map.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
       "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "target": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/chapter-map.qmd",
+      "target": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/concepts.qmd",
+      "target": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/index.qmd",
+      "target": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/executive-summary.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book/practice-implications.qmd",
+      "target": "notes/magenta-book/appendix-test-and-learn.qmd",
       "type": "internal-link"
     },
     {
@@ -4039,6 +4869,74 @@
       "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
     },
     {
+      "source": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
       "source": "notes/magenta-book/chapter-map.qmd",
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
     },
@@ -4047,23 +4945,15 @@
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
     },
     {
+      "source": "notes/magenta-book/executive-summary.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
       "source": "notes/magenta-book/index.qmd",
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
     },
     {
       "source": "notes/magenta-book/practice-implications.qmd",
-      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
-    },
-    {
-      "source": "notes/magenta-book/section-01-executive-summary.qmd",
-      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
-    },
-    {
-      "source": "notes/magenta-book/section-02-evaluation-methods.qmd",
-      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
-    },
-    {
-      "source": "notes/magenta-book/section-03-managing-evaluation.qmd",
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
     },
     {

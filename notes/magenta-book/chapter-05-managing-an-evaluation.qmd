@@ -1,0 +1,156 @@
+---
+title: "Chapter 5: Managing an Evaluation"
+description: "Detailed study notes for Chapter 5: Managing an Evaluation in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "8"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0005"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0018"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>5. Managing an evaluation</span><span>Source pages 8</span><span>Chapter</span></div>
+
+This note summarises 5. Managing an evaluation from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Managing evaluation is an active governance task that protects usefulness, feasibility, quality,
+ethics, and adaptation across the evaluation lifecycle.
+
+## Study Summary
+
+Chapter 5 moves from design to delivery management. A well-run evaluation needs clear governance,
+agreed roles, realistic timetables, quality assurance, stakeholder access, and alignment with
+intervention decisions.
+
+Steering groups are more than ceremonial. They review feasibility, provide access, quality assure
+design and tools, advise on changing circumstances, review emerging findings, and help ensure the
+work remains policy relevant.
+
+The chapter recognises tension between consistency and flexibility. Some designs require stable
+delivery and measurement, while complex or innovative interventions may need planned review points
+so evaluation and implementation can adapt without losing credibility.
+
+Quality assurance and ethics are continuous responsibilities. The project manager must plan
+independent scrutiny, analytical checks, peer review, objective reporting, participant protection,
+data governance, and appropriate use of emerging tools.
+
+For close reading, track how this note uses steering group, evaluation plan, quality assurance, and
+adaptive management while moving through governance, linking evaluation to intervention design, and
+supplier and stakeholder management. The notes below treat those moves as study scaffolding: they
+identify what the guidance asks the evaluator to notice, what judgment problem it helps solve, and
+what should be checked against the saved evidence records before relying on the summary in applied
+work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **steering group**: A governance body that reviews design, quality, feasibility, emerging findings, and use.
+- **evaluation plan**: A practical specification of questions, methods, data, responsibilities, timing, resources, and use.
+- **quality assurance**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **adaptive management**: Management that expects learning, review, and adjustment as intervention context and evidence change.
+- **evaluation ethics**: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.
+- **governance**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **benefits management**: Project discipline for defining, measuring, and realising intended benefits while evaluation tests contribution and value.
+
+## Chapter Structure
+
+- Governance.
+- Linking evaluation to intervention design.
+- Supplier and stakeholder management.
+- Flexibility and consistency.
+- Quality assurance.
+- Ethics.
+
+## Practical Implications
+
+- Create governance that can genuinely steer design, access, quality, and use.
+- Build planned adaptation points into evaluations of changing or innovative interventions.
+- Treat quality assurance and ethics as lifecycle responsibilities, not final report checks.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Managing an Evaluation help government handle?"]
+  Central["Concept: Managing an Evaluation"]
+  Concept1["Concept: steering group"]
+  Concept2["Concept: evaluation plan"]
+  Concept3["Concept: quality assurance"]
+  Mechanism1["Mechanism: governance"]
+  Mechanism2["Mechanism: linking evaluation to intervention design"]
+  Mechanism3["Mechanism: supplier and stakeholder management"]
+  Implication1["Policy implication: Create governance that can genuinely steer design, access, quality, and use."]
+  Implication2["Policy implication: Build planned adaptation points into evaluations of changing or innovative interventions."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Data Collection, Data Access and Data Linking](chapter-04-data-collection-data-access-and-data-linking.qmd)
+- Next: [Chapter 6: The Use and Dissemination of Evaluation Findings](chapter-06-use-and-dissemination-of-evaluation-findings.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Managing an Evaluation help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0005</code></li>
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017</code></li>
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0018</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 5. Managing an evaluation, pages 8.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

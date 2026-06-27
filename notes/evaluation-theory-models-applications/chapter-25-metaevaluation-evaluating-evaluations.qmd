@@ -18,18 +18,11 @@ source_status: "needs_review"
 
 ## Source
 
-<div class="chapter-meta"><span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation</span><span>Chapter 25</span><span>Source pages 667-705</span></div>
+<div class="chapter-meta"><span>2014</span><span>Part Five: Metaevaluation and Institutionalizing and Mainstreaming Evaluation</span><span>Chapter 25</span><span>Source pages 667-705</span></div>
 
 This note summarises Chapter 25, "Metaevaluation: Evaluating Evaluations," from Daniel L. Stufflebeam and Chris L. S. Coryn's *Evaluation Theory, Models, and Applications* [@stufflebeam_coryn_2014_evaluation_theory_models_applications]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evidence records used in the chapter draft:
-
-- `chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001`
-- `chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0002`
-- `chunk:evaluation-theory-models-applications:the-role-of-context-and-resource-constraints:c0006`
-- `chunk:evaluation-theory-models-applications:comparative-metaevaluations:c0003`
-
-These records identify the retrieval trail for review. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
 
 ## Core Argument
 
@@ -51,13 +44,13 @@ Within Part Five, this chapter asks how evaluation itself is judged, governed, a
 
 ## Key Concepts
 
-- metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- formative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- summative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- standards-based review: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- evaluation accountability: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- meta-analysis: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
-- comparative metaevaluation: use this term as a study handle for how the chapter frames evaluation design, judgment, evidence, quality, or use.
+- **metaevaluation**: The evaluation of an evaluation's design, conduct, reporting, utility, propriety, accuracy, and accountability.
+- **formative metaevaluation**: Quality review conducted during an evaluation so defects can be corrected before completion.
+- **summative metaevaluation**: Quality review conducted after completion to judge the evaluation's overall merit and accountability.
+- **standards-based review**: Review of an evaluation plan, process, or report using explicit professional standards.
+- **evaluation accountability**: The requirement that evaluation work itself be documented, reviewable, and judged against quality standards.
+- **meta-analysis**: Statistical or systematic synthesis of findings across studies; distinct from metaevaluation of evaluation quality.
+- **comparative metaevaluation**: Review that compares multiple evaluations or evaluation systems against common quality criteria.
 
 ## Chapter Structure
 
@@ -73,6 +66,44 @@ Within Part Five, this chapter asks how evaluation itself is judged, governed, a
 - Decide metaevaluation intensity based on stakes, audience, and risk.
 - Use standards to review plans before flaws become final findings.
 - Report limitations and quality judgments transparently.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What value problem does Chapter 25 help evaluators handle?"]
+  Central["Concept: Metaevaluation: Evaluating Evaluations"]
+  Concept1["Concept: metaevaluation"]
+  Concept2["Concept: formative metaevaluation"]
+  Mechanism1["Mechanism: rationale and definition"]
+  Mechanism2["Mechanism: standards and caveats"]
+  Implication1["Policy implication: Decide metaevaluation intensity based on stakes, audience, and risk."]
+  Implication2["Policy implication: Use standards to review plans before flaws become final findings."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2 concept;
+  class Mechanism1,Mechanism2 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Connections
 
@@ -90,6 +121,18 @@ Within Part Five, this chapter asks how evaluation itself is judged, governed, a
 2. Which assumptions would need evidence before applying this chapter in a live evaluation?
 3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
 4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0001</code></li>
+<li><code>chunk:evaluation-theory-models-applications:ch25-chapter-25-metaevaluation-evaluating-evaluations:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:the-role-of-context-and-resource-constraints:c0006</code></li>
+<li><code>chunk:evaluation-theory-models-applications:comparative-metaevaluations:c0003</code></li>
+</ul>
+</details>
 
 ## References
 

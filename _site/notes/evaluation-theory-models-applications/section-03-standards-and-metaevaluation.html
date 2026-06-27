@@ -89,6 +89,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../assets/css/site.css">
@@ -115,14 +118,6 @@ div.csl-indent {
   <li class="nav-item">
     <a class="nav-link" href="../../notes/index.html"> 
 <span class="menu-text">Notes</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../notes/purposeful-programme-theory/index.html"> 
-<span class="menu-text">Purposeful Program Theory</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../notes/magenta-book/index.html"> 
-<span class="menu-text">Magenta Book</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -153,8 +148,10 @@ div.csl-indent {
   <li><a href="#key-concepts" id="toc-key-concepts" class="nav-link" data-scroll-target="#key-concepts">Key Concepts</a></li>
   <li><a href="#source-location" id="toc-source-location" class="nav-link" data-scroll-target="#source-location">Source Location</a></li>
   <li><a href="#practical-implications" id="toc-practical-implications" class="nav-link" data-scroll-target="#practical-implications">Practical Implications</a></li>
+  <li><a href="#concept-map" id="toc-concept-map" class="nav-link" data-scroll-target="#concept-map">Concept Map</a></li>
   <li><a href="#connections" id="toc-connections" class="nav-link" data-scroll-target="#connections">Connections</a></li>
   <li><a href="#study-prompts" id="toc-study-prompts" class="nav-link" data-scroll-target="#study-prompts">Study Prompts</a></li>
+  <li><a href="#source-chunks" id="toc-source-chunks" class="nav-link" data-scroll-target="#source-chunks">Source Chunks</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -189,7 +186,7 @@ div.csl-indent {
 <section id="source" class="level2">
 <h2 class="anchored" data-anchor-id="source">Source</h2>
 <div class="chapter-meta">
-<span>2014</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Source pages 353</span><span>Major section</span>
+<span>2014</span><span>Source pages 353</span><span>Major section</span>
 </div>
 <p>This note summarises the MCP research-library section “Standards and Metaevaluation” from Daniel L. Stufflebeam and Chris L. S. Coryn’s <em>Evaluation Theory, Models, and Applications</em> <span class="citation" data-cites="stufflebeam_coryn_2014_evaluation_theory_models_applications">(<a href="#ref-stufflebeam_coryn_2014_evaluation_theory_models_applications" role="doc-biblioref">Stufflebeam and Coryn 2014</a>)</span>. It is a paraphrased study note based on source-linked retrieval records, not a substitute for the source text.</p>
 </section>
@@ -217,7 +214,6 @@ div.csl-indent {
 <h2 class="anchored" data-anchor-id="source-location">Source Location</h2>
 <ul>
 <li>Section path: Part Three &gt; Chapter 13 &gt; Philosophy and Code of Ethics Underlying the CIPP Model</li>
-<li>Evidence records: <code>chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006</code></li>
 </ul>
 </section>
 <section id="practical-implications" class="level2">
@@ -227,6 +223,52 @@ div.csl-indent {
 <li>Report how the evaluation met relevant quality standards.</li>
 <li>Seek independent metaevaluation when stakes justify it.</li>
 </ul>
+</section>
+<section id="concept-map" class="level2">
+<h2 class="anchored" data-anchor-id="concept-map">Concept Map</h2>
+<div class="concept-map">
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  Problem["Problem: How does Standards and Metaevaluation guide evaluation practice?"]
+  Central["Concept: Standards and Metaevaluation"]
+  Concept1["Concept: Utility"]
+  Concept2["Concept: Feasibility"]
+  Concept3["Concept: Propriety"]
+  Evidence["Evidence: Source pages 353"]
+  Implication1["Policy implication: Use standards as checkpoints during the evaluation, not only after completion."]
+  Implication2["Policy implication: Report how the evaluation met relevant quality standards."]
+  Question["Open question: What would need checking before applying this guidance?"]
+
+  Problem --&gt; Central
+  Central --&gt; Concept1
+  Central --&gt; Concept2
+  Central --&gt; Concept3
+  Central --&gt; Evidence
+  Concept1 --&gt; Implication1
+  Concept2 --&gt; Implication2
+  Implication1 --&gt; Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Evidence evidence;
+  class Concept1,Concept2,Concept3 concept;
+  class Implication1,Implication2,Question implication;
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div>
 </section>
 <section id="connections" class="level2">
 <h2 class="anchored" data-anchor-id="connections">Connections</h2>
@@ -245,6 +287,19 @@ div.csl-indent {
 <li>How would this change the way an evaluator scopes questions, methods, or reporting?</li>
 <li>Where could the guidance be misused if treated as a fixed template?</li>
 </ol>
+</section>
+<section id="source-chunks" class="level2">
+<h2 class="anchored" data-anchor-id="source-chunks">Source Chunks</h2>
+<details class="source-chunks">
+<summary>
+Source chunks
+</summary>
+<ul class="source-chunk-list">
+<li>
+<code>chunk:evaluation-theory-models-applications:philosophy-and-code-of-ethics-underlying-the-cipp-model:c0006</code>
+</li>
+</ul>
+</details>
 </section>
 <section id="references" class="level2">
 

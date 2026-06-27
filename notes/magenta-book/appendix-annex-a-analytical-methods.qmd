@@ -1,0 +1,156 @@
+---
+title: "Annex A: Analytical Methods for Use Within an Evaluation"
+description: "Detailed study notes for Annex A: Analytical Methods for Use Within an Evaluation in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "11-16"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001"
+  - "chunk:magenta-book:annex-a-analytical-methods-a1-theory-based-methods-for-impact-evaluation:c0004"
+  - "chunk:magenta-book:annex-a-analytical-methods-a3-methods-for-value-for-money-evaluation:c0012"
+  - "chunk:magenta-book:annex-a-analytical-methods-a4-methods-for-synthesis-of-existing-evidence:c0010"
+  - "chunk:magenta-book:annex-a-analytical-methods-a5-generic-research-methods-used-in-both-process-and-impact-evaluatio:c0007"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Magenta Book Annex A analytical methods for use within an evaluation</span><span>Source pages 11-16</span><span>Appendix</span></div>
+
+This note summarises Appendices > Magenta Book Annex A analytical methods for use within an evaluation from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Annex A extends Chapter 3 by giving a method catalogue for theory-based impact evaluation,
+counterfactual designs, value for money analysis, synthesis, and generic research methods.
+
+## Study Summary
+
+Annex A is the technical method companion to the main methods chapter. It groups approaches by the
+kind of evaluation question and causal claim they can support.
+
+Theory-based methods help evaluators test causal explanations when mechanisms, context,
+contribution, and complexity matter. Experimental and quasi-experimental methods help estimate
+effects when credible comparison is feasible.
+
+Value for money methods are presented as more than a benefit-cost ratio. They can combine economic
+appraisal, distributional evidence, qualitative judgment, and criteria where monetisation is
+incomplete.
+
+Synthesis and generic research methods support both process and impact evaluation by combining
+existing studies, monitoring, observation, surveys, interviews, and other evidence sources.
+
+For close reading, track how this note uses theory-based methods, experimental methods, quasi-
+experimental methods, and value for money while moving through A1 theory-based methods, A2
+experimental and quasi-experimental methods, and A3 value for money methods. The notes below treat
+those moves as study scaffolding: they identify what the guidance asks the evaluator to notice, what
+judgment problem it helps solve, and what should be checked against the saved evidence records
+before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **theory-based methods**: Impact methods that test causal explanations and contribution claims using multiple evidence sources.
+- **experimental methods**: Impact designs that use random assignment or controlled rollout to estimate causal effects.
+- **quasi-experimental methods**: Impact designs that construct credible comparison groups without random assignment.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+- **synthesis**: Combining evidence from multiple sources or studies to answer evaluation questions and support judgment.
+- **mixed methods**: Use of qualitative, quantitative, and other evidence sources together to answer complementary questions.
+- **realist evaluation**: Theory-based evaluation that tests context-mechanism-outcome explanations of what works, for whom, and how.
+
+## Appendix Structure
+
+- A1 theory-based methods.
+- A2 experimental and quasi-experimental methods.
+- A3 value for money methods.
+- A4 synthesis methods.
+- A5 generic research methods.
+
+## Practical Implications
+
+- Use Annex A as a method-selection reference after evaluation questions are prioritised.
+- Check each method's assumptions, data needs, and limits before treating it as feasible.
+- Combine approaches when the evaluation needs both attribution and explanation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Annex A: Analytical Methods for Use Within an Evaluation help government handle?"]
+  Central["Concept: Annex A: Analytical Methods for Use Within an Evaluation"]
+  Concept1["Concept: theory-based methods"]
+  Concept2["Concept: experimental methods"]
+  Concept3["Concept: quasi-experimental methods"]
+  Mechanism1["Mechanism: A1 theory-based methods"]
+  Mechanism2["Mechanism: A2 experimental and quasi-experimental methods"]
+  Mechanism3["Mechanism: A3 value for money methods"]
+  Implication1["Policy implication: Use Annex A as a method-selection reference after evaluation questions are prioritised."]
+  Implication2["Policy implication: Check each method's assumptions, data needs, and limits before treating it as feasible."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Evaluation Capabilities](chapter-07-evaluation-capabilities.qmd)
+- Next: [Government Analytical Evaluation Capabilities Framework](appendix-government-analytical-evaluation-capabilities-framework.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Annex A: Analytical Methods for Use Within an Evaluation help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-a1-theory-based-methods-for-impact-evaluation:c0004</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-a3-methods-for-value-for-money-evaluation:c0012</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-a4-methods-for-synthesis-of-existing-evidence:c0010</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-a5-generic-research-methods-used-in-both-process-and-impact-evaluatio:c0007</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Magenta Book Annex A analytical methods for use within an evaluation, pages 11-16.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

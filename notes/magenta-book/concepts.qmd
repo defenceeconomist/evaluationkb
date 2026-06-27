@@ -6,32 +6,166 @@ collection_id: "evaluation-texts"
 note_type: "Synthesis"
 citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
 evidence_ids:
-  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
-  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
-  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+  - "chunk:magenta-book:magenta-book-executive-summary:c0002"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001"
+  - "chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001"
+  - "chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001"
+  - "chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007"
+  - "chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001"
+  - "chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001"
+  - "chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001"
+  - "chunk:magenta-book:ai-impact-evaluation-summary:c0001"
+  - "chunk:magenta-book:tiger-transparency-foreword:c0001"
+  - "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This synthesis draws across the generated notes for *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book].
+This synthesis draws across the expanded notes for *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book].
 
 ## Central Logic
 
-Government evaluation should be scoped around decision needs, appropriate methods, robust data, quality assurance, and clear use of findings.
+The guidance treats evaluation as a lifecycle discipline: clarify the intervention and decision need, choose proportionate methods and data, manage quality and ethics, communicate findings transparently, and build capability for use.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What concepts hold the Magenta Book's evaluation logic together?"]
+  Central["Concept: Core concepts"]
+  Concept1["Concept: learning and accountability"]
+  Concept2["Concept: theory of change and questions"]
+  Concept3["Concept: methods, data, and use"]
+  Mechanism1["Mechanism: scoping"]
+  Mechanism2["Mechanism: triangulation and quality assurance"]
+  Mechanism3["Mechanism: transparent dissemination"]
+  Implication1["Policy implication: Make evaluation questions and use visible before choosing methods."]
+  Implication2["Policy implication: Treat transparency and capability as part of evaluation quality."]
+  Question["Open question: Which concept cluster is doing the most work in a given evaluation design?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
 
 ## Concepts
 
-- Process evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Impact evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Value for money evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Theory-based methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Experimental and quasi-experimental methods: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Evaluation management: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+### Purpose and Use
+
+- **learning**: Use of evaluation to reduce uncertainty, improve interventions, and strengthen future policy design.
+- **accountability**: Use of evaluation evidence to support scrutiny, transparency, spending decisions, and public confidence.
+- **evaluation use**: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.
+- **dissemination**: Planned communication of findings to audiences who need evidence for decisions, scrutiny, or learning.
+- **transparency**: Making evaluation plans, evidence, analysis, and findings open enough to support trust, challenge, and reuse.
+
+### Design and Scoping
+
+- **scoping**: Early work to clarify the intervention, theory of change, users, questions, data, methods, and feasibility.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **evaluation question**: A focused question that determines what evidence and analysis an evaluation must provide.
+- **evaluation design**: The plan that connects evaluation purpose, questions, theory, data, methods, governance, analysis, and use.
+- **proportionality**: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.
+
+### Methods and Causality
+
+- **process evaluation**: Evaluation of whether and how an intervention is implemented, how it operates, and why delivery varies.
+- **impact evaluation**: Evaluation focused on whether, to what extent, how, and why an intervention caused outcomes.
+- **counterfactual**: An estimate of what would have happened without the intervention, used to support impact claims.
+- **theory-based methods**: Impact methods that test causal explanations and contribution claims using multiple evidence sources.
+- **experimental methods**: Impact designs that use random assignment or controlled rollout to estimate causal effects.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+
+### Data and Quality
+
+- **data quality**: The fitness of evaluation data, including relevance, validity, completeness, timeliness, and bias control.
+- **data access**: The legal, ethical, technical, and practical ability to obtain data needed for evaluation questions.
+- **administrative data**: Operational data collected by public services or delivery systems that can support evaluation if fit for purpose.
+- **triangulation**: Using multiple evidence sources or methods to test, compare, and strengthen interpretation.
+- **quality assurance**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **evaluation ethics**: Attention to rights, consent, privacy, harm, fairness, and appropriate handling of participants and data.
+
+### Specialist Guidance
+
+- **complexity**: Conditions such as uncertainty, interdependence, emergence, nonlinearity, and multiple stakeholder perspectives.
+- **realist evaluation**: Theory-based evaluation that tests context-mechanism-outcome explanations of what works, for whom, and how.
+- **test and learn**: An iterative approach that tests assumptions, learns from real-world feedback, and adapts before scaling.
+- **policy impact evaluation**: Impact evaluation applied to government policy, with attention to attribution, design quality, and feasibility.
+- **qualitative quality**: Judgment about whether qualitative design, sampling, data, analysis, and reporting are fit for purpose.
+- **open science**: Practices that make research plans, materials, analysis, and outputs more transparent and accessible.
 
 ## Links
 
-- [Executive Summary and Evaluation Types](section-01-executive-summary.qmd)
-- [Choosing Evaluation Methods](section-02-evaluation-methods.qmd)
-- [Managing an Evaluation](section-03-managing-evaluation.qmd)
+- [Executive Summary and Evaluation Types](executive-summary.qmd)
+- [Chapter 1: Why, How and When to Evaluate?](chapter-01-why-how-and-when-to-evaluate.qmd)
+- [Chapter 2: Evaluation Scoping](chapter-02-evaluation-scoping.qmd)
+- [Chapter 3: Evaluation Methods](chapter-03-evaluation-methods.qmd)
+- [Chapter 4: Data Collection, Data Access and Data Linking](chapter-04-data-collection-data-access-and-data-linking.qmd)
+- [Chapter 5: Managing an Evaluation](chapter-05-managing-an-evaluation.qmd)
+- [Chapter 6: The Use and Dissemination of Evaluation Findings](chapter-06-use-and-dissemination-of-evaluation-findings.qmd)
+- [Chapter 7: Evaluation Capabilities](chapter-07-evaluation-capabilities.qmd)
+- [Annex A: Analytical Methods for Use Within an Evaluation](appendix-annex-a-analytical-methods.qmd)
+- [Government Analytical Evaluation Capabilities Framework](appendix-government-analytical-evaluation-capabilities-framework.qmd)
+- [Guidance for Conducting Regulatory Post Implementation Review](appendix-regulatory-post-implementation-review.qmd)
+- [Handling Complexity in Policy Evaluation](appendix-handling-complexity-in-policy-evaluation.qmd)
+- [Quality in Qualitative Evaluation](appendix-quality-in-qualitative-evaluation.qmd)
+- [Quality in Policy Impact Evaluation](appendix-quality-in-policy-impact-evaluation.qmd)
+- [Realist Evaluation](appendix-realist-evaluation.qmd)
+- [Guidance on the Impact Evaluation of AI Interventions](appendix-guidance-impact-evaluation-ai-interventions.qmd)
+- [Transparency in Government Evaluation Research](appendix-transparency-in-government-evaluation-research.qmd)
+- [Test and Learn](appendix-test-and-learn.qmd)
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-executive-summary:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001</code></li>
+<li><code>chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001</code></li>
+<li><code>chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-summary:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-foreword:c0001</code></li>
+<li><code>chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001</code></li>
+</ul>
+</details>
 
 ## References

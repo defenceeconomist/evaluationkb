@@ -1,0 +1,158 @@
+---
+title: "Handling Complexity in Policy Evaluation"
+description: "Detailed study notes for Handling Complexity in Policy Evaluation in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "45-53"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007"
+  - "chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0001"
+  - "chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0007"
+  - "chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0001"
+  - "chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0008"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Supplementary Guide: Handling complexity in policy evaluation</span><span>Source pages 45-53</span><span>Appendix</span></div>
+
+This note summarises Appendices > Supplementary Guide: Handling complexity in policy evaluation from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The complexity guide shows how evaluation design, commissioning, management, and methods must adapt
+when interventions operate in uncertain, changing, and interdependent systems.
+
+## Study Summary
+
+This guide explains why complex policy settings weaken simple assumptions about stable
+interventions, linear causation, and fixed evaluation plans. Multiple perspectives, system
+responses, and changing context affect both delivery and evidence.
+
+Commissioning and management need more learning, reflection, and flexibility than routine
+evaluations. Commissioners may need iterative designs, regular review points, more stakeholder
+mapping, and procurement arrangements that allow adaptation.
+
+Theory of change work remains important but may need systems mapping, participatory approaches, or
+nonlinear causal models. Evaluations may need to examine how the intervention and surrounding system
+evolve together.
+
+The guide links method choice to purpose and system attributes. Complexity-appropriate evaluation
+can still support accountability, but it often needs a stronger learning function and more explicit
+treatment of uncertainty.
+
+For close reading, track how this note uses complexity, adaptive management, theory of change, and
+systems mapping while moving through why complexity matters, evaluation challenges, and
+commissioning and management. The notes below treat those moves as study scaffolding: they identify
+what the guidance asks the evaluator to notice, what judgment problem it helps solve, and what
+should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **complexity**: Conditions such as uncertainty, interdependence, emergence, nonlinearity, and multiple stakeholder perspectives.
+- **adaptive management**: Management that expects learning, review, and adjustment as intervention context and evidence change.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **systems mapping**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **learning**: Use of evaluation to reduce uncertainty, improve interventions, and strengthen future policy design.
+- **stakeholder engagement**: A recurring idea used to frame evaluation design, evidence, interpretation, quality, or use.
+- **proportionality**: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.
+
+## Appendix Structure
+
+- Why complexity matters.
+- Evaluation challenges.
+- Commissioning and management.
+- Building understanding.
+- Complexity-appropriate approaches.
+- Resources.
+
+## Practical Implications
+
+- Diagnose complexity before specifying fixed methods, budgets, and deliverables.
+- Build review points into governance so emerging evidence can reshape the evaluation design.
+- Use systems and stakeholder mapping where linear programme models would hide important causal dynamics.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Handling Complexity in Policy Evaluation help government handle?"]
+  Central["Concept: Handling Complexity in Policy Evaluation"]
+  Concept1["Concept: complexity"]
+  Concept2["Concept: adaptive management"]
+  Concept3["Concept: theory of change"]
+  Mechanism1["Mechanism: why complexity matters"]
+  Mechanism2["Mechanism: evaluation challenges"]
+  Mechanism3["Mechanism: commissioning and management"]
+  Implication1["Policy implication: Diagnose complexity before specifying fixed methods, budgets, and deliverables."]
+  Implication2["Policy implication: Build review points into governance so emerging evidence can reshape the evaluation design."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Guidance for Conducting Regulatory Post Implementation Review](appendix-regulatory-post-implementation-review.qmd)
+- Next: [Quality in Qualitative Evaluation](appendix-quality-in-qualitative-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Handling Complexity in Policy Evaluation help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007</code></li>
+<li><code>chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0001</code></li>
+<li><code>chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0007</code></li>
+<li><code>chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0001</code></li>
+<li><code>chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0008</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Supplementary Guide: Handling complexity in policy evaluation, pages 45-53.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-27",
+  "collection_id": "evaluation-texts",
+  "book_id": "magenta-book",
+  "book_title": "Magenta Book: Central Government guidance on evaluation",
+  "source_status": "needs_review",
+  "source_tool": "mcp__researchlibrary.rag_evidence_pack",
+  "evidence_pack_defaults": {
+    "include_neighbors": true,
+    "limit": "8-12",
+    "include_media": "only where central tables, checklists, figures, exhibits, or frameworks are needed"
+  },
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "chapter_title": "Executive Summary and Evaluation Types",
+      "target_path": "notes/magenta-book/executive-summary.qmd",
+      "section_paths": [
+        "Executive summary"
+      ],
+      "source_pages": "3",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-executive-summary:c0002",
+        "chunk:magenta-book:magenta-book-executive-summary:c0003"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Executive"
+    },
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Why, How and When to Evaluate?",
+      "target_path": "notes/magenta-book/chapter-01-why-how-and-when-to-evaluate.qmd",
+      "section_paths": [
+        "1. Why, how and when to evaluate?"
+      ],
+      "source_pages": "4",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002",
+        "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0003",
+        "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0013",
+        "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0018",
+        "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0021"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: Evaluation Scoping",
+      "target_path": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "section_paths": [
+        "2. Evaluation scoping"
+      ],
+      "source_pages": "5",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003",
+        "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0010",
+        "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0014",
+        "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0016",
+        "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0025"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Evaluation Methods",
+      "target_path": "notes/magenta-book/chapter-03-evaluation-methods.qmd",
+      "section_paths": [
+        "3. Evaluation methods"
+      ],
+      "source_pages": "6",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001",
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0003",
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0006",
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0012",
+        "chunk:magenta-book:magenta-book-3-evaluation-methods:c0015"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: Data Collection, Data Access and Data Linking",
+      "target_path": "notes/magenta-book/chapter-04-data-collection-data-access-and-data-linking.qmd",
+      "section_paths": [
+        "4. Data collection, data access and data linking"
+      ],
+      "source_pages": "7",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001",
+        "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0002",
+        "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0004",
+        "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0005",
+        "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0013"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: Managing an Evaluation",
+      "target_path": "notes/magenta-book/chapter-05-managing-an-evaluation.qmd",
+      "section_paths": [
+        "5. Managing an evaluation"
+      ],
+      "source_pages": "8",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004",
+        "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0005",
+        "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017",
+        "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0018"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: The Use and Dissemination of Evaluation Findings",
+      "target_path": "notes/magenta-book/chapter-06-use-and-dissemination-of-evaluation-findings.qmd",
+      "section_paths": [
+        "6. The use and dissemination of evaluation findings"
+      ],
+      "source_pages": "9",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002",
+        "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0004",
+        "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0007",
+        "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0008",
+        "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0010"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: Evaluation Capabilities",
+      "target_path": "notes/magenta-book/chapter-07-evaluation-capabilities.qmd",
+      "section_paths": [
+        "7. Evaluation capabilities"
+      ],
+      "source_pages": "10",
+      "evidence_ids": [
+        "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001",
+        "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0002",
+        "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0004",
+        "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0006",
+        "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0007"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Chapter"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Annex A: Analytical Methods for Use Within an Evaluation",
+      "target_path": "notes/magenta-book/appendix-annex-a-analytical-methods.qmd",
+      "section_paths": [
+        "Appendices > Magenta Book Annex A analytical methods for use within an evaluation"
+      ],
+      "source_pages": "11-16",
+      "evidence_ids": [
+        "chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001",
+        "chunk:magenta-book:annex-a-analytical-methods-a1-theory-based-methods-for-impact-evaluation:c0004",
+        "chunk:magenta-book:annex-a-analytical-methods-a3-methods-for-value-for-money-evaluation:c0012",
+        "chunk:magenta-book:annex-a-analytical-methods-a4-methods-for-synthesis-of-existing-evidence:c0010",
+        "chunk:magenta-book:annex-a-analytical-methods-a5-generic-research-methods-used-in-both-process-and-impact-evaluatio:c0007"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Government Analytical Evaluation Capabilities Framework",
+      "target_path": "notes/magenta-book/appendix-government-analytical-evaluation-capabilities-framework.qmd",
+      "section_paths": [
+        "Appendices > Government analytical evaluation capabilities framework"
+      ],
+      "source_pages": "17-36",
+      "evidence_ids": [
+        "chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001",
+        "chunk:magenta-book:evaluation-capabilities-framework-framework-self-assessment-and-action-plan:c0001",
+        "chunk:magenta-book:evaluation-capabilities-framework-scoping-2-understand-the-intervention-and-construct-a-theory-o:c0001",
+        "chunk:magenta-book:evaluation-capabilities-framework-methods-1-use-of-monitoring-and-administrative-data:c0001",
+        "chunk:magenta-book:evaluation-capabilities-framework-methods-3-process-evaluation:c0001",
+        "chunk:magenta-book:evaluation-capabilities-framework-use-and-dissemination-2-considering-policy-implications-and-sh:c0001"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Guidance for Conducting Regulatory Post Implementation Review",
+      "target_path": "notes/magenta-book/appendix-regulatory-post-implementation-review.qmd",
+      "section_paths": [
+        "Appendices > Supplementary Guide: Guidance for conducting regulatory post implementation review"
+      ],
+      "source_pages": "38-44",
+      "evidence_ids": [
+        "chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001",
+        "chunk:magenta-book:regulatory-post-implementation-review-2-preparing-for-a-pir:c0002",
+        "chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0001",
+        "chunk:magenta-book:regulatory-post-implementation-review-3-methods-for-delivering-a-pir:c0010",
+        "chunk:magenta-book:regulatory-post-implementation-review-annex-1-pir-case-studies-footnote-10:c0012"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Handling Complexity in Policy Evaluation",
+      "target_path": "notes/magenta-book/appendix-handling-complexity-in-policy-evaluation.qmd",
+      "section_paths": [
+        "Appendices > Supplementary Guide: Handling complexity in policy evaluation"
+      ],
+      "source_pages": "45-53",
+      "evidence_ids": [
+        "chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007",
+        "chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0001",
+        "chunk:magenta-book:handling-complexity-3-commissioning-and-managing-evaluations:c0007",
+        "chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0001",
+        "chunk:magenta-book:handling-complexity-4-selecting-complexity-appropriate-approaches:c0008"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Quality in Qualitative Evaluation",
+      "target_path": "notes/magenta-book/appendix-quality-in-qualitative-evaluation.qmd",
+      "section_paths": [
+        "Appendices > Quality in qualitative evaluation"
+      ],
+      "source_pages": "54-59",
+      "evidence_ids": [
+        "chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001",
+        "chunk:magenta-book:quality-qualitative-evaluation-2-scope-of-the-framework:c0001",
+        "chunk:magenta-book:quality-qualitative-evaluation-3-application-of-the-framework:c0001",
+        "chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0001",
+        "chunk:magenta-book:quality-qualitative-evaluation-4-content-of-the-framework:c0002"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Quality in Policy Impact Evaluation",
+      "target_path": "notes/magenta-book/appendix-quality-in-policy-impact-evaluation.qmd",
+      "section_paths": [
+        "Appendices > Quality in policy impact evaluation"
+      ],
+      "source_pages": "60-73",
+      "evidence_ids": [
+        "chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001",
+        "chunk:magenta-book:quality-policy-impact-evaluation-1-introduction:c0001",
+        "chunk:magenta-book:quality-policy-impact-evaluation-1-introduction:c0002",
+        "chunk:magenta-book:quality-policy-impact-evaluation-2-quality-in-policy-impact-evaluation:c0001",
+        "chunk:magenta-book:quality-policy-impact-evaluation-2-quality-in-policy-impact-evaluation:c0002"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Realist Evaluation",
+      "target_path": "notes/magenta-book/appendix-realist-evaluation.qmd",
+      "section_paths": [
+        "Appendices > Supplementary Guide: Realist evaluation"
+      ],
+      "source_pages": "67-74",
+      "evidence_ids": [
+        "chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001",
+        "chunk:magenta-book:realist-evaluation-2-introducing-realist-evaluation:c0001",
+        "chunk:magenta-book:realist-evaluation-3-developing-realist-theory-context-mechanism-and-outcome:c0001",
+        "chunk:magenta-book:realist-evaluation-5-applying-the-realist-frame-to-evaluation:c0001",
+        "chunk:magenta-book:realist-evaluation-6-further-examples-of-realist-evaluation:c0003"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Guidance on the Impact Evaluation of AI Interventions",
+      "target_path": "notes/magenta-book/appendix-guidance-impact-evaluation-ai-interventions.qmd",
+      "section_paths": [
+        "Appendices > Guidance on the Impact Evaluation of AI Interventions"
+      ],
+      "source_pages": "75-90",
+      "evidence_ids": [
+        "chunk:magenta-book:ai-impact-evaluation-summary:c0001",
+        "chunk:magenta-book:ai-impact-evaluation-1-introduction:c0002",
+        "chunk:magenta-book:ai-impact-evaluation-2-opportunities-and-challenges-for-the-evaluation-of-ai-interventions:c0001",
+        "chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0002",
+        "chunk:magenta-book:ai-impact-evaluation-2-1-choosing-the-evaluation-approach:c0007",
+        "chunk:magenta-book:ai-impact-evaluation-a-2-practical-example-2-using-an-llm-based-application-to-help-civil-servan:c0001"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Transparency in Government Evaluation Research",
+      "target_path": "notes/magenta-book/appendix-transparency-in-government-evaluation-research.qmd",
+      "section_paths": [
+        "Appendices > Transparency in Government Evaluation Research (T I G E R)"
+      ],
+      "source_pages": "91-103",
+      "evidence_ids": [
+        "chunk:magenta-book:tiger-transparency-foreword:c0001",
+        "chunk:magenta-book:tiger-transparency-introduction:c0001",
+        "chunk:magenta-book:tiger-transparency-introduction:c0003",
+        "chunk:magenta-book:tiger-transparency-planning-transparency:c0001",
+        "chunk:magenta-book:tiger-transparency-analysis-transparency:c0001",
+        "chunk:magenta-book:tiger-transparency-reporting-transparency:c0001"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Test and Learn",
+      "target_path": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "section_paths": [
+        "Appendices > Test and Learn"
+      ],
+      "source_pages": "104-110",
+      "evidence_ids": [
+        "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001",
+        "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0002",
+        "chunk:magenta-book:test-and-learn-chapter-four-how-test-and-learn-supports-robust-evaluation:c0005",
+        "chunk:magenta-book:test-and-learn-chapter-seven-annex:c0003"
+      ],
+      "media_ids": [],
+      "status": "drafted",
+      "note_type": "Appendix"
+    }
+  ]
+}

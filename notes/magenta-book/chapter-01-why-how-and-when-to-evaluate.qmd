@@ -1,0 +1,157 @@
+---
+title: "Chapter 1: Why, How and When to Evaluate?"
+description: "Detailed study notes for Chapter 1: Why, How and When to Evaluate? in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "4"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0003"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0013"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0018"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0021"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>1. Why, how and when to evaluate?</span><span>Source pages 4</span><span>Chapter</span></div>
+
+This note summarises 1. Why, how and when to evaluate? from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation should be planned early, proportionately, and around real decisions so government can
+learn, account for public spending, and improve outcomes.
+
+## Study Summary
+
+Chapter 1 explains evaluation as planned inquiry into whether an intervention is working, why it is
+working or not, for whom, and at what value. It is written for decision-makers and analysts, but
+also signals expectations to suppliers and external commissioners.
+
+The chapter ties evaluation to the policy and project lifecycle. Evaluation needs should be
+considered during business case development, intervention design, monitoring, benefits management,
+and delivery, because waiting until the end can leave too little data or too few comparison options.
+
+A good evaluation is useful, credible, robust, proportionate, and transparent. Those qualities shape
+decisions about independence, stakeholder needs, data quality, method choice, communication, and the
+limits that must accompany findings.
+
+The chapter also distinguishes users of evaluation evidence. Ministers, accounting officers, policy
+teams, delivery teams, finance professionals, analysts, scrutiny bodies, the public, and researchers
+may need different products and timing from the same evaluation.
+
+For close reading, track how this note uses learning, accountability, benefits management, and
+evaluation use while moving through what policy evaluation is, why evaluate, and when to plan
+evaluation. The notes below treat those moves as study scaffolding: they identify what the guidance
+asks the evaluator to notice, what judgment problem it helps solve, and what should be checked
+against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **learning**: Use of evaluation to reduce uncertainty, improve interventions, and strengthen future policy design.
+- **accountability**: Use of evaluation evidence to support scrutiny, transparency, spending decisions, and public confidence.
+- **benefits management**: Project discipline for defining, measuring, and realising intended benefits while evaluation tests contribution and value.
+- **evaluation use**: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.
+- **proportionality**: Matching evaluation effort, design, cost, and transparency to risk, scale, uncertainty, and decision value.
+- **transparency**: Making evaluation plans, evidence, analysis, and findings open enough to support trust, challenge, and reuse.
+- **evaluation design**: The plan that connects evaluation purpose, questions, theory, data, methods, governance, analysis, and use.
+
+## Chapter Structure
+
+- What policy evaluation is.
+- Why evaluate.
+- When to plan evaluation.
+- Benefits management and monitoring.
+- Good evaluation principles.
+- Users and stages.
+
+## Practical Implications
+
+- Build evaluation expectations into business cases and delivery plans before data options close.
+- Clarify who will use findings and what decision or scrutiny need they serve.
+- Use quality principles to choose a feasible design rather than maximising technical ambition in the abstract.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Why, How and When to Evaluate? help government handle?"]
+  Central["Concept: Why, How and When to Evaluate?"]
+  Concept1["Concept: learning"]
+  Concept2["Concept: accountability"]
+  Concept3["Concept: benefits management"]
+  Mechanism1["Mechanism: what policy evaluation is"]
+  Mechanism2["Mechanism: why evaluate"]
+  Mechanism3["Mechanism: when to plan evaluation"]
+  Implication1["Policy implication: Build evaluation expectations into business cases and delivery plans before data options close."]
+  Implication2["Policy implication: Clarify who will use findings and what decision or scrutiny need they serve."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Executive Summary and Evaluation Types](executive-summary.qmd)
+- Next: [Chapter 2: Evaluation Scoping](chapter-02-evaluation-scoping.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Why, How and When to Evaluate? help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0013</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0018</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0021</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 1. Why, how and when to evaluate?, pages 4.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

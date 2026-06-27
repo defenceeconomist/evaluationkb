@@ -1,30 +1,134 @@
 ---
-title: "Magenta Book Chapter Map"
-description: "Reading map for selected Magenta Book notes."
+title: "Magenta Book Chapter and Appendix Map"
+description: "Expanded reading map for Magenta Book study notes."
 book_id: "magenta-book"
 collection_id: "evaluation-texts"
 note_type: "Map"
 citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
 evidence_ids:
-  - "chunk:magenta-book:magenta-book-executive-summary:c0003"
-  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0002"
-  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0017"
+  - "chunk:magenta-book:magenta-book-executive-summary:c0002"
+  - "chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002"
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001"
+  - "chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001"
+  - "chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001"
+  - "chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001"
+  - "chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001"
+  - "chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007"
+  - "chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001"
+  - "chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001"
+  - "chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001"
+  - "chunk:magenta-book:ai-impact-evaluation-summary:c0001"
+  - "chunk:magenta-book:tiger-transparency-foreword:c0001"
+  - "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
 This map uses selected MCP research-library sections from *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book].
 
 ## Reading Route
 
-1. [Executive Summary and Evaluation Types](section-01-executive-summary.qmd) - pages 3; `Executive summary`
-2. [Choosing Evaluation Methods](section-02-evaluation-methods.qmd) - pages 6; `3. Evaluation methods`
-3. [Managing an Evaluation](section-03-managing-evaluation.qmd) - pages 8; `5. Managing an evaluation`
+### Core Guidance
+
+- [Executive Summary and Evaluation Types](executive-summary.qmd) - pages 3; `Executive summary`
+- [Chapter 1: Why, How and When to Evaluate?](chapter-01-why-how-and-when-to-evaluate.qmd) - pages 4; `1. Why, how and when to evaluate?`
+- [Chapter 2: Evaluation Scoping](chapter-02-evaluation-scoping.qmd) - pages 5; `2. Evaluation scoping`
+- [Chapter 3: Evaluation Methods](chapter-03-evaluation-methods.qmd) - pages 6; `3. Evaluation methods`
+- [Chapter 4: Data Collection, Data Access and Data Linking](chapter-04-data-collection-data-access-and-data-linking.qmd) - pages 7; `4. Data collection, data access and data linking`
+- [Chapter 5: Managing an Evaluation](chapter-05-managing-an-evaluation.qmd) - pages 8; `5. Managing an evaluation`
+- [Chapter 6: The Use and Dissemination of Evaluation Findings](chapter-06-use-and-dissemination-of-evaluation-findings.qmd) - pages 9; `6. The use and dissemination of evaluation findings`
+- [Chapter 7: Evaluation Capabilities](chapter-07-evaluation-capabilities.qmd) - pages 10; `7. Evaluation capabilities`
+
+### Appendices and Supplementary Guides
+
+- [Annex A: Analytical Methods for Use Within an Evaluation](appendix-annex-a-analytical-methods.qmd) - pages 11-16; `Appendices > Magenta Book Annex A analytical methods for use within an evaluation`
+- [Government Analytical Evaluation Capabilities Framework](appendix-government-analytical-evaluation-capabilities-framework.qmd) - pages 17-36; `Appendices > Government analytical evaluation capabilities framework`
+- [Guidance for Conducting Regulatory Post Implementation Review](appendix-regulatory-post-implementation-review.qmd) - pages 38-44; `Appendices > Supplementary Guide: Guidance for conducting regulatory post implementation review`
+- [Handling Complexity in Policy Evaluation](appendix-handling-complexity-in-policy-evaluation.qmd) - pages 45-53; `Appendices > Supplementary Guide: Handling complexity in policy evaluation`
+- [Quality in Qualitative Evaluation](appendix-quality-in-qualitative-evaluation.qmd) - pages 54-59; `Appendices > Quality in qualitative evaluation`
+- [Quality in Policy Impact Evaluation](appendix-quality-in-policy-impact-evaluation.qmd) - pages 60-73; `Appendices > Quality in policy impact evaluation`
+- [Realist Evaluation](appendix-realist-evaluation.qmd) - pages 67-74; `Appendices > Supplementary Guide: Realist evaluation`
+- [Guidance on the Impact Evaluation of AI Interventions](appendix-guidance-impact-evaluation-ai-interventions.qmd) - pages 75-90; `Appendices > Guidance on the Impact Evaluation of AI Interventions`
+- [Transparency in Government Evaluation Research](appendix-transparency-in-government-evaluation-research.qmd) - pages 91-103; `Appendices > Transparency in Government Evaluation Research (T I G E R)`
+- [Test and Learn](appendix-test-and-learn.qmd) - pages 104-110; `Appendices > Test and Learn`
 
 ## How to Use This Map
 
-- Start with the first section for the book's framing logic.
-- Use the middle section to inspect the main design or method implications.
-- Use the final section to check limits, quality standards, or implications for use.
+- Start with the executive summary and Chapter 1 to clarify evaluation purpose and quality principles.
+- Use Chapters 2-4 to connect theory of change, questions, methods, and data.
+- Use Chapters 5-7 to manage quality, use, dissemination, and capability.
+- Use appendix notes when the evaluation needs specialist method, quality, transparency, complexity, AI, regulatory, realist, or test-and-learn guidance.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: How does the Magenta Book move from evaluation purpose to specialist guidance?"]
+  Central["Concept: Magenta Book reading route"]
+  Concept1["Concept: core guidance"]
+  Concept2["Concept: appendix methods"]
+  Concept3["Concept: use and transparency"]
+  Mechanism1["Mechanism: scoping and design"]
+  Mechanism2["Mechanism: quality and capability"]
+  Mechanism3["Mechanism: specialist annexes"]
+  Implication1["Policy implication: Read appendix guidance through the evaluation question it supports."]
+  Implication2["Policy implication: Keep use, quality, and transparency connected across the route."]
+  Question["Open question: Which chapter or appendix resolves the live evaluation design risk?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-executive-summary:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-1-why-how-and-when-to-evaluate:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-4-data-collection-data-access-and-data-linking:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-5-managing-an-evaluation:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001</code></li>
+<li><code>chunk:magenta-book:annex-a-analytical-methods-annex-a-analytical-methods-for-use-within-an-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001</code></li>
+<li><code>chunk:magenta-book:regulatory-post-implementation-review-glossary:c0001</code></li>
+<li><code>chunk:magenta-book:handling-complexity-1-why-complexity-matters:c0007</code></li>
+<li><code>chunk:magenta-book:quality-qualitative-evaluation-1-introduction:c0001</code></li>
+<li><code>chunk:magenta-book:quality-policy-impact-evaluation-executive-summary:c0001</code></li>
+<li><code>chunk:magenta-book:realist-evaluation-1-realist-evaluation-what-it-is-and-when-to-use-it:c0001</code></li>
+<li><code>chunk:magenta-book:ai-impact-evaluation-summary:c0001</code></li>
+<li><code>chunk:magenta-book:tiger-transparency-foreword:c0001</code></li>
+<li><code>chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001</code></li>
+</ul>
+</details>
 
 ## References

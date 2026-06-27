@@ -1,0 +1,154 @@
+---
+title: "Test and Learn"
+description: "Detailed study notes for Test and Learn in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "104-110"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001"
+  - "chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0002"
+  - "chunk:magenta-book:test-and-learn-chapter-four-how-test-and-learn-supports-robust-evaluation:c0005"
+  - "chunk:magenta-book:test-and-learn-chapter-seven-annex:c0003"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Test and Learn</span><span>Source pages 104-110</span><span>Appendix</span></div>
+
+This note summarises Appendices > Test and Learn from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The Test and Learn annex shows how structured, iterative testing can build evidence, reduce
+uncertainty, and improve policy before full-scale evaluation or rollout.
+
+## Study Summary
+
+Test and Learn is presented as a way of working rather than a separate evaluation type. It embeds
+structured testing, feedback, and adaptation into policy and service design.
+
+The approach is most useful when problems are complex or uncertain, assumptions are untested, and
+teams need rapid learning before committing to scale. It is less useful when requirements and
+solutions are already fixed.
+
+Test and Learn can strengthen later evaluation by clarifying theory of change, testing critical
+assumptions, improving delivery, and identifying where counterfactual or theory-based impact methods
+may be feasible.
+
+The annex links testing to robust evaluation by encouraging teams to define uncertainties, collect
+real-world evidence, examine context, and decide when to grow, adapt, stop, or move to formal
+evaluation.
+
+For close reading, track how this note uses test and learn, adaptive management, theory of change,
+and learning while moving through introduction, when to use test and learn, and testing assumptions.
+The notes below treat those moves as study scaffolding: they identify what the guidance asks the
+evaluator to notice, what judgment problem it helps solve, and what should be checked against the
+saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **test and learn**: An iterative approach that tests assumptions, learns from real-world feedback, and adapts before scaling.
+- **adaptive management**: Management that expects learning, review, and adjustment as intervention context and evidence change.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **learning**: Use of evaluation to reduce uncertainty, improve interventions, and strengthen future policy design.
+- **counterfactual**: An estimate of what would have happened without the intervention, used to support impact claims.
+- **process evaluation**: Evaluation of whether and how an intervention is implemented, how it operates, and why delivery varies.
+- **impact evaluation**: Evaluation focused on whether, to what extent, how, and why an intervention caused outcomes.
+
+## Appendix Structure
+
+- Introduction.
+- When to use test and learn.
+- Testing assumptions.
+- Supporting robust evaluation.
+- Grow and adapt decisions.
+- Resources.
+
+## Practical Implications
+
+- Use Test and Learn before scaling when assumptions are uncertain and adaptation is still possible.
+- Treat small tests as evidence-building exercises, not informal pilots without decision rules.
+- Carry learning from tests into later process, impact, and value for money evaluation designs.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Test and Learn help government handle?"]
+  Central["Concept: Test and Learn"]
+  Concept1["Concept: test and learn"]
+  Concept2["Concept: adaptive management"]
+  Concept3["Concept: theory of change"]
+  Mechanism1["Mechanism: introduction"]
+  Mechanism2["Mechanism: when to use test and learn"]
+  Mechanism3["Mechanism: testing assumptions"]
+  Implication1["Policy implication: Use Test and Learn before scaling when assumptions are uncertain and adaptation is still possible."]
+  Implication2["Policy implication: Treat small tests as evidence-building exercises, not informal pilots without decision rules."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Transparency in Government Evaluation Research](appendix-transparency-in-government-evaluation-research.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Test and Learn help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0001</code></li>
+<li><code>chunk:magenta-book:test-and-learn-chapter-one-introduction-to-this-guide:c0002</code></li>
+<li><code>chunk:magenta-book:test-and-learn-chapter-four-how-test-and-learn-supports-robust-evaluation:c0005</code></li>
+<li><code>chunk:magenta-book:test-and-learn-chapter-seven-annex:c0003</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Test and Learn, pages 104-110.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

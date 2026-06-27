@@ -927,7 +927,9 @@ def front_matter(book: dict[str, Any], title: str, description: str, note_type: 
 
 
 def metadata_html(book: dict[str, Any], extra: list[str] | None = None) -> str:
-    items = [book["year"], "MCP evaluation-texts", f"Status: {book['source_status']}"]
+    items = [book["year"]]
+    if book.get("slug") != "evaluation-theory-models-applications":
+        items.extend(["MCP evaluation-texts", f"Status: {book['source_status']}"])
     if extra:
         items.extend(extra)
     spans = "".join(f"<span>{item}</span>" for item in items)
@@ -936,6 +938,74 @@ def metadata_html(book: dict[str, Any], extra: list[str] | None = None) -> str:
 
 def bullet_list(items: list[str]) -> str:
     return "\n".join(f"- {item}" for item in items)
+
+
+def mermaid_label(text: str) -> str:
+    return text.replace('"', "'")
+
+
+def source_chunks(evidence_ids: list[str]) -> str:
+    items = "\n".join(f"<li><code>{evidence_id}</code></li>" for evidence_id in evidence_ids)
+    return (
+        '<details class="source-chunks">\n'
+        "<summary>Source chunks</summary>\n"
+        '<ul class="source-chunk-list">\n'
+        f"{items}\n"
+        "</ul>\n"
+        "</details>"
+    )
+
+
+def render_section_concept_map(section: dict[str, Any]) -> str:
+    concepts = section["concepts"][:3]
+    implications = section["implications"][:2]
+    lines = [
+        "::: {.concept-map}",
+        "```{mermaid}",
+        "flowchart TD",
+        f'  Problem["Problem: How does {mermaid_label(section["title"])} guide evaluation practice?"]',
+        f'  Central["Concept: {mermaid_label(section["title"])}"]',
+    ]
+    for idx, concept in enumerate(concepts, start=1):
+        lines.append(f'  Concept{idx}["Concept: {mermaid_label(concept)}"]')
+    lines.append(f'  Evidence["Evidence: Source pages {mermaid_label(section["source_pages"])}"]')
+    for idx, implication in enumerate(implications, start=1):
+        lines.append(f'  Implication{idx}["Policy implication: {mermaid_label(implication)}"]')
+    lines.append('  Question["Open question: What would need checking before applying this guidance?"]')
+    lines.extend(["", "  Problem --> Central"])
+    for idx in range(1, len(concepts) + 1):
+        lines.append(f"  Central --> Concept{idx}")
+    lines.append("  Central --> Evidence")
+    for idx in range(1, len(implications) + 1):
+        if concepts:
+            lines.append(f"  Concept{min(idx, len(concepts))} --> Implication{idx}")
+        else:
+            lines.append(f"  Central --> Implication{idx}")
+    if implications:
+        lines.append("  Implication1 --> Question")
+    else:
+        lines.append("  Central --> Question")
+    lines.extend(
+        [
+            "",
+            "  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;",
+            "  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;",
+            "  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;",
+            "  classDef evidence fill:#fff2df,stroke:#b45309,color:#7c2d12;",
+            "  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;",
+            "  class Problem problem;",
+            "  class Central concept;",
+            "  class Evidence evidence;",
+        ]
+    )
+    if concepts:
+        lines.append(f"  class {','.join(f'Concept{idx}' for idx in range(1, len(concepts) + 1))} concept;")
+    if implications:
+        lines.append(f"  class {','.join(f'Implication{idx}' for idx in range(1, len(implications) + 1))},Question implication;")
+    else:
+        lines.append("  class Question implication;")
+    lines.extend(["```", ":::"])
+    return "\n".join(lines)
 
 
 def numbered_prompts(book: dict[str, Any], topic: str) -> str:
@@ -954,6 +1024,7 @@ def section_file_name(section: dict[str, Any], index: int) -> str:
 
 def render_section_page(book: dict[str, Any], section: dict[str, Any], index: int) -> str:
     evidence_ids = section["evidence_ids"]
+    is_etma = book.get("slug") == "evaluation-theory-models-applications"
     qmd = front_matter(
         book,
         section["title"],
@@ -972,14 +1043,21 @@ def render_section_page(book: dict[str, Any], section: dict[str, Any], index: in
     qmd += "## Study Summary\n\n" + "\n\n".join(section["summary"]) + "\n\n"
     qmd += "## Key Concepts\n\n" + bullet_list(section["concepts"]) + "\n\n"
     qmd += f"## Source Location\n\n- Section path: {section['section_path']}\n"
-    qmd += f"- Evidence records: {', '.join(f'`{item}`' for item in evidence_ids)}\n\n"
+    if not is_etma:
+        qmd += f"- Evidence records: {', '.join(f'`{item}`' for item in evidence_ids)}\n\n"
+    else:
+        qmd += "\n"
     qmd += "## Practical Implications\n\n" + bullet_list(section["implications"]) + "\n\n"
+    if is_etma:
+        qmd += "## Concept Map\n\n" + render_section_concept_map(section) + "\n\n"
     qmd += "## Connections\n\n"
     qmd += "- Book overview: [Overview](index.qmd)\n"
     qmd += "- Concepts: [Core Concepts](concepts.qmd)\n"
     qmd += "- Map: [Chapter Map](chapter-map.qmd)\n"
     qmd += "- Practice synthesis: [Practice Implications](practice-implications.qmd)\n\n"
     qmd += "## Study Prompts\n\n" + numbered_prompts(book, section["title"]) + "\n\n"
+    if is_etma:
+        qmd += "## Source Chunks\n\n" + source_chunks(evidence_ids) + "\n\n"
     qmd += "## References\n"
     return qmd
 

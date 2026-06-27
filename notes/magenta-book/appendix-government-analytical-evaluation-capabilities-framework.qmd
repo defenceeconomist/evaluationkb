@@ -1,0 +1,158 @@
+---
+title: "Government Analytical Evaluation Capabilities Framework"
+description: "Detailed study notes for Government Analytical Evaluation Capabilities Framework in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Appendix"
+part: "Appendices and supplementary guidance"
+source_pages: "17-36"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-framework-self-assessment-and-action-plan:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-scoping-2-understand-the-intervention-and-construct-a-theory-o:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-methods-1-use-of-monitoring-and-administrative-data:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-methods-3-process-evaluation:c0001"
+  - "chunk:magenta-book:evaluation-capabilities-framework-use-and-dissemination-2-considering-policy-implications-and-sh:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Appendices > Government analytical evaluation capabilities framework</span><span>Source pages 17-36</span><span>Appendix</span></div>
+
+This note summarises Appendices > Government analytical evaluation capabilities framework from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The capabilities framework translates evaluation quality into the skills, behaviours, and
+development actions government analysts need across the evaluation lifecycle.
+
+## Study Summary
+
+The framework is a workforce and project-planning tool. It describes the capabilities needed to
+scope, lead, manage, deliver, and use evaluation in government settings.
+
+It can be used for self-assessment, team planning, departmental capability review, and identifying
+training needs. The point is to make evaluation capability visible before a project fails because
+the right skills were missing.
+
+The capability areas mirror the main guidance: scoping and theory of change, leadership and
+management, methods and data, process and impact evaluation, value for money, synthesis, and use of
+findings.
+
+The framework also points analysts toward resources for capability development, making it a
+practical bridge between guidance and professional development.
+
+For close reading, track how this note uses capability, scoping, theory of change, and
+administrative data while moving through framework purpose, self-assessment, and scoping
+capabilities. The notes below treat those moves as study scaffolding: they identify what the
+guidance asks the evaluator to notice, what judgment problem it helps solve, and what should be
+checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this appendix supplies specialist depth for the main guidance.
+It should be read after the relevant chapter has established the evaluation purpose, questions, data
+constraints, and use needs.
+
+## Key Concepts
+
+- **capability**: The knowledge, skills, roles, and behaviours required to scope, manage, deliver, and use evaluation well.
+- **scoping**: Early work to clarify the intervention, theory of change, users, questions, data, methods, and feasibility.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **administrative data**: Operational data collected by public services or delivery systems that can support evaluation if fit for purpose.
+- **process evaluation**: Evaluation of whether and how an intervention is implemented, how it operates, and why delivery varies.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+- **evaluation use**: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.
+
+## Appendix Structure
+
+- Framework purpose.
+- Self-assessment.
+- Scoping capabilities.
+- Leading and managing.
+- Methods capabilities.
+- Use and dissemination.
+
+## Practical Implications
+
+- Use capability review before commissioning to identify gaps in methods, data, leadership, or use.
+- Build teams around the evaluation design rather than expecting one analyst to cover every domain.
+- Link professional development to live evaluation risks and departmental capability needs.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Government Analytical Evaluation Capabilities Framework help government handle?"]
+  Central["Concept: Government Analytical Evaluation Capabilities Framework"]
+  Concept1["Concept: capability"]
+  Concept2["Concept: scoping"]
+  Concept3["Concept: theory of change"]
+  Mechanism1["Mechanism: framework purpose"]
+  Mechanism2["Mechanism: self-assessment"]
+  Mechanism3["Mechanism: scoping capabilities"]
+  Implication1["Policy implication: Use capability review before commissioning to identify gaps in methods, data, leadership, or use."]
+  Implication2["Policy implication: Build teams around the evaluation design rather than expecting one analyst to cover every domain."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Annex A: Analytical Methods for Use Within an Evaluation](appendix-annex-a-analytical-methods.qmd)
+- Next: [Guidance for Conducting Regulatory Post Implementation Review](appendix-regulatory-post-implementation-review.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Government Analytical Evaluation Capabilities Framework help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-introduction-to-the-evaluation-capabilities-framework-for-gove:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-framework-self-assessment-and-action-plan:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-scoping-2-understand-the-intervention-and-construct-a-theory-o:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-methods-1-use-of-monitoring-and-administrative-data:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-methods-3-process-evaluation:c0001</code></li>
+<li><code>chunk:magenta-book:evaluation-capabilities-framework-use-and-dissemination-2-considering-policy-implications-and-sh:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. Appendices > Government analytical evaluation capabilities framework, pages 17-36.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.

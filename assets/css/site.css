@@ -142,6 +142,41 @@ body { color: var(--ekb-ink); }
 .chapter-nav { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
 .chapter-nav a { border: 1px solid var(--ekb-line); border-radius: 0.35rem; padding: 0.45rem 0.7rem; text-decoration: none; }
 
+.concept-map {
+  margin: 1rem 0 1.5rem;
+}
+
+.concept-map .cell,
+.concept-map pre {
+  margin-bottom: 0;
+}
+
+.source-chunks {
+  border-top: 1px solid var(--ekb-line);
+  color: var(--ekb-muted);
+  font-size: 0.74rem;
+  margin-top: 1rem;
+  padding-top: 0.65rem;
+}
+
+.source-chunks summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.source-chunk-list {
+  line-height: 1.35;
+  margin: 0.45rem 0 0;
+  padding-left: 1rem;
+}
+
+.source-chunk-list code {
+  color: var(--ekb-muted);
+  font-size: 0.72rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 @media (max-width: 720px) {
   .notes-filter { grid-template-columns: 1fr; }
 }

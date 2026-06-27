@@ -1,0 +1,155 @@
+---
+title: "Chapter 7: Evaluation Capabilities"
+description: "Detailed study notes for Chapter 7: Evaluation Capabilities in Magenta Book: Central Government guidance on evaluation."
+book_id: "magenta-book"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "10"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0002"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0004"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0006"
+  - "chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0007"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2020</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>7. Evaluation capabilities</span><span>Source pages 10</span><span>Chapter</span></div>
+
+This note summarises 7. Evaluation capabilities from HM Treasury and Evaluation Task Force's *Magenta Book: Central Government guidance on evaluation* [@hm_treasury_evaluation_task_force_2020_magenta_book]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the source text.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the guidance and does not reproduce tables, checklists, figures, exhibits, or extended passages. When a checklist or table is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Government evaluation quality depends on capability across scoping, leadership, methods, use,
+dissemination, and the ability to work with uncertainty.
+
+## Study Summary
+
+Chapter 7 summarises the capabilities needed to design, manage, and use evaluations. It groups
+capability around scoping, leading and managing, methods, and use and dissemination.
+
+Scoping capability includes understanding rationale, constructing a theory of change, identifying a
+suitable approach, and producing a proportionate plan. Leading capability includes maintaining
+momentum, influencing stakeholders, adapting to change, and acting with integrity.
+
+Methods capability spans monitoring data, administrative data, primary research, process evaluation,
+theory-based impact evaluation, experimental and quasi-experimental approaches, value for money
+work, synthesis, and appropriate awareness of AI-assisted analysis.
+
+Use and dissemination capability means turning evidence into clear products, policy implications,
+publication routes, and stakeholder communication that make findings usable without overstating
+certainty.
+
+For close reading, track how this note uses capability, scoping, theory of change, and mixed methods
+while moving through scoping capability, leading and managing, and methods. The notes below treat
+those moves as study scaffolding: they identify what the guidance asks the evaluator to notice, what
+judgment problem it helps solve, and what should be checked against the saved evidence records
+before relying on the summary in applied work.
+
+Within the wider Magenta Book route, this chapter is part of the core sequence from rationale and
+scoping through methods, data, management, dissemination, and capability.
+
+## Key Concepts
+
+- **capability**: The knowledge, skills, roles, and behaviours required to scope, manage, deliver, and use evaluation well.
+- **scoping**: Early work to clarify the intervention, theory of change, users, questions, data, methods, and feasibility.
+- **theory of change**: An explanation of how an intervention is expected to produce outcomes, including assumptions and mechanisms.
+- **mixed methods**: Use of qualitative, quantitative, and other evidence sources together to answer complementary questions.
+- **value for money**: Evaluation of costs, benefits, efficiency, economy, effectiveness, equity, and overall public value.
+- **synthesis**: Combining evidence from multiple sources or studies to answer evaluation questions and support judgment.
+- **evaluation use**: The application of evaluation evidence in policy decisions, delivery improvement, accountability, or learning.
+
+## Chapter Structure
+
+- Scoping capability.
+- Leading and managing.
+- Methods.
+- Use and dissemination.
+- Further detail.
+
+## Practical Implications
+
+- Assess team capability against the evaluation's actual methods and use demands.
+- Bring in specialist expertise when the design needs methods, data, or ethical skills the core team lacks.
+- Treat capability building as part of institutional evaluation quality, not only individual training.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Evaluation Capabilities help government handle?"]
+  Central["Concept: Evaluation Capabilities"]
+  Concept1["Concept: capability"]
+  Concept2["Concept: scoping"]
+  Concept3["Concept: theory of change"]
+  Mechanism1["Mechanism: scoping capability"]
+  Mechanism2["Mechanism: leading and managing"]
+  Mechanism3["Mechanism: methods"]
+  Implication1["Policy implication: Assess team capability against the evaluation's actual methods and use demands."]
+  Implication2["Policy implication: Bring in specialist expertise when the design needs methods, data, or ethical skills the core team lacks."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: The Use and Dissemination of Evaluation Findings](chapter-06-use-and-dissemination-of-evaluation-findings.qmd)
+- Next: [Annex A: Analytical Methods for Use Within an Evaluation](appendix-annex-a-analytical-methods.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Evaluation Capabilities help diagnose?
+2. Which assumptions would need evidence before applying this guidance in a live evaluation?
+3. How would this change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0002</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0004</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0006</code></li>
+<li><code>chunk:magenta-book:magenta-book-7-evaluation-capabilities:c0007</code></li>
+</ul>
+</details>
+
+## References
+
+- HM Treasury and Evaluation Task Force. (2020). *Magenta Book: Central Government guidance on evaluation*. HM Treasury. 7. Evaluation capabilities, pages 10.
+- Saved retrieval metadata: `data/research-library/evidence/magenta-book/chapter-evidence-summary.json`.
