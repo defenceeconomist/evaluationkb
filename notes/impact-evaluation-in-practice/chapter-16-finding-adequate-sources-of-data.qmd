@@ -1,0 +1,148 @@
+---
+title: "Chapter 16: Finding Adequate Sources of Data"
+description: "Detailed study notes for Chapter 16 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 16
+source_pages: "321-347"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001"
+  - "chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002"
+  - "chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0007"
+  - "chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0023"
+  - "chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 16</span><span>Source pages 321-347</span></div>
+
+This note summarises Chapter 16, "Finding Adequate Sources of Data," from Paul J. Gertler, Sebastian
+Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in
+Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is
+a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Impact evaluations need data sources that measure outcomes, intermediate outcomes, implementation, and context with enough quality, timing, and coverage to support causal claims.
+
+## Study Summary
+
+Chapter 16 compares existing data and new survey data. Administrative, monitoring, and registry data
+can be valuable, but only if they cover the required indicators, units, and time periods with
+sufficient quality.
+
+The chapter ties data needs to the results chain. Evaluators should measure final outcomes,
+intermediate outcomes, implementation quality, program exposure, and relevant covariates rather than
+collecting generic survey batteries.
+
+When new survey data are needed, instrument development, piloting, field staff, fieldwork
+management, and quality control become part of the evaluation design.
+
+Data processing and storage are not clerical afterthoughts. Validation, confidentiality, cleaning,
+documentation, and attrition control protect the credibility and reusability of the evaluation
+evidence.
+
+For close reading, track how the chapter uses administrative data, survey data, results chain, data
+quality while moving through data types, indicators across the results chain, existing data. The
+notes identify the design problem the chapter helps solve and what should be checked against the
+saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the data sequence.
+
+## Key Concepts
+
+- **administrative data**: Existing service, registry, monitoring, or management data that may reduce collection burden if quality and coverage are adequate.
+- **survey data**: New data collected from individuals, households, firms, facilities, or communities for the evaluation.
+- **results chain**: A representation of how inputs and activities are expected to produce outputs, intermediate outcomes, and final outcomes.
+- **data quality**: The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.
+- **fieldwork**: The organized collection of new data, including enumerator training, piloting, supervision, quality checks, and respondent follow-up.
+
+## Chapter Structure
+
+- Data types.
+- Indicators across the results chain.
+- Existing data.
+- New surveys.
+- Piloting and fieldwork.
+- Processing and storage.
+
+## Practical Implications
+
+- Inventory existing data before commissioning new collection.
+- Derive survey modules from the results chain and analysis plan.
+- Budget quality control, validation, and storage as core evaluation tasks.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 16 help decide?"]
+  Central["Concept: Finding Adequate Sources of Data"]
+  Concept1["Concept: administrative data"]
+  Concept2["Concept: survey data"]
+  Concept3["Concept: results chain"]
+  Mechanism1["Design element: data types"]
+  Mechanism2["Design element: indicators across the results chain"]
+  Mechanism3["Design element: existing data"]
+  Implication1["Practice implication: Inventory existing data before commissioning new collection."]
+  Implication2["Practice implication: Derive survey modules from the results chain and analysis plan."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 15: Choosing a Sample](chapter-15-choosing-a-sample.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 16 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001`
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0007`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0023`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030`
+
+## References

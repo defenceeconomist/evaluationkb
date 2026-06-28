@@ -1,0 +1,142 @@
+---
+title: "Chapter 12: Managing an Impact Evaluation"
+description: "Detailed study notes for Chapter 12 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 12
+source_pages: "231-259"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012"
+  - "chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 12</span><span>Source pages 231-259</span></div>
+
+This note summarises Chapter 12, "Managing an Impact Evaluation," from Paul J. Gertler, Sebastian
+Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in
+Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is
+a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Impact evaluation management requires a documented plan that coordinates policy questions, design, sampling, data, analysis, ethics, dissemination, budget, timeline, and team roles.
+
+## Study Summary
+
+Chapter 12 treats impact evaluation as project management as well as research design. The evaluation
+plan is the main coordination artifact for research and policy teams.
+
+The plan should state hypotheses, theory of change, policy questions, indicators, identification
+strategy, sampling, data sources, data collection, preanalysis commitments, deliverables, ethics,
+timeline, budget, and roles.
+
+The chapter emphasizes the division of responsibilities. Policy teams protect operational alignment
+and decision relevance; research teams protect technical credibility, data quality, and analytic
+transparency.
+
+Budgeting is framed against the cost of ignorance. Evaluation costs should be considered alongside
+the opportunity cost of scaling, continuing, or ending programs without reliable causal evidence.
+
+For close reading, track how the chapter uses evaluation plan, preanalysis plan, budget, team roles
+while moving through policy and research teams, evaluation plan, timeline. The notes identify the
+design problem the chapter helps solve and what should be checked against the saved evidence records
+before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence.
+
+## Key Concepts
+
+- **evaluation plan**: The management document that aligns questions, design, sampling, data, analysis, ethics, dissemination, roles, timeline, and budget.
+- **preanalysis plan**: A document specifying hypotheses, outcomes, methods, and analytic decisions before results are examined.
+- **budget**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **team roles**: Explicit responsibilities across policy, research, data collection, analysis, ethics, and dissemination workstreams.
+- **data quality**: The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.
+
+## Chapter Structure
+
+- Policy and research teams.
+- Evaluation plan.
+- Timeline.
+- Budget.
+- Deliverables.
+- Risk management.
+
+## Practical Implications
+
+- Create the evaluation plan before implementation changes become irreversible.
+- Assign roles explicitly between policy and research teams.
+- Treat evaluation cost as part of the policy decision, not an add-on.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 12 help decide?"]
+  Central["Concept: Managing an Impact Evaluation"]
+  Concept1["Concept: evaluation plan"]
+  Concept2["Concept: preanalysis plan"]
+  Concept3["Concept: budget"]
+  Mechanism1["Design element: policy and research teams"]
+  Mechanism2["Design element: evaluation plan"]
+  Mechanism3["Design element: timeline"]
+  Implication1["Practice implication: Create the evaluation plan before implementation changes become irreversible."]
+  Implication2["Practice implication: Assign roles explicitly between policy and research teams."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 11: Choosing an Impact Evaluation Method](chapter-11-choosing-an-impact-evaluation-method.qmd)
+- Next: [Chapter 13: The Ethics and Science of Impact Evaluation](chapter-13-the-ethics-and-science-of-impact-evaluation.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 12 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012`
+- `chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002`
+
+## References

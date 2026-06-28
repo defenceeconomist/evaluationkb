@@ -5,15 +5,21 @@
   "book_id": "impact-evaluation-in-practice",
   "book_title": "Impact Evaluation in Practice",
   "source_status": "needs_review",
-  "rag_status": "ready",
   "source_tool": "mcp__researchlibrary.rag_evidence_pack",
-  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
-  "records": [
+  "evidence_pack_defaults": {
+    "include_neighbors": true,
+    "limit": "targeted chapter retrieval; broad full-book evidence pack used before synthesis",
+    "include_media": "true for full-book grounding and table/figure-heavy chapters"
+  },
+  "chapters": [
     {
-      "section_id": "chapter-01",
-      "section_title": "Chapter 1: Why Evaluate?",
+      "chapter_number": 1,
+      "chapter_title": "Why Evaluate?",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "section_paths": [
+        "Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate?"
+      ],
       "source_pages": "33-59",
-      "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 1: Why Evaluate?",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001",
         "chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006",
@@ -22,13 +28,16 @@
         "chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-02",
-      "section_title": "Chapter 2: Preparing for an Evaluation",
+      "chapter_number": 2,
+      "chapter_title": "Preparing for an Evaluation",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "section_paths": [
+        "Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation"
+      ],
       "source_pages": "61-73",
-      "section_path": "Part 1: Introduction to Impact Evaluation > Chapter 2: Preparing for an Evaluation",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001",
         "chunk:impact-evaluation-in-practice:initial-steps:c0001",
@@ -37,13 +46,16 @@
         "chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-03",
-      "section_title": "Chapter 3: Causal Inference and Counterfactuals",
+      "chapter_number": 3,
+      "chapter_title": "Causal Inference and Counterfactuals",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals"
+      ],
       "source_pages": "77-93",
-      "section_path": "Part 2: How to Evaluate > Chapter 3: Causal Inference and Counterfactuals",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:part-2:c0001",
         "chunk:impact-evaluation-in-practice:causal-inference:c0001",
@@ -51,26 +63,32 @@
         "chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-04",
-      "section_title": "Chapter 4: Randomized Assignment",
+      "chapter_number": 4,
+      "chapter_title": "Randomized Assignment",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 4: Randomized Assignment"
+      ],
       "source_pages": "97-116",
-      "section_path": "Part 2: How to Evaluate > Chapter 4: Randomized Assignment",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0013",
         "chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0033",
         "chunk:impact-evaluation-in-practice:checklist-randomized-assignment:c0008"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-05",
-      "section_title": "Chapter 5: Instrumental Variables",
+      "chapter_number": 5,
+      "chapter_title": "Instrumental Variables",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 5: Instrumental Variables"
+      ],
       "source_pages": "119-140",
-      "section_path": "Part 2: How to Evaluate > Chapter 5: Instrumental Variables",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001",
         "chunk:impact-evaluation-in-practice:imperfect-compliance:c0006",
@@ -78,13 +96,16 @@
         "chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-06",
-      "section_title": "Chapter 6: Regression Discontinuity Design",
+      "chapter_number": 6,
+      "chapter_title": "Regression Discontinuity Design",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 6: Regression Discontinuity Design"
+      ],
       "source_pages": "143-157",
-      "section_path": "Part 2: How to Evaluate > Chapter 6: Regression Discontinuity Design",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001",
         "chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006",
@@ -93,13 +114,16 @@
         "chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-07",
-      "section_title": "Chapter 7: Difference-in-Differences",
+      "chapter_number": 7,
+      "chapter_title": "Difference-in-Differences",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 7: Difference-in-Differences"
+      ],
       "source_pages": "159-171",
-      "section_path": "Part 2: How to Evaluate > Chapter 7: Difference-in-Differences",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch07-chapter-7-difference-in-differences:c0001",
         "chunk:impact-evaluation-in-practice:evaluating-a-program-when-the-rule-of-assignment-is-less-clear:c0001",
@@ -107,13 +131,16 @@
         "chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0002"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-08",
-      "section_title": "Chapter 8: Matching",
+      "chapter_number": 8,
+      "chapter_title": "Matching",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 8: Matching"
+      ],
       "source_pages": "173-188",
-      "section_path": "Part 2: How to Evaluate > Chapter 8: Matching",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001",
         "chunk:impact-evaluation-in-practice:propensity-score-matching:c0003",
@@ -121,13 +148,16 @@
         "chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-09",
-      "section_title": "Chapter 9: Addressing Methodological Challenges",
+      "chapter_number": 9,
+      "chapter_title": "Addressing Methodological Challenges",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 9: Addressing Methodological Challenges"
+      ],
       "source_pages": "191-202",
-      "section_path": "Part 2: How to Evaluate > Chapter 9: Addressing Methodological Challenges",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:part-2:c0002",
         "chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001",
@@ -136,13 +166,16 @@
         "chunk:impact-evaluation-in-practice:attrition:c0005"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-10",
-      "section_title": "Chapter 10: Evaluating Multifaceted Programs",
+      "chapter_number": 10,
+      "chapter_title": "Evaluating Multifaceted Programs",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "section_paths": [
+        "Part 2: How to Evaluate > Chapter 10: Evaluating Multifaceted Programs"
+      ],
       "source_pages": "205-213",
-      "section_path": "Part 2: How to Evaluate > Chapter 10: Evaluating Multifaceted Programs",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001",
         "chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001",
@@ -151,38 +184,47 @@
         "chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-11",
-      "section_title": "Chapter 11: Choosing an Impact Evaluation Method",
+      "chapter_number": 11,
+      "chapter_title": "Choosing an Impact Evaluation Method",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "section_paths": [
+        "Part 3: How to Implement an Impact Evaluation > Chapter 11: Choosing an Impact Evaluation Method"
+      ],
       "source_pages": "217-229",
-      "section_path": "Part 3: How to Implement an Impact Evaluation > Chapter 11: Choosing an Impact Evaluation Method",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001",
         "chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008",
         "chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-12",
-      "section_title": "Chapter 12: Managing an Impact Evaluation",
+      "chapter_number": 12,
+      "chapter_title": "Managing an Impact Evaluation",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "section_paths": [
+        "Part 3: How to Implement an Impact Evaluation > Chapter 12: Managing an Impact Evaluation"
+      ],
       "source_pages": "231-259",
-      "section_path": "Part 3: How to Implement an Impact Evaluation > Chapter 12: Managing an Impact Evaluation",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012",
         "chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-13",
-      "section_title": "Chapter 13: The Ethics and Science of Impact Evaluation",
+      "chapter_number": 13,
+      "chapter_title": "The Ethics and Science of Impact Evaluation",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "section_paths": [
+        "Part 3: How to Implement an Impact Evaluation > Chapter 13: The Ethics and Science of Impact Evaluation"
+      ],
       "source_pages": "261-275",
-      "section_path": "Part 3: How to Implement an Impact Evaluation > Chapter 13: The Ethics and Science of Impact Evaluation",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:part-3:c0002",
         "chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001",
@@ -190,13 +232,16 @@
         "chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-14",
-      "section_title": "Chapter 14: Disseminating Results and Achieving Policy Impact",
+      "chapter_number": 14,
+      "chapter_title": "Disseminating Results and Achieving Policy Impact",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "section_paths": [
+        "Part 3: How to Implement an Impact Evaluation > Chapter 14: Disseminating Results and Achieving Policy Impact"
+      ],
       "source_pages": "277-287",
-      "section_path": "Part 3: How to Implement an Impact Evaluation > Chapter 14: Disseminating Results and Achieving Policy Impact",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:ch14-chapter-14-disseminating-results-and-achieving-policy-impact:c0001",
         "chunk:impact-evaluation-in-practice:a-solid-evidence-base-for-policy:c0003",
@@ -205,26 +250,32 @@
         "chunk:impact-evaluation-in-practice:disseminating-results:c0004"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-15",
-      "section_title": "Chapter 15: Choosing a Sample",
+      "chapter_number": 15,
+      "chapter_title": "Choosing a Sample",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "section_paths": [
+        "Part 4: How to Get Data for an Impact Evaluation > Chapter 15: Choosing a Sample"
+      ],
       "source_pages": "291-319",
-      "section_path": "Part 4: How to Get Data for an Impact Evaluation > Chapter 15: Choosing a Sample",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:part-4:c0001",
         "chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001",
         "chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-16",
-      "section_title": "Chapter 16: Finding Adequate Sources of Data",
+      "chapter_number": 16,
+      "chapter_title": "Finding Adequate Sources of Data",
+      "target_path": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "section_paths": [
+        "Part 4: How to Get Data for an Impact Evaluation > Chapter 16: Finding Adequate Sources of Data"
+      ],
       "source_pages": "321-347",
-      "section_path": "Part 4: How to Get Data for an Impact Evaluation > Chapter 16: Finding Adequate Sources of Data",
       "evidence_ids": [
         "chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001",
         "chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002",
@@ -233,7 +284,7 @@
         "chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030"
       ],
       "media_ids": [],
-      "target_path": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd"
+      "status": "drafted"
     }
   ]
 }

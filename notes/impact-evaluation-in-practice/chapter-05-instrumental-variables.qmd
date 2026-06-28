@@ -1,0 +1,149 @@
+---
+title: "Chapter 05: Instrumental Variables"
+description: "Detailed study notes for Chapter 5 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "119-140"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001"
+  - "chunk:impact-evaluation-in-practice:imperfect-compliance:c0006"
+  - "chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0001"
+  - "chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 5</span><span>Source pages 119-140</span></div>
+
+This note summarises Chapter 5, "Instrumental Variables," from Paul J. Gertler, Sebastian Martinez,
+Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Instrumental variables recover causal impact when assignment or encouragement changes participation, especially when not everyone complies with the intended treatment status.
+
+## Study Summary
+
+Chapter 5 begins from imperfect compliance. Some units assigned to treatment do not participate, and
+some units assigned to comparison may still receive services, so simple assignment contrasts no
+longer answer every causal question.
+
+The chapter distinguishes assignment, take-up, and treatment received. Randomized assignment or
+randomized promotion can be used as an instrument when it changes participation without directly
+affecting outcomes except through participation.
+
+The resulting estimate is local: it applies to units whose participation is changed by the
+instrument. The chapter's types of units, such as always-takers, never-takers, and compliers, make
+that limitation explicit.
+
+The method is powerful but assumption-heavy. Evaluators must defend the relevance of the instrument,
+the exclusion restriction, and the interpretation of local average treatment effects for policy
+decisions.
+
+For close reading, track how the chapter uses instrumental variables, imperfect compliance,
+randomized promotion, local average treatment effect while moving through noncompliance problem,
+compliance types, randomized promotion. The notes identify the design problem the chapter helps
+solve and what should be checked against the saved evidence records before relying on the summary in
+applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **instrumental variables**: A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.
+- **imperfect compliance**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **randomized promotion**: An encouragement design that randomly varies outreach or incentives and uses that variation as an instrument for participation.
+- **local average treatment effect**: The impact estimated for a specific subgroup, such as compliers or units near a cutoff.
+- **intention-to-treat**: The effect of being assigned or offered treatment, regardless of whether the unit actually receives it.
+
+## Chapter Structure
+
+- Noncompliance problem.
+- Compliance types.
+- Randomized promotion.
+- Estimating participation effects.
+- Local interpretation.
+- Limitations.
+
+## Practical Implications
+
+- Distinguish offer effects from participation effects.
+- Use encouragement designs when universal access prevents direct randomization.
+- Report clearly whose impact the IV estimate represents.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 5 help decide?"]
+  Central["Concept: Instrumental Variables"]
+  Concept1["Concept: instrumental variables"]
+  Concept2["Concept: imperfect compliance"]
+  Concept3["Concept: randomized promotion"]
+  Mechanism1["Design element: noncompliance problem"]
+  Mechanism2["Design element: compliance types"]
+  Mechanism3["Design element: randomized promotion"]
+  Implication1["Practice implication: Distinguish offer effects from participation effects."]
+  Implication2["Practice implication: Use encouragement designs when universal access prevents direct randomization."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Randomized Assignment](chapter-04-randomized-assignment.qmd)
+- Next: [Chapter 6: Regression Discontinuity Design](chapter-06-regression-discontinuity-design.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 5 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance:c0006`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0001`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018`
+
+## References

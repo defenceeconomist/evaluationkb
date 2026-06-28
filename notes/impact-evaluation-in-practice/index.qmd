@@ -1,13 +1,22 @@
 ---
 title: "Impact Evaluation in Practice"
-description: "Book overview and study-note index for Impact Evaluation in Practice."
+description: "Book overview and chapter-level study-note index for Impact Evaluation in Practice."
 book_id: "impact-evaluation-in-practice"
 collection_id: "evaluation-texts"
 note_type: "Book"
 citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
 evidence_ids:
-  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
-  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001"
+  - "chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006"
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006"
+  - "chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007"
+  - "chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003"
+  - "chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:initial-steps:c0001"
+  - "chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001"
+  - "chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001"
+  - "chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004"
+  - "chunk:impact-evaluation-in-practice:part-2:c0001"
   - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
 source_status: "needs_review"
 ---
@@ -18,10 +27,13 @@ source_status: "needs_review"
 
 # Impact Evaluation in Practice
 
-Study notes on *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+Chapter-level study notes on *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. These notes are
+generated from source-linked MCP research-library records and are intended for study, comparison,
+and later refinement.
 
 <div class="page-metadata">
-  <span>3 major-section notes</span>
+  <span>16 chapter notes</span>
   <span>2016</span>
   <span>Source status: needs_review</span>
   <span>MCP evaluation-texts</span>
@@ -34,7 +46,7 @@ Study notes on *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlin
 
 ### [Core Concepts](concepts.qmd)
 
-Recurring ideas and distinctions used across these notes.
+Recurring ideas and distinctions used across these chapter notes.
 :::
 
 ::: {.section-card}
@@ -42,7 +54,7 @@ Recurring ideas and distinctions used across these notes.
 
 ### [Chapter Map](chapter-map.qmd)
 
-Selected source sections, page ranges, and reading routes.
+Source chapters, page ranges, and reading routes.
 :::
 
 ::: {.section-card}
@@ -60,16 +72,119 @@ Practical evaluation design habits drawn from the notes.
 
 <div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
 
-This index summarises generated study notes for Paul J. Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
+This index summarises generated chapter-level study notes for Paul J. Gertler, Sebastian Martinez,
+Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. The generated
+pages use selected MCP research-library retrieval records and compact evidence summaries.
 
 ## Core Argument
 
-Impact evaluation estimates causal effects by turning policy questions into testable designs with credible counterfactuals.
+Impact evaluation turns policy questions into causal designs by specifying the theory of change, constructing credible counterfactuals, managing implementation and ethics, and collecting data that can support defensible impact estimates.
 
-## Major-Section Notes
+## Chapter Notes
 
-- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd) - source pages 37
-- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd) - source pages 62
-- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd) - source pages 77-78
+
+### Part 1: Introduction to Impact Evaluation
+
+- [Chapter 1: Why Evaluate?](chapter-01-why-evaluate.qmd) - source pages 33-59
+- [Chapter 2: Preparing for an Evaluation](chapter-02-preparing-for-an-evaluation.qmd) - source pages 61-73
+
+### Part 2: How to Evaluate
+
+- [Chapter 3: Causal Inference and Counterfactuals](chapter-03-causal-inference-and-counterfactuals.qmd) - source pages 77-93
+- [Chapter 4: Randomized Assignment](chapter-04-randomized-assignment.qmd) - source pages 97-116
+- [Chapter 5: Instrumental Variables](chapter-05-instrumental-variables.qmd) - source pages 119-140
+- [Chapter 6: Regression Discontinuity Design](chapter-06-regression-discontinuity-design.qmd) - source pages 143-157
+- [Chapter 7: Difference-in-Differences](chapter-07-difference-in-differences.qmd) - source pages 159-171
+- [Chapter 8: Matching](chapter-08-matching.qmd) - source pages 173-188
+- [Chapter 9: Addressing Methodological Challenges](chapter-09-addressing-methodological-challenges.qmd) - source pages 191-202
+- [Chapter 10: Evaluating Multifaceted Programs](chapter-10-evaluating-multifaceted-programs.qmd) - source pages 205-213
+
+### Part 3: How to Implement an Impact Evaluation
+
+- [Chapter 11: Choosing an Impact Evaluation Method](chapter-11-choosing-an-impact-evaluation-method.qmd) - source pages 217-229
+- [Chapter 12: Managing an Impact Evaluation](chapter-12-managing-an-impact-evaluation.qmd) - source pages 231-259
+- [Chapter 13: The Ethics and Science of Impact Evaluation](chapter-13-the-ethics-and-science-of-impact-evaluation.qmd) - source pages 261-275
+- [Chapter 14: Disseminating Results and Achieving Policy Impact](chapter-14-disseminating-results-and-achieving-policy-impact.qmd) - source pages 277-287
+
+### Part 4: How to Get Data for an Impact Evaluation
+
+- [Chapter 15: Choosing a Sample](chapter-15-choosing-a-sample.qmd) - source pages 291-319
+- [Chapter 16: Finding Adequate Sources of Data](chapter-16-finding-adequate-sources-of-data.qmd) - source pages 321-347
+
+## Legacy Extracts
+
+- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001`
+- `chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006`
+- `chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006`
+- `chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007`
+- `chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003`
+- `chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001`
+- `chunk:impact-evaluation-in-practice:initial-steps:c0001`
+- `chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001`
+- `chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001`
+- `chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004`
+- `chunk:impact-evaluation-in-practice:part-2:c0001`
+- `chunk:impact-evaluation-in-practice:causal-inference:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007`
+- `chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0013`
+- `chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0033`
+- `chunk:impact-evaluation-in-practice:checklist-randomized-assignment:c0008`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance:c0006`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0001`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018`
+- `chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006`
+- `chunk:impact-evaluation-in-practice:checking-the-validity-of-the-regression-discontinuity-design:c0005`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004`
+- `chunk:impact-evaluation-in-practice:ch07-chapter-7-difference-in-differences:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-a-program-when-the-rule-of-assignment-is-less-clear:c0001`
+- `chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0001`
+- `chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0002`
+- `chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001`
+- `chunk:impact-evaluation-in-practice:propensity-score-matching:c0003`
+- `chunk:impact-evaluation-in-practice:combining-matching-with-other-methods:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001`
+- `chunk:impact-evaluation-in-practice:part-2:c0002`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0002`
+- `chunk:impact-evaluation-in-practice:attrition:c0004`
+- `chunk:impact-evaluation-in-practice:attrition:c0005`
+- `chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-with-varying-treatment-levels:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004`
+- `chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001`
+- `chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008`
+- `chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005`
+- `chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012`
+- `chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002`
+- `chunk:impact-evaluation-in-practice:part-3:c0002`
+- `chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001`
+- `chunk:impact-evaluation-in-practice:ensuring-reliable-and-credible-evaluations-through-open-science:c0001`
+- `chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001`
+- `chunk:impact-evaluation-in-practice:ch14-chapter-14-disseminating-results-and-achieving-policy-impact:c0001`
+- `chunk:impact-evaluation-in-practice:a-solid-evidence-base-for-policy:c0003`
+- `chunk:impact-evaluation-in-practice:tailoring-a-communication-strategy-to-different-audiences:c0003`
+- `chunk:impact-evaluation-in-practice:disseminating-results:c0001`
+- `chunk:impact-evaluation-in-practice:disseminating-results:c0004`
+- `chunk:impact-evaluation-in-practice:part-4:c0001`
+- `chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001`
+- `chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017`
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001`
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0007`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0023`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030`
 
 ## References

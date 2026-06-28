@@ -426,13 +426,93 @@
       "path": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd"
     },
     {
+      "id": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "title": "Chapter 01: Why Evaluate?",
+      "path": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "title": "Chapter 02: Preparing for an Evaluation",
+      "path": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "title": "Chapter 03: Causal Inference and Counterfactuals",
+      "path": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "title": "Chapter 04: Randomized Assignment",
+      "path": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "title": "Chapter 05: Instrumental Variables",
+      "path": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "title": "Chapter 06: Regression Discontinuity Design",
+      "path": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "title": "Chapter 07: Difference-in-Differences",
+      "path": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "title": "Chapter 08: Matching",
+      "path": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "title": "Chapter 09: Addressing Methodological Challenges",
+      "path": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "title": "Chapter 10: Evaluating Multifaceted Programs",
+      "path": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "title": "Chapter 11: Choosing an Impact Evaluation Method",
+      "path": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "title": "Chapter 12: Managing an Impact Evaluation",
+      "path": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "title": "Chapter 13: The Ethics and Science of Impact Evaluation",
+      "path": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "title": "Chapter 14: Disseminating Results and Achieving Policy Impact",
+      "path": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "title": "Chapter 15: Choosing a Sample",
+      "path": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd"
+    },
+    {
+      "id": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "title": "Chapter 16: Finding Adequate Sources of Data",
+      "path": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd"
+    },
+    {
       "id": "notes/impact-evaluation-in-practice/chapter-map.qmd",
       "title": "Impact Evaluation in Practice Chapter Map",
       "path": "notes/impact-evaluation-in-practice/chapter-map.qmd"
     },
     {
       "id": "notes/impact-evaluation-in-practice/concepts.qmd",
-      "title": "Core Concepts in Impact Evaluation in Practice",
+      "title": "Impact Evaluation in Practice Core Concepts",
       "path": "notes/impact-evaluation-in-practice/concepts.qmd"
     },
     {
@@ -4223,6 +4303,796 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",
       "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
       "type": "internal-link"
@@ -4239,17 +5109,82 @@
     },
     {
       "source": "notes/impact-evaluation-in-practice/concepts.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/impact-evaluation-in-practice/concepts.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/impact-evaluation-in-practice/concepts.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
       "type": "internal-link"
     },
     {
@@ -4269,6 +5204,86 @@
     },
     {
       "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/index.qmd",
       "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
       "type": "internal-link"
     },
@@ -4284,17 +5299,82 @@
     },
     {
       "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
-      "target": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
       "type": "internal-link"
     },
     {
@@ -7508,6 +8588,70 @@
     {
       "source": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
       "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-08-matching.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
     },
     {
       "source": "notes/impact-evaluation-in-practice/chapter-map.qmd",

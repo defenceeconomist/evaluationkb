@@ -1,0 +1,146 @@
+---
+title: "Chapter 11: Choosing an Impact Evaluation Method"
+description: "Detailed study notes for Chapter 11 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 11
+source_pages: "217-229"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001"
+  - "chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008"
+  - "chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 11</span><span>Source pages 217-229</span></div>
+
+This note summarises Chapter 11, "Choosing an Impact Evaluation Method," from Paul J. Gertler,
+Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact
+Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Method choice should start from program rules, timing, and data, then select the strongest feasible design with the weakest necessary assumptions.
+
+## Study Summary
+
+Chapter 11 turns the method menu into a decision process. Instead of asking which method is
+abstractly best, evaluators ask which methods are compatible with the program's operational rules.
+
+Rules about eligibility, oversubscription, rollout, assignment, participation, and geography
+determine whether randomized assignment, IV, RDD, DD, matching, or combined methods are plausible.
+
+The chapter recommends favoring methods that require weaker assumptions and fewer data demands when
+several designs are feasible. The smallest feasible unit of intervention is often preferable because
+it preserves sample size and design flexibility.
+
+The chapter also links method choice to implementation planning. A design is not selected once; it
+must be defended through assignment procedures, data collection, stakeholder agreement, and analysis
+plans.
+
+For close reading, track how the chapter uses operational rules, randomized assignment, instrumental
+variables, regression discontinuity design while moving through program rules, feasible methods,
+assumption strength. The notes identify the design problem the chapter helps solve and what should
+be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence.
+
+## Key Concepts
+
+- **operational rules**: Program rules governing eligibility, assignment, timing, scale-up, and delivery that shape feasible evaluation methods.
+- **randomized assignment**: A method that allocates eligible units to treatment and comparison groups by chance.
+- **instrumental variables**: A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.
+- **regression discontinuity design**: A method that compares units just above and below a cutoff used to assign program eligibility.
+- **difference-in-differences**: A quasi-experimental method that compares changes over time in treatment and comparison groups.
+- **matching**: A method that constructs a comparison group by pairing treated units with untreated units that have similar observed characteristics.
+
+## Chapter Structure
+
+- Program rules.
+- Feasible methods.
+- Assumption strength.
+- Data requirements.
+- Unit of intervention.
+- Design comparison.
+
+## Practical Implications
+
+- Map program rules before proposing a method.
+- Prefer designs with weaker identifying assumptions when feasible.
+- Choose the intervention unit with power, ethics, and operations in view.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 11 help decide?"]
+  Central["Concept: Choosing an Impact Evaluation Method"]
+  Concept1["Concept: operational rules"]
+  Concept2["Concept: randomized assignment"]
+  Concept3["Concept: instrumental variables"]
+  Mechanism1["Design element: program rules"]
+  Mechanism2["Design element: feasible methods"]
+  Mechanism3["Design element: assumption strength"]
+  Implication1["Practice implication: Map program rules before proposing a method."]
+  Implication2["Practice implication: Prefer designs with weaker identifying assumptions when feasible."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 10: Evaluating Multifaceted Programs](chapter-10-evaluating-multifaceted-programs.qmd)
+- Next: [Chapter 12: Managing an Impact Evaluation](chapter-12-managing-an-impact-evaluation.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 11 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001`
+- `chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008`
+- `chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005`
+
+## References

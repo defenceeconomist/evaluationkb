@@ -1,0 +1,150 @@
+---
+title: "Chapter 09: Addressing Methodological Challenges"
+description: "Detailed study notes for Chapter 9 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "191-202"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:part-2:c0002"
+  - "chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001"
+  - "chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0002"
+  - "chunk:impact-evaluation-in-practice:attrition:c0004"
+  - "chunk:impact-evaluation-in-practice:attrition:c0005"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9</span><span>Source pages 191-202</span></div>
+
+This note summarises Chapter 9, "Addressing Methodological Challenges," from Paul J. Gertler,
+Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact
+Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Design problems such as imperfect compliance, spillovers, and attrition must be anticipated and analyzed because they can change what the estimated impact means.
+
+## Study Summary
+
+Chapter 9 moves from ideal designs to implementation reality. Even carefully planned evaluations can
+face imperfect compliance, contamination, spillovers, and missing follow-up data.
+
+Imperfect compliance requires evaluators to distinguish assignment, offer, participation, and
+treatment received. The chapter links this challenge back to intention-to-treat and local average
+treatment effects.
+
+Spillovers matter because treatment can affect comparison units through information, markets,
+behavior, or geographic proximity. If spillovers are likely, the evaluation may need different
+units, buffers, or explicit spillover measurement.
+
+Attrition is treated as a data-validity threat. Evaluators should track loss rates, compare
+attrition across groups, compare baseline characteristics of respondents and nonrespondents, and
+consider corrections where justified.
+
+For close reading, track how the chapter uses imperfect compliance, intention-to-treat, local
+average treatment effect, spillovers while moving through imperfect compliance, ITT and LATE,
+spillovers. The notes identify the design problem the chapter helps solve and what should be checked
+against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **imperfect compliance**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **intention-to-treat**: The effect of being assigned or offered treatment, regardless of whether the unit actually receives it.
+- **local average treatment effect**: The impact estimated for a specific subgroup, such as compliers or units near a cutoff.
+- **spillovers**: Effects of treatment on units outside the intended treatment group, which can contaminate comparison groups.
+- **attrition**: Loss of sample members between baseline and follow-up that can bias estimates if it differs across groups or correlates with outcomes.
+
+## Chapter Structure
+
+- Imperfect compliance.
+- ITT and LATE.
+- Spillovers.
+- Attrition diagnosis.
+- Statistical corrections.
+- Interpretation.
+
+## Practical Implications
+
+- Plan for noncompliance and missing data before baseline.
+- Separate contamination problems from treatment-effect interpretation.
+- Report attrition diagnostics, not only final sample sizes.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 9 help decide?"]
+  Central["Concept: Addressing Methodological Challenges"]
+  Concept1["Concept: imperfect compliance"]
+  Concept2["Concept: intention-to-treat"]
+  Concept3["Concept: local average treatment effect"]
+  Mechanism1["Design element: imperfect compliance"]
+  Mechanism2["Design element: ITT and LATE"]
+  Mechanism3["Design element: spillovers"]
+  Implication1["Practice implication: Plan for noncompliance and missing data before baseline."]
+  Implication2["Practice implication: Separate contamination problems from treatment-effect interpretation."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Matching](chapter-08-matching.qmd)
+- Next: [Chapter 10: Evaluating Multifaceted Programs](chapter-10-evaluating-multifaceted-programs.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 9 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:part-2:c0002`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0002`
+- `chunk:impact-evaluation-in-practice:attrition:c0004`
+- `chunk:impact-evaluation-in-practice:attrition:c0005`
+
+## References

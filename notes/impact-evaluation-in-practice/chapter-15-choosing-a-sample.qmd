@@ -1,0 +1,145 @@
+---
+title: "Chapter 15: Choosing a Sample"
+description: "Detailed study notes for Chapter 15 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 15
+source_pages: "291-319"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:part-4:c0001"
+  - "chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001"
+  - "chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 15</span><span>Source pages 291-319</span></div>
+
+This note summarises Chapter 15, "Choosing a Sample," from Paul J. Gertler, Sebastian Martinez,
+Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Sampling decisions determine whether an evaluation can detect meaningful impacts for the population and subgroups that matter to the policy question.
+
+## Study Summary
+
+Chapter 15 opens the data sequence by connecting sample design to causal design. The evaluation
+needs enough units, assigned and measured at the right level, to detect effects of policy relevance.
+
+Power calculations are the chapter's central management tool. They help determine sample size by
+specifying expected effect sizes, variance, significance, statistical power, clustering, and design
+features.
+
+The chapter also reminds evaluators that representativeness and assignment units matter. A sample
+can be statistically large but still poorly aligned with the target population or underpowered for
+subgroups.
+
+Sampling is therefore not merely a survey issue. It must be coordinated with rollout, treatment
+arms, attrition risk, data collection timing, and the policy decisions the evaluation is expected to
+inform.
+
+For close reading, track how the chapter uses sample, power calculation, minimum detectable effect,
+cluster while moving through sampling frame, sample size, power calculations. The notes identify the
+design problem the chapter helps solve and what should be checked against the saved evidence records
+before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the data sequence.
+
+## Key Concepts
+
+- **sample**: The units selected for data collection and analysis, ideally aligned with the treatment assignment unit and policy population.
+- **power calculation**: A calculation used to determine the sample size needed to detect a meaningful effect with acceptable probability.
+- **minimum detectable effect**: The smallest impact an evaluation is powered to detect for a given sample, variance, significance level, and design.
+- **cluster**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **attrition**: Loss of sample members between baseline and follow-up that can bias estimates if it differs across groups or correlates with outcomes.
+
+## Chapter Structure
+
+- Sampling frame.
+- Sample size.
+- Power calculations.
+- Clusters and subgroups.
+- Implementation constraints.
+- Attrition allowance.
+
+## Practical Implications
+
+- Run power calculations before confirming treatment arms.
+- Align the sampling unit with the assignment and analysis unit.
+- Build attrition risk into sample planning.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 15 help decide?"]
+  Central["Concept: Choosing a Sample"]
+  Concept1["Concept: sample"]
+  Concept2["Concept: power calculation"]
+  Concept3["Concept: minimum detectable effect"]
+  Mechanism1["Design element: sampling frame"]
+  Mechanism2["Design element: sample size"]
+  Mechanism3["Design element: power calculations"]
+  Implication1["Practice implication: Run power calculations before confirming treatment arms."]
+  Implication2["Practice implication: Align the sampling unit with the assignment and analysis unit."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 14: Disseminating Results and Achieving Policy Impact](chapter-14-disseminating-results-and-achieving-policy-impact.qmd)
+- Next: [Chapter 16: Finding Adequate Sources of Data](chapter-16-finding-adequate-sources-of-data.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 15 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:part-4:c0001`
+- `chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001`
+- `chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017`
+
+## References

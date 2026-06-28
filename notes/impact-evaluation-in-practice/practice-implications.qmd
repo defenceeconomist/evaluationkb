@@ -6,30 +6,124 @@ collection_id: "evaluation-texts"
 note_type: "Practice"
 citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
 evidence_ids:
-  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0001"
-  - "chunk:impact-evaluation-in-practice:constructing-a-theory-of-change:c0001"
+  - "chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001"
+  - "chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006"
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006"
+  - "chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007"
+  - "chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003"
+  - "chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:initial-steps:c0001"
+  - "chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001"
+  - "chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001"
+  - "chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004"
+  - "chunk:impact-evaluation-in-practice:part-2:c0001"
   - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This practice synthesis draws on selected notes from *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
+This practice synthesis draws on the chapter notes from *Impact Evaluation in Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
 
 ## Evaluation Practice Implications
 
-- Clarify whether the question is descriptive, implementation-focused, or causal.
-- Build the evaluation around a theory of change before selecting an identification strategy.
-- Assess whether program rules, timing, and eligibility create feasible comparison options.
-- Plan data and sample size early enough to protect credibility.
-
-## Applying the Notes
-
-Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+- Begin with the policy decision and the theory of change, then choose the identification strategy that the program's operational rules can actually support.
+- Treat the counterfactual as the central design problem; every method choice should explain how the comparison group approximates untreated outcomes for the treatment group.
+- Use randomized assignment when it is fair and operationally feasible, but do not force it when rollout, eligibility, or ethics make another design more defensible.
+- For quasi-experimental designs, state the identifying assumption in plain language and gather diagnostics that can challenge it.
+- Plan for imperfect compliance, spillovers, attrition, and multiple treatment arms before baseline rather than treating them as analytic surprises.
+- Keep evaluation management artifacts current: design memo, sampling plan, data plan, preanalysis plan, ethics review, dissemination plan, budget, and role assignments.
+- Design samples around minimum detectable effects and policy-relevant subgroups, not only around available budget.
+- Use existing administrative or monitoring data only after checking coverage, timing, indicators, and quality against the results chain.
+- Build fieldwork quality control, validation, confidentiality, documentation, and storage into the evaluation budget.
+- Plan communication products for different audiences early enough that evaluation results can enter real decision cycles.
 
 ## Links
 
-- [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
-- [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
-- [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+- [Chapter 1: Why Evaluate?](chapter-01-why-evaluate.qmd)
+- [Chapter 2: Preparing for an Evaluation](chapter-02-preparing-for-an-evaluation.qmd)
+- [Chapter 3: Causal Inference and Counterfactuals](chapter-03-causal-inference-and-counterfactuals.qmd)
+- [Chapter 4: Randomized Assignment](chapter-04-randomized-assignment.qmd)
+- [Chapter 5: Instrumental Variables](chapter-05-instrumental-variables.qmd)
+- [Chapter 6: Regression Discontinuity Design](chapter-06-regression-discontinuity-design.qmd)
+- [Chapter 7: Difference-in-Differences](chapter-07-difference-in-differences.qmd)
+- [Chapter 8: Matching](chapter-08-matching.qmd)
+- [Chapter 9: Addressing Methodological Challenges](chapter-09-addressing-methodological-challenges.qmd)
+- [Chapter 10: Evaluating Multifaceted Programs](chapter-10-evaluating-multifaceted-programs.qmd)
+- [Chapter 11: Choosing an Impact Evaluation Method](chapter-11-choosing-an-impact-evaluation-method.qmd)
+- [Chapter 12: Managing an Impact Evaluation](chapter-12-managing-an-impact-evaluation.qmd)
+- [Chapter 13: The Ethics and Science of Impact Evaluation](chapter-13-the-ethics-and-science-of-impact-evaluation.qmd)
+- [Chapter 14: Disseminating Results and Achieving Policy Impact](chapter-14-disseminating-results-and-achieving-policy-impact.qmd)
+- [Chapter 15: Choosing a Sample](chapter-15-choosing-a-sample.qmd)
+- [Chapter 16: Finding Adequate Sources of Data](chapter-16-finding-adequate-sources-of-data.qmd)
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001`
+- `chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006`
+- `chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006`
+- `chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007`
+- `chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003`
+- `chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001`
+- `chunk:impact-evaluation-in-practice:initial-steps:c0001`
+- `chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001`
+- `chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001`
+- `chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004`
+- `chunk:impact-evaluation-in-practice:part-2:c0001`
+- `chunk:impact-evaluation-in-practice:causal-inference:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007`
+- `chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0013`
+- `chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0033`
+- `chunk:impact-evaluation-in-practice:checklist-randomized-assignment:c0008`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance:c0006`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0001`
+- `chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018`
+- `chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006`
+- `chunk:impact-evaluation-in-practice:checking-the-validity-of-the-regression-discontinuity-design:c0005`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004`
+- `chunk:impact-evaluation-in-practice:ch07-chapter-7-difference-in-differences:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-a-program-when-the-rule-of-assignment-is-less-clear:c0001`
+- `chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0001`
+- `chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0002`
+- `chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001`
+- `chunk:impact-evaluation-in-practice:propensity-score-matching:c0003`
+- `chunk:impact-evaluation-in-practice:combining-matching-with-other-methods:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001`
+- `chunk:impact-evaluation-in-practice:part-2:c0002`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001`
+- `chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0002`
+- `chunk:impact-evaluation-in-practice:attrition:c0004`
+- `chunk:impact-evaluation-in-practice:attrition:c0005`
+- `chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-with-varying-treatment-levels:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004`
+- `chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001`
+- `chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008`
+- `chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005`
+- `chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012`
+- `chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002`
+- `chunk:impact-evaluation-in-practice:part-3:c0002`
+- `chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001`
+- `chunk:impact-evaluation-in-practice:ensuring-reliable-and-credible-evaluations-through-open-science:c0001`
+- `chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001`
+- `chunk:impact-evaluation-in-practice:ch14-chapter-14-disseminating-results-and-achieving-policy-impact:c0001`
+- `chunk:impact-evaluation-in-practice:a-solid-evidence-base-for-policy:c0003`
+- `chunk:impact-evaluation-in-practice:tailoring-a-communication-strategy-to-different-audiences:c0003`
+- `chunk:impact-evaluation-in-practice:disseminating-results:c0001`
+- `chunk:impact-evaluation-in-practice:disseminating-results:c0004`
+- `chunk:impact-evaluation-in-practice:part-4:c0001`
+- `chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001`
+- `chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017`
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001`
+- `chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0007`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0023`
+- `chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030`
 
 ## References

@@ -1,0 +1,147 @@
+---
+title: "Chapter 10: Evaluating Multifaceted Programs"
+description: "Detailed study notes for Chapter 10 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 10
+source_pages: "205-213"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001"
+  - "chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001"
+  - "chunk:impact-evaluation-in-practice:evaluating-programs-with-varying-treatment-levels:c0001"
+  - "chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0001"
+  - "chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 10</span><span>Source pages 205-213</span></div>
+
+This note summarises Chapter 10, "Evaluating Multifaceted Programs," from Paul J. Gertler, Sebastian
+Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in
+Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is
+a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Multifaceted programs can be evaluated by designing treatment arms that compare levels, components, or combinations of components, not only treatment versus no treatment.
+
+## Study Summary
+
+Chapter 10 broadens impact evaluation beyond a binary program contrast. Policy makers often need to
+know which component, dosage, sequence, or package is most effective and cost-effective.
+
+The chapter discusses varying treatment levels, such as high- and low-intensity versions, as well as
+multiple treatment arms that compare distinct program modalities.
+
+When interventions may interact, factorial or cross-cutting designs can estimate both separate and
+combined effects. These designs answer richer policy questions but require larger samples and
+careful operational coordination.
+
+The chapter's practical message is to align evaluation arms with decisions. A design that only asks
+whether a package works may miss the more useful question of which part of the package is worth
+scaling.
+
+For close reading, track how the chapter uses multifaceted program, treatment arms, treatment
+levels, factorial design while moving through multiple treatment options, varying treatment levels,
+multiple interventions. The notes identify the design problem the chapter helps solve and what
+should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **multifaceted program**: A program with different components, treatment levels, or treatment arms whose separate and joint effects may need testing.
+- **treatment arms**: Distinct groups assigned to different program versions, levels, combinations, or comparison conditions.
+- **treatment levels**: Different intensities, doses, or versions of a program whose impacts can be compared.
+- **factorial design**: A design that assigns units across combinations of components so separate and joint treatment effects can be estimated.
+- **cost-effectiveness**: Source-linked concept; reopen the cited records before relying on it in applied work.
+
+## Chapter Structure
+
+- Multiple treatment options.
+- Varying treatment levels.
+- Multiple interventions.
+- Combinations.
+- Policy interpretation.
+
+## Practical Implications
+
+- Design arms around real policy alternatives.
+- Budget sample size for multiple contrasts.
+- Use component designs when decision makers can change dosage or content.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 10 help decide?"]
+  Central["Concept: Evaluating Multifaceted Programs"]
+  Concept1["Concept: multifaceted program"]
+  Concept2["Concept: treatment arms"]
+  Concept3["Concept: treatment levels"]
+  Mechanism1["Design element: multiple treatment options"]
+  Mechanism2["Design element: varying treatment levels"]
+  Mechanism3["Design element: multiple interventions"]
+  Implication1["Practice implication: Design arms around real policy alternatives."]
+  Implication2["Practice implication: Budget sample size for multiple contrasts."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 9: Addressing Methodological Challenges](chapter-09-addressing-methodological-challenges.qmd)
+- Next: [Chapter 11: Choosing an Impact Evaluation Method](chapter-11-choosing-an-impact-evaluation-method.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 10 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-with-varying-treatment-levels:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004`
+
+## References

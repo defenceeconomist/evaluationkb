@@ -11,7 +11,7 @@ toc: false
 
 # Evaluation Knowledge Base
 
-A Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready `evaluation-texts` records from the MCP research library, with detailed notes for Purposeful Program Theory, chapter-level Rossi/Lipsey and Chen notes, step-level Patton/U-FE notes, and generated notes for the wider collection.
+A Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready `evaluation-texts` records from the MCP research library, with detailed notes for Purposeful Program Theory, chapter-level Rossi/Lipsey, Chen, and Impact Evaluation in Practice notes, step-level Patton/U-FE notes, and generated notes for the wider collection.
 
 ::: {.cta-row}
 [Open Notes](notes/index.qmd){.cta-button}

@@ -1,0 +1,150 @@
+---
+title: "Chapter 06: Regression Discontinuity Design"
+description: "Detailed study notes for Chapter 6 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "143-157"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001"
+  - "chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006"
+  - "chunk:impact-evaluation-in-practice:checking-the-validity-of-the-regression-discontinuity-design:c0005"
+  - "chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0001"
+  - "chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6</span><span>Source pages 143-157</span></div>
+
+This note summarises Chapter 6, "Regression Discontinuity Design," from Paul J. Gertler, Sebastian
+Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in
+Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is
+a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Regression discontinuity estimates impacts by comparing units just above and below a program eligibility cutoff, where units should be similar except for eligibility.
+
+## Study Summary
+
+Chapter 6 applies counterfactual logic to programs that rank applicants with a continuous index and
+assign eligibility at a cutoff. The comparison is local: units near the cutoff are expected to be
+comparable.
+
+The chapter emphasizes diagnostics. Evaluators should check whether the assignment variable is
+continuous around the cutoff, whether units can manipulate their scores, and whether baseline
+characteristics are balanced near the threshold.
+
+The method handles some ethically attractive situations because eligible units do not need to be
+denied treatment solely for evaluation. Its trade-off is that the estimate applies near the cutoff
+rather than to all eligible units.
+
+Fuzzy discontinuity introduces imperfect compliance. When eligibility does not perfectly determine
+participation, the cutoff can function as an instrument, producing a local estimate for units whose
+participation is affected by eligibility.
+
+For close reading, track how the chapter uses regression discontinuity design, eligibility cutoff,
+local average treatment effect, common support while moving through eligibility index, cutoff
+comparison, validity checks. The notes identify the design problem the chapter helps solve and what
+should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **regression discontinuity design**: A method that compares units just above and below a cutoff used to assign program eligibility.
+- **eligibility cutoff**: A threshold on an assignment index that determines treatment eligibility in a regression discontinuity design.
+- **local average treatment effect**: The impact estimated for a specific subgroup, such as compliers or units near a cutoff.
+- **common support**: Overlap in characteristics or propensity scores that allows treated units to be compared with similar untreated units.
+- **instrumental variables**: A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.
+
+## Chapter Structure
+
+- Eligibility index.
+- Cutoff comparison.
+- Validity checks.
+- Fuzzy RDD.
+- Local interpretation.
+- Limitations.
+
+## Practical Implications
+
+- Use RDD when assignment already depends on a score and cutoff.
+- Check manipulation and balance before interpreting impacts.
+- Do not generalize local cutoff effects beyond the population they represent.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 6 help decide?"]
+  Central["Concept: Regression Discontinuity Design"]
+  Concept1["Concept: regression discontinuity design"]
+  Concept2["Concept: eligibility cutoff"]
+  Concept3["Concept: local average treatment effect"]
+  Mechanism1["Design element: eligibility index"]
+  Mechanism2["Design element: cutoff comparison"]
+  Mechanism3["Design element: validity checks"]
+  Implication1["Practice implication: Use RDD when assignment already depends on a score and cutoff."]
+  Implication2["Practice implication: Check manipulation and balance before interpreting impacts."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Instrumental Variables](chapter-05-instrumental-variables.qmd)
+- Next: [Chapter 7: Difference-in-Differences](chapter-07-difference-in-differences.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 6 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001`
+- `chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006`
+- `chunk:impact-evaluation-in-practice:checking-the-validity-of-the-regression-discontinuity-design:c0005`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004`
+
+## References

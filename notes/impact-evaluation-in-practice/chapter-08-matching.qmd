@@ -1,0 +1,146 @@
+---
+title: "Chapter 08: Matching"
+description: "Detailed study notes for Chapter 8 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+source_pages: "173-188"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001"
+  - "chunk:impact-evaluation-in-practice:propensity-score-matching:c0003"
+  - "chunk:impact-evaluation-in-practice:combining-matching-with-other-methods:c0001"
+  - "chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 8</span><span>Source pages 173-188</span></div>
+
+This note summarises Chapter 8, "Matching," from Paul J. Gertler, Sebastian Martinez, Patrick
+Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Matching builds a comparison group from untreated units with similar observed characteristics, but it cannot eliminate bias from unobserved differences without stronger assumptions or complementary designs.
+
+## Study Summary
+
+Chapter 8 presents matching as a nonexperimental approach for constructing comparison groups when
+assignment is not controlled by the evaluator.
+
+Propensity score matching compresses observed characteristics into a predicted probability of
+participation, restricts analysis to common support, and compares treated units with similar
+untreated units.
+
+The chapter is explicit about limitations. Matching requires rich data, large samples, common
+support, and the strong assumption that unobserved differences do not jointly affect participation
+and outcomes.
+
+The most convincing uses combine matching with other methods, especially matched difference-in-
+differences or synthetic control approaches, to reduce vulnerability to selection bias.
+
+For close reading, track how the chapter uses matching, propensity score, common support, selection
+bias while moving through matching logic, propensity scores, common support. The notes identify the
+design problem the chapter helps solve and what should be checked against the saved evidence records
+before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **matching**: A method that constructs a comparison group by pairing treated units with untreated units that have similar observed characteristics.
+- **propensity score**: The estimated probability that a unit participates in treatment, based on observed characteristics.
+- **common support**: Overlap in characteristics or propensity scores that allows treated units to be compared with similar untreated units.
+- **selection bias**: Bias that arises when treatment and comparison groups differ in ways that affect outcomes independently of the program.
+- **difference-in-differences**: A quasi-experimental method that compares changes over time in treatment and comparison groups.
+
+## Chapter Structure
+
+- Matching logic.
+- Propensity scores.
+- Common support.
+- Matched DD.
+- Synthetic control.
+- Limitations.
+
+## Practical Implications
+
+- Use matching only when the dataset captures the drivers of participation and outcomes.
+- Inspect common support before estimating effects.
+- Prefer matching as a complement to stronger designs where possible.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 8 help decide?"]
+  Central["Concept: Matching"]
+  Concept1["Concept: matching"]
+  Concept2["Concept: propensity score"]
+  Concept3["Concept: common support"]
+  Mechanism1["Design element: matching logic"]
+  Mechanism2["Design element: propensity scores"]
+  Mechanism3["Design element: common support"]
+  Implication1["Practice implication: Use matching only when the dataset captures the drivers of participation and outcomes."]
+  Implication2["Practice implication: Inspect common support before estimating effects."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Difference-in-Differences](chapter-07-difference-in-differences.qmd)
+- Next: [Chapter 9: Addressing Methodological Challenges](chapter-09-addressing-methodological-challenges.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 8 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001`
+- `chunk:impact-evaluation-in-practice:propensity-score-matching:c0003`
+- `chunk:impact-evaluation-in-practice:combining-matching-with-other-methods:c0001`
+- `chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001`
+
+## References

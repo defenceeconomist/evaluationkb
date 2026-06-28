@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Synthesis note on recurring concepts in Impact Evaluation in Practice.">
+<meta name="description" content="Concept synthesis for Impact Evaluation in Practice.">
 
-<title>Core Concepts in Impact Evaluation in Practice – Evaluation Knowledge Base</title>
+<title>Impact Evaluation in Practice Core Concepts – Evaluation Knowledge Base</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -140,9 +140,15 @@ div.csl-indent {
    
   <ul>
   <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
-  <li><a href="#central-logic" id="toc-central-logic" class="nav-link" data-scroll-target="#central-logic">Central Logic</a></li>
-  <li><a href="#concepts" id="toc-concepts" class="nav-link" data-scroll-target="#concepts">Concepts</a></li>
-  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#concept-clusters" id="toc-concept-clusters" class="nav-link" data-scroll-target="#concept-clusters">Concept Clusters</a>
+  <ul class="collapse">
+  <li><a href="#causal-design" id="toc-causal-design" class="nav-link" data-scroll-target="#causal-design">Causal Design</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#implementation-and-ethics" id="toc-implementation-and-ethics" class="nav-link" data-scroll-target="#implementation-and-ethics">Implementation and Ethics</a></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
+  </ul></li>
+  <li><a href="#chapter-links" id="toc-chapter-links" class="nav-link" data-scroll-target="#chapter-links">Chapter Links</a></li>
+  <li><a href="#source-records" id="toc-source-records" class="nav-link" data-scroll-target="#source-records">Source Records</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -152,12 +158,12 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Core Concepts in Impact Evaluation in Practice</h1>
+<h1 class="title">Impact Evaluation in Practice Core Concepts</h1>
 </div>
 
 <div>
   <div class="description">
-    Synthesis note on recurring concepts in Impact Evaluation in Practice.
+    Concept synthesis for Impact Evaluation in Practice.
   </div>
 </div>
 
@@ -176,29 +182,149 @@ div.csl-indent {
 
 <section id="source" class="level2">
 <h2 class="anchored" data-anchor-id="source">Source</h2>
-<p>This synthesis draws across the generated notes for <em>Impact Evaluation in Practice</em> <span class="citation" data-cites="gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice">(<a href="#ref-gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice" role="doc-biblioref">Gertler et al. 2016</a>)</span>.</p>
+<p>This synthesis draws on the generated chapter notes from <em>Impact Evaluation in Practice</em> <span class="citation" data-cites="gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice">(<a href="#ref-gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice" role="doc-biblioref">Gertler et al. 2016</a>)</span>.</p>
 </section>
-<section id="central-logic" class="level2">
-<h2 class="anchored" data-anchor-id="central-logic">Central Logic</h2>
-<p>Impact evaluation estimates causal effects by turning policy questions into testable designs with credible counterfactuals.</p>
-</section>
-<section id="concepts" class="level2">
-<h2 class="anchored" data-anchor-id="concepts">Concepts</h2>
+<section id="concept-clusters" class="level2">
+<h2 class="anchored" data-anchor-id="concept-clusters">Concept Clusters</h2>
+<section id="causal-design" class="level3">
+<h3 class="anchored" data-anchor-id="causal-design">Causal Design</h3>
 <ul>
-<li>Impact evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Monitoring versus evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Theory of change: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Evaluation question: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Counterfactual: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
-<li>Power and sampling: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.</li>
+<li><strong>impact evaluation</strong>: Evaluation that estimates the causal effect of a program, policy, or intervention on outcomes.</li>
+<li><strong>causal inference</strong>: Reasoning that links observed outcome differences to the program rather than to other influences.</li>
+<li><strong>counterfactual</strong>: The unobserved outcome that treatment units would have experienced without the program.</li>
+<li><strong>comparison group</strong>: Units used to estimate what would have happened to the treatment group without the program.</li>
+<li><strong>internal validity</strong>: The credibility that an estimated difference is caused by the program being evaluated.</li>
+<li><strong>external validity</strong>: The degree to which an impact estimate is relevant beyond the studied sample, setting, or local treatment effect.</li>
 </ul>
 </section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
 <ul>
-<li><a href="../../notes/impact-evaluation-in-practice/section-01-what-is-impact-evaluation.html">What Is Impact Evaluation?</a></li>
-<li><a href="../../notes/impact-evaluation-in-practice/section-02-constructing-theory-of-change.html">Constructing a Theory of Change</a></li>
-<li><a href="../../notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.html">Causal Inference and Counterfactuals</a></li>
+<li><strong>randomized assignment</strong>: A method that allocates eligible units to treatment and comparison groups by chance.</li>
+<li><strong>instrumental variables</strong>: A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.</li>
+<li><strong>regression discontinuity design</strong>: A method that compares units just above and below a cutoff used to assign program eligibility.</li>
+<li><strong>difference-in-differences</strong>: A quasi-experimental method that compares changes over time in treatment and comparison groups.</li>
+<li><strong>matching</strong>: A method that constructs a comparison group by pairing treated units with untreated units that have similar observed characteristics.</li>
+<li><strong>multifaceted program</strong>: A program with different components, treatment levels, or treatment arms whose separate and joint effects may need testing.</li>
+</ul>
+</section>
+<section id="implementation-and-ethics" class="level3">
+<h3 class="anchored" data-anchor-id="implementation-and-ethics">Implementation and Ethics</h3>
+<ul>
+<li><strong>operational rules</strong>: Program rules governing eligibility, assignment, timing, scale-up, and delivery that shape feasible evaluation methods.</li>
+<li><strong>implementation fidelity</strong>: The degree to which program assignment, uptake, delivery, and follow-up match the evaluation design.</li>
+<li><strong>evaluation plan</strong>: The management document that aligns questions, design, sampling, data, analysis, ethics, dissemination, roles, timeline, and budget.</li>
+<li><strong>ethics</strong>: Protection of participants and fair assignment rules, combined with transparent and reproducible research practice.</li>
+<li><strong>human subjects protection</strong>: Review, consent, confidentiality, and risk-management procedures for research involving people.</li>
+<li><strong>open science</strong>: Registration, preanalysis planning, transparent reporting, and data or code sharing that support credibility and replication.</li>
+<li><strong>dissemination strategy</strong>: A planned approach to turning evaluation findings into products, channels, timing, and engagement for specific audiences.</li>
+<li><strong>policy impact</strong>: The influence evaluation evidence has on program continuation, redesign, scale-up, termination, or wider learning.</li>
+</ul>
+</section>
+<section id="data" class="level3">
+<h3 class="anchored" data-anchor-id="data">Data</h3>
+<ul>
+<li><strong>results chain</strong>: A representation of how inputs and activities are expected to produce outputs, intermediate outcomes, and final outcomes.</li>
+<li><strong>SMART indicators</strong>: Indicators that are specific, measurable, attributable, realistic, and targeted.</li>
+<li><strong>sample</strong>: The units selected for data collection and analysis, ideally aligned with the treatment assignment unit and policy population.</li>
+<li><strong>power calculation</strong>: A calculation used to determine the sample size needed to detect a meaningful effect with acceptable probability.</li>
+<li><strong>administrative data</strong>: Existing service, registry, monitoring, or management data that may reduce collection burden if quality and coverage are adequate.</li>
+<li><strong>survey data</strong>: New data collected from individuals, households, firms, facilities, or communities for the evaluation.</li>
+<li><strong>data quality</strong>: The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.</li>
+<li><strong>attrition</strong>: Loss of sample members between baseline and follow-up that can bias estimates if it differs across groups or correlates with outcomes.</li>
+</ul>
+</section>
+</section>
+<section id="chapter-links" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-links">Chapter Links</h2>
+<ul>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-01-why-evaluate.html">Chapter 1: Why Evaluate?</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.html">Chapter 2: Preparing for an Evaluation</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.html">Chapter 3: Causal Inference and Counterfactuals</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.html">Chapter 4: Randomized Assignment</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.html">Chapter 5: Instrumental Variables</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.html">Chapter 6: Regression Discontinuity Design</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.html">Chapter 7: Difference-in-Differences</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-08-matching.html">Chapter 8: Matching</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.html">Chapter 9: Addressing Methodological Challenges</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.html">Chapter 10: Evaluating Multifaceted Programs</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.html">Chapter 11: Choosing an Impact Evaluation Method</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.html">Chapter 12: Managing an Impact Evaluation</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.html">Chapter 13: The Ethics and Science of Impact Evaluation</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.html">Chapter 14: Disseminating Results and Achieving Policy Impact</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.html">Chapter 15: Choosing a Sample</a></li>
+<li><a href="../../notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.html">Chapter 16: Finding Adequate Sources of Data</a></li>
+</ul>
+</section>
+<section id="source-records" class="level2">
+<h2 class="anchored" data-anchor-id="source-records">Source Records</h2>
+<ul>
+<li><code>chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006</code></li>
+<li><code>chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006</code></li>
+<li><code>chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:initial-steps:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004</code></li>
+<li><code>chunk:impact-evaluation-in-practice:part-2:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:causal-inference:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007</code></li>
+<li><code>chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0013</code></li>
+<li><code>chunk:impact-evaluation-in-practice:randomized-assignment-of-treatment:c0033</code></li>
+<li><code>chunk:impact-evaluation-in-practice:checklist-randomized-assignment:c0008</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-programs-when-not-everyone-complies-with-their-assignment:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:imperfect-compliance:c0006</code></li>
+<li><code>chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:randomized-promotion-as-an-instrumental-variable:c0018</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch06-chapter-6-regression-discontinuity-design:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-programs-that-use-an-eligibility-index:c0006</code></li>
+<li><code>chunk:impact-evaluation-in-practice:checking-the-validity-of-the-regression-discontinuity-design:c0005</code></li>
+<li><code>chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:limitations-and-interpretation-of-the-regression-discontinuity-design-method:c0004</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch07-chapter-7-difference-in-differences:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-a-program-when-the-rule-of-assignment-is-less-clear:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:the-equal-trends-assumption-in-difference-in-differences:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch08-chapter-8-matching:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:propensity-score-matching:c0003</code></li>
+<li><code>chunk:impact-evaluation-in-practice:combining-matching-with-other-methods:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:limitations-of-the-matching-method:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:part-2:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:imperfect-compliance-2:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:attrition:c0004</code></li>
+<li><code>chunk:impact-evaluation-in-practice:attrition:c0005</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch10-chapter-10-evaluating-multifaceted-programs:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-programs-that-combine-several-treatment-options:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-programs-with-varying-treatment-levels:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:evaluating-multiple-interventions:c0004</code></li>
+<li><code>chunk:impact-evaluation-in-practice:determining-which-method-to-use-for-a-given-program:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:how-a-program-s-rules-of-operation-can-help-choose-an-impact-evaluation-method:c0008</code></li>
+<li><code>chunk:impact-evaluation-in-practice:a-comparison-of-impact-evaluation-methods:c0005</code></li>
+<li><code>chunk:impact-evaluation-in-practice:roles-and-responsibilities-of-the-research-and-policy-teams:c0012</code></li>
+<li><code>chunk:impact-evaluation-in-practice:how-to-budget-for-an-evaluation:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:part-3:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ensuring-reliable-and-credible-evaluations-through-open-science:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch14-chapter-14-disseminating-results-and-achieving-policy-impact:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:a-solid-evidence-base-for-policy:c0003</code></li>
+<li><code>chunk:impact-evaluation-in-practice:tailoring-a-communication-strategy-to-different-audiences:c0003</code></li>
+<li><code>chunk:impact-evaluation-in-practice:disseminating-results:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:disseminating-results:c0004</code></li>
+<li><code>chunk:impact-evaluation-in-practice:part-4:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch15-chapter-15-choosing-a-sample:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:deciding-on-the-size-of-a-sample-for-impact-evaluation-power-calculations:c0017</code></li>
+<li><code>chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:kinds-of-data-that-are-needed:c0002</code></li>
+<li><code>chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0007</code></li>
+<li><code>chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0023</code></li>
+<li><code>chunk:impact-evaluation-in-practice:collecting-new-survey-data:c0030</code></li>
 </ul>
 </section>
 <section id="references" class="level2">

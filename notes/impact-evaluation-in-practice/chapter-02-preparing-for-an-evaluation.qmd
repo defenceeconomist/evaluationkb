@@ -1,0 +1,150 @@
+---
+title: "Chapter 02: Preparing for an Evaluation"
+description: "Detailed study notes for Chapter 2 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+source_pages: "61-73"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001"
+  - "chunk:impact-evaluation-in-practice:initial-steps:c0001"
+  - "chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001"
+  - "chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001"
+  - "chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 2</span><span>Source pages 61-73</span></div>
+
+This note summarises Chapter 2, "Preparing for an Evaluation," from Paul J. Gertler, Sebastian
+Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in
+Practice* [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is
+a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+A credible evaluation starts by turning program logic into a results chain, evaluation questions, and measurable indicators before any method is chosen.
+
+## Study Summary
+
+Chapter 2 sets out the preparation work that makes later causal design possible. The first task is
+to clarify the theory of change and results chain so the program's inputs, activities, outputs,
+intermediate outcomes, and final outcomes are connected.
+
+The chapter treats evaluation questions as the bridge between policy need and research design. A
+useful question is specific enough to become a testable hypothesis, but still tied to the decisions
+stakeholders must make.
+
+Indicators must be selected for outcomes and for implementation. Outcome indicators support impact
+estimation, while implementation and performance indicators help interpret whether a null or weak
+result reflects theory failure or delivery failure.
+
+The chapter also points evaluators toward stakeholder engagement and data planning. A design that is
+technically strong but disconnected from decision makers, feasible indicators, or data risks will be
+hard to implement and use.
+
+For close reading, track how the chapter uses theory of change, results chain, evaluation question,
+SMART indicators while moving through initial steps, constructing a theory of change, developing a
+results chain. The notes identify the design problem the chapter helps solve and what should be
+checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the introduction sequence.
+
+## Key Concepts
+
+- **theory of change**: A causal account of how a program is expected to move from activities to outcomes.
+- **results chain**: A representation of how inputs and activities are expected to produce outputs, intermediate outcomes, and final outcomes.
+- **evaluation question**: A policy-relevant, testable question that specifies the intervention, comparison, outcome, and decision need.
+- **SMART indicators**: Indicators that are specific, measurable, attributable, realistic, and targeted.
+- **implementation fidelity**: The degree to which program assignment, uptake, delivery, and follow-up match the evaluation design.
+
+## Chapter Structure
+
+- Initial steps.
+- Constructing a theory of change.
+- Developing a results chain.
+- Specifying questions.
+- Selecting indicators.
+- Checking data availability.
+
+## Practical Implications
+
+- Write the results chain before writing the identification strategy.
+- Use evaluation questions to narrow method choice.
+- Track implementation indicators so impact estimates can be interpreted.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 2 help decide?"]
+  Central["Concept: Preparing for an Evaluation"]
+  Concept1["Concept: theory of change"]
+  Concept2["Concept: results chain"]
+  Concept3["Concept: evaluation question"]
+  Mechanism1["Design element: initial steps"]
+  Mechanism2["Design element: constructing a theory of change"]
+  Mechanism3["Design element: developing a results chain"]
+  Implication1["Practice implication: Write the results chain before writing the identification strategy."]
+  Implication2["Practice implication: Use evaluation questions to narrow method choice."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: Why Evaluate?](chapter-01-why-evaluate.qmd)
+- Next: [Chapter 3: Causal Inference and Counterfactuals](chapter-03-causal-inference-and-counterfactuals.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 2 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001`
+- `chunk:impact-evaluation-in-practice:initial-steps:c0001`
+- `chunk:impact-evaluation-in-practice:developing-a-results-chain:c0001`
+- `chunk:impact-evaluation-in-practice:specifying-evaluation-questions:c0001`
+- `chunk:impact-evaluation-in-practice:selecting-outcome-and-performance-indicators:c0004`
+
+## References

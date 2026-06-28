@@ -1,0 +1,148 @@
+---
+title: "Chapter 13: The Ethics and Science of Impact Evaluation"
+description: "Detailed study notes for Chapter 13 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 13
+source_pages: "261-275"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:part-3:c0002"
+  - "chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001"
+  - "chunk:impact-evaluation-in-practice:ensuring-reliable-and-credible-evaluations-through-open-science:c0001"
+  - "chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 13</span><span>Source pages 261-275</span></div>
+
+This note summarises Chapter 13, "The Ethics and Science of Impact Evaluation," from Paul J.
+Gertler, Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's
+*Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Ethical impact evaluation protects participants and fair access while open science practices protect the credibility, reliability, and usefulness of results.
+
+## Study Summary
+
+Chapter 13 brings ethics and scientific transparency together. Protecting human subjects, avoiding
+unfair denial of benefits, and preventing disclosure of personal data are all part of credible
+impact evaluation.
+
+The chapter assigns policy makers responsibility for fair assignment rules and research teams
+responsibility for transparent methods, institutional review, consent, confidentiality, and data
+stewardship.
+
+Open science practices such as trial registration, preanalysis plans, transparent reporting, and
+replication materials reduce publication bias and make results more credible for policy learning.
+
+The chapter's checklist turns these concerns into management questions: who is excluded, whether
+ethical review is complete, whether consent and data protection are adequate, and whether the
+analysis is transparent enough to withstand scrutiny.
+
+For close reading, track how the chapter uses ethics, human subjects protection, open science,
+preanalysis plan while moving through ethical management, fair assignment, IRB review. The notes
+identify the design problem the chapter helps solve and what should be checked against the saved
+evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence.
+
+## Key Concepts
+
+- **ethics**: Protection of participants and fair assignment rules, combined with transparent and reproducible research practice.
+- **human subjects protection**: Review, consent, confidentiality, and risk-management procedures for research involving people.
+- **open science**: Registration, preanalysis planning, transparent reporting, and data or code sharing that support credibility and replication.
+- **preanalysis plan**: A document specifying hypotheses, outcomes, methods, and analytic decisions before results are examined.
+- **data quality**: The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.
+
+## Chapter Structure
+
+- Ethical management.
+- Fair assignment.
+- IRB review.
+- Consent and confidentiality.
+- Open science.
+- Credibility checklist.
+
+## Practical Implications
+
+- Schedule ethical review into the project timeline.
+- Review assignment rules for fairness before launch.
+- Register analysis plans and protect data confidentiality together.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 13 help decide?"]
+  Central["Concept: The Ethics and Science of Impact Evaluation"]
+  Concept1["Concept: ethics"]
+  Concept2["Concept: human subjects protection"]
+  Concept3["Concept: open science"]
+  Mechanism1["Design element: ethical management"]
+  Mechanism2["Design element: fair assignment"]
+  Mechanism3["Design element: IRB review"]
+  Implication1["Practice implication: Schedule ethical review into the project timeline."]
+  Implication2["Practice implication: Review assignment rules for fairness before launch."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 12: Managing an Impact Evaluation](chapter-12-managing-an-impact-evaluation.qmd)
+- Next: [Chapter 14: Disseminating Results and Achieving Policy Impact](chapter-14-disseminating-results-and-achieving-policy-impact.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 13 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:part-3:c0002`
+- `chunk:impact-evaluation-in-practice:managing-ethical-and-credible-evaluations:c0001`
+- `chunk:impact-evaluation-in-practice:ensuring-reliable-and-credible-evaluations-through-open-science:c0001`
+- `chunk:impact-evaluation-in-practice:checklist-an-ethical-and-credible-impact-evaluation:c0001`
+
+## References

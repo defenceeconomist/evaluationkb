@@ -1,0 +1,148 @@
+---
+title: "Chapter 03: Causal Inference and Counterfactuals"
+description: "Detailed study notes for Chapter 3 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "77-93"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:part-2:c0001"
+  - "chunk:impact-evaluation-in-practice:causal-inference:c0001"
+  - "chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0001"
+  - "chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3</span><span>Source pages 77-93</span></div>
+
+This note summarises Chapter 3, "Causal Inference and Counterfactuals," from Paul J. Gertler,
+Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact
+Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+The core problem of impact evaluation is constructing a valid estimate of the counterfactual: what would have happened to treated units without treatment.
+
+## Study Summary
+
+Chapter 3 introduces the causal logic behind all later methods. Because the same unit cannot be
+observed both with and without treatment at the same time, the evaluator must approximate the
+missing counterfactual.
+
+The chapter warns against counterfeit counterfactuals. Before-and-after comparisons and simple
+participant/nonparticipant comparisons can be misleading when other changes, selection, or baseline
+differences drive outcomes.
+
+A valid comparison group should resemble the treatment group in all respects except for treatment
+exposure. The rest of Part 2 is organized around ways to create or defend that condition under
+different program rules.
+
+The practical implication is that causal inference is not created by statistical complexity alone.
+It depends on the assignment process, timing, data, and assumptions that make the comparison
+credible.
+
+For close reading, track how the chapter uses causal inference, counterfactual, comparison group,
+internal validity while moving through impact as a causal contrast, missing counterfactual,
+counterfeit counterfactuals. The notes identify the design problem the chapter helps solve and what
+should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the methods sequence.
+
+## Key Concepts
+
+- **causal inference**: Reasoning that links observed outcome differences to the program rather than to other influences.
+- **counterfactual**: The unobserved outcome that treatment units would have experienced without the program.
+- **comparison group**: Units used to estimate what would have happened to the treatment group without the program.
+- **internal validity**: The credibility that an estimated difference is caused by the program being evaluated.
+- **selection bias**: Bias that arises when treatment and comparison groups differ in ways that affect outcomes independently of the program.
+
+## Chapter Structure
+
+- Impact as a causal contrast.
+- Missing counterfactual.
+- Counterfeit counterfactuals.
+- Valid comparison groups.
+- Method selection logic.
+
+## Practical Implications
+
+- Do not treat baseline/follow-up change as impact without a counterfactual.
+- Document why the comparison group is credible.
+- Make assignment rules central to the evaluation design.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 3 help decide?"]
+  Central["Concept: Causal Inference and Counterfactuals"]
+  Concept1["Concept: causal inference"]
+  Concept2["Concept: counterfactual"]
+  Concept3["Concept: comparison group"]
+  Mechanism1["Design element: impact as a causal contrast"]
+  Mechanism2["Design element: missing counterfactual"]
+  Mechanism3["Design element: counterfeit counterfactuals"]
+  Implication1["Practice implication: Do not treat baseline/follow-up change as impact without a counterfactual."]
+  Implication2["Practice implication: Document why the comparison group is credible."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Preparing for an Evaluation](chapter-02-preparing-for-an-evaluation.qmd)
+- Next: [Chapter 4: Randomized Assignment](chapter-04-randomized-assignment.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 3 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:part-2:c0001`
+- `chunk:impact-evaluation-in-practice:causal-inference:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0001`
+- `chunk:impact-evaluation-in-practice:counterfeit-estimates-of-the-counterfactual:c0007`
+
+## References

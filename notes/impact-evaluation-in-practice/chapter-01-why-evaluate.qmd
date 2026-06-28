@@ -1,0 +1,150 @@
+---
+title: "Chapter 01: Why Evaluate?"
+description: "Detailed study notes for Chapter 1 of Impact Evaluation in Practice."
+book_id: "impact-evaluation-in-practice"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "33-59"
+citation_key: "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+evidence_ids:
+  - "chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001"
+  - "chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006"
+  - "chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006"
+  - "chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007"
+  - "chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2016</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 1</span><span>Source pages 33-59</span></div>
+
+This note summarises Chapter 1, "Why Evaluate?," from Paul J. Gertler, Sebastian Martinez, Patrick
+Premand, Laura B. Rawlings, and Christel M. J. Vermeersch's *Impact Evaluation in Practice*
+[@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Impact evaluation is justified when a policy decision needs credible causal evidence about whether a program works, for whom, and under what implementation choices.
+
+## Study Summary
+
+Chapter 1 frames impact evaluation as a tool for evidence-based policy making. Its central move is
+to distinguish impact evaluation from monitoring, descriptive assessment, and general performance
+reporting: impact evaluation asks what difference a program caused.
+
+The chapter stresses that causal evidence is useful when decision makers face choices about
+continuation, redesign, scale-up, or alternative modalities. It is not a ritual requirement for
+every program, but a design response to policy uncertainty.
+
+The chapter introduces the menu of methods that the book later develops: randomized assignment,
+instrumental variables, regression discontinuity design, difference-in-differences, and matching.
+Method choice is tied to operational rules rather than evaluator preference.
+
+Ethics appear early as part of evaluation design. Fair assignment rules, human subjects protection,
+transparency, preanalysis planning, and reproducibility are treated as part of credible causal
+inquiry rather than after-the-fact compliance work.
+
+For close reading, track how the chapter uses impact evaluation, causal inference, policy impact,
+operational rules while moving through evidence-based policy making, what impact evaluation
+estimates, when impact evaluation is useful. The notes identify the design problem the chapter helps
+solve and what should be checked against the saved evidence records before relying on the summary in
+applied work.
+
+Within the wider book, this chapter belongs to the introduction sequence.
+
+## Key Concepts
+
+- **impact evaluation**: Evaluation that estimates the causal effect of a program, policy, or intervention on outcomes.
+- **causal inference**: Reasoning that links observed outcome differences to the program rather than to other influences.
+- **policy impact**: The influence evaluation evidence has on program continuation, redesign, scale-up, termination, or wider learning.
+- **operational rules**: Program rules governing eligibility, assignment, timing, scale-up, and delivery that shape feasible evaluation methods.
+- **ethics**: Protection of participants and fair assignment rules, combined with transparent and reproducible research practice.
+
+## Chapter Structure
+
+- Evidence-based policy making.
+- What impact evaluation estimates.
+- When impact evaluation is useful.
+- Method menu.
+- Policy decisions.
+- Ethical considerations.
+
+## Practical Implications
+
+- Use impact evaluation when a real policy choice depends on causal evidence.
+- Separate causal questions from monitoring and implementation questions.
+- Treat fairness, transparency, and reproducibility as design constraints from the start.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 1 help decide?"]
+  Central["Concept: Why Evaluate?"]
+  Concept1["Concept: impact evaluation"]
+  Concept2["Concept: causal inference"]
+  Concept3["Concept: policy impact"]
+  Mechanism1["Design element: evidence-based policy making"]
+  Mechanism2["Design element: what impact evaluation estimates"]
+  Mechanism3["Design element: when impact evaluation is useful"]
+  Implication1["Practice implication: Use impact evaluation when a real policy choice depends on causal evidence."]
+  Implication2["Practice implication: Separate causal questions from monitoring and implementation questions."]
+  Question["Open question: What has to be checked in the source records?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 2: Preparing for an Evaluation](chapter-02-preparing-for-an-evaluation.qmd)
+- Legacy extract retained: [What Is Impact Evaluation?](section-01-what-is-impact-evaluation.qmd)
+- Legacy extract retained: [Constructing a Theory of Change](section-02-constructing-theory-of-change.qmd)
+- Legacy extract retained: [Causal Inference and Counterfactuals](section-03-causal-inference-counterfactuals.qmd)
+
+## Study Prompts
+
+- What does Chapter 1 imply for selecting or defending an impact evaluation design?
+- Which assumption in this chapter would be hardest to defend in a live policy setting?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:impact-evaluation-in-practice:ch01-chapter-1-why-evaluate:c0001`
+- `chunk:impact-evaluation-in-practice:evidence-based-policy-making:c0006`
+- `chunk:impact-evaluation-in-practice:what-is-impact-evaluation:c0006`
+- `chunk:impact-evaluation-in-practice:impact-evaluation-for-policy-decisions:c0007`
+- `chunk:impact-evaluation-in-practice:ethical-considerations-regarding-impact-evaluation:c0003`
+
+## References
