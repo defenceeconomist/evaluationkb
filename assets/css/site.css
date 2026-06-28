@@ -6,6 +6,8 @@
   --ekb-accent-dark: #115e59;
   --ekb-warm: #b45309;
   --ekb-blue: #1d4ed8;
+  --ekb-rose: #be185d;
+  --ekb-indigo: #4338ca;
   --ekb-surface: #f7f9fc;
   --ekb-panel: #ffffff;
 }
@@ -21,7 +23,8 @@ body { color: var(--ekb-ink); }
 }
 
 .hero-panel,
-.landing-hero {
+.landing-hero,
+.directory-hero {
   background: linear-gradient(135deg, #eef7f6, #f8fafc 55%, #fff7ed);
   border: 1px solid var(--ekb-line);
   border-radius: 0.5rem;
@@ -39,7 +42,8 @@ body { color: var(--ekb-ink); }
 }
 
 .hero-panel h1,
-.landing-hero h1 {
+.landing-hero h1,
+.directory-hero h1 {
   font-size: clamp(2rem, 4vw, 3.6rem);
   letter-spacing: 0;
   line-height: 1.05;
@@ -49,6 +53,7 @@ body { color: var(--ekb-ink); }
 
 .hero-panel p,
 .landing-hero p,
+.directory-hero p,
 .section-intro,
 .chapter-meta,
 .notes-filter-count {
@@ -77,6 +82,18 @@ body { color: var(--ekb-ink); }
 .cta-button.secondary { background: transparent; color: var(--ekb-accent-dark); }
 .cta-button.secondary:hover { background: #e6f3f1; color: var(--ekb-accent-dark); }
 
+.directory-section {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.directory-section > h2 {
+  border-bottom: 1px solid var(--ekb-line);
+  font-size: 1.25rem;
+  margin: 0;
+  padding-bottom: 0.45rem;
+}
+
 .section-grid {
   display: grid;
   gap: 1rem;
@@ -87,12 +104,25 @@ body { color: var(--ekb-ink); }
   background: var(--ekb-panel);
   border: 1px solid var(--ekb-line);
   border-radius: 0.5rem;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
   padding: 1.1rem;
+}
+
+.section-card:hover {
+  border-color: #b9c3d3;
 }
 
 .section-card h3 { font-size: 1.1rem; margin: 0.55rem 0 0.45rem; }
 .section-card p { color: var(--ekb-muted); margin-bottom: 0; }
 .section-card.is-hidden { display: none; }
+
+.synthesis-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.book-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
 
 .badge-row { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .page-badge {
@@ -137,10 +167,89 @@ body { color: var(--ekb-ink); }
 .notes-filter input,
 .notes-filter select { border: 1px solid var(--ekb-line); border-radius: 0.35rem; color: var(--ekb-ink); font-size: 0.95rem; min-height: 2.35rem; padding: 0.42rem 0.55rem; }
 .notes-filter-count { font-size: 0.88rem; margin: -0.3rem 0 1rem; }
+.empty-filter-state { color: var(--ekb-muted); display: none; margin: -0.25rem 0 1rem; }
+.empty-filter-state.is-visible { display: block; }
+
+.book-nav {
+  background: var(--ekb-panel);
+  border: 1px solid var(--ekb-line);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.65rem;
+}
+
+.book-nav a {
+  border-radius: 0.35rem;
+  color: var(--ekb-accent-dark);
+  font-weight: 700;
+  padding: 0.38rem 0.62rem;
+  text-decoration: none;
+}
+
+.book-nav a:hover {
+  background: #e6f3f1;
+  color: var(--ekb-accent-dark);
+}
+
+.route-list,
+main.content h2#chapter-notes + ul,
+main.content h2#major-section-notes + ul,
+main.content h2#chapter-notes ~ h3 + ul {
+  display: grid;
+  gap: 0.55rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+.route-list li,
+main.content h2#chapter-notes + ul li,
+main.content h2#major-section-notes + ul li,
+main.content h2#chapter-notes ~ h3 + ul li {
+  border-left: 3px solid var(--ekb-line);
+  padding-left: 0.75rem;
+}
+
+.route-list a,
+main.content h2#chapter-notes + ul a,
+main.content h2#major-section-notes + ul a,
+main.content h2#chapter-notes ~ h3 + ul a {
+  font-weight: 700;
+  text-decoration: none;
+}
 
 .callout-note { border-radius: 0.4rem; }
-.chapter-nav { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
-.chapter-nav a { border: 1px solid var(--ekb-line); border-radius: 0.35rem; padding: 0.45rem 0.7rem; text-decoration: none; }
+.chapter-nav,
+.chapter-pager,
+main.content h2#connections + ul {
+  background: var(--ekb-surface);
+  border: 1px solid var(--ekb-line);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  margin-top: 1.5rem;
+  padding: 0.65rem;
+}
+
+.chapter-nav a,
+.chapter-pager a,
+main.content h2#connections + ul a {
+  background: var(--ekb-panel);
+  border: 1px solid var(--ekb-line);
+  border-radius: 0.35rem;
+  display: inline-flex;
+  font-weight: 700;
+  padding: 0.45rem 0.7rem;
+  text-decoration: none;
+}
+
+main.content h2#connections + ul li {
+  margin: 0;
+  padding: 0;
+}
 
 .concept-map {
   margin: 1rem 0 1.5rem;
@@ -179,4 +288,10 @@ body { color: var(--ekb-ink); }
 
 @media (max-width: 720px) {
   .notes-filter { grid-template-columns: 1fr; }
+  .book-nav,
+  .chapter-nav,
+  .chapter-pager,
+  main.content h2#connections + ul {
+    display: grid;
+  }
 }

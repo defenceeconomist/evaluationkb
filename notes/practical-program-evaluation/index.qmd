@@ -26,7 +26,7 @@ source_status: "needs_review"
 
 <div class="landing-stack">
 
-::: {.landing-hero}
+::: {.directory-hero}
 <span class="hero-eyebrow">Book notes</span>
 
 # Practical Program Evaluation
@@ -41,7 +41,16 @@ Study notes on *Practical Program Evaluation* [@chen_2015_practical_program_eval
 </div>
 :::
 
-::: {.section-grid}
+```{=html}
+<nav class="book-nav" aria-label="Book navigation">
+  <a href="index.qmd">Overview</a>
+  <a href="concepts.qmd">Core Concepts</a>
+  <a href="chapter-map.qmd">Chapter Map</a>
+  <a href="practice-implications.qmd">Practice</a>
+</nav>
+```
+
+::: {.section-grid synthesis-grid}
 ::: {.section-card}
 <span class="page-badge badge-synthesis">Synthesis</span>
 

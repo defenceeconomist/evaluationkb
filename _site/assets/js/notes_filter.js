@@ -9,6 +9,7 @@
     const book = document.getElementById('notes-book-filter');
     const type = document.getElementById('notes-type-filter');
     const count = document.getElementById('notes-filter-count');
+    const empty = document.getElementById('notes-filter-empty');
     const cards = Array.from(document.querySelectorAll('[data-note-card]'));
     if (!search || !type || !cards.length) return;
 
@@ -27,6 +28,7 @@
         if (show) visible += 1;
       }
       if (count) count.textContent = visible + ' note' + (visible === 1 ? '' : 's') + ' shown';
+      if (empty) empty.classList.toggle('is-visible', visible === 0);
     }
 
     search.addEventListener('input', apply);

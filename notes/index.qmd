@@ -6,12 +6,12 @@ toc: false
 
 <div class="landing-stack">
 
-::: {.landing-hero}
+::: {.directory-hero}
 <span class="hero-eyebrow">Evaluation notes</span>
 
 # Notes overview
 
-This section collects source-grounded study notes from the MCP research library's `evaluation-texts` collection. The notes combine the existing hand-authored Purposeful Program Theory section, chapter-level Rossi/Lipsey, Chen, Impact Evaluation in Practice, Realistic Evaluation, and Qualitative Research & Evaluation Methods and Handbook of Practical Program Evaluation notes, step-level Patton/U-FE notes, and generated notes for the other ready evaluation texts.
+Browse source-grounded book notes, synthesis pages, chapter maps, and practice implications across the evaluation texts collection.
 
 <div class="page-metadata">
   <span>10 books</span>
@@ -52,9 +52,13 @@ This section collects source-grounded study notes from the MCP research library'
   </label>
 </div>
 <p class="notes-filter-count" id="notes-filter-count" aria-live="polite"></p>
+<p class="empty-filter-state" id="notes-filter-empty">No notes match those filters.</p>
 ```
 
-::: {.section-grid}
+::: {.directory-section}
+## Note Directory
+
+::: {.section-grid book-grid}
 ::: {.section-card data-note-card="" data-book="all" data-type="Synthesis"}
 <div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">All texts</span></div>
 
@@ -355,6 +359,7 @@ Selected source sections, evidence IDs, and reading route.
 ### [Practice Implications: Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/practice-implications.qmd)
 
 Evaluation design habits and practical uses.
+:::
 :::
 :::
 

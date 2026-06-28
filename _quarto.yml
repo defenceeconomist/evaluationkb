@@ -20,8 +20,40 @@ website:
     center: "[defenceeconomist.github.io](https://defenceeconomist.github.io)"
   navbar:
     left:
+      - href: index.qmd
+        text: Home
       - href: notes/index.qmd
         text: Notes
+      - text: Synthesis
+        menu:
+          - href: notes/evaluation-texts-compared.qmd
+            text: Comparing Evaluation Texts
+          - href: notes/magenta-book-evaluation-model-alignment.qmd
+            text: Magenta Book Model Alignment
+          - href: notes/theory-of-change-needed-in-evaluation.qmd
+            text: Is a Theory of Change Needed?
+      - text: Books
+        menu:
+          - href: notes/purposeful-programme-theory/index.qmd
+            text: Purposeful Program Theory
+          - href: notes/practical-program-evaluation/index.qmd
+            text: Practical Program Evaluation
+          - href: notes/qualitative-research-evaluation-methods/index.qmd
+            text: Qualitative Research & Evaluation Methods
+          - href: notes/realistic-evaluation/index.qmd
+            text: Realistic Evaluation
+          - href: notes/impact-evaluation-in-practice/index.qmd
+            text: Impact Evaluation in Practice
+          - href: notes/handbook-practical-program-evaluation/index.qmd
+            text: Handbook of Practical Program Evaluation
+          - href: notes/evaluation-systematic-approach/index.qmd
+            text: "Evaluation: A Systematic Approach"
+          - href: notes/essentials-utilization-focused-evaluation/index.qmd
+            text: Essentials of Utilization-Focused Evaluation
+          - href: notes/magenta-book/index.qmd
+            text: Magenta Book
+          - href: notes/evaluation-theory-models-applications/index.qmd
+            text: Evaluation Theory, Models, and Applications
     right:
       - icon: github
         href: https://github.com/defenceeconomist/evaluation-kb

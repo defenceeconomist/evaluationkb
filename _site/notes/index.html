@@ -92,9 +92,79 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="../notes/index.html" aria-current="page"> 
 <span class="menu-text">Notes</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-synthesis" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Synthesis</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-synthesis">    
+        <li>
+    <a class="dropdown-item" href="../notes/evaluation-texts-compared.html">
+ <span class="dropdown-text">Comparing Evaluation Texts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/magenta-book-evaluation-model-alignment.html">
+ <span class="dropdown-text">Magenta Book Model Alignment</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/theory-of-change-needed-in-evaluation.html">
+ <span class="dropdown-text">Is a Theory of Change Needed?</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-books" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Books</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-books">    
+        <li>
+    <a class="dropdown-item" href="../notes/purposeful-programme-theory/index.html">
+ <span class="dropdown-text">Purposeful Program Theory</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/practical-program-evaluation/index.html">
+ <span class="dropdown-text">Practical Program Evaluation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/qualitative-research-evaluation-methods/index.html">
+ <span class="dropdown-text">Qualitative Research &amp; Evaluation Methods</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/realistic-evaluation/index.html">
+ <span class="dropdown-text">Realistic Evaluation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/impact-evaluation-in-practice/index.html">
+ <span class="dropdown-text">Impact Evaluation in Practice</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/handbook-practical-program-evaluation/index.html">
+ <span class="dropdown-text">Handbook of Practical Program Evaluation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/evaluation-systematic-approach/index.html">
+ <span class="dropdown-text">Evaluation: A Systematic Approach</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/essentials-utilization-focused-evaluation/index.html">
+ <span class="dropdown-text">Essentials of Utilization-Focused Evaluation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/magenta-book/index.html">
+ <span class="dropdown-text">Magenta Book</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../notes/evaluation-theory-models-applications/index.html">
+ <span class="dropdown-text">Evaluation Theory, Models, and Applications</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -257,11 +327,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="landing-stack">
-<div class="landing-hero">
+<div class="directory-hero">
 <p><span class="hero-eyebrow">Evaluation notes</span></p>
 <section id="notes-overview" class="level1">
 <h1>Notes overview</h1>
-<p>This section collects source-grounded study notes from the MCP research library’s <code>evaluation-texts</code> collection. The notes combine the existing hand-authored Purposeful Program Theory section, chapter-level Rossi/Lipsey, Chen, Impact Evaluation in Practice, Realistic Evaluation, and Qualitative Research &amp; Evaluation Methods and Handbook of Practical Program Evaluation notes, step-level Patton/U-FE notes, and generated notes for the other ready evaluation texts.</p>
+<p>Browse source-grounded book notes, synthesis pages, chapter maps, and practice implications across the evaluation texts collection.</p>
 <div class="page-metadata">
 <p><span>10 books</span> <span>Evaluation texts</span> <span>MCP sourced</span> <span><a href="../references.bib" download="">Export BibTeX</a></span></p>
 </div>
@@ -297,8 +367,10 @@ ul.task-list li input[type="checkbox"] {
   </label>
 </div>
 <p class="notes-filter-count" id="notes-filter-count" aria-live="polite"></p>
-<div class="section-grid">
-<div class="section-card" data-note-card="" data-book="all" data-type="Synthesis">
+<p class="empty-filter-state" id="notes-filter-empty">No notes match those filters.</p>
+<section id="note-directory" class="level2 directory-section">
+<h2 class="anchored" data-anchor-id="note-directory">Note Directory</h2>
+::: {.section-grid book-grid} ::: {.section-card data-note-card=“” data-book=“all” data-type=“Synthesis”}
 <div class="badge-row">
 <span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">All texts</span>
 </div>
@@ -306,7 +378,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="comparing-evaluation-texts"><a href="../notes/evaluation-texts-compared.html">Comparing Evaluation Texts</a></h3>
 <p>A cross-text synthesis of the main evaluation sources and when each should lead.</p>
 </section>
-</div>
+</section>
 <div class="section-card" data-note-card="" data-book="all" data-type="Synthesis">
 <div class="badge-row">
 <span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">Magenta Book</span>
@@ -685,7 +757,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Evaluation design habits and practical uses.</p>
 </section>
 </div>
-</div>
+<p>::: :::</p>
 <script src="../assets/js/notes_filter.js"></script>
 </div>
 

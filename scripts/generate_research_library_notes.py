@@ -1069,7 +1069,7 @@ def render_book_index(book: dict[str, Any]) -> str:
         f"""
         <div class="landing-stack">
 
-        ::: {{.landing-hero}}
+        ::: {{.directory-hero}}
         <span class="hero-eyebrow">Book notes</span>
 
         # {book['title']}
@@ -1084,7 +1084,16 @@ def render_book_index(book: dict[str, Any]) -> str:
         </div>
         :::
 
-        ::: {{.section-grid}}
+        ```{{=html}}
+        <nav class="book-nav" aria-label="Book navigation">
+          <a href="index.qmd">Overview</a>
+          <a href="concepts.qmd">Core Concepts</a>
+          <a href="chapter-map.qmd">Chapter Map</a>
+          <a href="practice-implications.qmd">Practice</a>
+        </nav>
+        ```
+
+        ::: {{.section-grid synthesis-grid}}
         ::: {{.section-card}}
         <span class="page-badge badge-synthesis">Synthesis</span>
 
@@ -1184,12 +1193,12 @@ def render_notes_index() -> str:
 
         <div class="landing-stack">
 
-        ::: {.landing-hero}
+        ::: {.directory-hero}
         <span class="hero-eyebrow">Evaluation notes</span>
 
         # Notes overview
 
-        This section collects source-grounded study notes from the MCP research library's `evaluation-texts` collection. The notes combine the existing hand-authored Purposeful Program Theory section with generated major-section notes for the other ready evaluation texts.
+        Browse source-grounded book notes, synthesis pages, chapter maps, and practice implications across the evaluation texts collection.
 
         <div class="page-metadata">
           <span>10 books</span>
@@ -1225,9 +1234,13 @@ def render_notes_index() -> str:
           </label>
         </div>
         <p class="notes-filter-count" id="notes-filter-count" aria-live="polite"></p>
+        <p class="empty-filter-state" id="notes-filter-empty">No notes match those filters.</p>
         ```
 
-        ::: {.section-grid}
+        ::: {.directory-section}
+        ## Note Directory
+
+        ::: {.section-grid book-grid}
         """
     )
     for book in BOOKS:
@@ -1254,6 +1267,7 @@ def render_notes_index() -> str:
             )
     qmd += dedent(
         """
+        :::
         :::
 
         ```{=html}
@@ -1287,20 +1301,41 @@ def render_home() -> str:
         'toc: false\n'
         '---\n\n'
         '<div class="landing-stack">\n\n'
-        '::: {.hero-panel}\n'
+        '::: {.directory-hero}\n'
         '<span class="hero-eyebrow">Evaluation study notes</span>\n\n'
         '# Evaluation Knowledge Base\n\n'
-        'A Quarto knowledge base for source-grounded notes on evaluation books and guidance. '
-        'The site now integrates ready `evaluation-texts` records from the MCP research library, '
-        'with detailed hand-authored notes for Purposeful Program Theory and generated major-section notes for the wider collection.\n\n'
+        'Source-grounded study notes for evaluation books and guidance, organized for comparison, close reading, and practical design use.\n\n'
         '::: {.cta-row}\n'
         '[Open Notes](notes/index.qmd){.cta-button}\n'
         '[Purposeful Program Theory](notes/purposeful-programme-theory/index.qmd){.cta-button .secondary}\n'
         '[Export BibTeX](references.bib){.cta-button .secondary}\n'
         ':::\n'
         ':::\n\n'
-        '::: {.section-grid}\n'
+        '::: {.directory-section}\n'
+        '## Start Here\n\n'
+        '::: {.section-grid synthesis-grid}\n'
+        '::: {.section-card}\n'
+        '<span class="page-badge badge-synthesis">Synthesis</span>\n\n'
+        '### [Comparing Evaluation Texts](notes/evaluation-texts-compared.qmd)\n\n'
+        'A cross-text synthesis of the main evaluation sources and when each should lead.\n'
+        ':::\n'
+        '::: {.section-card}\n'
+        '<span class="page-badge badge-synthesis">Synthesis</span>\n\n'
+        '### [Magenta Book Model Alignment](notes/magenta-book-evaluation-model-alignment.qmd)\n\n'
+        'How the Magenta Book compares with CIPP, Rossi/Lipsey/Freeman, utilization-focused evaluation, and related models.\n'
+        ':::\n'
+        '::: {.section-card}\n'
+        '<span class="page-badge badge-synthesis">Synthesis</span>\n\n'
+        '### [Is a Theory of Change Needed?](notes/theory-of-change-needed-in-evaluation.qmd)\n\n'
+        'When evaluation needs a theory of change, when a lighter model is enough, and when theory work becomes performative.\n'
+        ':::\n'
+        ':::\n'
+        ':::\n\n'
+        '::: {.directory-section}\n'
+        '## Evaluation Texts\n\n'
+        '::: {.section-grid book-grid}\n'
         f'{cards}'
+        ':::\n'
         ':::\n\n'
         '</div>\n'
     )

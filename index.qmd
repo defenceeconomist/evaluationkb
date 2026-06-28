@@ -6,12 +6,12 @@ toc: false
 
 <div class="landing-stack">
 
-::: {.hero-panel}
+::: {.directory-hero}
 <span class="hero-eyebrow">Evaluation study notes</span>
 
 # Evaluation Knowledge Base
 
-A Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready `evaluation-texts` records from the MCP research library, with detailed notes for Purposeful Program Theory, chapter-level Rossi/Lipsey, Chen, Impact Evaluation in Practice, Realistic Evaluation, and Qualitative Research & Evaluation Methods and Handbook of Practical Program Evaluation notes, step-level Patton/U-FE notes, and generated notes for the wider collection.
+Source-grounded study notes for evaluation books and guidance, organized for comparison, close reading, and practical design use.
 
 ::: {.cta-row}
 [Open Notes](notes/index.qmd){.cta-button}
@@ -20,7 +20,38 @@ A Quarto knowledge base for source-grounded notes on evaluation books and guidan
 :::
 :::
 
-::: {.section-grid}
+::: {.directory-section}
+## Start Here
+
+::: {.section-grid synthesis-grid}
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Comparing Evaluation Texts](notes/evaluation-texts-compared.qmd)
+
+A cross-text synthesis of the main evaluation sources and when each should lead.
+:::
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Magenta Book Model Alignment](notes/magenta-book-evaluation-model-alignment.qmd)
+
+How the Magenta Book compares with CIPP, Rossi/Lipsey/Freeman, utilization-focused evaluation, and related models.
+:::
+::: {.section-card}
+<span class="page-badge badge-synthesis">Synthesis</span>
+
+### [Is a Theory of Change Needed?](notes/theory-of-change-needed-in-evaluation.qmd)
+
+When evaluation needs a theory of change, when a lighter model is enough, and when theory work becomes performative.
+:::
+:::
+:::
+
+::: {.directory-section}
+## Evaluation Texts
+
+::: {.section-grid book-grid}
 ::: {.section-card}
 <span class="page-badge badge-book">Book notes</span>
 
@@ -90,6 +121,7 @@ UK central government guidance on evaluation scoping, methods, data, management,
 ### [Evaluation Theory, Models, and Applications](notes/evaluation-theory-models-applications/index.qmd)
 
 A survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications.
+:::
 :::
 :::
 

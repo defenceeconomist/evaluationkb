@@ -30,7 +30,7 @@ source_status: "needs_review"
 
 <div class="landing-stack">
 
-::: {.landing-hero}
+::: {.directory-hero}
 <span class="hero-eyebrow">Book notes</span>
 
 # Essentials of Utilization-Focused Evaluation
@@ -45,7 +45,16 @@ Study notes on *Essentials of Utilization-Focused Evaluation* [@patton_2012_esse
 </div>
 :::
 
-::: {.section-grid}
+```{=html}
+<nav class="book-nav" aria-label="Book navigation">
+  <a href="index.qmd">Overview</a>
+  <a href="concepts.qmd">Core Concepts</a>
+  <a href="chapter-map.qmd">Chapter Map</a>
+  <a href="practice-implications.qmd">Practice</a>
+</nav>
+```
+
+::: {.section-grid synthesis-grid}
 ::: {.section-card}
 <span class="page-badge badge-synthesis">Synthesis</span>
 
