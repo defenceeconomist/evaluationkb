@@ -724,5 +724,8 @@
   },
   "notes/evaluation-texts-compared.qmd": {
     "evaluation-texts-compared.html": "3f8fcb66"
+  },
+  "notes/magenta-book-evaluation-model-alignment.qmd": {
+    "magenta-book-evaluation-model-alignment.html": "80b189b0"
   }
 }

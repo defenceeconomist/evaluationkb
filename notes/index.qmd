@@ -62,6 +62,13 @@ This section collects source-grounded study notes from the MCP research library'
 
 A cross-text synthesis of the main evaluation sources and when each should lead.
 :::
+::: {.section-card data-note-card="" data-book="all" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">Magenta Book</span></div>
+
+### [Which Evaluation Model Is the Magenta Book Closest To?](magenta-book-evaluation-model-alignment.qmd)
+
+A balanced comparison of the Magenta Book against CIPP, Rossi/Lipsey/Freeman, utilization-focused evaluation, and related models.
+:::
 ::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Book"}
 <div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2011</span></div>
 

@@ -37,6 +37,8 @@ website:
           text: Notes Overview
         - href: notes/evaluation-texts-compared.qmd
           text: Comparing Evaluation Texts
+        - href: notes/magenta-book-evaluation-model-alignment.qmd
+          text: Magenta Book Model Alignment
         - section: "Evaluation Texts"
           href: notes/purposeful-programme-theory/index.qmd
           contents:

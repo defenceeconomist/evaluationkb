@@ -816,6 +816,11 @@
       "path": "notes/magenta-book/practice-implications.qmd"
     },
     {
+      "id": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "title": "Which Evaluation Model Is the Magenta Book Closest To?",
+      "path": "notes/magenta-book-evaluation-model-alignment.qmd"
+    },
+    {
       "id": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
       "title": "Chapter 01: Fundamentals of Program Evaluation",
       "path": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd"
@@ -8049,6 +8054,11 @@
     },
     {
       "source": "notes/index.qmd",
+      "target": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
       "target": "notes/purposeful-programme-theory/index.qmd",
       "type": "internal-link"
     },
@@ -9150,6 +9160,86 @@
     {
       "source": "notes/magenta-book/practice-implications.qmd",
       "target": "notes/magenta-book/appendix-test-and-learn.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-texts-compared.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/magenta-book/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/magenta-book/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
       "type": "internal-link"
     },
     {
@@ -12697,6 +12787,22 @@
     {
       "source": "notes/magenta-book/practice-implications.qmd",
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/magenta-book-evaluation-model-alignment.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
     },
     {
       "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",

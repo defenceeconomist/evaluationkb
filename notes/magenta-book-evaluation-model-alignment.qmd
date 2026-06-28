@@ -1,0 +1,112 @@
+---
+title: "Which Evaluation Model Is the Magenta Book Closest To?"
+description: "A balanced comparison of the Magenta Book against CIPP, Rossi/Lipsey/Freeman, utilization-focused evaluation, and related models."
+page-layout: full
+toc: true
+note_type: "Synthesis"
+citation_key: "hm_treasury_evaluation_task_force_2020_magenta_book"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001"
+  - "chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002"
+  - "chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001"
+  - "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+source_status: "needs_review"
+---
+
+## Source Base
+
+This article compares the [Magenta Book](magenta-book/index.qmd) with several evaluation models represented in this knowledge base. It is grounded in the existing source-linked notes, especially the Magenta Book concept and practice syntheses, the CIPP chapter in [Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd), [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd), and [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd).
+
+The answer is balanced rather than absolute: the Magenta Book is not itself a named evaluation theory. It is public-sector guidance for scoping, choosing methods, managing evidence, reporting findings, and building capability [@hm_treasury_evaluation_task_force_2020_magenta_book]. Its closest alignments are with lifecycle, question-led, and use-oriented models of evaluation rather than with a single methodological school.
+
+## Short Answer
+
+The Magenta Book is most clearly aligned with three models at once:
+
+- **CIPP / Stufflebeam**: strongest fit for the overall lifecycle logic of context, planning, implementation, outcomes, improvement, accountability, quality, and standards [@stufflebeam_coryn_2014_evaluation_theory_models_applications].
+- **Rossi, Lipsey, and Freeman's systematic approach**: strong fit for classifying evaluation work by question type: need, theory, process, outcome, impact, efficiency, and use [@rossi_lipsey_freeman_2004_evaluation_systematic_approach].
+- **Utilization-focused evaluation**: strong fit for the Magenta Book's emphasis on users, decisions, dissemination, transparency, and planning for findings to be used [@patton_2012_essentials_utilization_focused_evaluation].
+
+If one had to name the closest model, CIPP has the best structural match. But the Magenta Book reads less like a pure CIPP manual than a hybrid government evaluation framework: CIPP-like in lifecycle and accountability, Rossi/Lipsey/Freeman-like in question discipline, and utilization-focused in its insistence that use and dissemination are design issues.
+
+## Comparison Matrix
+
+| Candidate model | Magenta Book overlap | Limit of fit | Best interpretive use |
+|---|---|---|---|
+| [CIPP / Stufflebeam](evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd) | Context, design inputs, implementation, outcomes, improvement, accountability, standards, metaevaluation. | The Magenta Book does not organize itself explicitly around the CIPP labels or present a full objectivist evaluation theory. | Use CIPP to read the Magenta Book as lifecycle guidance for public-sector improvement and accountability. |
+| [Rossi, Lipsey, and Freeman](evaluation-systematic-approach/index.qmd) | Need, theory of change, process, impact, value for money, question-led methods, stakeholder and political context. | The Magenta Book is guidance for government practice rather than a systematic textbook sequence. | Use this model to classify what kind of evaluation question the Magenta Book is asking the evaluator to answer. |
+| [Utilization-focused evaluation](essentials-utilization-focused-evaluation/index.qmd) | Users, intended use, decision relevance, dissemination, tailored reporting, follow-up, and practical credibility. | The Magenta Book also has transparency, accountability, assurance, and public-value obligations that go beyond primary intended users. | Use UFE to strengthen the Magenta Book's use logic and prevent reporting from becoming an end-stage task. |
+| [Realist evaluation](realistic-evaluation/index.qmd) | Complexity, mechanisms, context, causal explanation, and "what works, for whom, and why" reasoning. | Realist evaluation is an appendix and specialist route, not the main organizing frame of the Magenta Book. | Use realist thinking when policy mechanisms and contextual variation are central to the evaluation question. |
+| [Impact evaluation](impact-evaluation-in-practice/index.qmd) | Counterfactual thinking, experimental and quasi-experimental designs, causal attribution, and policy impact evaluation quality. | Impact evaluation is one family of methods within the Magenta Book, not the governing model. | Use impact evaluation when the live decision requires credible estimates of effects. |
+| [Practical public-sector evaluation](handbook-practical-program-evaluation/index.qmd) | Commissioning, governance, management, stakeholders, data, reporting, and operating constraints. | It is a broad operational affinity rather than a distinctive evaluation model. | Use it to interpret the Magenta Book as evaluation management guidance. |
+
+## CIPP Is the Strongest Structural Fit
+
+The strongest argument for CIPP is structural. CIPP organizes evaluation around context, input, process, and product information, with the dual purpose of improvement and accountability. The Magenta Book's route is very similar even though it uses different language: understand the intervention and context, clarify theory of change and evaluation questions, choose feasible methods and data, manage quality during delivery, assess process and impact, report transparently, and build evaluation capability.
+
+The fit is especially strong on three points. First, both approaches treat evaluation as more than outcome measurement. Context, design, implementation, and consequences all matter. Second, both connect formative learning with accountability. Evaluation should improve decisions and delivery, but it should also support scrutiny and public confidence. Third, both make standards and quality part of the evaluation task rather than a later review.
+
+The main limit is that the Magenta Book is not organized as a CIPP text. It does not ask evaluators to label every question as context, input, process, or product evaluation. Nor does it provide Stufflebeam's full account of evaluation theory, value judgment, and metaevaluation. CIPP is therefore the best structural lens, not a one-to-one identity.
+
+## Rossi, Lipsey, and Freeman Explain the Question Logic
+
+The Magenta Book's scoping and methods guidance is also close to Rossi, Lipsey, and Freeman's systematic approach. Their model is useful because it starts by separating different evaluation questions: whether a programme is needed, whether its theory is plausible, whether it is being implemented as intended, what outcomes are observed, whether impacts can be attributed, whether resources are used efficiently, and how findings enter social and political use.
+
+That question-led discipline is visible across the Magenta Book. The guidance asks evaluators to clarify purpose, users, theory of change, assumptions, evaluation questions, feasible data, methods, value for money, and use before locking in a design. It warns against method-led evaluation and treats process, impact, economic, qualitative, theory-based, and synthesis methods as tools for different questions.
+
+The limit is genre. Rossi, Lipsey, and Freeman offer a general program evaluation textbook. The Magenta Book is central government guidance, so it gives more weight to proportionality, transparency, publication, procurement, governance, and analytical capability. The systematic approach helps explain the Magenta Book's question architecture, but not the whole institutional role of the guidance.
+
+## Utilization-Focused Evaluation Explains the Use Logic
+
+Patton's utilization-focused evaluation aligns strongly with the Magenta Book's treatment of use. In UFE, intended use by intended users drives evaluation design. The Magenta Book similarly treats use and dissemination as early design concerns: evaluators should know who needs evidence, what decisions it should inform, when findings are needed, what products will support use, and how publication and transparency will be handled.
+
+This is more than a communications point. In both traditions, an evaluation that produces technically competent findings too late, for the wrong audience, or in an unusable form has failed in a practical sense. The Magenta Book's emphasis on decision points, dissemination planning, tailored reporting, and transparency has a clear utilization-focused character.
+
+The limit is that UFE prioritizes primary intended users, while the Magenta Book has a broader public-sector mandate. Government evaluations must often serve direct users, ministers, delivery teams, analysts, Parliament, auditors, affected publics, and future policy makers. That makes the Magenta Book partly utilization-focused, but also more explicitly accountability- and transparency-oriented than a narrow UFE design.
+
+## Other Models Are Partial Fits
+
+Realist evaluation is relevant because the Magenta Book includes specialist guidance on complexity and realist approaches. This matters when the policy question is not just whether an intervention worked, but how mechanisms operated in different contexts. Realist evaluation is therefore a strong supplement for complex interventions, not the Magenta Book's main model.
+
+Impact evaluation is also a partial fit. The Magenta Book gives substantial attention to impact questions, counterfactuals, experimental and quasi-experimental methods, and policy impact evaluation quality. But it treats impact evaluation as one type of evaluation need among others. A Magenta Book evaluation may require impact estimation, but it may also need process evidence, theory testing, qualitative explanation, value for money analysis, synthesis, and dissemination planning.
+
+Theory-based evaluation and purposeful programme theory are implicit throughout the guidance. The theory of change is used to clarify assumptions, mechanisms, outcomes, evidence needs, and interpretation. Yet again, this is one core design discipline rather than a complete model identity.
+
+## Practical Implications
+
+For a live evaluation, the useful conclusion is not to rebrand the Magenta Book as one model. It is to use different models to strengthen different parts of a Magenta Book design.
+
+- Use **CIPP** to check whether the evaluation covers context, options, implementation, outcomes, improvement, accountability, and quality.
+- Use **Rossi, Lipsey, and Freeman** to classify the evaluation question before selecting methods.
+- Use **UFE** to test whether users, uses, timing, products, and follow-up are concrete enough.
+- Use **realist or theory-based approaches** when context, mechanisms, assumptions, and causal explanation are central.
+- Use **impact evaluation** when the decision requires credible attribution or effect estimates.
+
+The Magenta Book is therefore closest to CIPP as a lifecycle and assurance model, but closest to Rossi/Lipsey/Freeman when the problem is question classification, and closest to UFE when the problem is use. Treating it as a hybrid is more faithful than forcing a single label.
+
+## Related Notes
+
+- [Comparing Evaluation Texts](evaluation-texts-compared.qmd)
+- [Magenta Book: Core Concepts](magenta-book/concepts.qmd)
+- [Magenta Book: Practice Implications](magenta-book/practice-implications.qmd)
+- [CIPP Model Overview](evaluation-theory-models-applications/chapter-13-daniel-stufflebeams-cipp-model-for-evaluation.qmd)
+- [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd)
+- [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd)
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code></li>
+<li><code>chunk:magenta-book:magenta-book-6-the-use-and-dissemination-of-evaluation-findings:c0002</code></li>
+<li><code>chunk:evaluation-theory-models-applications:ch13-chapter-13-daniel-stufflebeam-s-cipp-model-for-evaluation-an-improvement-and-acc:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007</code></li>
+</ul>
+</details>
+
+## References
