@@ -1,6 +1,6 @@
 ---
-title: "Chapter 3: Using Logic Models"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 03: Using Logic Models"
+description: "Detailed study notes for Chapter 3 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 3: Using Logic Models
+## Source
 
-<div class="chapter-meta"><span>104-129</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3</span><span>Source pages 104-129</span></div>
 
-## Core Claim
+This note summarises Chapter 3, "Using Logic Models," from Kathryn E. Newcomer, Harry P. Hatry, and
+Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Logic models organize program components, assumptions, outcomes, and contextual factors so evaluation questions can be focused.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter presents logic models as tools for planning, design, management, performance monitoring, and reporting.
+Logic models help evaluators and program staff clarify program theory, identify measures, and frame performance stories without treating the model as final truth.
 
-Logic modeling helps evaluators and program staff surface assumptions about how activities should lead to outputs, outcomes, and longer-term change.
+## Study Summary
 
-The chapter also treats models as communication devices: they let evaluation findings tell a performance story that links evidence back to program elements.
+The chapter presents logic models as tools for planning, communication, management, monitoring, and
+evaluation design.
+
+It describes building and verifying models from documents, stakeholder interviews, problem
+definitions, activities, outputs, outcomes, context, and assumptions.
+
+The main risk is using a model mechanically, without testing whether it represents how the program
+actually works.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **logic model**: A representation of program resources, activities, outputs, outcomes, and assumptions.
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+- **logic model**: A representation of program resources, activities, outputs, outcomes, context, and assumptions.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
+- **performance measurement**: Ongoing measurement of outputs, outcomes, service quality, or efficiency for management and improvement.
 
-## Practice Implications
+## Chapter Structure
 
-- Use logic models to focus measures and questions.
-- Verify models with staff and stakeholders rather than treating them as desk products.
-- Use the model to interpret whether findings reflect theory, implementation, or measurement problems.
+- Design problem: Logic models help evaluators and program staff clarify program theory, identify measures, and frame performance stories without treating the model as final truth.
+- Evidence focus: The chapter presents logic models as tools for planning, communication, management, monitoring, and evaluation design.
+- Practice method: It describes building and verifying models from documents, stakeholder interviews, problem definitions, activities, outputs, outcomes, context, and assumptions.
+- Quality risk: The main risk is using a model mechanically, without testing whether it represents how the program actually works.
+
+## Practical Implications
+
+- Use logic models to surface assumptions before selecting measures.
+- Revise models as evidence accumulates.
+- Keep context and external factors visible.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Analyzing and Engaging Stakeholders](chapter-02-analyzing-and-engaging-stakeholders.qmd)
+- Next: [Chapter 4: Exploratory Evaluation](chapter-04-exploratory-evaluation.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 3 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ The chapter also treats models as communication devices: they let evaluation fin
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

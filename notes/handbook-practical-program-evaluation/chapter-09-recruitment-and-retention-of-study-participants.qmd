@@ -1,11 +1,11 @@
 ---
-title: "Chapter 9: Recruitment and Retention of Study Participants"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 09: Recruitment and Retention of Study Participants"
+description: "Detailed study notes for Chapter 9 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 9
-source_pages: "238-267"
+source_pages: "249-267"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 9: Recruitment and Retention of Study Participants
+## Source
 
-<div class="chapter-meta"><span>238-267</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9</span><span>Source pages 249-267</span></div>
 
-## Core Claim
+This note summarises Chapter 9, "Recruitment and Retention of Study Participants," from Kathryn E.
+Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Recruitment and retention are design-critical because missing or unrepresentative participants can undermine evidence quality.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter identifies common overconfidence about how many participants can be recruited and retained.
+Recruitment and retention are design-quality issues because sample coverage and continued participation determine whether evaluation findings are credible.
 
-It covers procedures for obtaining participants with needed characteristics and keeping them engaged through data collection.
+## Study Summary
 
-It also flags institutional review, burden, incentives, and tracking as practical constraints that affect sample quality.
+The chapter identifies common barriers to enrolling and keeping participants in evaluation studies.
+
+It offers practical strategies for clearance, outreach, participant tracking, incentives, staff
+roles, and realistic scheduling.
+
+The main risk is underestimating the time, permissions, and relationship work needed to secure
+usable data.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **recruitment**: Processes for enrolling the right number and type of study participants.
+- **retention**: Processes for keeping participants engaged and measured across the evaluation period.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
 
-## Practice Implications
+## Chapter Structure
 
-- Budget more time for recruitment than optimistic plans suggest.
-- Track retention risk as an evidence-quality issue.
-- Align recruitment methods with ethics and participant burden.
+- Design problem: Recruitment and retention are design-quality issues because sample coverage and continued participation determine whether evaluation findings are credible.
+- Evidence focus: The chapter identifies common barriers to enrolling and keeping participants in evaluation studies.
+- Practice method: It offers practical strategies for clearance, outreach, participant tracking, incentives, staff roles, and realistic scheduling.
+- Quality risk: The main risk is underestimating the time, permissions, and relationship work needed to secure usable data.
+
+## Practical Implications
+
+- Plan recruitment and retention before data collection.
+- Budget time for IRB and administrative clearance.
+- Monitor enrollment and follow-up continuously.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Conducting Case Studies](chapter-08-conducting-case-studies.qmd)
+- Next: [Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations](chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 9 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ It also flags institutional review, burden, incentives, and tracking as practica
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

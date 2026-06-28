@@ -1,11 +1,11 @@
 ---
 title: "Chapter 20: Focus Group Interviewing"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 20 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 20
-source_pages: "547-576"
+source_pages: "552-576"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch20-chapter-20-focus-group-interviewing:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 20: Focus Group Interviewing
+## Source
 
-<div class="chapter-meta"><span>547-576</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 20</span><span>Source pages 552-576</span></div>
 
-## Core Claim
+This note summarises Chapter 20, "Focus Group Interviewing," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Focus groups collect interactive qualitative evidence that can support design, interpretation, and understanding of stakeholder experience.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter explains when focus groups are useful and when they are not intended to provide statistically representative evidence.
+Focus groups generate interactional evidence that can inform design, interpretation, and understanding of program experiences.
 
-Focus groups can help design interventions, pilot instruments, interpret data, and understand how a program is experienced.
+## Study Summary
 
-The method depends on careful group composition, questioning routes, moderation, recording, and analysis.
+The chapter presents focus groups as useful in design, pilot testing, implementation assessment, and
+interpretation of findings.
+
+It covers recruiting, moderation, question routes, note taking, recording, analysis, and reporting.
+
+The main risk is treating group discussion as representative survey evidence or allowing moderation
+problems to distort findings.
+
+Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
+should be read alongside the neighboring chapters because the handbook treats design, data
+collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **focus group**: A facilitated group interview used to elicit perceptions, experiences, and interpretation.
-- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
-- **semi-structured interview**: Interviewing that uses a guide while allowing probing and open-ended response.
+- **focus group**: A moderated group discussion used to gather interactional, interpretive, or formative evidence.
+- **semistructured interview**: An interview guided by prepared topics while preserving open-ended probing and adaptation.
+- **qualitative analysis**: Systematic coding, display, interpretation, and verification of qualitative data.
 
-## Practice Implications
+## Chapter Structure
 
-- Use focus groups for interaction and interpretation, not numeric representation.
-- Prepare questioning routes that fit the evaluation purpose.
-- Analyze group data systematically after collection.
+- Design problem: Focus groups generate interactional evidence that can inform design, interpretation, and understanding of program experiences.
+- Evidence focus: The chapter presents focus groups as useful in design, pilot testing, implementation assessment, and interpretation of findings.
+- Practice method: It covers recruiting, moderation, question routes, note taking, recording, analysis, and reporting.
+- Quality risk: The main risk is treating group discussion as representative survey evidence or allowing moderation problems to distort findings.
+
+## Practical Implications
+
+- Use focus groups for depth and interaction, not prevalence estimates.
+- Recruit groups deliberately.
+- Use skilled moderation and systematic analysis.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 19: Semi-Structured Interviews](chapter-19-semi-structured-interviews.qmd)
+- Next: [Chapter 21: Using Stories in Evaluation](chapter-21-using-stories-in-evaluation.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 20 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ The method depends on careful group composition, questioning routes, moderation,
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

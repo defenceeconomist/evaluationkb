@@ -6,7 +6,8 @@ collection_id: "evaluation-texts"
 note_type: "Synthesis"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
-  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+  - "table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254"
   - "chunk:handbook-practical-program-evaluation:part-1:c0001"
   - "chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001"
   - "chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001"
@@ -14,10 +15,9 @@ evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
   - "chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001"
   - "chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001"
-  - "chunk:handbook-practical-program-evaluation:ch08-chapter-8-case-studies:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001"
   - "chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001"
   - "chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001"
-  - "chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001"
 source_status: "needs_review"
 ---
 
@@ -29,40 +29,52 @@ This synthesis draws on the generated chapter notes from *Handbook of Practical 
 
 ### Design and Use
 
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
-- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
-- **logic model**: A representation of program resources, activities, outputs, outcomes, and assumptions.
-- **evaluability assessment**: Exploratory work to test whether a program is ready for useful evaluation.
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
+- **intended use**: The decision, learning, accountability, or improvement purpose the evaluation is meant to serve.
+- **stakeholder engagement**: Deliberate work with intended users and affected parties to shape useful, credible evaluation.
+- **logic model**: A representation of program resources, activities, outputs, outcomes, context, and assumptions.
+- **evaluability assessment**: An exploratory process that checks whether a program is ready for useful evaluation and which questions are worth pursuing.
+- **performance measurement**: Ongoing measurement of outputs, outcomes, service quality, or efficiency for management and improvement.
+
+### Design Options
+
+- **comparison group**: A group used to estimate what would have happened without the program or policy.
+- **randomized controlled trial**: A design that assigns eligible units to treatment or control by chance to support causal inference.
+- **case study**: A bounded inquiry that integrates multiple evidence sources to understand implementation, context, and effects.
+- **multisite evaluation**: Evaluation of a policy or program across two or more sites with attention to common and site-specific evidence.
+- **community change**: Place-based or community-level intervention where boundaries, timing, context, and causal attribution are difficult.
+- **culturally responsive evaluation**: Evaluation that treats culture, context, relationships, validity, and responsibility as integral to design and use.
 
 ### Data Collection
 
-- **administrative data**: Existing agency, archival, or management records used as evaluation evidence.
-- **survey**: Structured data collection from a population or sample.
-- **role playing**: A data collection method using trained actors or testers to observe service transactions.
-- **trained observer rating**: Systematic rating by observers using explicit scales or criteria.
-- **fieldwork**: On-site or direct data collection used to understand implementation, context, and outcomes.
-- **semi-structured interview**: Interviewing that uses a guide while allowing probing and open-ended response.
-- **focus group**: A facilitated group interview used to elicit perceptions, experiences, and interpretation.
-- **stories**: Narrative evidence used to communicate experience, meaning, and findings memorably.
+- **agency records**: Administrative, archival, or service records used as evaluation data.
+- **survey**: A structured data collection method used to obtain comparable responses from a population or sample.
+- **role playing**: A data collection method in which trained actors test service encounters or transactions.
+- **trained observer rating**: Structured observation by trained raters using defined and anchored rating scales.
+- **fieldwork**: Systematic in-person inquiry using interviews, observations, documents, and site-level evidence.
+- **internet data collection**: Online or web-enabled data collection, recruitment, communication, or observation for evaluation.
+- **semistructured interview**: An interview guided by prepared topics while preserving open-ended probing and adaptation.
+- **focus group**: A moderated group discussion used to gather interactional, interpretive, or formative evidence.
+- **stories**: Narrative evidence used to communicate experience, meaning, change, and evaluation findings.
 
-### Analysis and Value
+### Analysis and Synthesis
 
-- **comparison group design**: A nonrandomized impact design that estimates program effects by comparing participants with a credible comparison group.
-- **case study**: A design for describing or explaining program operation, context, and outcomes in bounded cases.
-- **cost-effectiveness analysis**: Economic analysis comparing costs with nonmonetized units of effect.
-- **cost-benefit analysis**: Economic analysis that monetizes costs and benefits to compare net value.
-- **meta-analysis**: Quantitative synthesis of results from prior studies.
-- **evaluation synthesis**: Systematic combination of existing studies or findings to assess what is known.
+- **qualitative analysis**: Systematic coding, display, interpretation, and verification of qualitative data.
+- **statistics**: Quantitative techniques used to describe data, estimate relationships, test differences, and present uncertainty.
+- **cost-effectiveness analysis**: Analysis that relates costs to nonmonetized units of effectiveness.
+- **cost-benefit analysis**: Analysis that compares costs and benefits after expressing both in monetary terms where defensible.
+- **meta-analysis**: Statistical synthesis of findings across studies.
+- **systematic review**: A transparent, replicable synthesis process for locating, assessing, and summarizing prior evidence.
 
-### Action and Governance
+### Use and Management
 
-- **recommendations**: Actionable options or suggested improvements grounded in evaluation findings.
-- **writing for impact**: Reporting practices that sharpen messages, evidence, methods, formats, and communication for intended users.
-- **contracting**: Procurement and management of external evaluation products and services.
-- **culturally responsive evaluation**: Evaluation that attends to cultural context, stakeholder voice, and equity in design and use.
-- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
+- **pitfall**: A recurring evaluation problem that can weaken validity, reliability, credibility, feasibility, or use.
+- **recommendation**: A finding-linked suggestion, option, or action statement for decision makers.
+- **evaluation report**: A communication product that explains findings, methods, limitations, implications, and recommended action.
+- **contracting**: Procurement and management of external evaluation products or services.
+- **politics of evaluation**: The institutional, bureaucratic, and stakeholder dynamics that shape whether evaluation is feasible and used.
+- **evaluation capacity**: Organizational capability to commission, conduct, interpret, and use evaluation work.
+- **quality control**: Processes for checking design, data collection, analysis, reporting, and use across an evaluation.
 
 ## Chapter Links
 
@@ -73,7 +85,7 @@ This synthesis draws on the generated chapter notes from *Handbook of Practical 
 - [Chapter 5: Performance Measurement](chapter-05-performance-measurement.qmd)
 - [Chapter 6: Comparison Group Designs](chapter-06-comparison-group-designs.qmd)
 - [Chapter 7: Randomized Controlled Trials](chapter-07-randomized-controlled-trials.qmd)
-- [Chapter 8: Case Studies](chapter-08-case-studies.qmd)
+- [Chapter 8: Conducting Case Studies](chapter-08-conducting-case-studies.qmd)
 - [Chapter 9: Recruitment and Retention of Study Participants](chapter-09-recruitment-and-retention-of-study-participants.qmd)
 - [Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations](chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd)
 - [Chapter 11: Evaluating Community Change Programs](chapter-11-evaluating-community-change-programs.qmd)
@@ -84,23 +96,24 @@ This synthesis draws on the generated chapter notes from *Handbook of Practical 
 - [Chapter 16: Using Ratings by Trained Observers](chapter-16-using-ratings-by-trained-observers.qmd)
 - [Chapter 17: Collecting Data in the Field](chapter-17-collecting-data-in-the-field.qmd)
 - [Chapter 18: Using the Internet](chapter-18-using-the-internet.qmd)
-- [Chapter 19: Semi-Structured Interviewing](chapter-19-semi-structured-interviewing.qmd)
+- [Chapter 19: Semi-Structured Interviews](chapter-19-semi-structured-interviews.qmd)
 - [Chapter 20: Focus Group Interviewing](chapter-20-focus-group-interviewing.qmd)
 - [Chapter 21: Using Stories in Evaluation](chapter-21-using-stories-in-evaluation.qmd)
-- [Chapter 22: Qualitative Data Analysis](chapter-22-qualitative-data-analysis.qmd)
+- [Chapter 22: Analyzing Qualitative Data](chapter-22-analyzing-qualitative-data.qmd)
 - [Chapter 23: Using Statistics in Evaluation](chapter-23-using-statistics-in-evaluation.qmd)
 - [Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis](chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd)
 - [Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses](chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd)
 - [Chapter 26: Pitfalls in Evaluations](chapter-26-pitfalls-in-evaluations.qmd)
-- [Chapter 27: Providing Recommendations, Suggestions, and Options for Improvement](chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd)
-- [Chapter 28: Writing for Impact](chapter-28-writing-for-impact.qmd)
-- [Chapter 29: Evaluation Contracting](chapter-29-evaluation-contracting.qmd)
-- [Chapter 30: Use of Evaluation in Government](chapter-30-use-of-evaluation-in-government.qmd)
+- [Chapter 27: Writing Recommendations](chapter-27-writing-recommendations.qmd)
+- [Chapter 28: Writing Evaluation Reports](chapter-28-writing-evaluation-reports.qmd)
+- [Chapter 29: Contracting for Evaluation Products and Services](chapter-29-contracting-for-evaluation-products-and-services.qmd)
+- [Chapter 30: Evaluation in Government and the Politics of Evaluation](chapter-30-evaluation-in-government-and-the-politics-of-evaluation.qmd)
 - [Chapter 31: Evaluation Challenges, Issues, and Trends](chapter-31-evaluation-challenges-issues-and-trends.qmd)
 
 ## Source Records
 
-- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003`
+- `table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254`
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 - `chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001`
 - `chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001`
@@ -108,7 +121,7 @@ This synthesis draws on the generated chapter notes from *Handbook of Practical 
 - `chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001`
 - `chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001`
 - `chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001`
-- `chunk:handbook-practical-program-evaluation:ch08-chapter-8-case-studies:c0001`
+- `chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001`
 - `chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001`
 - `chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001`
 - `chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001`
@@ -120,5 +133,22 @@ This synthesis draws on the generated chapter notes from *Handbook of Practical 
 - `chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001`
 - `chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001`
 - `chunk:handbook-practical-program-evaluation:ch18-chapter-18-using-the-internet:c0001`
+- `chunk:handbook-practical-program-evaluation:ch19-chapter-19-semi-structured-interviews:c0001`
+- `chunk:handbook-practical-program-evaluation:ch20-chapter-20-focus-group-interviewing:c0001`
+- `chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch22-chapter-22-analyzing-qualitative-data:c0001`
+- `chunk:handbook-practical-program-evaluation:part-3:c0002`
+- `chunk:handbook-practical-program-evaluation:ch23-chapter-23-using-statistics-in-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch24-chapter-24-cost-effectiveness-and-cost-benefit-analysis:c0023`
+- `table_segment:handbook-practical-program-evaluation:table:table-24-6:p0695:r0254:s002`
+- `chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001`
+- `chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+- `chunk:handbook-practical-program-evaluation:ch27-chapter-27-writing-recommendations:c0001`
+- `chunk:handbook-practical-program-evaluation:ch28-chapter-28-writing-evaluation-reports:c0001`
+- `chunk:handbook-practical-program-evaluation:ch29-chapter-29-contracting-for-evaluation-products-and-services:c0001`
+- `chunk:handbook-practical-program-evaluation:ch30-chapter-30-evaluation-in-government-and-the-politics-of-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0001`
+- `chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0009`
 
 ## References

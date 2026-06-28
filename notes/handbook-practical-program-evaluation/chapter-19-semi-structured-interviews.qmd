@@ -1,23 +1,23 @@
 ---
-title: "Chapter 17: Collecting Data in the Field"
-description: "Detailed study notes for Chapter 17 of Handbook of Practical Program Evaluation."
+title: "Chapter 19: Semi-Structured Interviews"
+description: "Detailed study notes for Chapter 19 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
-chapter_number: 17
-source_pages: "488-518"
+chapter_number: 19
+source_pages: "538-551"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
-  - "chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch19-chapter-19-semi-structured-interviews:c0001"
   - "chunk:handbook-practical-program-evaluation:part-2:c0001"
 source_status: "needs_review"
 ---
 
 ## Source
 
-<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 17</span><span>Source pages 488-518</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 19</span><span>Source pages 538-551</span></div>
 
-This note summarises Chapter 17, "Collecting Data in the Field," from Kathryn E. Newcomer, Harry P.
+This note summarises Chapter 19, "Semi-Structured Interviews," from Kathryn E. Newcomer, Harry P.
 Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
 [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
 based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
@@ -26,17 +26,17 @@ The retrieval trail is retained in the source records at the bottom of the page.
 
 ## Core Argument
 
-Field data collection makes evaluation evidence more contextual and credible when site visits, interviews, observations, and records are organized systematically.
+Semi-structured interviews help evaluators learn from knowledgeable respondents while preserving enough consistency for analysis.
 
 ## Study Summary
 
-The chapter focuses on field studies for implementation, process, organizational, and outcome
-questions.
+The chapter focuses on open-ended, person-to-person interviews used in field studies and case
+studies.
 
-It addresses models of fieldwork, staffing, site protocols, data maintenance, analysis, coding, and
-reliability.
+It covers arranging interviews, developing guides, probing, recording, analysis, and reporting.
 
-The main risk is accumulating unstructured site notes that are hard to compare, verify, or use.
+The main risk is relying on informal conversation without enough preparation, documentation, or
+analytic structure.
 
 Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
 should be read alongside the neighboring chapters because the handbook treats design, data
@@ -44,22 +44,22 @@ collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
+- **semistructured interview**: An interview guided by prepared topics while preserving open-ended probing and adaptation.
 - **fieldwork**: Systematic in-person inquiry using interviews, observations, documents, and site-level evidence.
-- **case study**: A bounded inquiry that integrates multiple evidence sources to understand implementation, context, and effects.
 - **qualitative analysis**: Systematic coding, display, interpretation, and verification of qualitative data.
 
 ## Chapter Structure
 
-- Design problem: Field data collection makes evaluation evidence more contextual and credible when site visits, interviews, observations, and records are organized systematically.
-- Evidence focus: The chapter focuses on field studies for implementation, process, organizational, and outcome questions.
-- Practice method: It addresses models of fieldwork, staffing, site protocols, data maintenance, analysis, coding, and reliability.
-- Quality risk: The main risk is accumulating unstructured site notes that are hard to compare, verify, or use.
+- Design problem: Semi-structured interviews help evaluators learn from knowledgeable respondents while preserving enough consistency for analysis.
+- Evidence focus: The chapter focuses on open-ended, person-to-person interviews used in field studies and case studies.
+- Practice method: It covers arranging interviews, developing guides, probing, recording, analysis, and reporting.
+- Quality risk: The main risk is relying on informal conversation without enough preparation, documentation, or analytic structure.
 
 ## Practical Implications
 
-- Prepare site protocols and topic guides.
-- Train field staff for consistency and adaptation.
-- Code and maintain field data throughout collection.
+- Prepare interview guides around evaluation questions.
+- Use probes without leading respondents.
+- Plan how interview data will be coded and reported.
 
 ## Connections
 
@@ -67,21 +67,21 @@ collection, analysis, and use as connected evaluation work.
 - Reading route: [Chapter Map](chapter-map.qmd)
 - Concepts synthesis: [Core Concepts](concepts.qmd)
 - Practice synthesis: [Practice Implications](practice-implications.qmd)
-- Previous: [Chapter 16: Using Ratings by Trained Observers](chapter-16-using-ratings-by-trained-observers.qmd)
-- Next: [Chapter 18: Using the Internet](chapter-18-using-the-internet.qmd)
+- Previous: [Chapter 18: Using the Internet](chapter-18-using-the-internet.qmd)
+- Next: [Chapter 20: Focus Group Interviewing](chapter-20-focus-group-interviewing.qmd)
 - Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
 - Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
 - Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
 
 ## Study Prompts
 
-- What decision or design problem does Chapter 17 help resolve?
+- What decision or design problem does Chapter 19 help resolve?
 - Which evidence source should be reopened before using this summary in applied work?
 - Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
-- `chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001`
+- `chunk:handbook-practical-program-evaluation:ch19-chapter-19-semi-structured-interviews:c0001`
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References

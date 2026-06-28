@@ -6,7 +6,8 @@ collection_id: "evaluation-texts"
 note_type: "Book"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
-  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+  - "table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254"
   - "chunk:handbook-practical-program-evaluation:part-1:c0001"
   - "chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001"
   - "chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001"
@@ -14,10 +15,9 @@ evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
   - "chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001"
   - "chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001"
-  - "chunk:handbook-practical-program-evaluation:ch08-chapter-8-case-studies:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001"
   - "chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001"
   - "chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001"
-  - "chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001"
 source_status: "needs_review"
 ---
 <div class="landing-stack">
@@ -27,7 +27,10 @@ source_status: "needs_review"
 
 # Handbook of Practical Program Evaluation
 
-Chapter-level study notes on *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+Chapter-level study notes on *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. These notes are generated from
+source-linked MCP research-library records and are intended for study, comparison, and later
+refinement.
 
 <div class="page-metadata">
   <span>31 chapter notes</span>
@@ -43,7 +46,7 @@ Chapter-level study notes on *Handbook of Practical Program Evaluation* [@newcom
 
 ### [Core Concepts](concepts.qmd)
 
-Recurring ideas and distinctions used across these notes.
+Recurring ideas and distinctions used across these chapter notes.
 :::
 
 ::: {.section-card}
@@ -51,7 +54,7 @@ Recurring ideas and distinctions used across these notes.
 
 ### [Chapter Map](chapter-map.qmd)
 
-Source sections, page ranges, and reading routes.
+Source chapters, page ranges, and reading routes.
 :::
 
 ::: {.section-card}
@@ -69,56 +72,60 @@ Practical evaluation design habits drawn from the notes.
 
 <div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
 
-This index summarises generated chapter notes for Kathryn E. Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].
+This index summarises generated chapter-level study notes for Kathryn E. Newcomer, Harry P. Hatry,
+and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. The generated pages use
+selected MCP research-library retrieval records and compact evidence summaries.
 
 ## Core Argument
 
-Practical program evaluation should align credible design, workable data collection, useful analysis, and deliberate strategies for evaluation use.
+Practical evaluation improves programs when evaluators align design, data collection, analysis, reporting, contracting, and use with real information needs and credible evidence standards.
 
 ## Chapter Notes
 
-### Evaluation Planning and Design
 
-- [Chapter 1: Planning and Designing Useful Evaluations](chapter-01-planning-and-designing-useful-evaluations.qmd) - source pages 49-78
-- [Chapter 2: Analyzing and Engaging Stakeholders](chapter-02-analyzing-and-engaging-stakeholders.qmd) - source pages 79-103
+### Part 1: Evaluation Planning and Design
+
+- [Chapter 1: Planning and Designing Useful Evaluations](chapter-01-planning-and-designing-useful-evaluations.qmd) - source pages 49-77
+- [Chapter 2: Analyzing and Engaging Stakeholders](chapter-02-analyzing-and-engaging-stakeholders.qmd) - source pages 78-103
 - [Chapter 3: Using Logic Models](chapter-03-using-logic-models.qmd) - source pages 104-129
 - [Chapter 4: Exploratory Evaluation](chapter-04-exploratory-evaluation.qmd) - source pages 130-149
-- [Chapter 5: Performance Measurement](chapter-05-performance-measurement.qmd) - source pages 150-177
-- [Chapter 6: Comparison Group Designs](chapter-06-comparison-group-designs.qmd) - source pages 178-213
-- [Chapter 7: Randomized Controlled Trials](chapter-07-randomized-controlled-trials.qmd) - source pages 214-237
-- [Chapter 8: Case Studies](chapter-08-case-studies.qmd) - source pages 238-267
-- [Chapter 9: Recruitment and Retention of Study Participants](chapter-09-recruitment-and-retention-of-study-participants.qmd) - source pages 238-267
-- [Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations](chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd) - source pages 268-302
-- [Chapter 11: Evaluating Community Change Programs](chapter-11-evaluating-community-change-programs.qmd) - source pages 303-330
-- [Chapter 12: Culturally Responsive Evaluation](chapter-12-culturally-responsive-evaluation.qmd) - source pages 331-360
+- [Chapter 5: Performance Measurement](chapter-05-performance-measurement.qmd) - source pages 150-178
+- [Chapter 6: Comparison Group Designs](chapter-06-comparison-group-designs.qmd) - source pages 179-201
+- [Chapter 7: Randomized Controlled Trials](chapter-07-randomized-controlled-trials.qmd) - source pages 202-224
+- [Chapter 8: Conducting Case Studies](chapter-08-conducting-case-studies.qmd) - source pages 225-248
+- [Chapter 9: Recruitment and Retention of Study Participants](chapter-09-recruitment-and-retention-of-study-participants.qmd) - source pages 249-267
+- [Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations](chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd) - source pages 268-299
+- [Chapter 11: Evaluating Community Change Programs](chapter-11-evaluating-community-change-programs.qmd) - source pages 300-322
+- [Chapter 12: Culturally Responsive Evaluation](chapter-12-culturally-responsive-evaluation.qmd) - source pages 323-357
 
-### Practical Data Collection Procedures
+### Part 2: Practical Data Collection Procedures
 
-- [Chapter 13: Using Agency Records](chapter-13-using-agency-records.qmd) - source pages 369-388
-- [Chapter 14: Using Surveys](chapter-14-using-surveys.qmd) - source pages 389-424
+- [Chapter 13: Using Agency Records](chapter-13-using-agency-records.qmd) - source pages 367-384
+- [Chapter 14: Using Surveys](chapter-14-using-surveys.qmd) - source pages 385-424
 - [Chapter 15: Role Playing](chapter-15-role-playing.qmd) - source pages 425-453
-- [Chapter 16: Using Ratings by Trained Observers](chapter-16-using-ratings-by-trained-observers.qmd) - source pages 454-486
-- [Chapter 17: Collecting Data in the Field](chapter-17-collecting-data-in-the-field.qmd) - source pages 487-515
-- [Chapter 18: Using the Internet](chapter-18-using-the-internet.qmd) - source pages 516-538
-- [Chapter 19: Semi-Structured Interviewing](chapter-19-semi-structured-interviewing.qmd) - source pages 539-546
-- [Chapter 20: Focus Group Interviewing](chapter-20-focus-group-interviewing.qmd) - source pages 547-576
-- [Chapter 21: Using Stories in Evaluation](chapter-21-using-stories-in-evaluation.qmd) - source pages 577-598
+- [Chapter 16: Using Ratings by Trained Observers](chapter-16-using-ratings-by-trained-observers.qmd) - source pages 454-487
+- [Chapter 17: Collecting Data in the Field](chapter-17-collecting-data-in-the-field.qmd) - source pages 488-518
+- [Chapter 18: Using the Internet](chapter-18-using-the-internet.qmd) - source pages 519-537
+- [Chapter 19: Semi-Structured Interviews](chapter-19-semi-structured-interviews.qmd) - source pages 538-551
+- [Chapter 20: Focus Group Interviewing](chapter-20-focus-group-interviewing.qmd) - source pages 552-576
+- [Chapter 21: Using Stories in Evaluation](chapter-21-using-stories-in-evaluation.qmd) - source pages 577-597
 
-### Data Analysis
+### Part 3: Data Analysis
 
-- [Chapter 22: Qualitative Data Analysis](chapter-22-qualitative-data-analysis.qmd) - source pages 605-638
-- [Chapter 23: Using Statistics in Evaluation](chapter-23-using-statistics-in-evaluation.qmd) - source pages 639-684
-- [Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis](chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd) - source pages 685-716
-- [Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses](chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd) - source pages 717-740
+- [Chapter 22: Analyzing Qualitative Data](chapter-22-analyzing-qualitative-data.qmd) - source pages 603-635
+- [Chapter 23: Using Statistics in Evaluation](chapter-23-using-statistics-in-evaluation.qmd) - source pages 636-677
+- [Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis](chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd) - source pages 678-714
+- [Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses](chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd) - source pages 715-740
 
-### Use of Evaluation
+### Part 4: Use of Evaluation
 
-- [Chapter 26: Pitfalls in Evaluations](chapter-26-pitfalls-in-evaluations.qmd) - source pages 745-766
-- [Chapter 27: Providing Recommendations, Suggestions, and Options for Improvement](chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd) - source pages 767-780
-- [Chapter 28: Writing for Impact](chapter-28-writing-for-impact.qmd) - source pages 781-805
-- [Chapter 29: Evaluation Contracting](chapter-29-evaluation-contracting.qmd) - source pages 807-830
-- [Chapter 30: Use of Evaluation in Government](chapter-30-use-of-evaluation-in-government.qmd) - source pages 831-857
-- [Chapter 31: Evaluation Challenges, Issues, and Trends](chapter-31-evaluation-challenges-issues-and-trends.qmd) - source pages 858-870
+- [Chapter 26: Pitfalls in Evaluations](chapter-26-pitfalls-in-evaluations.qmd) - source pages 745-776
+- [Chapter 27: Writing Recommendations](chapter-27-writing-recommendations.qmd) - source pages 777-790
+- [Chapter 28: Writing Evaluation Reports](chapter-28-writing-evaluation-reports.qmd) - source pages 791-806
+- [Chapter 29: Contracting for Evaluation Products and Services](chapter-29-contracting-for-evaluation-products-and-services.qmd) - source pages 807-840
+- [Chapter 30: Evaluation in Government and the Politics of Evaluation](chapter-30-evaluation-in-government-and-the-politics-of-evaluation.qmd) - source pages 841-857
+- [Chapter 31: Evaluation Challenges, Issues, and Trends](chapter-31-evaluation-challenges-issues-and-trends.qmd) - source pages 858-874
 
 ## Legacy Extracts
 
@@ -128,7 +135,8 @@ Practical program evaluation should align credible design, workable data collect
 
 ## Source Records
 
-- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003`
+- `table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254`
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 - `chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001`
 - `chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001`
@@ -136,7 +144,7 @@ Practical program evaluation should align credible design, workable data collect
 - `chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001`
 - `chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001`
 - `chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001`
-- `chunk:handbook-practical-program-evaluation:ch08-chapter-8-case-studies:c0001`
+- `chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001`
 - `chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001`
 - `chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001`
 - `chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001`
@@ -148,5 +156,22 @@ Practical program evaluation should align credible design, workable data collect
 - `chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001`
 - `chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001`
 - `chunk:handbook-practical-program-evaluation:ch18-chapter-18-using-the-internet:c0001`
+- `chunk:handbook-practical-program-evaluation:ch19-chapter-19-semi-structured-interviews:c0001`
+- `chunk:handbook-practical-program-evaluation:ch20-chapter-20-focus-group-interviewing:c0001`
+- `chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch22-chapter-22-analyzing-qualitative-data:c0001`
+- `chunk:handbook-practical-program-evaluation:part-3:c0002`
+- `chunk:handbook-practical-program-evaluation:ch23-chapter-23-using-statistics-in-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch24-chapter-24-cost-effectiveness-and-cost-benefit-analysis:c0023`
+- `table_segment:handbook-practical-program-evaluation:table:table-24-6:p0695:r0254:s002`
+- `chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001`
+- `chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+- `chunk:handbook-practical-program-evaluation:ch27-chapter-27-writing-recommendations:c0001`
+- `chunk:handbook-practical-program-evaluation:ch28-chapter-28-writing-evaluation-reports:c0001`
+- `chunk:handbook-practical-program-evaluation:ch29-chapter-29-contracting-for-evaluation-products-and-services:c0001`
+- `chunk:handbook-practical-program-evaluation:ch30-chapter-30-evaluation-in-government-and-the-politics-of-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0001`
+- `chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0009`
 
 ## References

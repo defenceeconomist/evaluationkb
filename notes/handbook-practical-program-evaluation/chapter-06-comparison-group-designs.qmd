@@ -1,11 +1,11 @@
 ---
-title: "Chapter 6: Comparison Group Designs"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 06: Comparison Group Designs"
+description: "Detailed study notes for Chapter 6 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 6
-source_pages: "178-213"
+source_pages: "179-201"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 6: Comparison Group Designs
+## Source
 
-<div class="chapter-meta"><span>178-213</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6</span><span>Source pages 179-201</span></div>
 
-## Core Claim
+This note summarises Chapter 6, "Comparison Group Designs," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Comparison group designs estimate program impact when randomized assignment is not feasible but credible counterfactual evidence is still needed.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter reviews alternatives to randomized trials for estimating causal effects.
+Comparison group designs estimate program effects when randomization is unavailable, but their credibility depends on how well they approximate the counterfactual.
 
-Its practical focus is improving the design, implementation, analysis, and interpretation of nonrandomized comparisons.
+## Study Summary
 
-The chapter pushes evaluators to document why the comparison group represents what would have happened without the program.
+The chapter introduces nonrandomized alternatives for assessing impacts and the logic of comparing
+treated units with similar untreated units.
+
+It emphasizes design choices that reduce selection bias and make causal claims more credible.
+
+The main risk is presenting weak comparisons as causal evidence without acknowledging alternative
+explanations.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **comparison group design**: A nonrandomized impact design that estimates program effects by comparing participants with a credible comparison group.
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **comparison group**: A group used to estimate what would have happened without the program or policy.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
+- **statistics**: Quantitative techniques used to describe data, estimate relationships, test differences, and present uncertainty.
 
-## Practice Implications
+## Chapter Structure
 
-- Treat comparison group construction as the core validity problem.
-- Document assumptions and remaining threats clearly.
-- Use the design only when the evaluation question requires causal evidence.
+- Design problem: Comparison group designs estimate program effects when randomization is unavailable, but their credibility depends on how well they approximate the counterfactual.
+- Evidence focus: The chapter introduces nonrandomized alternatives for assessing impacts and the logic of comparing treated units with similar untreated units.
+- Practice method: It emphasizes design choices that reduce selection bias and make causal claims more credible.
+- Quality risk: The main risk is presenting weak comparisons as causal evidence without acknowledging alternative explanations.
+
+## Practical Implications
+
+- Document why the comparison group is credible.
+- Use baseline and contextual evidence to test comparability.
+- Report design limitations plainly.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Performance Measurement](chapter-05-performance-measurement.qmd)
+- Next: [Chapter 7: Randomized Controlled Trials](chapter-07-randomized-controlled-trials.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 6 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ The chapter pushes evaluators to document why the comparison group represents wh
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

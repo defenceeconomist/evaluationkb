@@ -1,11 +1,11 @@
 ---
 title: "Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 10 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 10
-source_pages: "268-302"
+source_pages: "268-299"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001"
@@ -13,33 +13,73 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations
+## Source
 
-<div class="chapter-meta"><span>268-302</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 10</span><span>Source pages 268-299</span></div>
 
-## Core Claim
+This note summarises Chapter 10, "Designing, Managing, and Analyzing Multisite Evaluations," from
+Kathryn E. Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program
+Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
 
-Multisite evaluation requires coordinated design, site-level management, and cross-site analysis.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter focuses on evaluations that must learn from multiple locations without flattening site differences.
+Multisite evaluations require common design discipline while preserving enough site-level detail to explain variation across contexts.
 
-It highlights the need to manage shared protocols, local variation, data comparability, and cross-site interpretation.
+## Study Summary
 
-The design task is to decide what must be common across sites and what must remain locally responsive.
+The chapter provides principles and tools for designing, managing, collecting, analyzing, and
+reporting across multiple sites.
+
+It covers common and single-site data, monitoring implementation, quality control, data management,
+analysis, and communication.
+
+The main risk is forcing sites into a common template that hides meaningful differences or allowing
+local variation to defeat synthesis.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **multisite evaluation**: Evaluation across multiple locations requiring cross-site design, management, and analysis.
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **multisite evaluation**: Evaluation of a policy or program across two or more sites with attention to common and site-specific evidence.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
+- **quality control**: Processes for checking design, data collection, analysis, reporting, and use across an evaluation.
 
-## Practice Implications
+## Chapter Structure
 
-- Clarify common and site-specific questions.
-- Create protocols that support comparability without suppressing context.
-- Plan cross-site analysis before fieldwork starts.
+- Design problem: Multisite evaluations require common design discipline while preserving enough site-level detail to explain variation across contexts.
+- Evidence focus: The chapter provides principles and tools for designing, managing, collecting, analyzing, and reporting across multiple sites.
+- Practice method: It covers common and single-site data, monitoring implementation, quality control, data management, analysis, and communication.
+- Quality risk: The main risk is forcing sites into a common template that hides meaningful differences or allowing local variation to defeat synthesis.
+
+## Practical Implications
+
+- Specify common data requirements across sites.
+- Track site-level implementation and context.
+- Build quality control into field and analysis plans.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 9: Recruitment and Retention of Study Participants](chapter-09-recruitment-and-retention-of-study-participants.qmd)
+- Next: [Chapter 11: Evaluating Community Change Programs](chapter-11-evaluating-community-change-programs.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 10 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +87,3 @@ The design task is to decide what must be common across sites and what must rema
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

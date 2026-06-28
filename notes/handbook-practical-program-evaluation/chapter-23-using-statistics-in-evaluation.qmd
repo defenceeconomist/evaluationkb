@@ -1,11 +1,11 @@
 ---
 title: "Chapter 23: Using Statistics in Evaluation"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 23 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 23
-source_pages: "639-684"
+source_pages: "636-677"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch23-chapter-23-using-statistics-in-evaluation:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 23: Using Statistics in Evaluation
+## Source
 
-<div class="chapter-meta"><span>639-684</span><span>Part 3: Data Analysis</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 23</span><span>Source pages 636-677</span></div>
 
-## Core Claim
+This note summarises Chapter 23, "Using Statistics in Evaluation," from Kathryn E. Newcomer, Harry
+P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Statistical analysis helps evaluators draw clearer conclusions when sampling, measurement, assumptions, and reporting are handled carefully.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter introduces statistical tools in practical terms, including sampling, tests, regression, and visualization.
+Statistical analysis strengthens evaluation conclusions when techniques match questions, samples, measurement scales, assumptions, and reporting needs.
 
-It emphasizes choosing techniques according to the evaluation question and data rather than applying methods mechanically.
+## Study Summary
 
-Reporting should explain statistical results clearly, including limitations, uncertainty, and practical significance.
+The chapter introduces practical statistical tools for evaluators, including sampling, significance
+tests, regression, and visualization.
+
+It emphasizes choosing appropriate analyses and reporting quantitative findings clearly.
+
+The main risk is using statistical procedures mechanically or reporting precision that the data
+cannot support.
+
+Within the wider book, this chapter belongs to Part 3: Data Analysis. It should be read alongside
+the neighboring chapters because the handbook treats design, data collection, analysis, and use as
+connected evaluation work.
 
 ## Key Concepts
 
-- **survey**: Structured data collection from a population or sample.
-- **comparison group design**: A nonrandomized impact design that estimates program effects by comparing participants with a credible comparison group.
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **statistics**: Quantitative techniques used to describe data, estimate relationships, test differences, and present uncertainty.
+- **survey**: A structured data collection method used to obtain comparable responses from a population or sample.
+- **data quality**: The completeness, accuracy, consistency, accessibility, and interpretability of data for evaluation purposes.
 
-## Practice Implications
+## Chapter Structure
 
-- Match statistical tools to the question and data structure.
-- Report uncertainty and practical meaning, not only significance.
-- Use visualizations to clarify rather than decorate findings.
+- Design problem: Statistical analysis strengthens evaluation conclusions when techniques match questions, samples, measurement scales, assumptions, and reporting needs.
+- Evidence focus: The chapter introduces practical statistical tools for evaluators, including sampling, significance tests, regression, and visualization.
+- Practice method: It emphasizes choosing appropriate analyses and reporting quantitative findings clearly.
+- Quality risk: The main risk is using statistical procedures mechanically or reporting precision that the data cannot support.
+
+## Practical Implications
+
+- Match statistical tests to the evaluation question and data.
+- Report uncertainty and assumptions clearly.
+- Use visualization to aid interpretation.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 22: Analyzing Qualitative Data](chapter-22-analyzing-qualitative-data.qmd)
+- Next: [Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis](chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 23 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ Reporting should explain statistical results clearly, including limitations, unc
 - `chunk:handbook-practical-program-evaluation:part-3:c0002`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

@@ -1,51 +1,89 @@
 ---
-title: "Chapter 1: Planning and Designing Useful Evaluations"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 01: Planning and Designing Useful Evaluations"
+description: "Detailed study notes for Chapter 1 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 1
-source_pages: "49-78"
+source_pages: "49-77"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
-  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+  - "table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254"
   - "chunk:handbook-practical-program-evaluation:part-1:c0001"
 source_status: "needs_review"
 ---
 
-# Chapter 1: Planning and Designing Useful Evaluations
+## Source
 
-<div class="chapter-meta"><span>49-78</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 1</span><span>Source pages 49-77</span></div>
 
-## Core Claim
+This note summarises Chapter 1, "Planning and Designing Useful Evaluations," from Kathryn E.
+Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Useful evaluation design starts by matching information needs, context, rigor, and use before methods are chosen.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter frames design as a practical alignment problem: evaluators must understand the decisions, stakeholders, program context, and evidence standards before committing to a design.
+Useful evaluation begins by matching information needs, contextual constraints, rigor, and communication to the decisions the evaluation must inform.
 
-It links evaluation questions to data, analysis, and use, stressing that credibility depends on both methodological rigor and responsiveness to the setting.
+## Study Summary
 
-A recurring message is that evaluation products should be envisioned early, because the eventual audience and decision use shape what data must be credible and how findings should be reported.
+The opening chapter frames the handbook around evaluations that improve public and nonprofit
+programs, not only satisfy accountability demands.
+
+It links evaluation questions to design, data collection, analysis, reporting, and use, including
+the need to negotiate evaluable questions with sponsors and intended users.
+
+The main risk is designing a technically impressive study that answers questions no one can use or
+trust.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
-- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
+- **intended use**: The decision, learning, accountability, or improvement purpose the evaluation is meant to serve.
+- **stakeholder engagement**: Deliberate work with intended users and affected parties to shape useful, credible evaluation.
 
-## Practice Implications
+## Chapter Structure
 
-- Start every design with intended users and information needs.
-- Connect questions, measures, analysis, reporting, and use in one design logic.
-- Define credibility standards before data collection begins.
+- Design problem: Useful evaluation begins by matching information needs, contextual constraints, rigor, and communication to the decisions the evaluation must inform.
+- Evidence focus: The opening chapter frames the handbook around evaluations that improve public and nonprofit programs, not only satisfy accountability demands.
+- Practice method: It links evaluation questions to design, data collection, analysis, reporting, and use, including the need to negotiate evaluable questions with sponsors and intended users.
+- Quality risk: The main risk is designing a technically impressive study that answers questions no one can use or trust.
+
+## Practical Implications
+
+- Begin every design with the intended users and decisions.
+- Use a design matrix to connect questions, data, analysis, and reporting.
+- Treat communication and use as design requirements.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 2: Analyzing and Engaging Stakeholders](chapter-02-analyzing-and-engaging-stakeholders.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 1 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
-- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003`
+- `table:handbook-practical-program-evaluation:table:table-1-1:p0069:r0254`
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

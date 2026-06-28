@@ -1,6 +1,6 @@
 ---
 title: "Chapter 15: Role Playing"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 15 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 15: Role Playing
+## Source
 
-<div class="chapter-meta"><span>425-453</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 15</span><span>Source pages 425-453</span></div>
 
-## Core Claim
+This note summarises Chapter 15, "Role Playing," from Kathryn E. Newcomer, Harry P. Hatry, and
+Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Role playing uses trained testers to observe transactions and service quality that may otherwise be hidden.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter describes role playing, testing, and audit-study methods.
+Role playing can reveal service quality and differential treatment by observing standardized transactions that other methods may miss.
 
-Role players can provide evidence about service quality, access, treatment differences, and customer experience.
+## Study Summary
 
-The method requires careful training, ethical review, data capture, and analysis because it places researchers directly into service transactions.
+The chapter describes trained role players or testers who document service encounters for empirical
+analysis.
+
+It covers sampling, scripts, data collection forms, training, management, quality control, ethics,
+and legal considerations.
+
+The main risk is collecting vivid transaction evidence without adequate standardization,
+documentation, or ethical review.
+
+Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
+should be read alongside the neighboring chapters because the handbook treats design, data
+collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **role playing**: A data collection method using trained actors or testers to observe service transactions.
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **comparison group design**: A nonrandomized impact design that estimates program effects by comparing participants with a credible comparison group.
+- **role playing**: A data collection method in which trained actors test service encounters or transactions.
+- **data quality**: The completeness, accuracy, consistency, accessibility, and interpretability of data for evaluation purposes.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
 
-## Practice Implications
+## Chapter Structure
 
-- Use role playing when direct service encounters must be observed.
-- Treat ethics and legality as design constraints.
-- Train testers and document interactions consistently.
+- Design problem: Role playing can reveal service quality and differential treatment by observing standardized transactions that other methods may miss.
+- Evidence focus: The chapter describes trained role players or testers who document service encounters for empirical analysis.
+- Practice method: It covers sampling, scripts, data collection forms, training, management, quality control, ethics, and legal considerations.
+- Quality risk: The main risk is collecting vivid transaction evidence without adequate standardization, documentation, or ethical review.
+
+## Practical Implications
+
+- Train role players carefully.
+- Standardize scenarios and recording forms.
+- Address legal and ethical constraints before fieldwork.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 14: Using Surveys](chapter-14-using-surveys.qmd)
+- Next: [Chapter 16: Using Ratings by Trained Observers](chapter-16-using-ratings-by-trained-observers.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 15 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ The method requires careful training, ethical review, data capture, and analysis
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

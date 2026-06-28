@@ -385,5 +385,341 @@
   },
   "notes/magenta-book/executive-summary.qmd": {
     "executive-summary.html": "6551ad5f"
+  },
+  "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd": {
+    "introduction-overview-and-context.html": "4c7994cb"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd": {
+    "step-01-assess-and-build-program-and-organizational-readiness.html": "b3c6ce44"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd": {
+    "step-02-assess-and-enhance-evaluator-readiness.html": "9acd345c"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd": {
+    "step-03-identify-organize-and-engage-primary-intended-users.html": "0f48a24e"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd": {
+    "step-04-situation-analysis-with-primary-intended-users.html": "101cc9d3"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd": {
+    "step-05-identify-and-prioritize-primary-intended-uses.html": "782d206e"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd": {
+    "step-06-consider-and-build-in-process-uses.html": "64c26101"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd": {
+    "step-07-focus-priority-evaluation-questions.html": "f3b6d787"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd": {
+    "step-08-check-fundamental-evaluation-inquiry-areas.html": "9759ba1b"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd": {
+    "step-09-determine-intervention-model-or-theory-of-change.html": "c57a0b77"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd": {
+    "step-10-negotiate-methods-for-credible-use.html": "cbe237cd"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd": {
+    "step-11-explain-methods-controversies-and-implications.html": "1469062c"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd": {
+    "step-12-simulate-use-of-findings.html": "23049b62"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd": {
+    "step-13-gather-data-with-ongoing-attention-to-use.html": "a2586f30"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd": {
+    "step-14-organize-and-present-data-for-interpretation-and-use.html": "97eddd0b"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd": {
+    "step-15-prepare-report-to-facilitate-use-and-disseminate-findings.html": "32ce1665"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd": {
+    "step-16-follow-up-to-facilitate-and-enhance-use.html": "885aa47e"
+  },
+  "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd": {
+    "step-17-metaevaluation-of-use.html": "2445968f"
+  },
+  "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd": {
+    "summary-and-conclusion.html": "e7b46cce"
+  },
+  "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd": {
+    "chapter-01-an-overview-of-program-evaluation.html": "a6932068"
+  },
+  "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd": {
+    "chapter-02-tailoring-evaluations.html": "03deaf17"
+  },
+  "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd": {
+    "chapter-03-identifying-issues-and-formulating-questions.html": "a91dbbb1"
+  },
+  "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd": {
+    "chapter-04-assessing-the-need-for-a-program.html": "14b64c6a"
+  },
+  "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd": {
+    "chapter-05-expressing-and-assessing-program-theory.html": "86232288"
+  },
+  "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd": {
+    "chapter-06-assessing-and-monitoring-program-process.html": "bd83a723"
+  },
+  "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd": {
+    "chapter-07-measuring-and-monitoring-program-outcomes.html": "6dc725f7"
+  },
+  "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd": {
+    "chapter-08-assessing-program-impact-randomized-field-experiments.html": "c9b0a6c7"
+  },
+  "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd": {
+    "chapter-09-assessing-program-impact-alternative-designs.html": "eb57ba22"
+  },
+  "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd": {
+    "chapter-10-detecting-interpreting-and-analyzing-program-effects.html": "e35d5b93"
+  },
+  "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd": {
+    "chapter-11-measuring-efficiency.html": "b757f717"
+  },
+  "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd": {
+    "chapter-12-the-social-context-of-evaluation.html": "6b6ddf0a"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd": {
+    "chapter-01-planning-and-designing-useful-evaluations.html": "35ffbde0"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd": {
+    "chapter-02-analyzing-and-engaging-stakeholders.html": "0c9b76ad"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd": {
+    "chapter-03-using-logic-models.html": "693b02b5"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd": {
+    "chapter-04-exploratory-evaluation.html": "deab687b"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd": {
+    "chapter-05-performance-measurement.html": "8acc86e0"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd": {
+    "chapter-06-comparison-group-designs.html": "52984b49"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd": {
+    "chapter-07-randomized-controlled-trials.html": "e3acbf0a"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-08-conducting-case-studies.qmd": {
+    "chapter-08-conducting-case-studies.html": "0520e584"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd": {
+    "chapter-09-recruitment-and-retention-of-study-participants.html": "9aacbf9a"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd": {
+    "chapter-10-designing-managing-and-analyzing-multisite-evaluations.html": "129d3f8f"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd": {
+    "chapter-11-evaluating-community-change-programs.html": "841e8d49"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd": {
+    "chapter-12-culturally-responsive-evaluation.html": "4f8fd2c0"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd": {
+    "chapter-13-using-agency-records.html": "9a4327c3"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd": {
+    "chapter-14-using-surveys.html": "1714c7bd"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd": {
+    "chapter-15-role-playing.html": "1c4fdf2b"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd": {
+    "chapter-16-using-ratings-by-trained-observers.html": "24cb64d1"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd": {
+    "chapter-17-collecting-data-in-the-field.html": "5ba21ee4"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd": {
+    "chapter-18-using-the-internet.html": "b3bc441a"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviews.qmd": {
+    "chapter-19-semi-structured-interviews.html": "84ed57d8"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd": {
+    "chapter-20-focus-group-interviewing.html": "f9d14435"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd": {
+    "chapter-21-using-stories-in-evaluation.html": "887c3a32"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-22-analyzing-qualitative-data.qmd": {
+    "chapter-22-analyzing-qualitative-data.html": "e0e303e0"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd": {
+    "chapter-23-using-statistics-in-evaluation.html": "89237765"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd": {
+    "chapter-24-cost-effectiveness-and-cost-benefit-analysis.html": "77f4a85d"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd": {
+    "chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.html": "64752c7d"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd": {
+    "chapter-26-pitfalls-in-evaluations.html": "dd27b59d"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-27-writing-recommendations.qmd": {
+    "chapter-27-writing-recommendations.html": "7f439df4"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-28-writing-evaluation-reports.qmd": {
+    "chapter-28-writing-evaluation-reports.html": "74a3f395"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-29-contracting-for-evaluation-products-and-services.qmd": {
+    "chapter-29-contracting-for-evaluation-products-and-services.html": "0829f9a5"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-30-evaluation-in-government-and-the-politics-of-evaluation.qmd": {
+    "chapter-30-evaluation-in-government-and-the-politics-of-evaluation.html": "bf292de3"
+  },
+  "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd": {
+    "chapter-31-evaluation-challenges-issues-and-trends.html": "cf5ad43f"
+  },
+  "notes/impact-evaluation-in-practice/chapter-01-why-evaluate.qmd": {
+    "chapter-01-why-evaluate.html": "a73f70d2"
+  },
+  "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd": {
+    "chapter-02-preparing-for-an-evaluation.html": "c73d5333"
+  },
+  "notes/impact-evaluation-in-practice/chapter-03-causal-inference-and-counterfactuals.qmd": {
+    "chapter-03-causal-inference-and-counterfactuals.html": "e762b6f5"
+  },
+  "notes/impact-evaluation-in-practice/chapter-04-randomized-assignment.qmd": {
+    "chapter-04-randomized-assignment.html": "f9f75d46"
+  },
+  "notes/impact-evaluation-in-practice/chapter-05-instrumental-variables.qmd": {
+    "chapter-05-instrumental-variables.html": "76104fe2"
+  },
+  "notes/impact-evaluation-in-practice/chapter-06-regression-discontinuity-design.qmd": {
+    "chapter-06-regression-discontinuity-design.html": "8cb6edfc"
+  },
+  "notes/impact-evaluation-in-practice/chapter-07-difference-in-differences.qmd": {
+    "chapter-07-difference-in-differences.html": "41455dfc"
+  },
+  "notes/impact-evaluation-in-practice/chapter-08-matching.qmd": {
+    "chapter-08-matching.html": "1cdf469e"
+  },
+  "notes/impact-evaluation-in-practice/chapter-09-addressing-methodological-challenges.qmd": {
+    "chapter-09-addressing-methodological-challenges.html": "414fab39"
+  },
+  "notes/impact-evaluation-in-practice/chapter-10-evaluating-multifaceted-programs.qmd": {
+    "chapter-10-evaluating-multifaceted-programs.html": "c74e9357"
+  },
+  "notes/impact-evaluation-in-practice/chapter-11-choosing-an-impact-evaluation-method.qmd": {
+    "chapter-11-choosing-an-impact-evaluation-method.html": "b3e003f2"
+  },
+  "notes/impact-evaluation-in-practice/chapter-12-managing-an-impact-evaluation.qmd": {
+    "chapter-12-managing-an-impact-evaluation.html": "4553a62f"
+  },
+  "notes/impact-evaluation-in-practice/chapter-13-the-ethics-and-science-of-impact-evaluation.qmd": {
+    "chapter-13-the-ethics-and-science-of-impact-evaluation.html": "bc810e44"
+  },
+  "notes/impact-evaluation-in-practice/chapter-14-disseminating-results-and-achieving-policy-impact.qmd": {
+    "chapter-14-disseminating-results-and-achieving-policy-impact.html": "08532e2b"
+  },
+  "notes/impact-evaluation-in-practice/chapter-15-choosing-a-sample.qmd": {
+    "chapter-15-choosing-a-sample.html": "ec00b824"
+  },
+  "notes/impact-evaluation-in-practice/chapter-16-finding-adequate-sources-of-data.qmd": {
+    "chapter-16-finding-adequate-sources-of-data.html": "5024b23d"
+  },
+  "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd": {
+    "chapter-01-fundamentals-of-program-evaluation.html": "895d61e0"
+  },
+  "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd": {
+    "chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.html": "bdd26c02"
+  },
+  "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd": {
+    "chapter-03-logic-models-and-the-action-model-change-model-schema.html": "c60f4f21"
+  },
+  "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd": {
+    "chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.html": "d6a17e32"
+  },
+  "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd": {
+    "chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.html": "8226103a"
+  },
+  "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd": {
+    "chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.html": "00134c90"
+  },
+  "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd": {
+    "chapter-07-assessing-implementation-in-the-mature-implementation-stage.html": "f73cbb03"
+  },
+  "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd": {
+    "chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.html": "76b2701c"
+  },
+  "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd": {
+    "chapter-09-constructive-outcome-evaluations.html": "bb80db2c"
+  },
+  "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd": {
+    "chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.html": "2cf41b27"
+  },
+  "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd": {
+    "chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.html": "1917dd6b"
+  },
+  "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd": {
+    "chapter-12-the-theory-driven-approach-to-outcome-evaluation.html": "c8091f3b"
+  },
+  "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd": {
+    "chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.html": "3a90cc9b"
+  },
+  "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd": {
+    "chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.html": "a4342e48"
+  },
+  "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd": {
+    "chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.html": "da3c0107"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd": {
+    "chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.html": "e970e58a"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd": {
+    "chapter-02-strategic-themes-in-qualitative-inquiry.html": "25e91e51"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd": {
+    "chapter-03-variety-of-qualitative-inquiry-frameworks.html": "61e6b77c"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd": {
+    "chapter-04-practical-and-actionable-qualitative-applications.html": "6a84180b"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd": {
+    "chapter-05-designing-qualitative-studies.html": "72ee19ba"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd": {
+    "chapter-06-fieldwork-strategies-and-observation-methods.html": "94ab74dd"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd": {
+    "chapter-07-qualitative-interviewing.html": "cf35af00"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd": {
+    "chapter-08-qualitative-analysis-and-interpretation.html": "a02da7d7"
+  },
+  "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd": {
+    "chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.html": "1c82deae"
+  },
+  "notes/realistic-evaluation/chapter-00-introduction.qmd": {
+    "chapter-00-introduction.html": "80c4e4d6"
+  },
+  "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd": {
+    "chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html": "a268728e"
+  },
+  "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd": {
+    "chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html": "b2ac08e9"
+  },
+  "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd": {
+    "chapter-03-in-with-the-new-introducing-scientific-realism.html": "ceba49cc"
+  },
+  "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd": {
+    "chapter-04-how-to-design-a-realistic-evaluation.html": "e8daf081"
+  },
+  "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd": {
+    "chapter-05-how-to-make-evaluations-cumulate.html": "5865236a"
+  },
+  "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd": {
+    "chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html": "fe49a374"
+  },
+  "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd": {
+    "chapter-07-no-smoking-without-firing-mechanisms.html": "19a435c0"
+  },
+  "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd": {
+    "chapter-08-evaluation-policy-and-practice-realizing-the-potential.html": "16308158"
+  },
+  "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd": {
+    "chapter-09-the-new-rules-of-realistic-evaluation.html": "85af83df"
   }
 }

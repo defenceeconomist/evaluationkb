@@ -1,11 +1,11 @@
 ---
 title: "Chapter 12: Culturally Responsive Evaluation"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 12 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 12
-source_pages: "331-360"
+source_pages: "323-357"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch12-chapter-12-culturally-responsive-evaluation:c0001"
@@ -13,33 +13,70 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 12: Culturally Responsive Evaluation
+## Source
 
-<div class="chapter-meta"><span>331-360</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 12</span><span>Source pages 323-357</span></div>
 
-## Core Claim
+This note summarises Chapter 12, "Culturally Responsive Evaluation," from Kathryn E. Newcomer, Harry
+P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Culturally responsive evaluation embeds cultural context, equity, and stakeholder voice in evaluation design and use.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter extends design beyond technical fit to cultural fit.
+Culturally responsive evaluation strengthens validity, rigor, and responsibility by making culture and context integral to every evaluation stage.
 
-It asks evaluators to attend to communities, values, language, power, and interpretation when framing questions and judging evidence.
+## Study Summary
 
-Cultural responsiveness affects the full evaluation cycle: engagement, data collection, analysis, reporting, and use.
+The chapter reviews CRE theory, practice, history, and applications in diverse communities.
+
+It frames culture as a design and validity issue, not an optional sensitivity add-on.
+
+The main risk is using standardized evaluation routines that ignore local meanings, relationships,
+histories, and consequences.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **culturally responsive evaluation**: Evaluation that attends to cultural context, stakeholder voice, and equity in design and use.
-- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **culturally responsive evaluation**: Evaluation that treats culture, context, relationships, validity, and responsibility as integral to design and use.
+- **stakeholder engagement**: Deliberate work with intended users and affected parties to shape useful, credible evaluation.
+- **quality control**: Processes for checking design, data collection, analysis, reporting, and use across an evaluation.
 
-## Practice Implications
+## Chapter Structure
 
-- Build cultural context into the design, not only dissemination.
-- Use engagement to test whether questions and methods are respectful and valid.
-- Interpret findings with attention to power and context.
+- Design problem: Culturally responsive evaluation strengthens validity, rigor, and responsibility by making culture and context integral to every evaluation stage.
+- Evidence focus: The chapter reviews CRE theory, practice, history, and applications in diverse communities.
+- Practice method: It frames culture as a design and validity issue, not an optional sensitivity add-on.
+- Quality risk: The main risk is using standardized evaluation routines that ignore local meanings, relationships, histories, and consequences.
+
+## Practical Implications
+
+- Build cultural inquiry into design, sampling, data collection, and interpretation.
+- Engage stakeholders in culturally appropriate ways.
+- Judge rigor partly by contextual validity and responsibility.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 11: Evaluating Community Change Programs](chapter-11-evaluating-community-change-programs.qmd)
+- Next: [Chapter 13: Using Agency Records](chapter-13-using-agency-records.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 12 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +84,3 @@ Cultural responsiveness affects the full evaluation cycle: engagement, data coll
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

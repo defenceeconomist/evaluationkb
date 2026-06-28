@@ -1,11 +1,11 @@
 ---
 title: "Chapter 21: Using Stories in Evaluation"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 21 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 21
-source_pages: "577-598"
+source_pages: "577-597"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 21: Using Stories in Evaluation
+## Source
 
-<div class="chapter-meta"><span>577-598</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 21</span><span>Source pages 577-597</span></div>
 
-## Core Claim
+This note summarises Chapter 21, "Using Stories in Evaluation," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Stories can make evaluation findings vivid and memorable when collected and presented systematically.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter argues that stories can enrich evaluation by communicating experience, emotion, and meaning.
+Stories can deepen evaluation understanding and communication when collected and analyzed with qualitative discipline.
 
-It does not treat stories as replacements for quantitative evidence; instead, stories can complement other evidence and help audiences understand findings.
+## Study Summary
 
-Credibility depends on systematic collection, careful selection, preservation of intent, and transparency about what the story represents.
+The chapter explains how stories can illuminate experience, change, meaning, and findings for
+audiences.
+
+It covers when stories are useful, how to elicit them, how to analyze them, and how to avoid
+misleading anecdotal use.
+
+The main risk is using compelling narratives as evidence without transparent selection and analysis.
+
+Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
+should be read alongside the neighboring chapters because the handbook treats design, data
+collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **stories**: Narrative evidence used to communicate experience, meaning, and findings memorably.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
-- **case study**: A design for describing or explaining program operation, context, and outcomes in bounded cases.
+- **stories**: Narrative evidence used to communicate experience, meaning, change, and evaluation findings.
+- **qualitative analysis**: Systematic coding, display, interpretation, and verification of qualitative data.
+- **evaluation report**: A communication product that explains findings, methods, limitations, implications, and recommended action.
 
-## Practice Implications
+## Chapter Structure
 
-- Collect stories with a clear topic or evaluation question.
-- Use stories to illuminate evidence, not to replace it.
-- Preserve key details while editing for clarity and ethics.
+- Design problem: Stories can deepen evaluation understanding and communication when collected and analyzed with qualitative discipline.
+- Evidence focus: The chapter explains how stories can illuminate experience, change, meaning, and findings for audiences.
+- Practice method: It covers when stories are useful, how to elicit them, how to analyze them, and how to avoid misleading anecdotal use.
+- Quality risk: The main risk is using compelling narratives as evidence without transparent selection and analysis.
+
+## Practical Implications
+
+- Collect stories with explicit questions and criteria.
+- Analyze stories alongside other evidence.
+- Use stories to illuminate findings, not replace evidence.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 20: Focus Group Interviewing](chapter-20-focus-group-interviewing.qmd)
+- Next: [Chapter 22: Analyzing Qualitative Data](chapter-22-analyzing-qualitative-data.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 21 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ Credibility depends on systematic collection, careful selection, preservation of
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

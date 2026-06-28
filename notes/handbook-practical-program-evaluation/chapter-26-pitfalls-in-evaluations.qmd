@@ -1,11 +1,11 @@
 ---
 title: "Chapter 26: Pitfalls in Evaluations"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 26 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 26
-source_pages: "745-766"
+source_pages: "745-776"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 26: Pitfalls in Evaluations
+## Source
 
-<div class="chapter-meta"><span>745-766</span><span>Part 4: Use of Evaluation</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 26</span><span>Source pages 745-776</span></div>
 
-## Core Claim
+This note summarises Chapter 26, "Pitfalls in Evaluations," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Evaluation pitfalls are predictable design, data, analysis, and use problems that can be anticipated and reduced.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter catalogues common problems that undermine evaluations, including weak design, intrusive data collection, attrition, and misaligned expectations.
+Recognizing evaluation pitfalls strengthens credibility because every evaluation has limitations that should be anticipated, reduced, and explained.
 
-Its value is diagnostic: evaluators can use the pitfalls as a pre-mortem before committing to a design.
+## Study Summary
 
-The chapter links technical risks to practical consequences for credibility and use.
+The chapter provides a checklist for reviewing potential weaknesses in planning, implementation,
+validity, reliability, and credibility.
+
+It encourages evaluators to acknowledge limits and explain their implications for interpretation and
+use.
+
+The main risk is concealing or overlooking threats that users need to understand before acting on
+findings.
+
+Within the wider book, this chapter belongs to Part 4: Use of Evaluation. It should be read
+alongside the neighboring chapters because the handbook treats design, data collection, analysis,
+and use as connected evaluation work.
 
 ## Key Concepts
 
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **pitfall**: A recurring evaluation problem that can weaken validity, reliability, credibility, feasibility, or use.
+- **quality control**: Processes for checking design, data collection, analysis, reporting, and use across an evaluation.
+- **evaluation report**: A communication product that explains findings, methods, limitations, implications, and recommended action.
 
-## Practice Implications
+## Chapter Structure
 
-- Run a pitfalls check during design review.
-- Treat attrition and implementation disruption as threats to usefulness.
-- Build mitigation plans before fieldwork starts.
+- Design problem: Recognizing evaluation pitfalls strengthens credibility because every evaluation has limitations that should be anticipated, reduced, and explained.
+- Evidence focus: The chapter provides a checklist for reviewing potential weaknesses in planning, implementation, validity, reliability, and credibility.
+- Practice method: It encourages evaluators to acknowledge limits and explain their implications for interpretation and use.
+- Quality risk: The main risk is concealing or overlooking threats that users need to understand before acting on findings.
+
+## Practical Implications
+
+- Use pitfall checklists during design and review.
+- Explain limitations directly.
+- Link each limitation to its likely effect on interpretation.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses](chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd)
+- Next: [Chapter 27: Writing Recommendations](chapter-27-writing-recommendations.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 26 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ The chapter links technical risks to practical consequences for credibility and 
 - `chunk:handbook-practical-program-evaluation:part-4:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

@@ -1,11 +1,11 @@
 ---
-title: "Chapter 2: Analyzing and Engaging Stakeholders"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 02: Analyzing and Engaging Stakeholders"
+description: "Detailed study notes for Chapter 2 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 2
-source_pages: "79-103"
+source_pages: "78-103"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 2: Analyzing and Engaging Stakeholders
+## Source
 
-<div class="chapter-meta"><span>79-103</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 2</span><span>Source pages 78-103</span></div>
 
-## Core Claim
+This note summarises Chapter 2, "Analyzing and Engaging Stakeholders," from Kathryn E. Newcomer,
+Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Stakeholder analysis is a design task that clarifies intended users, influence, interests, and feasible engagement.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter treats stakeholder engagement as deliberate work rather than a courtesy. Evaluators identify who can use, block, support, or be affected by evaluation information.
+Stakeholder analysis should precede and guide engagement so evaluations have clear users, purposes, roles, and adaptive strategies for changing settings.
 
-It emphasizes flexibility: stakeholder interests and political context can shift during an evaluation, so engagement plans need active management.
+## Study Summary
 
-Engagement is tied to usefulness because the mission, goals, questions, and reporting routes are negotiated with the people who will act on the findings.
+The chapter treats stakeholder work as both practical and ethical, especially for utilization-
+focused evaluation.
+
+It offers techniques for identifying key stakeholders, clarifying evaluation purposes, mapping
+influence, and deciding who should be engaged at each stage.
+
+The main risk is mistaking participation for use, or engaging stakeholders without understanding
+power, culture, and changing circumstances.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+- **stakeholder engagement**: Deliberate work with intended users and affected parties to shape useful, credible evaluation.
+- **intended use**: The decision, learning, accountability, or improvement purpose the evaluation is meant to serve.
+- **culturally responsive evaluation**: Evaluation that treats culture, context, relationships, validity, and responsibility as integral to design and use.
 
-## Practice Implications
+## Chapter Structure
 
-- Map users, decision makers, implementers, participants, and affected groups separately.
-- Use engagement to sharpen questions and intended uses.
-- Build room for adaptation when stakeholder needs change.
+- Design problem: Stakeholder analysis should precede and guide engagement so evaluations have clear users, purposes, roles, and adaptive strategies for changing settings.
+- Evidence focus: The chapter treats stakeholder work as both practical and ethical, especially for utilization-focused evaluation.
+- Practice method: It offers techniques for identifying key stakeholders, clarifying evaluation purposes, mapping influence, and deciding who should be engaged at each stage.
+- Quality risk: The main risk is mistaking participation for use, or engaging stakeholders without understanding power, culture, and changing circumstances.
+
+## Practical Implications
+
+- Analyze stakeholders before designing engagement.
+- Name primary intended users explicitly.
+- Adapt engagement as evaluation purposes and stakeholder relationships change.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: Planning and Designing Useful Evaluations](chapter-01-planning-and-designing-useful-evaluations.qmd)
+- Next: [Chapter 3: Using Logic Models](chapter-03-using-logic-models.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 2 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ Engagement is tied to usefulness because the mission, goals, questions, and repo
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

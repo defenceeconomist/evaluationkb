@@ -1,0 +1,86 @@
+---
+title: "Chapter 28: Writing Evaluation Reports"
+description: "Detailed study notes for Chapter 28 of Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 28
+source_pages: "791-806"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch28-chapter-28-writing-evaluation-reports:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-4:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 28</span><span>Source pages 791-806</span></div>
+
+This note summarises Chapter 28, "Writing Evaluation Reports," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Evaluation reports should convey findings, methods, limits, and implications clearly enough to stimulate constructive action.
+
+## Study Summary
+
+The chapter addresses how to craft a core message, communicate findings, and explain methods
+efficiently.
+
+It emphasizes clarity, audience fit, concise presentation, and methodological transparency.
+
+The main risk is producing reports that are technically complete but unreadable or unusable.
+
+Within the wider book, this chapter belongs to Part 4: Use of Evaluation. It should be read
+alongside the neighboring chapters because the handbook treats design, data collection, analysis,
+and use as connected evaluation work.
+
+## Key Concepts
+
+- **evaluation report**: A communication product that explains findings, methods, limitations, implications, and recommended action.
+- **recommendation**: A finding-linked suggestion, option, or action statement for decision makers.
+- **intended use**: The decision, learning, accountability, or improvement purpose the evaluation is meant to serve.
+
+## Chapter Structure
+
+- Design problem: Evaluation reports should convey findings, methods, limits, and implications clearly enough to stimulate constructive action.
+- Evidence focus: The chapter addresses how to craft a core message, communicate findings, and explain methods efficiently.
+- Practice method: It emphasizes clarity, audience fit, concise presentation, and methodological transparency.
+- Quality risk: The main risk is producing reports that are technically complete but unreadable or unusable.
+
+## Practical Implications
+
+- Shape reports around the core message and audience needs.
+- Explain methods and limitations without burying findings.
+- Use concise language and structure.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 27: Writing Recommendations](chapter-27-writing-recommendations.qmd)
+- Next: [Chapter 29: Contracting for Evaluation Products and Services](chapter-29-contracting-for-evaluation-products-and-services.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 28 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch28-chapter-28-writing-evaluation-reports:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+
+## References

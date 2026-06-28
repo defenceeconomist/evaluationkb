@@ -1,0 +1,88 @@
+---
+title: "Chapter 08: Conducting Case Studies"
+description: "Detailed study notes for Chapter 8 of Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+source_pages: "225-248"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 8</span><span>Source pages 225-248</span></div>
+
+This note summarises Chapter 8, "Conducting Case Studies," from Kathryn E. Newcomer, Harry P. Hatry,
+and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
+
+## Core Argument
+
+Case studies integrate multiple sources to understand programs in context, including exploratory, descriptive, and explanatory evaluation questions.
+
+## Study Summary
+
+The chapter distinguishes types of case studies and shows how to design, collect, analyze, and
+report case evidence.
+
+It emphasizes documents, interviews, observations, site visits, pilot testing, training, and
+audience-sensitive reporting.
+
+The main risk is collecting rich site evidence without enough structure to support credible cross-
+case or causal interpretation.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
+
+## Key Concepts
+
+- **case study**: A bounded inquiry that integrates multiple evidence sources to understand implementation, context, and effects.
+- **fieldwork**: Systematic in-person inquiry using interviews, observations, documents, and site-level evidence.
+- **qualitative analysis**: Systematic coding, display, interpretation, and verification of qualitative data.
+
+## Chapter Structure
+
+- Design problem: Case studies integrate multiple sources to understand programs in context, including exploratory, descriptive, and explanatory evaluation questions.
+- Evidence focus: The chapter distinguishes types of case studies and shows how to design, collect, analyze, and report case evidence.
+- Practice method: It emphasizes documents, interviews, observations, site visits, pilot testing, training, and audience-sensitive reporting.
+- Quality risk: The main risk is collecting rich site evidence without enough structure to support credible cross-case or causal interpretation.
+
+## Practical Implications
+
+- Define the case and case-study purpose early.
+- Use multiple data sources for corroboration.
+- Plan analysis and reporting before fieldwork begins.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Randomized Controlled Trials](chapter-07-randomized-controlled-trials.qmd)
+- Next: [Chapter 9: Recruitment and Retention of Study Participants](chapter-09-recruitment-and-retention-of-study-participants.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 8 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch08-chapter-8-conducting-case-studies:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References

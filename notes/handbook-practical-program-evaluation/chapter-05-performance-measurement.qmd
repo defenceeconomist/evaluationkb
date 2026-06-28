@@ -1,11 +1,11 @@
 ---
-title: "Chapter 5: Performance Measurement"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 05: Performance Measurement"
+description: "Detailed study notes for Chapter 5 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 5
-source_pages: "150-177"
+source_pages: "150-178"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 5: Performance Measurement
+## Source
 
-<div class="chapter-meta"><span>150-177</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 5</span><span>Source pages 150-178</span></div>
 
-## Core Claim
+This note summarises Chapter 5, "Performance Measurement," from Kathryn E. Newcomer, Harry P. Hatry,
+and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Performance measurement systems monitor outcomes and operations so managers can improve programs without waiting for episodic studies.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter explains how to design measures that are meaningful, credible, and useful to decision makers.
+Performance measurement systems can support improvement when measures are valid, understandable, affordable, and presented for decisions rather than compliance alone.
 
-It cautions that monitoring systems can create burden or distort behavior if measures are poorly chosen or presented.
+## Study Summary
 
-Performance information is most valuable when it is reported in ways that invite interpretation, learning, and corrective action.
+The chapter explains how ongoing outcome and performance data can inform management and public
+accountability.
+
+It emphasizes selecting good measures, implementing measurement systems, and presenting performance
+information effectively.
+
+The main risk is creating disruptive or low-validity measurement routines that absorb resources
+without improving performance.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
-- **administrative data**: Existing agency, archival, or management records used as evaluation evidence.
+- **performance measurement**: Ongoing measurement of outputs, outcomes, service quality, or efficiency for management and improvement.
+- **logic model**: A representation of program resources, activities, outputs, outcomes, context, and assumptions.
+- **intended use**: The decision, learning, accountability, or improvement purpose the evaluation is meant to serve.
 
-## Practice Implications
+## Chapter Structure
 
-- Select measures that matter for program improvement.
-- Anticipate unintended consequences of measurement systems.
-- Present performance information in forms managers can act on.
+- Design problem: Performance measurement systems can support improvement when measures are valid, understandable, affordable, and presented for decisions rather than compliance alone.
+- Evidence focus: The chapter explains how ongoing outcome and performance data can inform management and public accountability.
+- Practice method: It emphasizes selecting good measures, implementing measurement systems, and presenting performance information effectively.
+- Quality risk: The main risk is creating disruptive or low-validity measurement routines that absorb resources without improving performance.
+
+## Practical Implications
+
+- Choose measures users can interpret and act on.
+- Balance information value against burden.
+- Report performance in formats that support management action.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Exploratory Evaluation](chapter-04-exploratory-evaluation.qmd)
+- Next: [Chapter 6: Comparison Group Designs](chapter-06-comparison-group-designs.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 5 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ Performance information is most valuable when it is reported in ways that invite
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

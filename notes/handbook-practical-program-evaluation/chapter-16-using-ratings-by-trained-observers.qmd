@@ -1,11 +1,11 @@
 ---
 title: "Chapter 16: Using Ratings by Trained Observers"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 16 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 16
-source_pages: "454-486"
+source_pages: "454-487"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001"
@@ -13,33 +13,71 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 16: Using Ratings by Trained Observers
+## Source
 
-<div class="chapter-meta"><span>454-486</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 16</span><span>Source pages 454-487</span></div>
 
-## Core Claim
+This note summarises Chapter 16, "Using Ratings by Trained Observers," from Kathryn E. Newcomer,
+Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Trained observer ratings turn direct observation into systematic evidence through explicit scales and procedures.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter covers ratings of physical conditions, interactions, facilities, and service environments.
+Trained observer ratings turn observed conditions into systematic data when definitions, rating anchors, sampling, training, and supervision are explicit.
 
-Anchored scales and trained raters can generate comparable data, but reliability depends on training, calibration, and quality control.
+## Study Summary
 
-Observer ratings are especially useful when conditions can be seen directly but are not captured well in administrative records or surveys.
+The chapter explains how anchored ratings can assess physical conditions, service settings,
+functioning, or maintenance quality.
+
+It covers deciding what to observe, defining rating scales, preparing forms, training raters,
+pretesting, sampling, and collating data.
+
+The main risk is producing subjective labels that cannot be verified, compared, or acted on.
+
+Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
+should be read alongside the neighboring chapters because the handbook treats design, data
+collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **trained observer rating**: Systematic rating by observers using explicit scales or criteria.
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **trained observer rating**: Structured observation by trained raters using defined and anchored rating scales.
+- **data quality**: The completeness, accuracy, consistency, accessibility, and interpretability of data for evaluation purposes.
+- **fieldwork**: Systematic in-person inquiry using interviews, observations, documents, and site-level evidence.
 
-## Practice Implications
+## Chapter Structure
 
-- Use explicit rating anchors and training protocols.
-- Check inter-rater consistency.
-- Match observation schedules to the program conditions being assessed.
+- Design problem: Trained observer ratings turn observed conditions into systematic data when definitions, rating anchors, sampling, training, and supervision are explicit.
+- Evidence focus: The chapter explains how anchored ratings can assess physical conditions, service settings, functioning, or maintenance quality.
+- Practice method: It covers deciding what to observe, defining rating scales, preparing forms, training raters, pretesting, sampling, and collating data.
+- Quality risk: The main risk is producing subjective labels that cannot be verified, compared, or acted on.
+
+## Practical Implications
+
+- Define every rating category concretely.
+- Use training and trial runs before data collection.
+- Plan how observations will be stored, checked, and reported.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 15: Role Playing](chapter-15-role-playing.qmd)
+- Next: [Chapter 17: Collecting Data in the Field](chapter-17-collecting-data-in-the-field.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 16 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +85,3 @@ Observer ratings are especially useful when conditions can be seen directly but 
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

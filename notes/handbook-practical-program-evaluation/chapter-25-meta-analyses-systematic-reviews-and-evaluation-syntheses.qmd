@@ -1,11 +1,11 @@
 ---
 title: "Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 25 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 25
-source_pages: "717-740"
+source_pages: "715-740"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses
+## Source
 
-<div class="chapter-meta"><span>717-740</span><span>Part 3: Data Analysis</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 25</span><span>Source pages 715-740</span></div>
 
-## Core Claim
+This note summarises Chapter 25, "Meta-Analyses, Systematic Reviews, and Evaluation Syntheses," from
+Kathryn E. Newcomer, Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program
+Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
 
-Evidence synthesis clarifies where evaluation evidence is strong, absent, ambiguous, or not comparable.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
+
+Evidence synthesis helps evaluators learn from prior studies by making search, inclusion, quality assessment, and synthesis procedures explicit.
+
+## Study Summary
 
 The chapter distinguishes meta-analysis, systematic review, and research synthesis.
 
-It emphasizes transparent search, study selection, quality appraisal, and interpretation of prior studies.
+It covers benefits, logistics, resources, obstacles, and how synthesis can identify strong, absent,
+or ambiguous evidence.
 
-Synthesis can help evaluators and decision makers avoid overreliance on one study and identify where new evaluation is needed.
+The main risk is summarizing prior evaluations without transparent criteria for study quality and
+inclusion.
+
+Within the wider book, this chapter belongs to Part 3: Data Analysis. It should be read alongside
+the neighboring chapters because the handbook treats design, data collection, analysis, and use as
+connected evaluation work.
 
 ## Key Concepts
 
-- **meta-analysis**: Quantitative synthesis of results from prior studies.
-- **evaluation synthesis**: Systematic combination of existing studies or findings to assess what is known.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **meta-analysis**: Statistical synthesis of findings across studies.
+- **systematic review**: A transparent, replicable synthesis process for locating, assessing, and summarizing prior evidence.
+- **statistics**: Quantitative techniques used to describe data, estimate relationships, test differences, and present uncertainty.
 
-## Practice Implications
+## Chapter Structure
 
-- Use explicit inclusion criteria and search procedures.
-- Assess study quality before combining evidence.
-- Report where evidence is absent or ambiguous.
+- Design problem: Evidence synthesis helps evaluators learn from prior studies by making search, inclusion, quality assessment, and synthesis procedures explicit.
+- Evidence focus: The chapter distinguishes meta-analysis, systematic review, and research synthesis.
+- Practice method: It covers benefits, logistics, resources, obstacles, and how synthesis can identify strong, absent, or ambiguous evidence.
+- Quality risk: The main risk is summarizing prior evaluations without transparent criteria for study quality and inclusion.
+
+## Practical Implications
+
+- Use explicit search and inclusion procedures.
+- Assess study quality before synthesis.
+- Distinguish absence of evidence from evidence of no effect.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis](chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd)
+- Next: [Chapter 26: Pitfalls in Evaluations](chapter-26-pitfalls-in-evaluations.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 25 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ Synthesis can help evaluators and decision makers avoid overreliance on one stud
 - `chunk:handbook-practical-program-evaluation:part-3:c0002`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

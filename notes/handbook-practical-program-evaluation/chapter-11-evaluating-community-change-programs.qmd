@@ -1,11 +1,11 @@
 ---
 title: "Chapter 11: Evaluating Community Change Programs"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 11 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 11
-source_pages: "303-330"
+source_pages: "300-322"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 11: Evaluating Community Change Programs
+## Source
 
-<div class="chapter-meta"><span>303-330</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 11</span><span>Source pages 300-322</span></div>
 
-## Core Claim
+This note summarises Chapter 11, "Evaluating Community Change Programs," from Kathryn E. Newcomer,
+Harry P. Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Community change evaluation must handle complex interventions, shifting context, multiple actors, and long time horizons.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter addresses initiatives whose effects emerge through partnerships, neighborhoods, systems, and community conditions.
+Community change evaluation must handle broad aims, place-based complexity, shifting implementation, difficult units of analysis, and weak causal leverage.
 
-It emphasizes designs that can track implementation, contextual change, intermediate outcomes, and contribution rather than relying on simple single-program attribution.
+## Study Summary
 
-The evaluator's task is to make credible claims while respecting the open and adaptive character of community change work.
+The chapter identifies why multiservice and place-based interventions need special evaluation design
+attention.
+
+It offers guidance on metrics, units of analysis, time periods, available data, data systems, and
+feasible methods.
+
+The main risk is applying individual-level impact logic to community-level change without adapting
+to context and scale.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **case study**: A design for describing or explaining program operation, context, and outcomes in bounded cases.
-- **multisite evaluation**: Evaluation across multiple locations requiring cross-site design, management, and analysis.
-- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **community change**: Place-based or community-level intervention where boundaries, timing, context, and causal attribution are difficult.
+- **case study**: A bounded inquiry that integrates multiple evidence sources to understand implementation, context, and effects.
+- **comparison group**: A group used to estimate what would have happened without the program or policy.
 
-## Practice Implications
+## Chapter Structure
 
-- Use mixed evidence for complex community change.
-- Track context and implementation alongside outcomes.
-- Avoid overclaiming attribution when contribution is the defensible claim.
+- Design problem: Community change evaluation must handle broad aims, place-based complexity, shifting implementation, difficult units of analysis, and weak causal leverage.
+- Evidence focus: The chapter identifies why multiservice and place-based interventions need special evaluation design attention.
+- Practice method: It offers guidance on metrics, units of analysis, time periods, available data, data systems, and feasible methods.
+- Quality risk: The main risk is applying individual-level impact logic to community-level change without adapting to context and scale.
+
+## Practical Implications
+
+- Choose units of analysis deliberately.
+- Match time horizons to plausible change pathways.
+- Use mixed evidence when causal attribution is limited.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations](chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd)
+- Next: [Chapter 12: Culturally Responsive Evaluation](chapter-12-culturally-responsive-evaluation.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 11 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ The evaluator's task is to make credible claims while respecting the open and ad
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

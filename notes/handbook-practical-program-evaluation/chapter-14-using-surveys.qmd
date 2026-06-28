@@ -1,11 +1,11 @@
 ---
 title: "Chapter 14: Using Surveys"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+description: "Detailed study notes for Chapter 14 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 14
-source_pages: "389-424"
+source_pages: "385-424"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch14-chapter-14-using-surveys:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 14: Using Surveys
+## Source
 
-<div class="chapter-meta"><span>389-424</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 14</span><span>Source pages 385-424</span></div>
 
-## Core Claim
+This note summarises Chapter 14, "Using Surveys," from Kathryn E. Newcomer, Harry P. Hatry, and
+Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Surveys provide structured evidence from clients, households, agencies, or other populations when questions, samples, and response processes are well designed.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter covers population and sample surveys, including mail and electronic approaches.
+Surveys can provide comparable evidence from clients, households, organizations, or officials when sampling, question wording, mode, and response quality are managed well.
 
-It stresses question wording, sampling, response rates, mode choice, and reliable measurement of factual information and perceptions.
+## Study Summary
 
-Surveys are useful when evaluators need systematic evidence that can be summarized across respondents.
+The chapter reviews survey design, administration modes, question construction, pretesting,
+sampling, and response-rate concerns.
+
+It emphasizes reliable measurement of perceptions, experiences, behaviors, demographics, and service
+outcomes.
+
+The main risk is treating survey administration as routine while question design or nonresponse
+undermines validity.
+
+Within the wider book, this chapter belongs to Part 2: Practical Data Collection Procedures. It
+should be read alongside the neighboring chapters because the handbook treats design, data
+collection, analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **survey**: Structured data collection from a population or sample.
-- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+- **survey**: A structured data collection method used to obtain comparable responses from a population or sample.
+- **data quality**: The completeness, accuracy, consistency, accessibility, and interpretability of data for evaluation purposes.
+- **statistics**: Quantitative techniques used to describe data, estimate relationships, test differences, and present uncertainty.
 
-## Practice Implications
+## Chapter Structure
 
-- Use surveys when structured respondent evidence is needed.
-- Invest in sampling and question design before fielding.
-- Plan response-rate strategies as part of validity.
+- Design problem: Surveys can provide comparable evidence from clients, households, organizations, or officials when sampling, question wording, mode, and response quality are managed well.
+- Evidence focus: The chapter reviews survey design, administration modes, question construction, pretesting, sampling, and response-rate concerns.
+- Practice method: It emphasizes reliable measurement of perceptions, experiences, behaviors, demographics, and service outcomes.
+- Quality risk: The main risk is treating survey administration as routine while question design or nonresponse undermines validity.
+
+## Practical Implications
+
+- Pretest survey instruments with target respondents.
+- Choose mode and sample to fit the population.
+- Report response limits and measurement choices.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 13: Using Agency Records](chapter-13-using-agency-records.qmd)
+- Next: [Chapter 15: Role Playing](chapter-15-role-playing.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 14 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ Surveys are useful when evaluators need systematic evidence that can be summariz
 - `chunk:handbook-practical-program-evaluation:part-2:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

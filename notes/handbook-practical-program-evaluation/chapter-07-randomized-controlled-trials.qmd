@@ -1,11 +1,11 @@
 ---
-title: "Chapter 7: Randomized Controlled Trials"
-description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+title: "Chapter 07: Randomized Controlled Trials"
+description: "Detailed study notes for Chapter 7 of Handbook of Practical Program Evaluation."
 book_id: "handbook-practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Chapter"
 chapter_number: 7
-source_pages: "214-237"
+source_pages: "202-224"
 citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
 evidence_ids:
   - "chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001"
@@ -13,33 +13,72 @@ evidence_ids:
 source_status: "needs_review"
 ---
 
-# Chapter 7: Randomized Controlled Trials
+## Source
 
-<div class="chapter-meta"><span>214-237</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 7</span><span>Source pages 202-224</span></div>
 
-## Core Claim
+This note summarises Chapter 7, "Randomized Controlled Trials," from Kathryn E. Newcomer, Harry P.
+Hatry, and Joseph S. Wholey's *Handbook of Practical Program Evaluation*
+[@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
 
-Randomized controlled trials strengthen causal claims when assignment, implementation, ethics, and operations can support the design.
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, checklists, figures, boxes, or extended passages.
 
-## Summary
+## Core Argument
 
-The chapter positions random assignment as a strong design for causal questions, but not as a default for every evaluation.
+Randomized controlled trials can provide strong causal evidence when assignment, implementation, measurement, ethics, and analysis remain aligned.
 
-It attends to operational requirements: eligibility, recruitment, compliance, retention, and preserving assignment integrity.
+## Study Summary
 
-RCTs are framed as practical studies that must still produce useful findings for stakeholders and program decisions.
+The chapter explains how random assignment supports impact estimation and what implementation
+conditions must hold.
+
+It addresses design choices, threats, practical constraints, and the role of RCTs in public and
+nonprofit evaluation.
+
+The main risk is treating randomization as sufficient when recruitment, compliance, attrition, or
+ethics compromise the design.
+
+Within the wider book, this chapter belongs to Part 1: Evaluation Planning and Design. It should be
+read alongside the neighboring chapters because the handbook treats design, data collection,
+analysis, and use as connected evaluation work.
 
 ## Key Concepts
 
-- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
-- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
-- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **randomized controlled trial**: A design that assigns eligible units to treatment or control by chance to support causal inference.
+- **comparison group**: A group used to estimate what would have happened without the program or policy.
+- **evaluation design**: The plan linking questions, evidence, analysis, reporting, and intended use.
 
-## Practice Implications
+## Chapter Structure
 
-- Use randomization only when assignment is ethical and operationally feasible.
-- Protect the assignment process through implementation.
-- Plan communication so causal findings are understandable to users.
+- Design problem: Randomized controlled trials can provide strong causal evidence when assignment, implementation, measurement, ethics, and analysis remain aligned.
+- Evidence focus: The chapter explains how random assignment supports impact estimation and what implementation conditions must hold.
+- Practice method: It addresses design choices, threats, practical constraints, and the role of RCTs in public and nonprofit evaluation.
+- Quality risk: The main risk is treating randomization as sufficient when recruitment, compliance, attrition, or ethics compromise the design.
+
+## Practical Implications
+
+- Randomize only when it is ethical and operationally feasible.
+- Protect assignment and follow-up procedures.
+- Track implementation conditions that affect interpretation.
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: Comparison Group Designs](chapter-06-comparison-group-designs.qmd)
+- Next: [Chapter 8: Conducting Case Studies](chapter-08-conducting-case-studies.qmd)
+- Legacy extract retained: [Evaluation Planning and Design](section-01-planning-and-design.qmd)
+- Legacy extract retained: [Planning and Designing Useful Evaluations](section-02-planning-useful-evaluations.qmd)
+- Legacy extract retained: [Performance Measurement and Program Evaluation](section-03-performance-measurement.qmd)
+
+## Study Prompts
+
+- What decision or design problem does Chapter 7 help resolve?
+- Which evidence source should be reopened before using this summary in applied work?
+- Which quality risk in the chapter is most likely to affect a live evaluation?
 
 ## Source Records
 
@@ -47,5 +86,3 @@ RCTs are framed as practical studies that must still produce useful findings for
 - `chunk:handbook-practical-program-evaluation:part-1:c0001`
 
 ## References
-
-These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].
