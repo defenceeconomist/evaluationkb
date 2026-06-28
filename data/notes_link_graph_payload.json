@@ -1194,6 +1194,11 @@
       "id": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
       "title": "The New Rules and CMO Configurations",
       "path": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd"
+    },
+    {
+      "id": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "title": "Is a Theory of Change Needed in an Evaluation?",
+      "path": "notes/theory-of-change-needed-in-evaluation.qmd"
     }
   ],
   "edges": [
@@ -8059,6 +8064,11 @@
     },
     {
       "source": "notes/index.qmd",
+      "target": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
       "target": "notes/purposeful-programme-theory/index.qmd",
       "type": "internal-link"
     },
@@ -12101,6 +12111,96 @@
       "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
       "target": "notes/realistic-evaluation/practice-implications.qmd",
       "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/purposeful-programme-theory/chapter-15-causal-inference.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/magenta-book/chapter-02-evaluation-scoping.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
     }
   ],
   "citations": [
@@ -13103,6 +13203,30 @@
     {
       "source": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
       "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/theory-of-change-needed-in-evaluation.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
     }
   ]
 }

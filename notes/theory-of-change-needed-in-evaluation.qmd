@@ -1,0 +1,162 @@
+---
+title: "Is a Theory of Change Needed in an Evaluation?"
+description: "A critical assessment of when evaluations need a theory of change, when a lighter model is enough, and when theory work becomes performative."
+page-layout: full
+toc: true
+note_type: "Synthesis"
+evidence_ids:
+  - "chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003"
+  - "chunk:magenta-book:magenta-book-3-evaluation-methods:c0001"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+  - "chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+  - "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003"
+source_status: "needs_review"
+---
+
+## Source Base
+
+This article draws on the knowledge base notes for [Purposeful Program Theory](purposeful-programme-theory/index.qmd), [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd), [Practical Program Evaluation](practical-program-evaluation/index.qmd), [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd), [Realistic Evaluation](realistic-evaluation/index.qmd), and the [Magenta Book](magenta-book/index.qmd). It treats "theory of change" as part of the wider family of program theory, logic model, results chain, action model, change model, and realist theory-testing work.
+
+The position is mostly yes: most serious evaluations need at least a lightweight theory of change. But the theory must be proportionate, testable, and used. A diagram that does not shape questions, measures, methods, analysis, interpretation, or reporting is not an evaluation asset. It is decoration.
+
+## Short Answer
+
+A theory of change is usually needed because evaluation is not just measurement. Evaluation asks what should be judged, against what criteria, using what evidence, and with what interpretation. A theory of change helps answer those questions by making the intervention's causal and delivery assumptions visible.
+
+The claim should not be overstated. Some evaluations need only a compact logic statement, a results chain, or a short set of assumptions. Some descriptive, compliance, or rapid evidence tasks can proceed without developing a full theory of change. And some theories of change actively weaken evaluation when they become linear, vague, consensus-seeking diagrams that everyone endorses but no one tests.
+
+The practical standard is therefore:
+
+> Use the minimum useful theory of change: enough causal and delivery logic to guide evaluation questions, evidence, analysis, and use.
+
+## Why Evaluations Usually Need One
+
+### It clarifies what is being evaluated
+
+Rossi, Lipsey, and Freeman treat program theory as evaluable in its own right: evaluators should articulate the assumptions connecting need, action, implementation, service use, organization, and intended outcomes [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. This matters because a program can be energetic, well funded, and politically attractive while still resting on weak assumptions about the problem, target population, uptake, implementation, or causal pathway.
+
+Without a theory of change, the evaluation can drift into measuring whatever is available. With one, the evaluator can ask a sharper prior question: is this intervention coherent enough to evaluate as intended?
+
+### It links evaluation questions to causal assumptions
+
+Funnell and Rogers argue that a theory of change should start with problem analysis, causal conditions, opportunities, and a defensible outcomes chain [@funnell_rogers_2011_purposeful_program_theory]. That is a discipline against activity-led evaluation. The evaluator should not begin with what the program does, but with what problem it claims to address and why those actions should produce change.
+
+This is especially important where an evaluation asks "did it work?" The phrase is incomplete unless the evaluator also knows what "it" is, which outcome counts as working, whose outcome matters, by when, through which pathway, and under what assumptions.
+
+### It guides measurement and data collection
+
+A theory of change helps decide what not to measure as well as what to measure. The [Purposeful Program Theory monitoring and evaluation note](purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd) frames program theory as a way to choose indicators, timing, comparisons, key questions, information needs, and methods. The [Magenta Book](magenta-book/chapter-02-evaluation-scoping.qmd) similarly treats theory of change as part of scoping: it helps identify assumptions, mechanisms, outcomes, data needs, and evidence gaps [@hm_treasury_evaluation_task_force_2020_magenta_book].
+
+This is a practical point. Data collection is expensive, burdensome, and often irreversible. A useful theory of change reduces waste by showing which intermediate outcomes, implementation features, contextual conditions, and final outcomes need evidence.
+
+### It helps distinguish implementation failure from theory failure
+
+Impact evidence is hard to interpret without implementation and theory evidence. [Impact Evaluation in Practice](impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd) starts evaluation preparation by turning program logic into a theory of change, results chain, evaluation questions, and indicators before choosing an identification strategy [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice].
+
+If an impact evaluation finds no effect, there are at least two broad explanations. The intervention may not have been implemented as intended, or the causal theory may be wrong. A theory of change, with implementation indicators and intermediate outcomes, helps separate those possibilities.
+
+### It makes interpretation more credible
+
+Program theory does not replace causal evidence. Funnell and Rogers' causal inference chapter is explicit that theory should structure causal tests rather than stand in for them. Useful theory supports congruence analysis, counterfactual comparison, and critical review of alternative explanations.
+
+This is the difference between "the intervention caused the outcome because the diagram says so" and "the observed pattern is credible because evidence across implementation, intermediate outcomes, comparison, and alternative explanations fits the theory better than rival accounts."
+
+## Why the Requirement Can Be Overstated
+
+### Bad theories create false confidence
+
+The strongest argument against requiring a theory of change is not that theory is useless. It is that weak theory can be worse than no theory. Funnell and Rogers warn against common traps: treating a diagram as enough, assuming causality, ignoring unintended outcomes, oversimplifying complexity, and developing a theory that is not used in design or reporting.
+
+A theory of change can make assumptions visible. It can also launder assumptions into apparent consensus. If the theory is vague enough that any result can be explained after the fact, it is not helping the evaluation.
+
+### Linear diagrams can misrepresent complex interventions
+
+Many theories of change are drawn as simple chains: inputs, activities, outputs, outcomes, impacts. That can be enough for a simple service or tightly specified intervention. It is often inadequate for complex policy, networked delivery, adaptive programs, or systems change.
+
+Chen's action model/change model distinction is useful here [@chen_2015_practical_program_evaluation]. A simple logic model may communicate basic structure, but a richer model is needed when context, implementing organizations, partners, target populations, delivery protocols, mechanisms, and feedback loops create evaluation risk.
+
+Realist evaluation pushes the same critique further. For Pawson and Tilley, evaluation starts from candidate program theories and tests context-mechanism-outcome configurations [@pawson_tilley_1997_realistic_evaluation]. The point is not to draw a universal pathway, but to ask what works, for whom, in what circumstances, and why.
+
+### Theory work can consume disproportionate effort
+
+The question is not whether the theory of change is beautiful. It is whether it is useful. A full participatory model-building process may be justified for a large, novel, contested, or high-stakes intervention. It may be wasteful for a narrow evaluation with a stable intervention, clear administrative data, and a limited descriptive question.
+
+Theory of change work should therefore be scaled to risk, uncertainty, decision value, and the evaluation question. Sometimes the right output is a one-page causal statement and a short assumptions table.
+
+## When It Is Essential
+
+A theory of change is close to essential when the evaluation must do one or more of the following:
+
+- Test whether an intervention caused outcomes, especially when intermediate outcomes or implementation quality affect interpretation.
+- Choose indicators before outcomes are fully observable.
+- Explain why outcomes differ across people, places, delivery models, or contexts.
+- Assess whether a program is evaluable before investing in impact evaluation.
+- Distinguish implementation failure from weak causal theory.
+- Support value for money analysis, where benefits and costs depend on a clear account of outcomes.
+- Evaluate complex, adaptive, multi-site, or multi-component interventions.
+- Help stakeholders clarify what the program is actually trying to change.
+
+In these cases, skipping theory work usually shifts the burden downstream. The evaluator will still have to infer the intervention logic later, often after data collection choices have already narrowed what can be known.
+
+## When a Lighter Version May Be Enough
+
+Not every evaluation needs a full theory of change process. A lighter version may be enough when:
+
+- The evaluation question is narrowly descriptive, such as documenting reach, volume, compliance, or user experience.
+- The intervention logic is already documented and current.
+- The program is mature, stable, and operationally simple.
+- The evaluation is a rapid scoping, evidence review, or feasibility check.
+- A tightly specified experiment already has clear treatment, comparison, timing, and outcomes.
+- The decision does not require causal explanation, only a bounded factual answer.
+
+Even here, the evaluation usually needs some theory-like statement. It should be possible to say what the intervention is, what it is expected to affect, and why those measures answer the question. The difference is depth, not total absence.
+
+## A Practical Decision Test
+
+Before requiring a theory of change, ask four questions:
+
+| Test | If yes | If no |
+|---|---|---|
+| Would it change the evaluation questions? | Develop enough theory to focus the questions. | Keep the theory lightweight. |
+| Would it change the indicators, data sources, or timing? | Use the theory to prioritize evidence. | Avoid unnecessary model-building. |
+| Would it change causal interpretation? | Specify assumptions, mechanisms, comparisons, and alternative explanations. | Do not pretend theory work creates causal evidence. |
+| Would it change reporting or use? | Build the theory into findings, limitations, and recommendations. | Do not create a diagram that disappears after scoping. |
+
+If the answer to all four is no, a full theory of change is probably unnecessary. If the answer to any is yes, some theory work is justified. If the answer to several is yes, the evaluation likely needs a serious theory of change.
+
+## Bottom Line
+
+A theory of change is not automatically needed because evaluation guidance says so. It is needed when it improves the evaluation's ability to ask the right questions, gather relevant evidence, test assumptions, interpret results, and support use.
+
+For most evaluations, that threshold is met. The evaluator should therefore presume that some theory of change is needed, then scale it down or up according to the evaluation's stakes, complexity, uncertainty, and intended use.
+
+The best theory of change is not the most elaborate one. It is the one that actually changes the evaluation.
+
+## Related Notes
+
+- [Purposeful Program Theory: Common Myths and Traps](purposeful-programme-theory/chapter-03-common-myths-and-traps.qmd)
+- [Purposeful Program Theory: Developing a Theory of Change](purposeful-programme-theory/chapter-07-developing-a-theory-of-change.qmd)
+- [Purposeful Program Theory: Developing a Monitoring and Evaluation Plan](purposeful-programme-theory/chapter-14-developing-a-monitoring-and-evaluation-plan.qmd)
+- [Purposeful Program Theory: Causal Inference](purposeful-programme-theory/chapter-15-causal-inference.qmd)
+- [Evaluation: A Systematic Approach: Expressing and Assessing Program Theory](evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd)
+- [Magenta Book: Evaluation Scoping](magenta-book/chapter-02-evaluation-scoping.qmd)
+- [Impact Evaluation in Practice: Preparing for an Evaluation](impact-evaluation-in-practice/chapter-02-preparing-for-an-evaluation.qmd)
+- [Practical Program Evaluation: Logic Models and Program Theory](practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd)
+- [Realistic Evaluation: How to Design a Realistic Evaluation](realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd)
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:magenta-book:magenta-book-2-evaluation-scoping:c0003</code></li>
+<li><code>chunk:magenta-book:magenta-book-3-evaluation-methods:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001</code></li>
+<li><code>chunk:impact-evaluation-in-practice:ch02-chapter-2-preparing-for-an-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001</code></li>
+<li><code>chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003</code></li>
+</ul>
+</details>
+
+## References

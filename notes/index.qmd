@@ -69,6 +69,13 @@ A cross-text synthesis of the main evaluation sources and when each should lead.
 
 A balanced comparison of the Magenta Book against CIPP, Rossi/Lipsey/Freeman, utilization-focused evaluation, and related models.
 :::
+::: {.section-card data-note-card="" data-book="all" data-type="Synthesis"}
+<div class="badge-row"><span class="page-badge badge-synthesis">Synthesis</span><span class="page-badge badge-chapter">All texts</span></div>
+
+### [Is a Theory of Change Needed in an Evaluation?](theory-of-change-needed-in-evaluation.qmd)
+
+A critical assessment of when evaluations need a theory of change, when a lighter model is enough, and when theory work becomes performative.
+:::
 ::: {.section-card data-note-card="" data-book="purposeful-programme-theory" data-type="Book"}
 <div class="badge-row"><span class="page-badge badge-book">Book</span><span class="page-badge badge-chapter">2011</span></div>
 

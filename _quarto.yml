@@ -39,6 +39,8 @@ website:
           text: Comparing Evaluation Texts
         - href: notes/magenta-book-evaluation-model-alignment.qmd
           text: Magenta Book Model Alignment
+        - href: notes/theory-of-change-needed-in-evaluation.qmd
+          text: Is a Theory of Change Needed?
         - section: "Evaluation Texts"
           href: notes/purposeful-programme-theory/index.qmd
           contents:
