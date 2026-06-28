@@ -1,0 +1,136 @@
+---
+title: "Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve"
+description: "Detailed study notes for Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 17
+source_pages: "411-420"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0006"
+  - "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0010"
+  - "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0013"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 17</span><span>Source pages 411-420</span></div>
+
+This note summarises step 17, "Metaevaluation of Use: Be Accountable, Learn, and Improve," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+A utilization-focused evaluation should be judged by professional standards and by whether intended use actually occurred.
+
+## Study Summary
+
+Step 17 closes the sequence by evaluating the evaluation. Patton emphasizes that metaevaluation is a professional obligation and that U-FE places special emphasis on utility and actual use.
+
+The chapter distinguishes potential utility from actual use. A report can be usable and still not be used; assessing use requires looking beyond the product to whether intended users acted, learned, decided, or changed in intended ways.
+
+Professional standards provide criteria, but U-FE adds a sharper accountability question: did this evaluation serve intended users and intended uses responsibly?
+
+The step also supports learning and improvement. Metaevaluation should help evaluators and users understand what supported use, what constrained it, and how future evaluations should be designed differently.
+
+For close reading, track how this section uses metaevaluation, intended use, follow-up, and credibility while moving through utility standards, actual use criteria, and accountability. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the interpretation-and-use sequence: it moves from data sense-making to reporting, follow-up, and accountability for actual use.
+
+## Key Concepts
+
+- **metaevaluation**: Evaluation of an evaluation, with emphasis here on whether utility, use, and professional standards were achieved.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **follow-up**: Post-report support that keeps findings in front of users, adapts communication, and helps facilitate actual use.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+- **utilization-focused evaluation**: An evaluation approach judged by intended use by intended users, with methods and facilitation fitted to that use.
+
+## Section Structure
+
+- Utility standards.
+- Actual use criteria.
+- Accountability.
+- Learning uses.
+- Professional standards.
+
+## Practical Implications
+
+- Evaluate actual use, not only report quality.
+- Use metaevaluation findings to improve future evaluation facilitation.
+- Include follow-up support as a criterion for utility.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 17 help solve?"]
+  Central["Concept: Metaevaluation of Use: Be Accountable, Learn, and Improve"]
+  Concept1["Concept: metaevaluation"]
+  Concept2["Concept: intended use"]
+  Concept3["Concept: follow-up"]
+  Mechanism1["Mechanism: utility standards"]
+  Mechanism2["Mechanism: actual use criteria"]
+  Mechanism3["Mechanism: accountability"]
+  Implication1["Practice implication: Evaluate actual use, not only report quality."]
+  Implication2["Practice implication: Use metaevaluation findings to improve future evaluation facilitation."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use](step-16-follow-up-to-facilitate-and-enhance-use.qmd)
+- Next: [Summary and Conclusion](summary-and-conclusion.qmd)
+
+## Study Prompts
+
+1. What use problem does step 17 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0006</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0010</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0013</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve, pages 411-420.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

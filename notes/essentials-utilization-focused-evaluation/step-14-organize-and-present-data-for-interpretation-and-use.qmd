@@ -1,0 +1,136 @@
+---
+title: "Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations"
+description: "Detailed study notes for Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 14
+source_pages: "361-387"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0003"
+  - "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0045"
+  - "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0052"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 14</span><span>Source pages 361-387</span></div>
+
+This note summarises step 14, "Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Data must be organized so users can move from what the evidence says to interpretation, judgment, and warranted action.
+
+## Study Summary
+
+Step 14 is about sense-making for use. Patton distinguishes analysis, interpretation, judgment, and recommendations so users do not confuse data display with evaluative conclusion or action.
+
+The chapter emphasizes presenting data in ways that reduce overload and support interpretation. Users need organized evidence that helps them ask what happened, what it means, whether it is good enough, and what should be done.
+
+Recommendations, when appropriate, should be grounded in findings and developed with attention to feasibility, control, cost, and likely follow-up.
+
+The practical challenge is facilitation. The evaluator adds value by getting users to deliberate about the right things, distinguish claims, and make explicit the values that undergird judgments.
+
+For close reading, track how this section uses analysis, primary intended users, intended use, and credibility while moving through data organization, interpretation, and evaluative judgment. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the interpretation-and-use sequence: it moves from data sense-making to reporting, follow-up, and accountability for actual use.
+
+## Key Concepts
+
+- **analysis**: Organizing and reducing data so primary intended users can see patterns, evidence, and implications.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+- **evaluation facilitation**: The evaluator role of helping intended users clarify, negotiate, interpret, and act throughout the evaluation.
+
+## Section Structure
+
+- Data organization.
+- Interpretation.
+- Evaluative judgment.
+- Recommendations.
+- User deliberation.
+
+## Practical Implications
+
+- Design data displays around user interpretation, not analyst convenience.
+- Separate findings, interpretations, judgments, and recommendations.
+- Facilitate user deliberation about values and action implications.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 14 help solve?"]
+  Central["Concept: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations"]
+  Concept1["Concept: analysis"]
+  Concept2["Concept: primary intended users"]
+  Concept3["Concept: intended use"]
+  Mechanism1["Mechanism: data organization"]
+  Mechanism2["Mechanism: interpretation"]
+  Mechanism3["Mechanism: evaluative judgment"]
+  Implication1["Practice implication: Design data displays around user interpretation, not analyst convenience."]
+  Implication2["Practice implication: Separate findings, interpretations, judgments, and recommendations."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 13: Gather Data With Ongoing Attention to Use](step-13-gather-data-with-ongoing-attention-to-use.qmd)
+- Next: [Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence](step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd)
+
+## Study Prompts
+
+1. What use problem does step 14 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0003</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0045</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0052</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations, pages 361-387.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

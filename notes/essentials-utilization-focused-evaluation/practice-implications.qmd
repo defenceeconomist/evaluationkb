@@ -7,29 +7,95 @@ note_type: "Practice"
 citation_key: "patton_2012_essentials_utilization_focused_evaluation"
 evidence_ids:
   - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
-  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+  - "chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0011"
+  - "chunk:essentials-utilization-focused-evaluation:step02-step-2-assess-and-enhance-evaluator-readiness-and-competence-to-undertake-a-util:c0013"
+  - "chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0009"
+  - "chunk:essentials-utilization-focused-evaluation:step04-step-4-situation-analysis-conducted-jointly-with-primary-intended-users:c0008"
+  - "chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0004"
+  - "chunk:essentials-utilization-focused-evaluation:step06-step-6-consider-and-build-in-process-uses-if-and-as-appropriate:c0041"
+  - "chunk:essentials-utilization-focused-evaluation:step07-step-7-focus-priority-evaluation-questions:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:step08-step-8-check-that-fundamental-areas-for-evaluation-inquiry-are-being-adequately-:c0048"
+  - "chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0004"
   - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+  - "chunk:essentials-utilization-focused-evaluation:step11-step-11-make-sure-intended-users-understand-potential-methods-controversies-and-:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:step12-step-12-simulate-use-of-findings-evaluation-s-equivalent-of-a-dress-rehearsal:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:step13-step-13-gather-data-with-ongoing-attention-to-use:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0003"
+  - "chunk:essentials-utilization-focused-evaluation:step15-step-15-prepare-an-evaluation-report-to-facilitate-use-and-disseminate-significa:c0009"
+  - "chunk:essentials-utilization-focused-evaluation:step16-step-16-follow-up-with-primary-intended-users-to-facilitate-and-enhance-use:c0004"
+  - "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0006"
+  - "chunk:essentials-utilization-focused-evaluation:summary-and-conclusion:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This practice synthesis draws on selected notes from *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation].
+This practice synthesis draws on the step-level notes from *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation].
 
 ## Evaluation Practice Implications
 
-- Identify real users, not abstract audiences.
-- Focus questions around intended uses before choosing methods.
-- Engage users in methods trade-offs so credibility and utility are negotiated together.
-- Plan interpretation and action, not only reporting.
-
-## Applying the Notes
-
-Use these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation's decision context, available evidence, and user needs.
+- Start every evaluation design by asking who will use the evaluation and for what specific uses.
+- Assess organizational readiness and evaluator readiness before promising utility.
+- Distinguish broad stakeholders from primary intended users who will make or influence concrete decisions.
+- Analyze political, organizational, and contextual forces with users before the design hardens.
+- Prioritize intended uses and process uses; do not let the evaluation try to serve every possible purpose.
+- Focus questions by actionability, importance to users, and feasibility of credible answers.
+- Check user-prioritized questions against implementation, outcomes, and attribution.
+- Clarify the intervention model or theory of change so evidence can support interpretation and claims.
+- Negotiate methods around intended use, credibility to users, and feasible quality standards.
+- Simulate use of findings before data collection to test whether the design is worth doing.
+- Keep users appropriately informed during data collection when fieldwork changes affect credibility or utility.
+- Organize data for user interpretation, judgment, and warranted action, not only for analyst completeness.
+- Treat reporting, dissemination, and follow-up as distinct design problems.
+- Evaluate actual use after the report, not only the quality or potential utility of the report.
 
 ## Links
 
-- [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd)
-- [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd)
-- [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd)
+- [Introduction, Overview, and Context](introduction-overview-and-context.qmd)
+- [Step 1: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation](step-01-assess-and-build-program-and-organizational-readiness.qmd)
+- [Step 2: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation](step-02-assess-and-enhance-evaluator-readiness.qmd)
+- [Step 3: Identify, Organize, and Engage Primary Intended Users: The Personal Factor](step-03-identify-organize-and-engage-primary-intended-users.qmd)
+- [Step 4: Situation Analysis Conducted Jointly With Primary Intended Users](step-04-situation-analysis-with-primary-intended-users.qmd)
+- [Step 5: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes](step-05-identify-and-prioritize-primary-intended-uses.qmd)
+- [Step 6: Consider and Build in Process Uses if and as Appropriate](step-06-consider-and-build-in-process-uses.qmd)
+- [Step 7: Focus Priority Evaluation Questions](step-07-focus-priority-evaluation-questions.qmd)
+- [Step 8: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions](step-08-check-fundamental-evaluation-inquiry-areas.qmd)
+- [Step 9: Determine What Intervention Model or Theory of Change Is Being Evaluated](step-09-determine-intervention-model-or-theory-of-change.qmd)
+- [Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users](step-10-negotiate-methods-for-credible-use.qmd)
+- [Step 11: Make Sure Intended Users Understand Potential Methods Controversies and Their Implications](step-11-explain-methods-controversies-and-implications.qmd)
+- [Step 12: Simulate Use of Findings: Evaluation's Equivalent of a Dress Rehearsal](step-12-simulate-use-of-findings.qmd)
+- [Step 13: Gather Data With Ongoing Attention to Use](step-13-gather-data-with-ongoing-attention-to-use.qmd)
+- [Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations](step-14-organize-and-present-data-for-interpretation-and-use.qmd)
+- [Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence](step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd)
+- [Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use](step-16-follow-up-to-facilitate-and-enhance-use.qmd)
+- [Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve](step-17-metaevaluation-of-use.qmd)
+- [Summary and Conclusion](summary-and-conclusion.qmd)
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0011</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step02-step-2-assess-and-enhance-evaluator-readiness-and-competence-to-undertake-a-util:c0013</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0009</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step04-step-4-situation-analysis-conducted-jointly-with-primary-intended-users:c0008</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0004</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step06-step-6-consider-and-build-in-process-uses-if-and-as-appropriate:c0041</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step07-step-7-focus-priority-evaluation-questions:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step08-step-8-check-that-fundamental-areas-for-evaluation-inquiry-are-being-adequately-:c0048</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0004</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step11-step-11-make-sure-intended-users-understand-potential-methods-controversies-and-:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step12-step-12-simulate-use-of-findings-evaluation-s-equivalent-of-a-dress-rehearsal:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step13-step-13-gather-data-with-ongoing-attention-to-use:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0003</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step15-step-15-prepare-an-evaluation-report-to-facilitate-use-and-disseminate-significa:c0009</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step16-step-16-follow-up-with-primary-intended-users-to-facilitate-and-enhance-use:c0004</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0006</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:summary-and-conclusion:c0001</code></li>
+</ul>
+</details>
 
 ## References

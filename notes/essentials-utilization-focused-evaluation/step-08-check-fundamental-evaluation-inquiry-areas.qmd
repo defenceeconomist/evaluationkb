@@ -1,0 +1,136 @@
+---
+title: "Step 08: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions"
+description: "Detailed study notes for Step 08: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 8
+source_pages: "213-251"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step08-step-8-check-that-fundamental-areas-for-evaluation-inquiry-are-being-adequately-:c0048"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-8-complex-dynamic-systems-interconnections-attending-t:c0002"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0014"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 8</span><span>Source pages 213-251</span></div>
+
+This note summarises step 8, "Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Focused questions should still be checked against implementation, outcomes, and attribution so the evaluation does not omit fundamental inquiry areas.
+
+## Study Summary
+
+Step 8 adds a fundamental-inquiry check to the priority questions from Step 7. Even when users define their own priorities, the evaluator should help them ask whether implementation, outcomes, and attribution have been addressed adequately.
+
+The chapter is not a demand that every evaluation cover everything. It is a quality check that prevents a use-driven evaluation from ignoring basic questions that affect interpretation and action.
+
+Patton links useful outcomes work to specificity: intended outcomes, indicators, data collection, standards, and use need to be connected so findings can guide decisions.
+
+The interlude after Step 8 explains that Steps 7 and 8 could reasonably appear in either order. In practice, evaluators move between user priorities and fundamental inquiry domains until the focus is both relevant and defensible.
+
+For close reading, track how this section uses implementation, attribution, evaluation questions, and intended use while moving through implementation questions, outcome questions, and attribution questions. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the design-focus sequence: it turns intended uses into priority questions, fundamental inquiry checks, and a usable intervention model.
+
+## Key Concepts
+
+- **implementation**: The program operations, delivery, participation, and context that must be understood before judging outcomes.
+- **attribution**: Reasoned inquiry into whether observed outcomes can credibly be connected to the program or intervention.
+- **evaluation questions**: Priority questions that focus inquiry on what intended users need to know and can act on.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+
+## Section Structure
+
+- Implementation questions.
+- Outcome questions.
+- Attribution questions.
+- Outcomes framework.
+- Interconnection with focusing.
+
+## Practical Implications
+
+- Check priority questions against implementation, outcomes, and attribution.
+- Do not let user relevance erase basic evaluative adequacy.
+- Specify outcomes and standards in ways users can interpret.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 8 help solve?"]
+  Central["Concept: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions"]
+  Concept1["Concept: implementation"]
+  Concept2["Concept: attribution"]
+  Concept3["Concept: evaluation questions"]
+  Mechanism1["Mechanism: implementation questions"]
+  Mechanism2["Mechanism: outcome questions"]
+  Mechanism3["Mechanism: attribution questions"]
+  Implication1["Practice implication: Check priority questions against implementation, outcomes, and attribution."]
+  Implication2["Practice implication: Do not let user relevance erase basic evaluative adequacy."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 7: Focus Priority Evaluation Questions](step-07-focus-priority-evaluation-questions.qmd)
+- Next: [Step 9: Determine What Intervention Model or Theory of Change Is Being Evaluated](step-09-determine-intervention-model-or-theory-of-change.qmd)
+
+## Study Prompts
+
+1. What use problem does step 8 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step08-step-8-check-that-fundamental-areas-for-evaluation-inquiry-are-being-adequately-:c0048</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-8-complex-dynamic-systems-interconnections-attending-t:c0002</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0014</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 08: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions, pages 213-251.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

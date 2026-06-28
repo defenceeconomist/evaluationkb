@@ -1,0 +1,136 @@
+---
+title: "Step 03: Identify, Organize, and Engage Primary Intended Users: The Personal Factor"
+description: "Detailed study notes for Step 03: Identify, Organize, and Engage Primary Intended Users: The Personal Factor in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 3
+source_pages: "84-109"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0009"
+  - "chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0034"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-2-and-3-complex-dynamic-systems-interconnections-assessing-the:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 3</span><span>Source pages 84-109</span></div>
+
+This note summarises step 3, "Identify, Organize, and Engage Primary Intended Users: The Personal Factor," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Use depends on specific people, so the evaluator must identify and engage primary intended users who can influence decisions and stay involved.
+
+## Study Summary
+
+Step 3 introduces the personal factor as a central explanation for evaluation use. Evaluations are more likely to matter when named users care about the work, understand it, and are positioned to act on it.
+
+The chapter distinguishes broad stakeholders from primary intended users. Many people may have an interest in the program, but U-FE requires a manageable group that will participate in focus, design, interpretation, and use decisions.
+
+Engagement is not tokenistic. Intended users must be organized, supported, and kept involved through turnover, politics, and competing agendas so that later decisions remain connected to actual use.
+
+The interlude shows how Steps 1, 2, and 3 can reorder in practice. Sometimes identifying users comes first, then evaluator selection and readiness building follow, illustrating the adaptive sequence of real U-FE work.
+
+For close reading, track how this section uses primary intended users, personal factor, intended use, and evaluation facilitation while moving through stakeholder distinction, primary user selection, and engagement strategy. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the user-and-use sequence: it identifies who will use the evaluation, what they will use it for, and how the process itself can support use.
+
+## Key Concepts
+
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **personal factor**: The importance of specific people who care about, understand, and are positioned to use evaluation.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **evaluation facilitation**: The evaluator role of helping intended users clarify, negotiate, interpret, and act throughout the evaluation.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+
+## Section Structure
+
+- Stakeholder distinction.
+- Primary user selection.
+- Engagement strategy.
+- Turnover and continuity.
+- Readiness interconnections.
+
+## Practical Implications
+
+- Name primary intended users, not only stakeholder categories.
+- Keep the core user group manageable enough for real involvement.
+- Plan for turnover and political dynamics from the start.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 3 help solve?"]
+  Central["Concept: Identify, Organize, and Engage Primary Intended Users: The Personal Factor"]
+  Concept1["Concept: primary intended users"]
+  Concept2["Concept: personal factor"]
+  Concept3["Concept: intended use"]
+  Mechanism1["Mechanism: stakeholder distinction"]
+  Mechanism2["Mechanism: primary user selection"]
+  Mechanism3["Mechanism: engagement strategy"]
+  Implication1["Practice implication: Name primary intended users, not only stakeholder categories."]
+  Implication2["Practice implication: Keep the core user group manageable enough for real involvement."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 2: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation](step-02-assess-and-enhance-evaluator-readiness.qmd)
+- Next: [Step 4: Situation Analysis Conducted Jointly With Primary Intended Users](step-04-situation-analysis-with-primary-intended-users.qmd)
+
+## Study Prompts
+
+1. What use problem does step 3 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0009</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0034</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-2-and-3-complex-dynamic-systems-interconnections-assessing-the:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 03: Identify, Organize, and Engage Primary Intended Users: The Personal Factor, pages 84-109.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

@@ -1,0 +1,136 @@
+---
+title: "Step 04: Situation Analysis Conducted Jointly With Primary Intended Users"
+description: "Detailed study notes for Step 04: Situation Analysis Conducted Jointly With Primary Intended Users in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 4
+source_pages: "110-135"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step04-step-4-situation-analysis-conducted-jointly-with-primary-intended-users:c0008"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-4-complex-dynamic-systems-interconnections-assessing-t:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0008"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 4</span><span>Source pages 110-135</span></div>
+
+This note summarises step 4, "Situation Analysis Conducted Jointly With Primary Intended Users," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Situation analysis makes context, politics, risks, resources, and forces affecting use explicit before the evaluation design hardens.
+
+## Study Summary
+
+Step 4 moves from people to context. Primary intended users and the evaluator jointly analyze the situation in which the evaluation will occur, including political stakes, organizational constraints, available resources, and forces supporting or constraining use.
+
+Tools such as force-field analysis help users move beyond vague awareness of context. The point is to turn context into design intelligence: what must be reinforced, negotiated, protected, or avoided for use to be plausible.
+
+The chapter keeps situation analysis connected to readiness and engagement. A useful evaluation requires alignment among organizational conditions, evaluator role, intended users, and expected uses.
+
+The interlude after Step 4 treats the first four steps as an interacting cluster. Readiness, evaluator capacity, user engagement, and situation analysis should be revisited as conditions change.
+
+For close reading, track how this section uses situation analysis, primary intended users, program readiness, and adaptive use while moving through context scan, political analysis, and force-field analysis. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the user-and-use sequence: it identifies who will use the evaluation, what they will use it for, and how the process itself can support use.
+
+## Key Concepts
+
+- **situation analysis**: Joint inquiry into context, politics, stakeholders, risks, and forces that may support or constrain evaluation use.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **program readiness**: The organizational willingness, capacity, incentives, and context needed to support useful evaluation.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+
+## Section Structure
+
+- Context scan.
+- Political analysis.
+- Force-field analysis.
+- Risk and resources.
+- Alignment among early steps.
+
+## Practical Implications
+
+- Conduct situation analysis with users, not as a private evaluator exercise.
+- Translate contextual risks into design and facilitation choices.
+- Revisit early readiness judgments as new political information emerges.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 4 help solve?"]
+  Central["Concept: Situation Analysis Conducted Jointly With Primary Intended Users"]
+  Concept1["Concept: situation analysis"]
+  Concept2["Concept: primary intended users"]
+  Concept3["Concept: program readiness"]
+  Mechanism1["Mechanism: context scan"]
+  Mechanism2["Mechanism: political analysis"]
+  Mechanism3["Mechanism: force-field analysis"]
+  Implication1["Practice implication: Conduct situation analysis with users, not as a private evaluator exercise."]
+  Implication2["Practice implication: Translate contextual risks into design and facilitation choices."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 3: Identify, Organize, and Engage Primary Intended Users: The Personal Factor](step-03-identify-organize-and-engage-primary-intended-users.qmd)
+- Next: [Step 5: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes](step-05-identify-and-prioritize-primary-intended-uses.qmd)
+
+## Study Prompts
+
+1. What use problem does step 4 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step04-step-4-situation-analysis-conducted-jointly-with-primary-intended-users:c0008</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-4-complex-dynamic-systems-interconnections-assessing-t:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0008</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 04: Situation Analysis Conducted Jointly With Primary Intended Users, pages 110-135.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

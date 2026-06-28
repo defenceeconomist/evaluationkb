@@ -1,0 +1,138 @@
+---
+title: "Step 09: Determine What Intervention Model or Theory of Change Is Being Evaluated"
+description: "Detailed study notes for Step 09: Determine What Intervention Model or Theory of Change Is Being Evaluated in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 9
+source_pages: "252-282"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0004"
+  - "chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0018"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-9-complex-dynamic-systems-interconnections-considering:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0015"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 9</span><span>Source pages 252-282</span></div>
+
+This note summarises step 9, "Determine What Intervention Model or Theory of Change Is Being Evaluated," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+A utilization-focused evaluation needs a usable account of the intervention model or theory of change so evidence can be interpreted for action.
+
+## Study Summary
+
+Step 9 asks what model, logic, or theory is actually being evaluated. Without a clear intervention model, users may collect data without knowing how implementation, mechanisms, outcomes, and decisions fit together.
+
+The U-FE stance keeps theory work practical. The theory of change is not an abstract diagram for its own sake; it should help intended users clarify what they think will happen and what evidence would affect their actions.
+
+This step connects earlier question focus to later methods negotiation. Methods can only be credible for use if they fit the intervention model and the claims users hope to make.
+
+The final dynamic-systems graphic shows Step 9 interacting with methods debates, fundamental inquiry checks, data gathering, and reporting. Theory of change is therefore a continuing reference point, not a one-time artifact.
+
+For close reading, track how this section uses theory of change, implementation, attribution, and credibility while moving through intervention model, causal assumptions, and user theory. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the design-focus sequence: it turns intended uses into priority questions, fundamental inquiry checks, and a usable intervention model.
+
+## Key Concepts
+
+- **theory of change**: The intervention model or causal logic being evaluated and used to connect implementation, outcomes, and attribution.
+- **implementation**: The program operations, delivery, participation, and context that must be understood before judging outcomes.
+- **attribution**: Reasoned inquiry into whether observed outcomes can credibly be connected to the program or intervention.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+
+## Section Structure
+
+- Intervention model.
+- Causal assumptions.
+- User theory.
+- Evidence implications.
+- Links to methods.
+
+## Practical Implications
+
+- Clarify what model or theory is being tested before choosing methods.
+- Use theory work to sharpen users' decisions and claims.
+- Revisit theory when methods, findings, or context change.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 9 help solve?"]
+  Central["Concept: Determine What Intervention Model or Theory of Change Is Being Evaluated"]
+  Concept1["Concept: theory of change"]
+  Concept2["Concept: implementation"]
+  Concept3["Concept: attribution"]
+  Mechanism1["Mechanism: intervention model"]
+  Mechanism2["Mechanism: causal assumptions"]
+  Mechanism3["Mechanism: user theory"]
+  Implication1["Practice implication: Clarify what model or theory is being tested before choosing methods."]
+  Implication2["Practice implication: Use theory work to sharpen users' decisions and claims."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 8: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions](step-08-check-fundamental-evaluation-inquiry-areas.qmd)
+- Next: [Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users](step-10-negotiate-methods-for-credible-use.qmd)
+
+## Study Prompts
+
+1. What use problem does step 9 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0004</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0018</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-9-complex-dynamic-systems-interconnections-considering:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0015</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 09: Determine What Intervention Model or Theory of Change Is Being Evaluated, pages 252-282.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

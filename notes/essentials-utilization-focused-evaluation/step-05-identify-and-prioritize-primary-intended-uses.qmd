@@ -1,0 +1,136 @@
+---
+title: "Step 05: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes"
+description: "Detailed study notes for Step 05: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 5
+source_pages: "136-162"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0004"
+  - "chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0035"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-5-complex-dynamic-systems-interconnections-focusing-on:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 5</span><span>Source pages 136-162</span></div>
+
+This note summarises step 5, "Identify and Prioritize Primary Intended Uses by Determining Priority Purposes," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The evaluation must prioritize intended uses and purposes so design choices do not drift into trying to serve everything at once.
+
+## Study Summary
+
+Step 5 asks what the evaluation is for. Patton distinguishes alternative purposes such as summative judgment, formative improvement, accountability, monitoring, knowledge generation, and developmental evaluation.
+
+The chapter treats these purposes as menu choices rather than automatic add-ons. Users may want several things, but the evaluator has to help them prioritize because each purpose implies different questions, stakes, timing, evidence, and communication needs.
+
+Identifying intended uses is tightly connected to identifying intended users. Use is not an abstract virtue; it is a claim that specific people will do something with process or findings.
+
+The interlude after Step 5 shows that intended uses integrate the preceding steps. Readiness, evaluator competence, user engagement, and situation analysis all shape which uses are realistic and worth prioritizing.
+
+For close reading, track how this section uses intended use, decision-oriented use, developmental evaluation, and primary intended users while moving through purpose distinctions, use prioritization, and user stakes. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the user-and-use sequence: it identifies who will use the evaluation, what they will use it for, and how the process itself can support use.
+
+## Key Concepts
+
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **decision-oriented use**: Instrumental use focused on a specific forthcoming choice, action, or allocation decision.
+- **developmental evaluation**: Evaluation use oriented to learning and adaptation in complex, emergent, or innovative settings.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+
+## Section Structure
+
+- Purpose distinctions.
+- Use prioritization.
+- User stakes.
+- Decision timing.
+- Early-step integration.
+
+## Practical Implications
+
+- Make trade-offs among possible uses explicit.
+- Link each intended use to named users and foreseeable action.
+- Avoid designing a vague all-purpose evaluation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 5 help solve?"]
+  Central["Concept: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes"]
+  Concept1["Concept: intended use"]
+  Concept2["Concept: decision-oriented use"]
+  Concept3["Concept: developmental evaluation"]
+  Mechanism1["Mechanism: purpose distinctions"]
+  Mechanism2["Mechanism: use prioritization"]
+  Mechanism3["Mechanism: user stakes"]
+  Implication1["Practice implication: Make trade-offs among possible uses explicit."]
+  Implication2["Practice implication: Link each intended use to named users and foreseeable action."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 4: Situation Analysis Conducted Jointly With Primary Intended Users](step-04-situation-analysis-with-primary-intended-users.qmd)
+- Next: [Step 6: Consider and Build in Process Uses if and as Appropriate](step-06-consider-and-build-in-process-uses.qmd)
+
+## Study Prompts
+
+1. What use problem does step 5 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0004</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0035</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-5-complex-dynamic-systems-interconnections-focusing-on:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 05: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes, pages 136-162.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

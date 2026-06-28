@@ -1,0 +1,136 @@
+---
+title: "Step 01: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation"
+description: "Detailed study notes for Step 01: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 1
+source_pages: "39-59"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0011"
+  - "chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0045"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 1</span><span>Source pages 39-59</span></div>
+
+This note summarises step 1, "Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+A useful evaluation starts by testing and strengthening whether the organization is ready to engage in evaluation for real use.
+
+## Study Summary
+
+Step 1 treats readiness as an evaluable condition. Before promising utility, the evaluator has to understand how the organization has used data and evaluation in the past, what anxieties or resistance are present, and what incentives support or weaken use.
+
+The step is also developmental. Readiness is not only a gatekeeping judgment; it can be built by helping people articulate a positive vision of useful evaluation, surface barriers, and connect the work to standards, values, and real decisions.
+
+The chapter makes organizational context part of evaluation design. If the setting lacks time, legitimacy, trust, or commitment to use, methods alone will not make findings influential.
+
+The step links directly to later situation analysis and metaevaluation because readiness affects who can participate, what uses are credible, what evidence will be trusted, and how follow-up will be supported.
+
+For close reading, track how this section uses program readiness, utilization-focused evaluation, evaluative thinking, and intended use while moving through baseline assessment of evaluation use, evaluation associations and history, and positive vision for use. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this section belongs to the foundations sequence: it establishes readiness, evaluator role, and the checklist/dynamic-systems frame for U-FE.
+
+## Key Concepts
+
+- **program readiness**: The organizational willingness, capacity, incentives, and context needed to support useful evaluation.
+- **utilization-focused evaluation**: An evaluation approach judged by intended use by intended users, with methods and facilitation fitted to that use.
+- **evaluative thinking**: A disciplined habit of asking evidence-informed questions, making criteria explicit, and learning from results.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **evaluation facilitation**: The evaluator role of helping intended users clarify, negotiate, interpret, and act throughout the evaluation.
+
+## Section Structure
+
+- Baseline assessment of evaluation use.
+- Evaluation associations and history.
+- Positive vision for use.
+- Incentives and barriers.
+- Standards and readiness building.
+
+## Practical Implications
+
+- Diagnose organizational evaluation history before scoping the study.
+- Use readiness conversations to build capacity, not only screen feasibility.
+- Record barriers to use as design constraints.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 1 help solve?"]
+  Central["Concept: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation"]
+  Concept1["Concept: program readiness"]
+  Concept2["Concept: utilization-focused evaluation"]
+  Concept3["Concept: evaluative thinking"]
+  Mechanism1["Mechanism: baseline assessment of evaluation use"]
+  Mechanism2["Mechanism: evaluation associations and history"]
+  Mechanism3["Mechanism: positive vision for use"]
+  Implication1["Practice implication: Diagnose organizational evaluation history before scoping the study."]
+  Implication2["Practice implication: Use readiness conversations to build capacity, not only screen feasibility."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Introduction, Overview, and Context](introduction-overview-and-context.qmd)
+- Next: [Step 2: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation](step-02-assess-and-enhance-evaluator-readiness.qmd)
+
+## Study Prompts
+
+1. What use problem does step 1 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0011</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0045</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 01: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation, pages 39-59.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

@@ -1,0 +1,137 @@
+---
+title: "Introduction, Overview, and Context"
+description: "Detailed study notes for Introduction, Overview, and Context in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Introduction"
+source_pages: "27-37"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0026"
+  - "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Introduction</span><span>Source pages 27-37</span></div>
+
+This note summarises introduction, "Introduction, Overview, and Context," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The book frames utilization-focused evaluation as a checklist of essentials that must be managed as an adaptive, nonlinear practice centered on intended use by intended users.
+
+## Study Summary
+
+The introduction positions utilization-focused evaluation as a practical approach rather than a preferred method. The central test is whether an evaluation is designed and facilitated so specific users can use the process and findings.
+
+Patton presents the book as a 17-step checklist because evaluators need a manageable sequence for planning and carrying out the work. At the same time, he warns that real evaluations are not mechanical sequences; readiness, users, uses, politics, methods, interpretation, and follow-up interact throughout.
+
+The introductory section therefore establishes two reading lenses. The checklist helps proposal writing, planning, management, and quality review. The complex dynamic systems lens keeps the evaluator alert to feedback loops, adaptations, and changing conditions.
+
+For study purposes, this introduction should be read as the control logic for the rest of the book: every later step asks what will make this evaluation more likely to be useful and actually used.
+
+For close reading, track how this section uses utilization-focused evaluation, intended use, primary intended users, and adaptive use while moving through U-FE premise, 17-step checklist, and intended use by intended users. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this section belongs to the foundations sequence: it establishes readiness, evaluator role, and the checklist/dynamic-systems frame for U-FE.
+
+## Key Concepts
+
+- **utilization-focused evaluation**: An evaluation approach judged by intended use by intended users, with methods and facilitation fitted to that use.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+- **evaluation facilitation**: The evaluator role of helping intended users clarify, negotiate, interpret, and act throughout the evaluation.
+
+## Section Structure
+
+- U-fe premise.
+- 17-step checklist.
+- Intended use by intended users.
+- Complex dynamic systems interludes.
+- Practice exercises.
+
+## Practical Implications
+
+- Treat use as a design criterion from the beginning.
+- Use the checklist for planning while expecting iteration and feedback.
+- Name users and uses before making methods or reporting decisions.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Introduction help solve?"]
+  Central["Concept: Introduction, Overview, and Context"]
+  Concept1["Concept: utilization-focused evaluation"]
+  Concept2["Concept: intended use"]
+  Concept3["Concept: primary intended users"]
+  Mechanism1["Mechanism: U-FE premise"]
+  Mechanism2["Mechanism: 17-step checklist"]
+  Mechanism3["Mechanism: intended use by intended users"]
+  Implication1["Practice implication: Treat use as a design criterion from the beginning."]
+  Implication2["Practice implication: Use the checklist for planning while expecting iteration and feedback."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Step 1: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation](step-01-assess-and-build-program-and-organizational-readiness.qmd)
+- Legacy extract retained: [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd)
+- Legacy extract retained: [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd)
+- Legacy extract retained: [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd)
+
+## Study Prompts
+
+1. What use problem does introduction help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0026</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Introduction, Overview, and Context, pages 27-37.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

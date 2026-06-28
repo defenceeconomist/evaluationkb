@@ -1,0 +1,136 @@
+---
+title: "Step 07: Focus Priority Evaluation Questions"
+description: "Detailed study notes for Step 07: Focus Priority Evaluation Questions in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 7
+source_pages: "192-212"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step07-step-7-focus-priority-evaluation-questions:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0012"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-7-complex-dynamic-systems-interconnections-questioning:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 7</span><span>Source pages 192-212</span></div>
+
+This note summarises step 7, "Focus Priority Evaluation Questions," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation questions focus attention on what users most need to know, can answer credibly, and can use.
+
+## Study Summary
+
+Step 7 makes focusing a central act of utilization-focused practice. Because no evaluation can examine everything, users and evaluator must select questions that are important, answerable, and actionable.
+
+The chapter frames question development as inquiry culture. Useful questions help users learn and decide rather than confirm predetermined beliefs or satisfy evaluator curiosity.
+
+Focusing is also political and practical. The evaluator listens carefully to intended users while preventing the evaluator's own interests, stakeholder pressure, or diffuse curiosity from controlling the agenda.
+
+The interlude after Step 7 shows questioning and focusing as processes that run through every step. Readiness, uses, process use, methods, and interpretation all depend on disciplined question focus.
+
+For close reading, track how this section uses evaluation questions, intended use, primary intended users, and evaluative thinking while moving through question generation, screening criteria, and user priorities. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the design-focus sequence: it turns intended uses into priority questions, fundamental inquiry checks, and a usable intervention model.
+
+## Key Concepts
+
+- **evaluation questions**: Priority questions that focus inquiry on what intended users need to know and can act on.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **evaluative thinking**: A disciplined habit of asking evidence-informed questions, making criteria explicit, and learning from results.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+
+## Section Structure
+
+- Question generation.
+- Screening criteria.
+- User priorities.
+- Actionability.
+- Questioning across steps.
+
+## Practical Implications
+
+- Use intended use as the test of whether a question belongs in scope.
+- Distinguish important questions from merely interesting ones.
+- Keep question focus alive as context and users change.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 7 help solve?"]
+  Central["Concept: Focus Priority Evaluation Questions"]
+  Concept1["Concept: evaluation questions"]
+  Concept2["Concept: intended use"]
+  Concept3["Concept: primary intended users"]
+  Mechanism1["Mechanism: question generation"]
+  Mechanism2["Mechanism: screening criteria"]
+  Mechanism3["Mechanism: user priorities"]
+  Implication1["Practice implication: Use intended use as the test of whether a question belongs in scope."]
+  Implication2["Practice implication: Distinguish important questions from merely interesting ones."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 6: Consider and Build in Process Uses if and as Appropriate](step-06-consider-and-build-in-process-uses.qmd)
+- Next: [Step 8: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions](step-08-check-fundamental-evaluation-inquiry-areas.qmd)
+
+## Study Prompts
+
+1. What use problem does step 7 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step07-step-7-focus-priority-evaluation-questions:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0012</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-7-complex-dynamic-systems-interconnections-questioning:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 07: Focus Priority Evaluation Questions, pages 192-212.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

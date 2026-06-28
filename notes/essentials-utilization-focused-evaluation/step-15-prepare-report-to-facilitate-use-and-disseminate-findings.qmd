@@ -1,0 +1,136 @@
+---
+title: "Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence"
+description: "Detailed study notes for Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 15
+source_pages: "388-400"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step15-step-15-prepare-an-evaluation-report-to-facilitate-use-and-disseminate-significa:c0009"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0025"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-interconnections-among-steps-14-16-u-fe-as-a-complex-dynamic-system-fa:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 15</span><span>Source pages 388-400</span></div>
+
+This note summarises step 15, "Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Reporting should be intentionally designed to answer users' questions, communicate clearly, support use, and distinguish dissemination from actual use.
+
+## Study Summary
+
+Step 15 treats the report as a use instrument, not merely a deliverable. Reporting choices should be negotiated around audience, timing, format, visuals, and the decisions or learning the report is meant to support.
+
+Patton's reporting principles keep users at the center: be purposeful, answer priority questions, communicate succinctly, prepare users for difficult findings, and distinguish dissemination from actual use.
+
+The chapter broadens reporting beyond a formal written document. Oral briefings, tailored products, visual displays, and audience-specific formats may be needed when different users have different uses.
+
+The interlude linking Steps 14-16 shows that reporting can trigger feedback to analysis and interpretation, while follow-up can require adapting reporting for new audiences or uses.
+
+For close reading, track how this section uses reporting, dissemination, intended use, and primary intended users while moving through report purpose, audience and format, and visual communication. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the interpretation-and-use sequence: it moves from data sense-making to reporting, follow-up, and accountability for actual use.
+
+## Key Concepts
+
+- **reporting**: Purposeful presentation of findings in formats, timing, and venues designed to facilitate use.
+- **dissemination**: Communication of major findings beyond primary intended users to expand influence without confusing spread with actual use.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+
+## Section Structure
+
+- Report purpose.
+- Audience and format.
+- Visual communication.
+- Negative findings.
+- Dissemination versus use.
+
+## Practical Implications
+
+- Plan reporting formats around users and decisions.
+- Do not equate dissemination with use.
+- Leave time to adapt reports after user feedback.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 15 help solve?"]
+  Central["Concept: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence"]
+  Concept1["Concept: reporting"]
+  Concept2["Concept: dissemination"]
+  Concept3["Concept: intended use"]
+  Mechanism1["Mechanism: report purpose"]
+  Mechanism2["Mechanism: audience and format"]
+  Mechanism3["Mechanism: visual communication"]
+  Implication1["Practice implication: Plan reporting formats around users and decisions."]
+  Implication2["Practice implication: Do not equate dissemination with use."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations](step-14-organize-and-present-data-for-interpretation-and-use.qmd)
+- Next: [Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use](step-16-follow-up-to-facilitate-and-enhance-use.qmd)
+
+## Study Prompts
+
+1. What use problem does step 15 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step15-step-15-prepare-an-evaluation-report-to-facilitate-use-and-disseminate-significa:c0009</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0025</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-interconnections-among-steps-14-16-u-fe-as-a-complex-dynamic-system-fa:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence, pages 388-400.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

@@ -612,38 +612,239 @@
       "citation": "patton_2012_essentials_utilization_focused_evaluation",
       "source_status": "needs_review",
       "rag_status": "ready",
-      "generation_mode": "generated-major-sections",
+      "generation_mode": "generated-step-notes",
       "target_path": "notes/essentials-utilization-focused-evaluation/index.qmd",
       "sections": [
         {
-          "id": "utilization-focused-overview",
-          "title": "Utilization-Focused Evaluation Overview",
-          "source_pages": "27-28",
+          "id": "introduction",
+          "title": "Introduction, Overview, and Context",
+          "source_pages": "27-37",
           "section_path": "Introduction, Overview, and Context",
           "evidence_ids": [
-            "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007"
-          ],
-          "target_path": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd"
-        },
-        {
-          "id": "seventeen-steps",
-          "title": "The 17-Step Utilization-Focused Checklist",
-          "source_pages": "36-37",
-          "section_path": "Introduction, Overview, and Context",
-          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0007",
+            "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0026",
             "chunk:essentials-utilization-focused-evaluation:ch-introduction-overview-and-context:c0027"
           ],
-          "target_path": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd"
+          "target_path": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd"
         },
         {
-          "id": "methods-for-use",
-          "title": "Negotiating Methods for Intended Use",
-          "source_pages": "288-289",
+          "id": "step-01",
+          "title": "Step 01: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation",
+          "source_pages": "39-59",
+          "section_path": "Step 1: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0011",
+            "chunk:essentials-utilization-focused-evaluation:step01-step-1-assess-and-build-program-and-organizational-readiness-for-utilization-foc:c0045",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd"
+        },
+        {
+          "id": "step-02",
+          "title": "Step 02: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation",
+          "source_pages": "60-83",
+          "section_path": "Step 2: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step02-step-2-assess-and-enhance-evaluator-readiness-and-competence-to-undertake-a-util:c0013",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0003",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-and-2-complex-dynamic-systems-interconnections-assessing-the-m:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd"
+        },
+        {
+          "id": "step-03",
+          "title": "Step 03: Identify, Organize, and Engage Primary Intended Users: The Personal Factor",
+          "source_pages": "84-109",
+          "section_path": "Step 3: Identify, Organize, and Engage Primary Intended Users: The Personal Factor",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0009",
+            "chunk:essentials-utilization-focused-evaluation:step03-step-3-identify-organize-and-engage-primary-intended-users-the-personal-factor:c0034",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-2-and-3-complex-dynamic-systems-interconnections-assessing-the:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd"
+        },
+        {
+          "id": "step-04",
+          "title": "Step 04: Situation Analysis Conducted Jointly With Primary Intended Users",
+          "source_pages": "110-135",
+          "section_path": "Step 4: Situation Analysis Conducted Jointly With Primary Intended Users",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step04-step-4-situation-analysis-conducted-jointly-with-primary-intended-users:c0008",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-4-complex-dynamic-systems-interconnections-assessing-t:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0008"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd"
+        },
+        {
+          "id": "step-05",
+          "title": "Step 05: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes",
+          "source_pages": "136-162",
+          "section_path": "Step 5: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0004",
+            "chunk:essentials-utilization-focused-evaluation:step05-step-5-identify-and-prioritize-primary-intended-uses-by-determining-priority-pur:c0035",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-5-complex-dynamic-systems-interconnections-focusing-on:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd"
+        },
+        {
+          "id": "step-06",
+          "title": "Step 06: Consider and Build in Process Uses if and as Appropriate",
+          "source_pages": "163-190",
+          "section_path": "Step 6: Consider and Build in Process Uses if and as Appropriate",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step06-step-6-consider-and-build-in-process-uses-if-and-as-appropriate:c0041",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0012",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-6-complex-dynamic-systems-interconnections-integrating:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd"
+        },
+        {
+          "id": "step-07",
+          "title": "Step 07: Focus Priority Evaluation Questions",
+          "source_pages": "192-212",
+          "section_path": "Step 7: Focus Priority Evaluation Questions",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step07-step-7-focus-priority-evaluation-questions:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0012",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-7-complex-dynamic-systems-interconnections-questioning:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd"
+        },
+        {
+          "id": "step-08",
+          "title": "Step 08: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions",
+          "source_pages": "213-251",
+          "section_path": "Step 8: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step08-step-8-check-that-fundamental-areas-for-evaluation-inquiry-are-being-adequately-:c0048",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-8-complex-dynamic-systems-interconnections-attending-t:c0002",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0014"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd"
+        },
+        {
+          "id": "step-09",
+          "title": "Step 09: Determine What Intervention Model or Theory of Change Is Being Evaluated",
+          "source_pages": "252-282",
+          "section_path": "Step 9: Determine What Intervention Model or Theory of Change Is Being Evaluated",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0004",
+            "chunk:essentials-utilization-focused-evaluation:step09-step-9-determine-what-intervention-model-or-theory-of-change-is-being-evaluated:c0018",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-9-complex-dynamic-systems-interconnections-considering:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0015"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd"
+        },
+        {
+          "id": "step-10",
+          "title": "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users",
+          "source_pages": "283-306",
           "section_path": "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users",
           "evidence_ids": [
-            "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+            "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-10-complex-dynamic-systems-interconnections-attending-:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0017"
           ],
-          "target_path": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd"
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd"
+        },
+        {
+          "id": "step-11",
+          "title": "Step 11: Make Sure Intended Users Understand Potential Methods Controversies and Their Implications",
+          "source_pages": "307-330",
+          "section_path": "Step 11: Make Sure Intended Users Understand Potential Methods Controversies and Their Implications",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step11-step-11-make-sure-intended-users-understand-potential-methods-controversies-and-:c0001",
+            "chunk:essentials-utilization-focused-evaluation:step11-step-11-make-sure-intended-users-understand-potential-methods-controversies-and-:c0002",
+            "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-11-complex-dynamic-systems-interconnections-making-met:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0018"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd"
+        },
+        {
+          "id": "step-12",
+          "title": "Step 12: Simulate Use of Findings: Evaluation's Equivalent of a Dress Rehearsal",
+          "source_pages": "331-348",
+          "section_path": "Step 12: Simulate Use of Findings: Evaluation's Equivalent of a Dress Rehearsal",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step12-step-12-simulate-use-of-findings-evaluation-s-equivalent-of-a-dress-rehearsal:c0001",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0019",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0020"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd"
+        },
+        {
+          "id": "step-13",
+          "title": "Step 13: Gather Data With Ongoing Attention to Use",
+          "source_pages": "349-360",
+          "section_path": "Step 13: Gather Data With Ongoing Attention to Use",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step13-step-13-gather-data-with-ongoing-attention-to-use:c0001",
+            "chunk:essentials-utilization-focused-evaluation:step13-step-13-gather-data-with-ongoing-attention-to-use:c0012",
+            "chunk:essentials-utilization-focused-evaluation:step13-step-13-gather-data-with-ongoing-attention-to-use:c0023",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0020"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd"
+        },
+        {
+          "id": "step-14",
+          "title": "Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations",
+          "source_pages": "361-387",
+          "section_path": "Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0003",
+            "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0045",
+            "chunk:essentials-utilization-focused-evaluation:step14-step-14-organize-and-present-the-data-for-interpretation-and-use-by-primary-inte:c0052"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd"
+        },
+        {
+          "id": "step-15",
+          "title": "Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence",
+          "source_pages": "388-400",
+          "section_path": "Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step15-step-15-prepare-an-evaluation-report-to-facilitate-use-and-disseminate-significa:c0009",
+            "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0025",
+            "chunk:essentials-utilization-focused-evaluation:interlude-interconnections-among-steps-14-16-u-fe-as-a-complex-dynamic-system-fa:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd"
+        },
+        {
+          "id": "step-16",
+          "title": "Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use",
+          "source_pages": "401-410",
+          "section_path": "Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step16-step-16-follow-up-with-primary-intended-users-to-facilitate-and-enhance-use:c0004",
+            "chunk:essentials-utilization-focused-evaluation:step16-step-16-follow-up-with-primary-intended-users-to-facilitate-and-enhance-use:c0011",
+            "chunk:essentials-utilization-focused-evaluation:interlude-interconnections-among-steps-14-16-u-fe-as-a-complex-dynamic-system-fa:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd"
+        },
+        {
+          "id": "step-17",
+          "title": "Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve",
+          "source_pages": "411-420",
+          "section_path": "Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0006",
+            "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0010",
+            "chunk:essentials-utilization-focused-evaluation:step17-step-17-metaevaluation-of-use-be-accountable-learn-and-improve:c0013"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd"
+        },
+        {
+          "id": "summary-and-conclusion",
+          "title": "Summary and Conclusion",
+          "source_pages": "426-449",
+          "section_path": "Summary and Conclusion; Utilization-Focused Evaluation Checklist; U-FE Complex Dynamic and Adaptive Systems Graphic",
+          "evidence_ids": [
+            "chunk:essentials-utilization-focused-evaluation:summary-and-conclusion:c0001",
+            "chunk:essentials-utilization-focused-evaluation:summary-and-conclusion:c0002",
+            "chunk:essentials-utilization-focused-evaluation:u-fe-complex-dynamic-and-adaptive-systems-graphic-interactions-among-all-17-step:c0001"
+          ],
+          "target_path": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd"
         }
       ]
     },

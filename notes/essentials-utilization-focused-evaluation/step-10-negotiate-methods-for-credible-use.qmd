@@ -1,0 +1,139 @@
+---
+title: "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users"
+description: "Detailed study notes for Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 10
+source_pages: "283-306"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-10-complex-dynamic-systems-interconnections-attending-:c0001"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0017"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 10</span><span>Source pages 283-306</span></div>
+
+This note summarises step 10, "Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Method choice is negotiated around intended use, credibility to users, feasibility, quality standards, and field realities.
+
+## Study Summary
+
+Step 10 is the methods chapter, but its distinctive move is negotiation. Methods are selected to generate findings that intended users will judge credible enough for intended uses.
+
+The chapter rejects both method-first rigidity and careless pragmatism. Evaluators must negotiate trade-offs between methodological ideals and what can be implemented under real constraints while making quality criteria explicit.
+
+Methods decisions also include attention to threats to data quality, measurement choices, and adaptation as conditions change during fieldwork.
+
+The interlude after Step 10 emphasizes that methods and design decisions arise throughout the U-FE process. Methods are not isolated after questions; they interact with readiness, users, uses, theory, politics, and reporting.
+
+For close reading, track how this section uses methods negotiation, credibility, intended use, and primary intended users while moving through method fit, credibility criteria, and trade-off negotiation. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this step belongs to the methods-and-data sequence: it negotiates credible evidence, tests use before data collection, and keeps fieldwork connected to utility.
+
+## Key Concepts
+
+- **methods negotiation**: Joint selection and adaptation of methods so rigor, feasibility, credibility, and intended use fit together.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+- **intended use**: The specific way evaluation process or findings are expected to inform decisions, learning, action, or influence.
+- **primary intended users**: Named people expected to use the evaluation and participate in major focus, design, interpretation, and use decisions.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+
+## Section Structure
+
+- Method fit.
+- Credibility criteria.
+- Trade-off negotiation.
+- Data quality threats.
+- Design adaptation.
+
+## Practical Implications
+
+- Negotiate methods with intended users around use and credibility.
+- Document trade-offs between ideals and constraints.
+- Keep methods adaptable without abandoning quality criteria.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 10 help solve?"]
+  Central["Concept: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users"]
+  Concept1["Concept: methods negotiation"]
+  Concept2["Concept: credibility"]
+  Concept3["Concept: intended use"]
+  Mechanism1["Mechanism: method fit"]
+  Mechanism2["Mechanism: credibility criteria"]
+  Mechanism3["Mechanism: trade-off negotiation"]
+  Implication1["Practice implication: Negotiate methods with intended users around use and credibility."]
+  Implication2["Practice implication: Document trade-offs between ideals and constraints."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 9: Determine What Intervention Model or Theory of Change Is Being Evaluated](step-09-determine-intervention-model-or-theory-of-change.qmd)
+- Next: [Step 11: Make Sure Intended Users Understand Potential Methods Controversies and Their Implications](step-11-explain-methods-controversies-and-implications.qmd)
+- Legacy extract retained: [Utilization-Focused Evaluation Overview](section-01-utilization-focused-overview.qmd)
+- Legacy extract retained: [The 17-Step Utilization-Focused Checklist](section-02-seventeen-steps.qmd)
+- Legacy extract retained: [Negotiating Methods for Intended Use](section-03-methods-for-use.qmd)
+
+## Study Prompts
+
+1. What use problem does step 10 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step10-step-10-negotiate-appropriate-methods-to-generate-credible-findings-that-support:c0005</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-through-10-complex-dynamic-systems-interconnections-attending-:c0001</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0017</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users, pages 283-306.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

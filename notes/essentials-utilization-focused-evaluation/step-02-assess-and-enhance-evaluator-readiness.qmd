@@ -1,0 +1,136 @@
+---
+title: "Step 02: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation"
+description: "Detailed study notes for Step 02: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation in Essentials of Utilization-Focused Evaluation."
+book_id: "essentials-utilization-focused-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Step"
+step_number: 2
+source_pages: "60-83"
+citation_key: "patton_2012_essentials_utilization_focused_evaluation"
+evidence_ids:
+  - "chunk:essentials-utilization-focused-evaluation:step02-step-2-assess-and-enhance-evaluator-readiness-and-competence-to-undertake-a-util:c0013"
+  - "chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0003"
+  - "chunk:essentials-utilization-focused-evaluation:interlude-steps-1-and-2-complex-dynamic-systems-interconnections-assessing-the-m:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2012</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Step 2</span><span>Source pages 60-83</span></div>
+
+This note summarises step 2, "Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation," from Michael Quinn Patton's *Essentials of Utilization-Focused Evaluation* [@patton_2012_essentials_utilization_focused_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the book section.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the section's argument and procedures, and it does not reproduce textbook tables, checklists, exhibits, graphics, or extended passages. When a checklist, exhibit, or graphic is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+The evaluator must be ready to facilitate use, negotiate methods pragmatically, and work with people as well as evidence.
+
+## Study Summary
+
+Step 2 turns the readiness question back on the evaluator. Utilization-focused evaluation requires technical competence, but also facilitation skill, humility, political judgment, and willingness to adapt methods to use.
+
+The chapter emphasizes utilization-focused pragmatism. The evaluator should know enough methods to choose appropriately, but should not let a favorite method define the evaluation before users and uses are clear.
+
+Evaluator readiness includes role clarity. A U-FE evaluator facilitates decisions with users without becoming the unilateral decision maker about purposes, methods, interpretation, or recommendations.
+
+The interlude after Steps 1 and 2 reinforces that organizational readiness and evaluator readiness interact. A technically strong evaluator may still fail if the setting is not ready, and a ready setting still needs an evaluator able to facilitate use.
+
+For close reading, track how this section uses evaluation facilitation, methods negotiation, credibility, and adaptive use while moving through evaluator stance, technical competence, and facilitation competence. The notes below identify what the section asks the evaluator to notice, what use problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this section belongs to the foundations sequence: it establishes readiness, evaluator role, and the checklist/dynamic-systems frame for U-FE.
+
+## Key Concepts
+
+- **evaluation facilitation**: The evaluator role of helping intended users clarify, negotiate, interpret, and act throughout the evaluation.
+- **methods negotiation**: Joint selection and adaptation of methods so rigor, feasibility, credibility, and intended use fit together.
+- **credibility**: The degree to which intended users judge evaluation evidence, methods, and interpretation as trustworthy enough for their uses.
+- **adaptive use**: Ongoing adjustment of evaluation questions, methods, communication, or follow-up as users, evidence, and context change.
+- **utilization-focused evaluation**: An evaluation approach judged by intended use by intended users, with methods and facilitation fitted to that use.
+
+## Section Structure
+
+- Evaluator stance.
+- Technical competence.
+- Facilitation competence.
+- Role negotiation.
+- Readiness interconnections.
+
+## Practical Implications
+
+- Assess evaluator fit before accepting a U-FE assignment.
+- Make methodological preferences explicit so they do not dominate use decisions.
+- Develop facilitation capacity alongside technical capacity.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What use problem does Step 2 help solve?"]
+  Central["Concept: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation"]
+  Concept1["Concept: evaluation facilitation"]
+  Concept2["Concept: methods negotiation"]
+  Concept3["Concept: credibility"]
+  Mechanism1["Mechanism: evaluator stance"]
+  Mechanism2["Mechanism: technical competence"]
+  Mechanism3["Mechanism: facilitation competence"]
+  Implication1["Practice implication: Assess evaluator fit before accepting a U-FE assignment."]
+  Implication2["Practice implication: Make methodological preferences explicit so they do not dominate use decisions."]
+  Question["Open question: What would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Step 1: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation](step-01-assess-and-build-program-and-organizational-readiness.qmd)
+- Next: [Step 3: Identify, Organize, and Engage Primary Intended Users: The Personal Factor](step-03-identify-organize-and-engage-primary-intended-users.qmd)
+
+## Study Prompts
+
+1. What use problem does step 2 help solve?
+2. Which primary intended users would need to participate for this guidance to work?
+3. How would this section change scoping, methods, interpretation, reporting, or follow-up?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:essentials-utilization-focused-evaluation:step02-step-2-assess-and-enhance-evaluator-readiness-and-competence-to-undertake-a-util:c0013</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:utilization-focused-evaluation-checklist-17-steps-to-evaluations-that-are-useful:c0003</code></li>
+<li><code>chunk:essentials-utilization-focused-evaluation:interlude-steps-1-and-2-complex-dynamic-systems-interconnections-assessing-the-m:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Patton, M. Q. (2012). *Essentials of Utilization-Focused Evaluation*. SAGE Publications. Step 02: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation, pages 60-83.
+- Saved retrieval metadata: `data/research-library/evidence/essentials-utilization-focused-evaluation/step-evidence-summary.json`.

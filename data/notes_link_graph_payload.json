@@ -16,6 +16,11 @@
       "path": "notes/essentials-utilization-focused-evaluation/index.qmd"
     },
     {
+      "id": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "title": "Introduction, Overview, and Context",
+      "path": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd"
+    },
+    {
       "id": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
       "title": "Essentials of Utilization-Focused Evaluation Practice Implications",
       "path": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd"
@@ -34,6 +39,96 @@
       "id": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
       "title": "Negotiating Methods for Intended Use",
       "path": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "title": "Step 01: Assess and Build Program and Organizational Readiness for Utilization-Focused Evaluation",
+      "path": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "title": "Step 02: Assess and Enhance Evaluator Readiness and Competence to Undertake a Utilization-Focused Evaluation",
+      "path": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "title": "Step 03: Identify, Organize, and Engage Primary Intended Users: The Personal Factor",
+      "path": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "title": "Step 04: Situation Analysis Conducted Jointly With Primary Intended Users",
+      "path": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "title": "Step 05: Identify and Prioritize Primary Intended Uses by Determining Priority Purposes",
+      "path": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "title": "Step 06: Consider and Build in Process Uses if and as Appropriate",
+      "path": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "title": "Step 07: Focus Priority Evaluation Questions",
+      "path": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "title": "Step 08: Check That Fundamental Areas for Evaluation Inquiry Are Being Adequately Addressed: Implementation, Outcomes, and Attribution Questions",
+      "path": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "title": "Step 09: Determine What Intervention Model or Theory of Change Is Being Evaluated",
+      "path": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "title": "Step 10: Negotiate Appropriate Methods to Generate Credible Findings That Support Intended Use by Intended Users",
+      "path": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "title": "Step 11: Make Sure Intended Users Understand Potential Methods Controversies and Their Implications",
+      "path": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "title": "Step 12: Simulate Use of Findings: Evaluation's Equivalent of a Dress Rehearsal",
+      "path": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "title": "Step 13: Gather Data With Ongoing Attention to Use",
+      "path": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "title": "Step 14: Organize and Present the Data for Interpretation and Use by Primary Intended Users: Analysis, Interpretation, Judgment, and Recommendations",
+      "path": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "title": "Step 15: Prepare an Evaluation Report to Facilitate Use and Disseminate Significant Findings to Expand Influence",
+      "path": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "title": "Step 16: Follow Up With Primary Intended Users to Facilitate and Enhance Use",
+      "path": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "title": "Step 17: Metaevaluation of Use: Be Accountable, Learn, and Improve",
+      "path": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd"
+    },
+    {
+      "id": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "title": "Summary and Conclusion",
+      "path": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd"
     },
     {
       "id": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
@@ -764,6 +859,101 @@
   "edges": [
     {
       "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
       "type": "internal-link"
     },
@@ -779,17 +969,97 @@
     },
     {
       "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
-      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
-      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
-      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
       "type": "internal-link"
     },
     {
@@ -805,6 +1075,101 @@
     {
       "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
       "type": "internal-link"
     },
     {
@@ -823,21 +1188,141 @@
       "type": "internal-link"
     },
     {
-      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
       "type": "internal-link"
     },
     {
-      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
       "type": "internal-link"
     },
     {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
       "type": "internal-link"
@@ -895,6 +1380,571 @@
     {
       "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
       "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-01-utilization-focused-overview.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-02-seventeen-steps.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
       "type": "internal-link"
     },
     {
@@ -6132,6 +7182,10 @@
       "citation": "patton_2012_essentials_utilization_focused_evaluation"
     },
     {
+      "source": "notes/essentials-utilization-focused-evaluation/introduction-overview-and-context.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
       "source": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
       "citation": "patton_2012_essentials_utilization_focused_evaluation"
     },
@@ -6145,6 +7199,78 @@
     },
     {
       "source": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-01-assess-and-build-program-and-organizational-readiness.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-02-assess-and-enhance-evaluator-readiness.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-03-identify-organize-and-engage-primary-intended-users.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-04-situation-analysis-with-primary-intended-users.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-05-identify-and-prioritize-primary-intended-uses.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-06-consider-and-build-in-process-uses.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-07-focus-priority-evaluation-questions.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-08-check-fundamental-evaluation-inquiry-areas.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-09-determine-intervention-model-or-theory-of-change.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-10-negotiate-methods-for-credible-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-11-explain-methods-controversies-and-implications.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-12-simulate-use-of-findings.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-13-gather-data-with-ongoing-attention-to-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-14-organize-and-present-data-for-interpretation-and-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-15-prepare-report-to-facilitate-use-and-disseminate-findings.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-16-follow-up-to-facilitate-and-enhance-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/step-17-metaevaluation-of-use.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/essentials-utilization-focused-evaluation/summary-and-conclusion.qmd",
       "citation": "patton_2012_essentials_utilization_focused_evaluation"
     },
     {
