@@ -226,6 +226,11 @@
       "path": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd"
     },
     {
+      "id": "notes/evaluation-texts-compared.qmd",
+      "title": "Comparing Evaluation Texts",
+      "path": "notes/evaluation-texts-compared.qmd"
+    },
+    {
       "id": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
       "title": "Chapter 01: Overview of the Evaluation Field",
       "path": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd"
@@ -3018,6 +3023,381 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/handbook-practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-theory-models-applications/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/magenta-book/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/purposeful-programme-theory/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/impact-evaluation-in-practice/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "target": "notes/essentials-utilization-focused-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",
       "target": "notes/evaluation-theory-models-applications/index.qmd",
       "type": "internal-link"
@@ -7660,6 +8040,11 @@
     {
       "source": "notes/impact-evaluation-in-practice/section-03-causal-inference-counterfactuals.qmd",
       "target": "notes/impact-evaluation-in-practice/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/evaluation-texts-compared.qmd",
       "type": "internal-link"
     },
     {
@@ -11808,6 +12193,46 @@
     {
       "source": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
       "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "patton_2012_essentials_utilization_focused_evaluation"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-texts-compared.qmd",
+      "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
     },
     {
       "source": "notes/evaluation-theory-models-applications/chapter-01-overview-of-the-evaluation-field.qmd",

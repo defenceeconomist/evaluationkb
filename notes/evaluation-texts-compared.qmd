@@ -1,0 +1,95 @@
+---
+title: "Comparing Evaluation Texts"
+description: "A cross-text synthesis of the main evaluation sources and when to use each."
+page-layout: full
+toc: true
+note_type: "Synthesis"
+---
+
+## Source Base
+
+This article compares the ten main evaluation texts currently represented in the knowledge base. It is grounded in the existing book, concept, and practice notes rather than a fresh external review. Several generated note sets are marked `needs_review`, so the comparisons should be read as a synthesis of the current study notes and checked against the source texts when used for high-stakes claims.
+
+The central argument is that these texts differ less by whether they are "better" or "more rigorous" than by the evaluation problem they foreground. Some texts organize evaluation around causal attribution, some around program theory, some around explanation in context, some around qualitative understanding, some around intended use, and some around standards, management, and public-sector assurance.
+
+## Comparison Matrix
+
+| Text | Central contribution | Strongest use context | Caution | Close complements |
+|---|---|---|---|---|
+| [Purposeful Program Theory](purposeful-programme-theory/index.qmd) [@funnell_rogers_2011_purposeful_program_theory] | Distinguishes theory of change, theory of action, assumptions, and representational choices. | Use when a program's causal pathway, delivery model, assumptions, or monitoring logic need to be made explicit before evaluation design. | A strong theory does not by itself establish impact; it has to be tested with appropriate evidence. | [Practical Program Evaluation](practical-program-evaluation/index.qmd), [Realistic Evaluation](realistic-evaluation/index.qmd), [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) |
+| [Practical Program Evaluation](practical-program-evaluation/index.qmd) [@chen_2015_practical_program_evaluation] | Links evaluation type to program stage, logic models, action models, change models, and stakeholder theories. | Use when the evaluation has to fit an intervention's maturity, implementation conditions, and practical decision context. | Its usefulness depends on treating program theory as inspectable and revisable, not as a compliance diagram. | [Purposeful Program Theory](purposeful-programme-theory/index.qmd), [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) |
+| [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) [@patton_2015_qualitative_research_evaluation_methods] | Provides a broad qualitative design, fieldwork, sampling, analysis, credibility, and use framework. | Use when questions require meaning, process, experience, context, variation, case understanding, or unexpected outcomes. | It should not be treated as a residual option after quantitative methods fail; it needs explicit design alignment and quality criteria. | [Realistic Evaluation](realistic-evaluation/index.qmd), [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd) |
+| [Realistic Evaluation](realistic-evaluation/index.qmd) [@pawson_tilley_1997_realistic_evaluation] | Explains outcomes through context-mechanism-outcome configurations and theory refinement. | Use when the core question is what works, for whom, in what circumstances, and why. | It is a poor fit if the only acceptable answer is a single average treatment effect with minimal explanatory work. | [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd), [Purposeful Program Theory](purposeful-programme-theory/index.qmd) |
+| [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) [@gertler_martinez_premand_rawlings_vermeersch_2016_impact_evaluation_in_practice] | Turns policy questions into credible counterfactual designs for estimating impact. | Use when a decision requires defensible causal effect estimates and the program rules, timing, data, and ethics can support an impact design. | It is not a substitute for needs assessment, implementation analysis, theory testing, or explanation of contextual variation. | [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd), [Purposeful Program Theory](purposeful-programme-theory/index.qmd), [Magenta Book](magenta-book/index.qmd) |
+| [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd) [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation] | Offers a broad operational reference for planning, stakeholders, monitoring, designs, analysis, reporting, and use. | Use when commissioning, managing, or conducting a full evaluation project with many practical moving parts. | It is wide rather than singular; readers still need to choose a governing evaluation logic for the task. | [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd), [Magenta Book](magenta-book/index.qmd) |
+| [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) [@rossi_lipsey_freeman_2004_evaluation_systematic_approach] | Frames evaluation as a sequence of needs, theory, process, outcome, impact, efficiency, and use inquiries. | Use as a general diagnostic framework for deciding what kind of evaluative question is being asked before selecting methods. | Its sequence should not be applied mechanically where the politics, timing, or complexity of the evaluation require iteration. | [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd), [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) |
+| [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd) [@patton_2012_essentials_utilization_focused_evaluation] | Makes intended use by intended users the organizing principle for readiness, questions, methods, interpretation, reporting, and follow-up. | Use when evaluation value depends on named users acting on findings or learning through the evaluation process. | It should not collapse credibility into user preference; methods still need to support warranted claims. | [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd), [Magenta Book](magenta-book/index.qmd) |
+| [Magenta Book](magenta-book/index.qmd) [@hm_treasury_evaluation_task_force_2020_magenta_book] | Provides UK central government guidance on scoping, methods, data, management, reporting, transparency, and capability. | Use for public-sector evaluation planning, assurance, publication, and method choice in UK government and adjacent policy contexts. | It is guidance for government practice, not a full evaluation theory or a methods textbook. | [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd), [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) |
+| [Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/index.qmd) [@stufflebeam_coryn_2014_evaluation_theory_models_applications] | Compares evaluation theories, standards, models, CIPP, metaevaluation, and professional judgment traditions. | Use when selecting or critiquing an evaluation approach, building standards into design, or judging evaluation quality. | It can over-serve a narrow methods problem if the immediate need is simply fieldwork, design execution, or impact estimation. | [Magenta Book](magenta-book/index.qmd), [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd) |
+
+## Main Lines of Contrast
+
+### Theory, Causation, and Attribution
+
+[Purposeful Program Theory](purposeful-programme-theory/index.qmd), [Practical Program Evaluation](practical-program-evaluation/index.qmd), [Realistic Evaluation](realistic-evaluation/index.qmd), and [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) all care about causation, but they ask different causal questions.
+
+*Purposeful Program Theory* is strongest before and during design. It asks whether the program's account of change is clear enough to guide action, monitoring, testing, and reporting. *Practical Program Evaluation* adds a concern with program stage and with the relationship between an action model and a change model. *Realistic Evaluation* pushes causation toward explanation: programs work by activating mechanisms in contexts, so evidence should refine context-mechanism-outcome propositions. *Impact Evaluation in Practice* pushes causation toward identification: the central design task is to estimate what would have happened without the intervention.
+
+Used together, these texts guard against two common mistakes. A counterfactual estimate without a theory may show whether an effect occurred but say too little about why or where it will travel. A theory without credible empirical tests may explain the program beautifully while leaving the main causal claim under-supported.
+
+### Context, Variation, and Complexity
+
+The sharpest contrast is between designs that try to isolate an average effect and approaches that treat variation as part of the object of inquiry. [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) is most useful when the evaluation can define treatment, comparison, timing, outcomes, and assignment or eligibility rules clearly enough to support causal inference. [Realistic Evaluation](realistic-evaluation/index.qmd) is most useful when variation across people, places, implementation forms, and institutional settings is the thing to explain.
+
+[Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) gives the practical craft for studying context, experience, and process. It complements realist and theory-based work because it supports thick description, purposeful sampling, fieldwork, interviewing, case analysis, and credibility strategies. The [Magenta Book](magenta-book/index.qmd) adds a public-sector framing: complexity, feasibility, proportionality, transparency, data access, and governance affect what counts as an appropriate evaluation design.
+
+### Use, Users, and Stakeholders
+
+[Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd) makes use the primary design discipline. Its question is not just whether an evaluation is technically sound, but whether intended users are identified, engaged, prepared, and positioned to use the process or findings. That user logic appears in other texts, but usually as one design consideration among several.
+
+[Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) treats use in relation to evaluation questions, stakeholders, politics, professional standards, and the social context of evaluation. The [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd) expands the operational side of stakeholder engagement and project delivery. The [Magenta Book](magenta-book/index.qmd) frames use in terms of policy decisions, accountability, transparency, and public-sector learning.
+
+The practical implication is that use should be designed early, not appended at dissemination. If the audience is named decision makers with a live decision, UFE should lead. If the audience is broader accountability or policy learning, the systematic, handbook, and Magenta Book traditions become more important.
+
+### Methods, Standards, and Judgment
+
+Several texts resist method-first evaluation, but they do so in different ways. [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) starts from question types. [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) starts from inquiry purpose and qualitative credibility. [Realistic Evaluation](realistic-evaluation/index.qmd) starts from testable explanatory propositions. [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) starts from the feasibility of credible counterfactual comparison.
+
+[Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/index.qmd) is the strongest source when the issue is not which method to run but which evaluation model, standards, and value criteria should govern the work. It is especially useful for metaevaluation, model selection, CIPP, and distinguishing evaluation from narrower studies that do not fully judge merit or worth.
+
+## Which Text Should Lead?
+
+| Situation | Lead text | Add next |
+|---|---|---|
+| The intervention is new, unclear, or overloaded with assumptions. | [Purposeful Program Theory](purposeful-programme-theory/index.qmd) | [Practical Program Evaluation](practical-program-evaluation/index.qmd) |
+| The program is being matched to a life-cycle stage or implementation maturity. | [Practical Program Evaluation](practical-program-evaluation/index.qmd) | [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) |
+| The evaluation must explain why outcomes vary across contexts. | [Realistic Evaluation](realistic-evaluation/index.qmd) | [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) |
+| The main need is deep understanding of experience, process, meaning, or case variation. | [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) | [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd) |
+| A policy decision requires a defensible estimate of impact. | [Impact Evaluation in Practice](impact-evaluation-in-practice/index.qmd) | [Purposeful Program Theory](purposeful-programme-theory/index.qmd) and [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) |
+| The task is a whole evaluation project with planning, management, analysis, and reporting demands. | [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd) | [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) |
+| The evaluation is for UK central government or needs public-sector assurance. | [Magenta Book](magenta-book/index.qmd) | [Handbook of Practical Program Evaluation](handbook-practical-program-evaluation/index.qmd) |
+| The value of the evaluation depends on named users acting on it. | [Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/index.qmd) | [Qualitative Research & Evaluation Methods](qualitative-research-evaluation-methods/index.qmd) |
+| The evaluator needs to choose, compare, or defend an evaluation model. | [Evaluation Theory, Models, and Applications](evaluation-theory-models-applications/index.qmd) | [Magenta Book](magenta-book/index.qmd) |
+| The evaluation question itself is still unclear. | [Evaluation: A Systematic Approach](evaluation-systematic-approach/index.qmd) | [Purposeful Program Theory](purposeful-programme-theory/index.qmd) |
+
+## Practical Synthesis
+
+For most real evaluations, one text should lead and two or three should discipline the design. A credible impact study still needs program theory, implementation knowledge, ethical and political judgment, and a use plan. A realist or qualitative study still needs clear questions, transparent evidence standards, and disciplined reporting. A public-sector evaluation still needs more than compliance with guidance: it needs a coherent account of the evaluand, criteria, evidence, interpretation, and intended use.
+
+The most useful ordering is therefore situational:
+
+- Start with the decision, learning need, or accountability problem.
+- Use program theory to make the intervention and assumptions inspectable.
+- Choose methods that fit the causal, contextual, use, and credibility demands of the question.
+- Add standards, governance, reporting, and metaevaluation before the design hardens.
+- Treat findings as claims for specific contexts and users, not as free-floating conclusions.
+
+## Related Synthesis Pages
+
+- [Core Concepts: Purposeful Program Theory](purposeful-programme-theory/concepts.qmd)
+- [Core Concepts: Evaluation: A Systematic Approach](evaluation-systematic-approach/concepts.qmd)
+- [Core Concepts: Realistic Evaluation](realistic-evaluation/concepts.qmd)
+- [Core Concepts: Impact Evaluation in Practice](impact-evaluation-in-practice/concepts.qmd)
+- [Practice Implications: Essentials of Utilization-Focused Evaluation](essentials-utilization-focused-evaluation/practice-implications.qmd)
+
+## References

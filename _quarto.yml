@@ -35,6 +35,8 @@ website:
       contents:
         - href: notes/index.qmd
           text: Notes Overview
+        - href: notes/evaluation-texts-compared.qmd
+          text: Comparing Evaluation Texts
         - section: "Evaluation Texts"
           href: notes/purposeful-programme-theory/index.qmd
           contents:
