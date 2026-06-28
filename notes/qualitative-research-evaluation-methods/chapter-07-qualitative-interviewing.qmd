@@ -1,0 +1,138 @@
+---
+title: "Chapter 7: Qualitative Interviewing"
+description: "Detailed study notes for Chapter 7: Qualitative Interviewing of Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "617-741"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:mod58-module-58-distinguishing-interview-approaches-and-types-of-interviews:c0002"
+  - "chunk:qualitative-research-evaluation-methods:mod64-module-64-personal-reflections-on-interviewing-and-chapter-summary-and-conclusio:c0009"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 7: Qualitative Interviewing</span><span>Source pages 617-741</span></div>
+
+This note summarises Chapter 7: Qualitative Interviewing from Michael Quinn Patton's *Qualitative
+Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook exhibits, checklists, cartoons, figures, tables, exercises, or extended passages.
+
+## Core Argument
+
+Qualitative interviewing is disciplined asking and listening, shaped by inquiry purpose, interview approach, question format, relationship, ethics, and the responsibility to elicit meaningful accounts.
+
+## Study Summary
+
+Chapter 7 focuses on in-depth interviewing. Patton treats questions as instruments of inquiry that
+must be designed, tested, asked, listened to, and interpreted responsibly.
+
+The chapter distinguishes interview approaches and question formats. Informal conversational
+interviews, interview guides, standardized open-ended interviews, and different theoretical
+interviewing traditions serve different purposes.
+
+Interviewing is not just asking. It involves listening, probing, sequencing, rapport, neutrality,
+sensitivity, ethics, and awareness that the questions themselves shape what can be learned.
+
+The chapter closes by emphasizing responsibility: asking involves power and consequence; listening
+is a privilege; evaluators will be evaluated by their questions.
+
+For close reading, track how the chapter uses interviewing, interview protocol, question format,
+empathetic neutrality while moving through interview approaches, question formats, open-ended
+questions. The note identifies the design or practice decision the chapter helps strengthen.
+
+Within the wider book, this chapter belongs to the data sequence.
+
+## Key Concepts
+
+- **interviewing**: Qualitative data collection through open-ended questioning and disciplined listening.
+- **interview protocol**: A guide or format for asking questions while preserving qualitative openness and responsiveness.
+- **question format**: The structure and wording of questions used to elicit experience, meaning, interpretation, examples, or stories.
+- **empathetic neutrality**: A stance that combines openness and care with disciplined attention to evidence.
+- **qualitative data**: Detailed descriptions, direct quotations, observations, documents, and other nonnumeric evidence preserved with context.
+
+## Chapter Structure
+
+- Interview approaches.
+- Question formats.
+- Open-ended questions.
+- Probing and listening.
+- Reflections on interviewing.
+
+## Practical Implications
+
+- Choose an interview approach that fits the inquiry purpose.
+- Pilot question wording and sequence.
+- Treat listening as a core analytic responsibility.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 7 help decide?"]
+  Central["Concept: Qualitative Interviewing"]
+  Concept1["Concept: interviewing"]
+  Concept2["Concept: interview protocol"]
+  Concept3["Concept: question format"]
+  Element1["Inquiry element: interview approaches"]
+  Element2["Inquiry element: question formats"]
+  Element3["Inquiry element: open-ended questions"]
+  Implication1["Practice implication: Choose an interview approach that fits the inquiry purpose."]
+  Implication2["Practice implication: Pilot question wording and sequence."]
+  Question["Open question: What evidence would strengthen the claim?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Element1
+  Concept2 --> Element2
+  Concept3 --> Element3
+  Element1 --> Implication1
+  Element2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Element1,Element2,Element3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: Fieldwork Strategies and Observation Methods](chapter-06-fieldwork-strategies-and-observation-methods.qmd)
+- Next: [Chapter 8: Qualitative Analysis and Interpretation](chapter-08-qualitative-analysis-and-interpretation.qmd)
+- Legacy extract retained: [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- Legacy extract retained: [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- Legacy extract retained: [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## Study Prompts
+
+- What design or evaluation-use decision does Chapter 7: Qualitative Interviewing help clarify?
+- Which concept in this chapter would be most important to explain to a commissioner or stakeholder?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:mod58-module-58-distinguishing-interview-approaches-and-types-of-interviews:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod64-module-64-personal-reflections-on-interviewing-and-chapter-summary-and-conclusio:c0009`
+
+## References

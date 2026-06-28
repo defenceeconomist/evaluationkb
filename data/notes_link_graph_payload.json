@@ -866,13 +866,58 @@
       "path": "notes/purposeful-programme-theory/index.qmd"
     },
     {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "title": "Chapter 1: The Nature, Niche, Value, and Fruit of Qualitative Inquiry",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "title": "Chapter 2: Strategic Themes in Qualitative Inquiry",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "title": "Chapter 3: Variety of Qualitative Inquiry Frameworks",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "title": "Chapter 4: Practical and Actionable Qualitative Applications",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "title": "Chapter 5: Designing Qualitative Studies",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "title": "Chapter 6: Fieldwork Strategies and Observation Methods",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "title": "Chapter 7: Qualitative Interviewing",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "title": "Chapter 8: Qualitative Analysis and Interpretation",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd"
+    },
+    {
+      "id": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "title": "Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies",
+      "path": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd"
+    },
+    {
       "id": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
       "title": "Qualitative Research & Evaluation Methods Chapter Map",
       "path": "notes/qualitative-research-evaluation-methods/chapter-map.qmd"
     },
     {
       "id": "notes/qualitative-research-evaluation-methods/concepts.qmd",
-      "title": "Core Concepts in Qualitative Research & Evaluation Methods",
+      "title": "Qualitative Research & Evaluation Methods Core Concepts",
       "path": "notes/qualitative-research-evaluation-methods/concepts.qmd"
     },
     {
@@ -8028,6 +8073,446 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",
       "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
       "type": "internal-link"
@@ -8044,17 +8529,47 @@
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/concepts.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
       "type": "internal-link"
     },
     {
@@ -8074,6 +8589,51 @@
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/index.qmd",
       "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
       "type": "internal-link"
     },
@@ -8089,17 +8649,47 @@
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-01-strategic-qualitative-principles.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
-      "target": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/practice-implications.qmd",
+      "target": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
       "type": "internal-link"
     },
     {
@@ -9596,6 +10186,42 @@
     {
       "source": "notes/purposeful-programme-theory/index.qmd",
       "citation": "funnell_rogers_2011_purposeful_program_theory"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-02-strategic-themes-in-qualitative-inquiry.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-03-variety-of-qualitative-inquiry-frameworks.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-04-practical-and-actionable-qualitative-applications.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-05-designing-qualitative-studies.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-06-fieldwork-strategies-and-observation-methods.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-07-qualitative-interviewing.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-08-qualitative-analysis-and-interpretation.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/qualitative-research-evaluation-methods/chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd",
+      "citation": "patton_2015_qualitative_research_evaluation_methods"
     },
     {
       "source": "notes/qualitative-research-evaluation-methods/chapter-map.qmd",

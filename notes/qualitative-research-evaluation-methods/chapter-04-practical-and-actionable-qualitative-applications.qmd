@@ -1,0 +1,146 @@
+---
+title: "Chapter 4: Practical and Actionable Qualitative Applications"
+description: "Detailed study notes for Chapter 4: Practical and Actionable Qualitative Applications of Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 4
+source_pages: "266-371"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:ch04-chapter-4-practical-and-actionable-qualitative-applications:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
+  - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
+  - "chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0004"
+  - "chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0005"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 4: Practical and Actionable Qualitative Applications</span><span>Source pages 266-371</span></div>
+
+This note summarises Chapter 4: Practical and Actionable Qualitative Applications from Michael Quinn
+Patton's *Qualitative Research & Evaluation Methods*
+[@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on
+source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook exhibits, checklists, cartoons, figures, tables, exercises, or extended passages.
+
+## Core Argument
+
+Qualitative methods are especially useful for practical questions that require actionable answers about quality, outcomes, interventions, participation, process, theory, and use.
+
+## Study Summary
+
+Chapter 4 turns from theory to application. It asks where qualitative inquiry is particularly
+powerful for practice, policy, program evaluation, organizational learning, and action.
+
+The chapter emphasizes concrete questions and actionable answers. Qualitative evidence can
+illuminate quality, uncover unanticipated outcomes, explain implementation, document development,
+and compare diverse cases.
+
+Program evaluation applications are central. Patton connects qualitative inquiry to outcomes,
+individualized outcomes, process evaluation, implementation evaluation, principles-focused
+evaluation, program models, theories of change, and utilization-focused evaluation.
+
+The chapter's application checklist stresses simple but demanding habits: pay attention, listen and
+watch, remain open, document systematically, analyze inductively, and apply what is learned.
+
+For close reading, track how the chapter uses actionable answer, utilization-focused evaluation,
+program theory, case study while moving through practical purposes, quality, program evaluation
+applications. The note identifies the design or practice decision the chapter helps strengthen.
+
+Within the wider book, this chapter belongs to the applications sequence.
+
+## Key Concepts
+
+- **actionable answer**: A finding framed so decision makers can use it to inform action, judgment, improvement, or learning.
+- **utilization-focused evaluation**: Evaluation designed for intended use by intended users.
+- **program theory**: An account of how an intervention is expected to work, including processes, implementation, and outcomes.
+- **case study**: An in-depth inquiry into a bounded case, setting, person, group, program, event, or process.
+- **qualitative inquiry**: Systematic inquiry using observations, interviews, documents, cases, and interpretation to understand meaning, context, and process.
+
+## Chapter Structure
+
+- Practical purposes.
+- Quality.
+- Program evaluation applications.
+- Interventions.
+- Participatory applications.
+- Qualitative methods utility.
+
+## Practical Implications
+
+- Use qualitative methods when decisions require explanation, context, or practical learning.
+- Connect qualitative evidence to theories of change and implementation.
+- Report findings in forms that support action.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 4 help decide?"]
+  Central["Concept: Practical and Actionable Qualitative Applications"]
+  Concept1["Concept: actionable answer"]
+  Concept2["Concept: utilization-focused evaluation"]
+  Concept3["Concept: program theory"]
+  Element1["Inquiry element: practical purposes"]
+  Element2["Inquiry element: quality"]
+  Element3["Inquiry element: program evaluation applications"]
+  Implication1["Practice implication: Use qualitative methods when decisions require explanation, context, or practical learning."]
+  Implication2["Practice implication: Connect qualitative evidence to theories of change and implementation."]
+  Question["Open question: What evidence would strengthen the claim?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Element1
+  Concept2 --> Element2
+  Concept3 --> Element3
+  Element1 --> Implication1
+  Element2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Element1,Element2,Element3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 3: Variety of Qualitative Inquiry Frameworks](chapter-03-variety-of-qualitative-inquiry-frameworks.qmd)
+- Next: [Chapter 5: Designing Qualitative Studies](chapter-05-designing-qualitative-studies.qmd)
+- Legacy extract retained: [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- Legacy extract retained: [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- Legacy extract retained: [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## Study Prompts
+
+- What design or evaluation-use decision does Chapter 4: Practical and Actionable Qualitative Applications help clarify?
+- Which concept in this chapter would be most important to explain to a commissioner or stakeholder?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:ch04-chapter-4-practical-and-actionable-qualitative-applications:c0005`
+- `chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005`
+- `chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024`
+- `chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0004`
+- `chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0005`
+
+## References

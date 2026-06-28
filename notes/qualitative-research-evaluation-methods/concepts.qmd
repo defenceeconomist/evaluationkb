@@ -1,37 +1,109 @@
 ---
-title: "Core Concepts in Qualitative Research & Evaluation Methods"
-description: "Synthesis note on recurring concepts in Qualitative Research & Evaluation Methods."
+title: "Qualitative Research & Evaluation Methods Core Concepts"
+description: "Concept synthesis for Qualitative Research & Evaluation Methods."
 book_id: "qualitative-research-evaluation-methods"
 collection_id: "evaluation-texts"
 note_type: "Synthesis"
 citation_key: "patton_2015_qualitative_research_evaluation_methods"
 evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:ch01-chapter-1-the-nature-niche-value-and-fruit-of-qualitative-inquiry:c0001"
+  - "chunk:qualitative-research-evaluation-methods:mod04-module-4-the-fruit-of-qualitative-methods-chapter-summary-and-conclusion:c0004"
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0001"
   - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010"
+  - "chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0017"
+  - "chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0001"
+  - "chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0002"
+  - "chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0029"
+  - "chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0030"
+  - "chunk:qualitative-research-evaluation-methods:ch04-chapter-4-practical-and-actionable-qualitative-applications:c0005"
   - "chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005"
   - "chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This synthesis draws across the generated notes for *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods].
+This synthesis draws on the generated chapter notes from *Qualitative Research & Evaluation Methods* [@patton_2015_qualitative_research_evaluation_methods].
 
-## Central Logic
+## Concept Clusters
 
-Qualitative inquiry is strongest when it is systematic, open to field realities, and connected to practical questions users need answered.
+### Framing and Purpose
 
-## Concepts
+- **qualitative inquiry**: Systematic inquiry using observations, interviews, documents, cases, and interpretation to understand meaning, context, and process.
+- **qualitative data**: Detailed descriptions, direct quotations, observations, documents, and other nonnumeric evidence preserved with context.
+- **mixed methods**: Intentional integration of qualitative and quantitative approaches to answer questions neither approach can fully answer alone.
+- **methods decision**: A design choice made in relation to purpose, question, context, resources, use, and credibility requirements.
+- **inquiry framework**: A paradigmatic, philosophical, or theoretical orientation that shapes questions, evidence, interpretation, and quality criteria.
+- **pragmatism**: A practical inquiry orientation that judges methods by their usefulness for the question and action context.
 
-- Qualitative inquiry: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Strategic qualitative principles: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Utilization-focused inquiry: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Case study: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Implementation and process evidence: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Theory of change clarification: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+### Design and Data Collection
 
-## Links
+- **design alignment**: Fit among purpose, question, sampling, data collection, analysis, resources, credibility, and intended use.
+- **purposeful sampling**: Selecting information-rich cases because they illuminate the inquiry purpose.
+- **information-rich case**: A case from which one can learn deeply about issues central to the inquiry.
+- **case study**: An in-depth inquiry into a bounded case, setting, person, group, program, event, or process.
+- **fieldwork**: Entering real-world settings to observe, listen, document, interact, and learn systematically.
+- **observation**: Watching, listening, and documenting what occurs in context, including activities, interactions, routines, and settings.
+- **field notes**: Systematic written records of field observations, including description, context, quotations, and analytic reflections.
+- **interviewing**: Qualitative data collection through open-ended questioning and disciplined listening.
 
-- [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
-- [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
-- [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+### Analysis and Credibility
+
+- **analysis**: The systematic process of organizing, reducing, comparing, interpreting, and representing qualitative data.
+- **thick description**: Rich, contextualized description that supports interpretation, transferability, and reader understanding.
+- **case analysis**: Making sense of a case holistically before or alongside cross-case comparison.
+- **pattern analysis**: Identifying recurring themes, relationships, categories, and variations across qualitative data.
+- **triangulation**: Using multiple data sources, methods, analysts, or theories to test and deepen findings.
+- **credibility**: The trustworthiness and believability of qualitative findings, shaped by data quality, analysis, inquirer credibility, and user judgment.
+- **quality criteria**: Standards used to judge qualitative inquiry, varying across scientific, constructivist, participatory, critical, systems, pragmatic, and use-oriented traditions.
+- **transferability**: Reasoned judgment about whether findings, principles, or lessons may apply in other contexts.
+
+## Chapter Links
+
+- [Chapter 1: The Nature, Niche, Value, and Fruit of Qualitative Inquiry](chapter-01-nature-niche-value-fruit-of-qualitative-inquiry.qmd)
+- [Chapter 2: Strategic Themes in Qualitative Inquiry](chapter-02-strategic-themes-in-qualitative-inquiry.qmd)
+- [Chapter 3: Variety of Qualitative Inquiry Frameworks](chapter-03-variety-of-qualitative-inquiry-frameworks.qmd)
+- [Chapter 4: Practical and Actionable Qualitative Applications](chapter-04-practical-and-actionable-qualitative-applications.qmd)
+- [Chapter 5: Designing Qualitative Studies](chapter-05-designing-qualitative-studies.qmd)
+- [Chapter 6: Fieldwork Strategies and Observation Methods](chapter-06-fieldwork-strategies-and-observation-methods.qmd)
+- [Chapter 7: Qualitative Interviewing](chapter-07-qualitative-interviewing.qmd)
+- [Chapter 8: Qualitative Analysis and Interpretation](chapter-08-qualitative-analysis-and-interpretation.qmd)
+- [Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies](chapter-09-enhancing-quality-and-credibility-of-qualitative-studies.qmd)
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:ch01-chapter-1-the-nature-niche-value-and-fruit-of-qualitative-inquiry:c0001`
+- `chunk:qualitative-research-evaluation-methods:mod04-module-4-the-fruit-of-qualitative-methods-chapter-summary-and-conclusion:c0004`
+- `chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0001`
+- `chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0010`
+- `chunk:qualitative-research-evaluation-methods:mod08-module-8-integrating-the-12-strategic-qualitative-principles-in-practice-chapter:c0017`
+- `chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0001`
+- `chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0029`
+- `chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0030`
+- `chunk:qualitative-research-evaluation-methods:ch04-chapter-4-practical-and-actionable-qualitative-applications:c0005`
+- `chunk:qualitative-research-evaluation-methods:mod20-module-20-practical-purposes-concrete-questions-and-actionable-answers-illuminat:c0005`
+- `chunk:qualitative-research-evaluation-methods:mod23-module-23-evaluating-program-models-and-theories-of-change-and-evaluation-models:c0024`
+- `chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0004`
+- `chunk:qualitative-research-evaluation-methods:mod27-module-27-a-vision-of-the-utility-of-qualitative-methods-chapter-summary-and-con:c0005`
+- `chunk:qualitative-research-evaluation-methods:ch05-chapter-5-designing-qualitative-studies:c0003`
+- `chunk:qualitative-research-evaluation-methods:ch05-chapter-5-designing-qualitative-studies:c0004`
+- `chunk:qualitative-research-evaluation-methods:mod30-module-30-purposeful-sampling-and-case-selection-overview-of-strategies-and-opti:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod30-module-30-purposeful-sampling-and-case-selection-overview-of-strategies-and-opti:c0003`
+- `chunk:qualitative-research-evaluation-methods:mod40-module-40-sample-size-for-qualitative-designs:c0009`
+- `chunk:qualitative-research-evaluation-methods:mod42-module-42-qualitative-design-chapter-summary-and-conclusion-methods-choices-and-:c0001`
+- `chunk:qualitative-research-evaluation-methods:ch06-chapter-6-fieldwork-strategies-and-observation-methods:c0003`
+- `chunk:qualitative-research-evaluation-methods:mod56-module-56-chapter-summary-and-conclusion-guidelines-for-fieldwork:c0006`
+- `chunk:qualitative-research-evaluation-methods:mod58-module-58-distinguishing-interview-approaches-and-types-of-interviews:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod64-module-64-personal-reflections-on-interviewing-and-chapter-summary-and-conclusio:c0009`
+- `chunk:qualitative-research-evaluation-methods:ch08-chapter-8-qualitative-analysis-and-interpretation:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod66-module-66-thick-description-and-case-studies-the-bedrock-of-qualitative-analysis:c0021`
+- `chunk:qualitative-research-evaluation-methods:mod75-module-75-chapter-summary-and-conclusion-plus-case-study-exhibits:c0038`
+- `chunk:qualitative-research-evaluation-methods:ch09-chapter-9-enhancing-the-quality-and-credibility-of-qualitative-studies:c0003`
+- `chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0001`
+- `chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0028`
+- `chunk:qualitative-research-evaluation-methods:mod77-module-77-four-triangulation-processes-for-enhancing-credibility:c0020`
+- `chunk:qualitative-research-evaluation-methods:mod78-module-78-alternative-and-competing-criteria-for-judging-the-quality-of-qualitat:c0011`
+- `chunk:qualitative-research-evaluation-methods:mod82-module-82-enhancing-the-credibility-and-utility-of-qualitative-inquiry-by-addres:c0045`
 
 ## References

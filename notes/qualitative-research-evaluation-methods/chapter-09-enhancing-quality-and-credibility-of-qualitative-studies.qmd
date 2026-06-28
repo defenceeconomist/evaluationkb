@@ -1,0 +1,150 @@
+---
+title: "Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies"
+description: "Detailed study notes for Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies of Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "942-1056"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:ch09-chapter-9-enhancing-the-quality-and-credibility-of-qualitative-studies:c0003"
+  - "chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0001"
+  - "chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0028"
+  - "chunk:qualitative-research-evaluation-methods:mod77-module-77-four-triangulation-processes-for-enhancing-credibility:c0020"
+  - "chunk:qualitative-research-evaluation-methods:mod78-module-78-alternative-and-competing-criteria-for-judging-the-quality-of-qualitat:c0011"
+  - "chunk:qualitative-research-evaluation-methods:mod82-module-82-enhancing-the-credibility-and-utility-of-qualitative-inquiry-by-addres:c0045"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies</span><span>Source pages 942-1056</span></div>
+
+This note summarises Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies from
+Michael Quinn Patton's *Qualitative Research & Evaluation Methods*
+[@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on
+source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook exhibits, checklists, cartoons, figures, tables, exercises, or extended passages.
+
+## Core Argument
+
+Credibility depends on high-quality fieldwork, systematic analysis, inquirer credibility, appropriate quality criteria, triangulation, transferability, and philosophical clarity about qualitative evidence.
+
+## Study Summary
+
+Chapter 9 closes the book by asking how qualitative inquiry can be judged as credible and useful.
+Patton identifies credibility as a product of data quality, analytic rigor, inquirer credibility,
+and users' appreciation of qualitative inquiry.
+
+The chapter presents analytic practices for systematically engaging and questioning the data. It
+also emphasizes triangulation across data sources, methods, analysts, theories, and mixed-methods
+evidence.
+
+Quality criteria are plural. Traditional scientific, constructivist, participatory, critical,
+systems, pragmatic, and utilization-focused criteria each illuminate different ways of judging
+qualitative work.
+
+The final modules address generalization, transferability, principles, lessons learned, and
+philosophy-of-science issues, ending with a pragmatic emphasis on use and technical adequacy in
+context.
+
+For close reading, track how the chapter uses credibility, triangulation, quality criteria,
+transferability while moving through credibility elements, questioning the data, triangulation. The
+note identifies the design or practice decision the chapter helps strengthen.
+
+Within the wider book, this chapter belongs to the analysis sequence.
+
+## Key Concepts
+
+- **credibility**: The trustworthiness and believability of qualitative findings, shaped by data quality, analysis, inquirer credibility, and user judgment.
+- **triangulation**: Using multiple data sources, methods, analysts, or theories to test and deepen findings.
+- **quality criteria**: Standards used to judge qualitative inquiry, varying across scientific, constructivist, participatory, critical, systems, pragmatic, and use-oriented traditions.
+- **transferability**: Reasoned judgment about whether findings, principles, or lessons may apply in other contexts.
+- **inquirer credibility**: The trust placed in the analyst based on training, experience, reflexivity, transparency, and presentation of self.
+- **pragmatism**: A practical inquiry orientation that judges methods by their usefulness for the question and action context.
+
+## Chapter Structure
+
+- Credibility elements.
+- Questioning the data.
+- Triangulation.
+- Quality criteria.
+- Transferability.
+- Philosophy of science.
+
+## Practical Implications
+
+- Report the credibility logic used for the study.
+- Use triangulation to deepen and challenge findings.
+- Match quality criteria to the inquiry framework and intended use.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 9 help decide?"]
+  Central["Concept: Enhancing the Quality and Credibility of Qualitative Studies"]
+  Concept1["Concept: credibility"]
+  Concept2["Concept: triangulation"]
+  Concept3["Concept: quality criteria"]
+  Element1["Inquiry element: credibility elements"]
+  Element2["Inquiry element: questioning the data"]
+  Element3["Inquiry element: triangulation"]
+  Implication1["Practice implication: Report the credibility logic used for the study."]
+  Implication2["Practice implication: Use triangulation to deepen and challenge findings."]
+  Question["Open question: What evidence would strengthen the claim?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Element1
+  Concept2 --> Element2
+  Concept3 --> Element3
+  Element1 --> Implication1
+  Element2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Element1,Element2,Element3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Qualitative Analysis and Interpretation](chapter-08-qualitative-analysis-and-interpretation.qmd)
+- Legacy extract retained: [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- Legacy extract retained: [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- Legacy extract retained: [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## Study Prompts
+
+- What design or evaluation-use decision does Chapter 9: Enhancing the Quality and Credibility of Qualitative Studies help clarify?
+- Which concept in this chapter would be most important to explain to a commissioner or stakeholder?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:ch09-chapter-9-enhancing-the-quality-and-credibility-of-qualitative-studies:c0003`
+- `chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0001`
+- `chunk:qualitative-research-evaluation-methods:mod76-module-76-analytical-processes-for-enhancing-credibility-systematically-engaging:c0028`
+- `chunk:qualitative-research-evaluation-methods:mod77-module-77-four-triangulation-processes-for-enhancing-credibility:c0020`
+- `chunk:qualitative-research-evaluation-methods:mod78-module-78-alternative-and-competing-criteria-for-judging-the-quality-of-qualitat:c0011`
+- `chunk:qualitative-research-evaluation-methods:mod82-module-82-enhancing-the-credibility-and-utility-of-qualitative-inquiry-by-addres:c0045`
+
+## References

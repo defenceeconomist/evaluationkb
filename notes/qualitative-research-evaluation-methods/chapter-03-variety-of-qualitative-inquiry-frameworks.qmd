@@ -1,0 +1,144 @@
+---
+title: "Chapter 3: Variety of Qualitative Inquiry Frameworks"
+description: "Detailed study notes for Chapter 3: Variety of Qualitative Inquiry Frameworks of Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "148-264"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0001"
+  - "chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0002"
+  - "chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0029"
+  - "chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0030"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3: Variety of Qualitative Inquiry Frameworks</span><span>Source pages 148-264</span></div>
+
+This note summarises Chapter 3: Variety of Qualitative Inquiry Frameworks from Michael Quinn
+Patton's *Qualitative Research & Evaluation Methods*
+[@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on
+source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook exhibits, checklists, cartoons, figures, tables, exercises, or extended passages.
+
+## Core Argument
+
+Qualitative inquiry is a family of frameworks, and evaluators must understand how philosophical and theoretical orientations shape questions, evidence, interpretation, and credibility.
+
+## Study Summary
+
+Chapter 3 reviews 16 qualitative inquiry frameworks, from ethnography and grounded theory to
+realism, phenomenology, constructivism, systems theory, complexity theory, pragmatism, and generic
+qualitative inquiry.
+
+The chapter situates these frameworks in the history of qualitative/quantitative debates while
+refusing to reduce qualitative inquiry to a single paradigm.
+
+Patton emphasizes that frameworks should be understood through their foundational questions.
+Different orientations ask different kinds of questions and imply different standards for evidence
+and interpretation.
+
+The chapter closes with crosscutting themes: definitions vary, fidelity disputes occur, frameworks
+combine and evolve, and the choice of framework should be explicit enough to guide methods
+decisions.
+
+For close reading, track how the chapter uses inquiry framework, pragmatism, mixed methods, quality
+criteria while moving through paradigms debate, 16 inquiry frameworks, foundational questions. The
+note identifies the design or practice decision the chapter helps strengthen.
+
+Within the wider book, this chapter belongs to the framing sequence.
+
+## Key Concepts
+
+- **inquiry framework**: A paradigmatic, philosophical, or theoretical orientation that shapes questions, evidence, interpretation, and quality criteria.
+- **pragmatism**: A practical inquiry orientation that judges methods by their usefulness for the question and action context.
+- **mixed methods**: Intentional integration of qualitative and quantitative approaches to answer questions neither approach can fully answer alone.
+- **quality criteria**: Standards used to judge qualitative inquiry, varying across scientific, constructivist, participatory, critical, systems, pragmatic, and use-oriented traditions.
+- **methods decision**: A design choice made in relation to purpose, question, context, resources, use, and credibility requirements.
+
+## Chapter Structure
+
+- Paradigms debate.
+- 16 inquiry frameworks.
+- Foundational questions.
+- Crosscutting themes.
+- Framework fidelity.
+
+## Practical Implications
+
+- Make the inquiry framework explicit before judging evidence quality.
+- Avoid treating qualitative inquiry as one undifferentiated paradigm.
+- Use frameworks to sharpen questions and interpretation, not to impose jargon.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 3 help decide?"]
+  Central["Concept: Variety of Qualitative Inquiry Frameworks"]
+  Concept1["Concept: inquiry framework"]
+  Concept2["Concept: pragmatism"]
+  Concept3["Concept: mixed methods"]
+  Element1["Inquiry element: paradigms debate"]
+  Element2["Inquiry element: 16 inquiry frameworks"]
+  Element3["Inquiry element: foundational questions"]
+  Implication1["Practice implication: Make the inquiry framework explicit before judging evidence quality."]
+  Implication2["Practice implication: Avoid treating qualitative inquiry as one undifferentiated paradigm."]
+  Question["Open question: What evidence would strengthen the claim?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Element1
+  Concept2 --> Element2
+  Concept3 --> Element3
+  Element1 --> Implication1
+  Element2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Element1,Element2,Element3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Strategic Themes in Qualitative Inquiry](chapter-02-strategic-themes-in-qualitative-inquiry.qmd)
+- Next: [Chapter 4: Practical and Actionable Qualitative Applications](chapter-04-practical-and-actionable-qualitative-applications.qmd)
+- Legacy extract retained: [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- Legacy extract retained: [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- Legacy extract retained: [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## Study Prompts
+
+- What design or evaluation-use decision does Chapter 3: Variety of Qualitative Inquiry Frameworks help clarify?
+- Which concept in this chapter would be most important to explain to a commissioner or stakeholder?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0001`
+- `chunk:qualitative-research-evaluation-methods:ch03-chapter-3-variety-of-qualitative-inquiry-frameworks-paradigmatic-philosophical-a:c0002`
+- `chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0029`
+- `chunk:qualitative-research-evaluation-methods:mod19-module-19-patterns-and-themes-across-inquiry-frameworks-chapter-summary-and-conc:c0030`
+
+## References

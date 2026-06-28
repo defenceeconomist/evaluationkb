@@ -1,0 +1,139 @@
+---
+title: "Chapter 6: Fieldwork Strategies and Observation Methods"
+description: "Detailed study notes for Chapter 6: Fieldwork Strategies and Observation Methods of Qualitative Research & Evaluation Methods."
+book_id: "qualitative-research-evaluation-methods"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "493-615"
+citation_key: "patton_2015_qualitative_research_evaluation_methods"
+evidence_ids:
+  - "chunk:qualitative-research-evaluation-methods:ch06-chapter-6-fieldwork-strategies-and-observation-methods:c0003"
+  - "chunk:qualitative-research-evaluation-methods:mod56-module-56-chapter-summary-and-conclusion-guidelines-for-fieldwork:c0006"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6: Fieldwork Strategies and Observation Methods</span><span>Source pages 493-615</span></div>
+
+This note summarises Chapter 6: Fieldwork Strategies and Observation Methods from Michael Quinn
+Patton's *Qualitative Research & Evaluation Methods*
+[@patton_2015_qualitative_research_evaluation_methods]. It is a paraphrased study note based on
+source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook exhibits, checklists, cartoons, figures, tables, exercises, or extended passages.
+
+## Core Argument
+
+Fieldwork turns design into disciplined real-world observation, requiring systematic attention to context, detail, openness, triangulation, and high-quality field notes.
+
+## Study Summary
+
+Chapter 6 moves the reader into the field. Fieldwork is the work of qualitative inquiry: observing,
+listening, documenting, interacting, and learning in real-world settings.
+
+Observation and interviewing are linked. Observation creates interview opportunities, and every
+interview is also an occasion for observation.
+
+Patton emphasizes disciplined field notes. High-quality fieldwork separates description from
+interpretation, captures rich detail and direct quotations, and remains open to unexpected leads.
+
+The chapter's fieldwork guidelines stress duration, focus, triangulation, opportunistic learning,
+multiple data sources, and systematic documentation.
+
+For close reading, track how the chapter uses fieldwork, observation, field notes, thick description
+while moving through entering the field, observation stance, field notes. The note identifies the
+design or practice decision the chapter helps strengthen.
+
+Within the wider book, this chapter belongs to the data sequence.
+
+## Key Concepts
+
+- **fieldwork**: Entering real-world settings to observe, listen, document, interact, and learn systematically.
+- **observation**: Watching, listening, and documenting what occurs in context, including activities, interactions, routines, and settings.
+- **field notes**: Systematic written records of field observations, including description, context, quotations, and analytic reflections.
+- **thick description**: Rich, contextualized description that supports interpretation, transferability, and reader understanding.
+- **triangulation**: Using multiple data sources, methods, analysts, or theories to test and deepen findings.
+- **emergent design**: A design that remains open, responsive, and flexible as new field understandings arise.
+
+## Chapter Structure
+
+- Entering the field.
+- Observation stance.
+- Field notes.
+- Openness.
+- Triangulation.
+- Guidelines.
+
+## Practical Implications
+
+- Write field notes as soon and as fully as possible.
+- Separate observed description from interpretation.
+- Use observations, documents, interviews, artifacts, and photographs to triangulate.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 6 help decide?"]
+  Central["Concept: Fieldwork Strategies and Observation Methods"]
+  Concept1["Concept: fieldwork"]
+  Concept2["Concept: observation"]
+  Concept3["Concept: field notes"]
+  Element1["Inquiry element: entering the field"]
+  Element2["Inquiry element: observation stance"]
+  Element3["Inquiry element: field notes"]
+  Implication1["Practice implication: Write field notes as soon and as fully as possible."]
+  Implication2["Practice implication: Separate observed description from interpretation."]
+  Question["Open question: What evidence would strengthen the claim?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Element1
+  Concept2 --> Element2
+  Concept3 --> Element3
+  Element1 --> Implication1
+  Element2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Element1,Element2,Element3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Designing Qualitative Studies](chapter-05-designing-qualitative-studies.qmd)
+- Next: [Chapter 7: Qualitative Interviewing](chapter-07-qualitative-interviewing.qmd)
+- Legacy extract retained: [Strategic Qualitative Principles in Practice](section-01-strategic-qualitative-principles.qmd)
+- Legacy extract retained: [Practical and Actionable Qualitative Inquiry](section-02-practical-actionable-qualitative-inquiry.qmd)
+- Legacy extract retained: [Program Models, Theories of Change, and Qualitative Methods](section-03-program-models-and-theories-of-change.qmd)
+
+## Study Prompts
+
+- What design or evaluation-use decision does Chapter 6: Fieldwork Strategies and Observation Methods help clarify?
+- Which concept in this chapter would be most important to explain to a commissioner or stakeholder?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:qualitative-research-evaluation-methods:ch06-chapter-6-fieldwork-strategies-and-observation-methods:c0003`
+- `chunk:qualitative-research-evaluation-methods:mod56-module-56-chapter-summary-and-conclusion-guidelines-for-fieldwork:c0006`
+
+## References
