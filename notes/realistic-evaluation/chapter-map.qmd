@@ -1,30 +1,104 @@
 ---
 title: "Realistic Evaluation Chapter Map"
-description: "Reading map for selected Realistic Evaluation notes."
+description: "Chapter-level reading map for Realistic Evaluation."
 book_id: "realistic-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Map"
 citation_key: "pawson_tilley_1997_realistic_evaluation"
 evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0004"
+  - "chunk:realistic-evaluation:introduction:c0008"
+  - "chunk:realistic-evaluation:introduction:c0010"
   - "chunk:realistic-evaluation:introduction:c0011"
-  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
-  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+  - "chunk:realistic-evaluation:introduction:c0013"
+  - "chunk:realistic-evaluation:introduction:c0014"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067"
+  - "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This map uses selected MCP research-library sections from *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+This map organises the generated chapter notes for *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
 
 ## Reading Route
 
-1. [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd) - pages 14-15; `Introduction`
-2. [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd) - pages 94-95; `Chapter 3: In with the New: Introducing Scientific Realism`
-3. [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd) - pages 234; `Chapter 9: The New Rules of Realistic Evaluation`
+- **Start with the problem of evaluation**: Introduction and Chapter 1 explain why existing traditions need a stronger account of explanation.
+- **Understand the realist foundation**: Chapters 2-3 move from critique of experimental causation to CMO configurations.
+- **Design and build knowledge**: Chapters 4-6 cover realist design, cumulation, and stakeholder-informed data.
+- **Apply and use the approach**: Chapters 7-9 show consultation, policy learning, and the final rules.
 
-## How to Use This Map
+## Chapters
 
-- Start with the first section for the book's framing logic.
-- Use the middle section to inspect the main design or method implications.
-- Use the final section to check limits, quality standards, or implications for use.
+| Chapter | Source Pages | Main Design Question | Link |
+|---|---:|---|---|
+| Introduction | 10-18 | The introduction positions realistic evaluation as a constructive alternative to evaluation traditions that ask whether programs work without explaining why, for whom, and in what circumstances. | [chapter-00-introduction.qmd](chapter-00-introduction.qmd) |
+| Chapter 1: A History of Evaluation in 28 1/2 Pages | 18-46 | Evaluation history shows repeated attempts to solve the same problem: how to produce useful, objective knowledge about complex programs without collapsing into method dogma or ungrounded pluralism. | [chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd](chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd) |
+| Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation | 47-71 | The experimental tradition is criticized for treating causation as external regularity, which can estimate net effects while missing the mechanisms and contexts that make social programs work or fail. | [chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd](chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd) |
+| Chapter 3: In with the New: Introducing Scientific Realism | 72-100 | Scientific realism gives evaluation its central explanatory formula: outcomes are generated when mechanisms are activated in contexts, and evaluation tests CMO configurations. | [chapter-03-in-with-the-new-introducing-scientific-realism.qmd](chapter-03-in-with-the-new-introducing-scientific-realism.qmd) |
+| Chapter 4: How to Design a Realistic Evaluation | 100-130 | Realist design starts from theory, derives hypotheses about mechanisms and contexts, then selects empirical comparisons that can test and refine those explanations. | [chapter-04-how-to-design-a-realistic-evaluation.qmd](chapter-04-how-to-design-a-realistic-evaluation.qmd) |
+| Chapter 5: How to Make Evaluations Cumulate | 132-170 | Evaluation knowledge cumulates when studies refine middle-range CMO theories across cases, rather than merely aggregating average effects or replicating interventions mechanically. | [chapter-05-how-to-make-evaluations-cumulate.qmd](chapter-05-how-to-make-evaluations-cumulate.qmd) |
+| Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge | 171-199 | Realist data are constructed by using stakeholder knowledge to inspect, challenge, and refine program theories about mechanisms, contexts, and outcomes. | [chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd](chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd) |
+| Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation | 200-216 | The smoking consultation demonstrates how realist evaluation translates research evidence and policy ideas into testable program theories and differentiated demonstration designs. | [chapter-07-no-smoking-without-firing-mechanisms.qmd](chapter-07-no-smoking-without-firing-mechanisms.qmd) |
+| Chapter 8: Evaluation, Policy and Practice: Realizing the Potential | 217-230 | Realistic evaluation supports policy and practice by creating a teacher-learner cycle in which evaluators reconstruct, test, and feed back stakeholder theories for program improvement. | [chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd](chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd) |
+| Chapter 9: The New Rules of Realistic Evaluation | 231-236 | The final rules condense the book into a realist evaluation language: generative causation, ontological depth, mechanisms, contexts, outcomes, CMO configurations, teacher-learner processes, and open systems. | [chapter-09-the-new-rules-of-realistic-evaluation.qmd](chapter-09-the-new-rules-of-realistic-evaluation.qmd) |
+
+## Legacy Extracts
+
+- [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Source Records
+
+- `chunk:realistic-evaluation:introduction:c0004`
+- `chunk:realistic-evaluation:introduction:c0008`
+- `chunk:realistic-evaluation:introduction:c0010`
+- `chunk:realistic-evaluation:introduction:c0011`
+- `chunk:realistic-evaluation:introduction:c0013`
+- `chunk:realistic-evaluation:introduction:c0014`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070`
+- `chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019`
+- `chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012`
 
 ## References

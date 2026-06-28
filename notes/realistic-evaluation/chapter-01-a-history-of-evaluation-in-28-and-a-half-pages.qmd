@@ -1,0 +1,149 @@
+---
+title: "Chapter 1: A History of Evaluation in 28 1/2 Pages"
+description: "Detailed study notes for Chapter 1: A History of Evaluation in 28 1/2 Pages of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "18-46"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054"
+  - "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 1: A History of Evaluation in 28 1/2 Pages</span><span>Source pages 18-46</span></div>
+
+This note summarises Chapter 1: A History of Evaluation in 28 1/2 Pages from Ray Pawson and Nick
+Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Evaluation history shows repeated attempts to solve the same problem: how to produce useful, objective knowledge about complex programs without collapsing into method dogma or ungrounded pluralism.
+
+## Study Summary
+
+Chapter 1 surveys major evaluation traditions and uses that history to position the realist
+alternative. The chapter begins from the proliferation of evaluation approaches and the danger that
+evaluation becomes a label rather than a disciplined methodology.
+
+The discussion moves through experimental, pragmatic, naturalistic, constructivist, pluralist, and
+comprehensive evaluation traditions. Each contributes something useful, but each also leaves
+unresolved tensions about explanation, objectivity, stakeholder knowledge, and policy use.
+
+Pawson and Tilley are especially wary of easy pluralism. They recognize the appeal of combining
+rigor, policy usefulness, and stakeholder sensitivity, but argue that a synthesis needs a stronger
+theory of causation and explanation.
+
+The chapter prepares the realist stance by retaining the aspiration to learn from interventions
+while rejecting both simple effectism and the idea that all stakeholder accounts are equally
+adequate explanations.
+
+For close reading, track how the chapter uses realistic evaluation, black box evaluation, policy
+learning, stakeholder theory while moving through evaluation proliferation, experimental tradition,
+pragmatic and naturalistic turns. The note identifies which CMO claim the chapter helps formulate,
+test, or refine.
+
+Within the wider book, this chapter belongs to the critique sequence.
+
+## Key Concepts
+
+- **realistic evaluation**: Pawson and Tilley's approach to evaluation that tests and refines theories of how programs work in particular contexts.
+- **black box evaluation**: Evaluation that estimates whether outcomes changed without explaining how or why the program produced them.
+- **policy learning**: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.
+- **stakeholder theory**: The ideas held by policy makers, practitioners, and participants about how a program works.
+- **scientific realism**: A philosophy of science that explains observable events through underlying mechanisms operating in open systems.
+
+## Chapter Structure
+
+- Evaluation proliferation.
+- Experimental tradition.
+- Pragmatic and naturalistic turns.
+- Constructivism.
+- Pluralism.
+- Realist positioning.
+
+## Practical Implications
+
+- Use evaluation history as a warning against method-first design.
+- Do not mistake plural coverage for explanatory clarity.
+- Preserve objectivity by improving the theory of how programs generate change.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 1: A History of Evaluation in 28 1/2 Pages help explain?"]
+  Central["Concept: A History of Evaluation in 28 1/2 Pages"]
+  Concept1["Concept: realistic evaluation"]
+  Concept2["Concept: black box evaluation"]
+  Concept3["Concept: policy learning"]
+  Mechanism1["Inquiry element: evaluation proliferation"]
+  Mechanism2["Inquiry element: experimental tradition"]
+  Mechanism3["Inquiry element: pragmatic and naturalistic turns"]
+  Implication1["Practice implication: Use evaluation history as a warning against method-first design."]
+  Implication2["Practice implication: Do not mistake plural coverage for explanatory clarity."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Introduction](chapter-00-introduction.qmd)
+- Next: [Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation](chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 1: A History of Evaluation in 28 1/2 Pages help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054`
+- `chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067`
+
+## References

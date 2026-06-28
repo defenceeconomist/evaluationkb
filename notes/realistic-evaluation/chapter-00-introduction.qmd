@@ -1,0 +1,148 @@
+---
+title: "Introduction"
+description: "Detailed study notes for Introduction of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 0
+source_pages: "10-18"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0004"
+  - "chunk:realistic-evaluation:introduction:c0008"
+  - "chunk:realistic-evaluation:introduction:c0010"
+  - "chunk:realistic-evaluation:introduction:c0011"
+  - "chunk:realistic-evaluation:introduction:c0013"
+  - "chunk:realistic-evaluation:introduction:c0014"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Introduction</span><span>Source pages 10-18</span></div>
+
+This note summarises Introduction from Ray Pawson and Nick Tilley's *Realistic Evaluation*
+[@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased study note based on source-linked
+MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+The introduction positions realistic evaluation as a constructive alternative to evaluation traditions that ask whether programs work without explaining why, for whom, and in what circumstances.
+
+## Study Summary
+
+The introduction sets the agenda for a realist reconstruction of evaluation. Pawson and Tilley argue
+that evaluation needs a scientific account of policy learning, but one suited to the messy, open
+character of social programs.
+
+The reader's guide presents the book as a staged argument: a history of evaluation, a critique of
+experimental evaluation, a philosophical account of scientific realism, and then practical chapters
+on design, cumulation, data construction, consultation, policy, and rules.
+
+The introduction names context, mechanism, and outcome as the conceptual backbone of realistic
+evaluation. Programs are not treated as simple treatments that cause effects, but as resources and
+ideas that may trigger mechanisms under particular conditions.
+
+The practical stance is neither method rejection nor paradigm warfare. The book asks evaluators to
+recover objectivity by improving explanation: to learn why a program works, for whom, in which
+settings, and how that knowledge can guide future decisions.
+
+For close reading, track how the chapter uses realistic evaluation, CMO configuration, context,
+mechanism while moving through evaluation at a watershed, being real, realist, and realistic,
+reader's guide. The note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the orientation sequence.
+
+## Key Concepts
+
+- **realistic evaluation**: Pawson and Tilley's approach to evaluation that tests and refines theories of how programs work in particular contexts.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+- **context**: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.
+- **mechanism**: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.
+- **outcome pattern**: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.
+- **policy learning**: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.
+
+## Chapter Structure
+
+- Evaluation at a watershed.
+- Being real, realist, and realistic.
+- Reader's guide.
+- CMO vocabulary.
+- Book argument.
+
+## Practical Implications
+
+- Frame evaluation questions as explanatory questions, not only effect questions.
+- Use CMO language before choosing methods.
+- Treat the book as a route from critique to practical design.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Introduction help explain?"]
+  Central["Concept: Introduction"]
+  Concept1["Concept: realistic evaluation"]
+  Concept2["Concept: CMO configuration"]
+  Concept3["Concept: context"]
+  Mechanism1["Inquiry element: evaluation at a watershed"]
+  Mechanism2["Inquiry element: being real, realist, and realistic"]
+  Mechanism3["Inquiry element: reader's guide"]
+  Implication1["Practice implication: Frame evaluation questions as explanatory questions, not only effect questions."]
+  Implication2["Practice implication: Use CMO language before choosing methods."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 1: A History of Evaluation in 28 1/2 Pages](chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Introduction help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:introduction:c0004`
+- `chunk:realistic-evaluation:introduction:c0008`
+- `chunk:realistic-evaluation:introduction:c0010`
+- `chunk:realistic-evaluation:introduction:c0011`
+- `chunk:realistic-evaluation:introduction:c0013`
+- `chunk:realistic-evaluation:introduction:c0014`
+
+## References

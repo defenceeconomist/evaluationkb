@@ -1,0 +1,147 @@
+---
+title: "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation"
+description: "Detailed study notes for Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+source_pages: "47-71"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001"
+  - "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002"
+  - "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010"
+  - "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation</span><span>Source pages 47-71</span></div>
+
+This note summarises Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation from Ray
+Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+The experimental tradition is criticized for treating causation as external regularity, which can estimate net effects while missing the mechanisms and contexts that make social programs work or fail.
+
+## Study Summary
+
+Chapter 2 offers a constructive critique of experimental evaluation. Pawson and Tilley do not reject
+scientific ambition; they argue that experimental evaluation has relied on an inadequate model of
+scientific explanation.
+
+The target is successionist causation: the idea that causal explanation is established by constant
+conjunction between treatment and outcome under controlled conditions. For social programs, this can
+leave the causal process itself in a black box.
+
+The chapter contrasts that view with generative causation. Programs work by activating powers,
+reasoning, opportunities, and constraints within particular contexts, so explanation has to reach
+inside the treatment-outcome relationship.
+
+Examples such as community policing show why net differences between treatment and control areas are
+not enough. Evaluators need to know which causal agents were omitted, how implementation interacted
+with context, and why apparent effects varied.
+
+For close reading, track how the chapter uses successionist causation, generative causation, black
+box evaluation, mechanism while moving through constructive critique, experiments and causation,
+missing causal agents. The note identifies which CMO claim the chapter helps formulate, test, or
+refine.
+
+Within the wider book, this chapter belongs to the critique sequence.
+
+## Key Concepts
+
+- **successionist causation**: A causation model focused on observed regularities between events, which Pawson and Tilley critique as too thin for social programs.
+- **generative causation**: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.
+- **black box evaluation**: Evaluation that estimates whether outcomes changed without explaining how or why the program produced them.
+- **mechanism**: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.
+- **context**: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.
+
+## Chapter Structure
+
+- Constructive critique.
+- Experiments and causation.
+- Missing causal agents.
+- Program integrity.
+- Community policing.
+- Realist remedy.
+
+## Practical Implications
+
+- Use experiments to support explanation, not replace it.
+- Identify the causal process a program is expected to trigger.
+- Treat subgroup and site variation as evidence, not nuisance.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation help explain?"]
+  Central["Concept: Out with the Old: Weaknesses in Experimental Evaluation"]
+  Concept1["Concept: successionist causation"]
+  Concept2["Concept: generative causation"]
+  Concept3["Concept: black box evaluation"]
+  Mechanism1["Inquiry element: constructive critique"]
+  Mechanism2["Inquiry element: experiments and causation"]
+  Mechanism3["Inquiry element: missing causal agents"]
+  Implication1["Practice implication: Use experiments to support explanation, not replace it."]
+  Implication2["Practice implication: Identify the causal process a program is expected to trigger."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: A History of Evaluation in 28 1/2 Pages](chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd)
+- Next: [Chapter 3: In with the New: Introducing Scientific Realism](chapter-03-in-with-the-new-introducing-scientific-realism.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010`
+- `chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044`
+
+## References

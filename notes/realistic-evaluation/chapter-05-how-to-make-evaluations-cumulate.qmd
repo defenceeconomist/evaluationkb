@@ -1,0 +1,146 @@
+---
+title: "Chapter 5: How to Make Evaluations Cumulate"
+description: "Detailed study notes for Chapter 5: How to Make Evaluations Cumulate of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "132-170"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007"
+  - "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015"
+  - "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016"
+  - "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030"
+  - "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 5: How to Make Evaluations Cumulate</span><span>Source pages 132-170</span></div>
+
+This note summarises Chapter 5: How to Make Evaluations Cumulate from Ray Pawson and Nick Tilley's
+*Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased study note
+based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Evaluation knowledge cumulates when studies refine middle-range CMO theories across cases, rather than merely aggregating average effects or replicating interventions mechanically.
+
+## Study Summary
+
+Chapter 5 addresses how evaluation can build knowledge over time. Pawson and Tilley reject
+cumulation as simple empirical generalization and instead propose cumulation as theory development.
+
+The chapter connects CMO configurations to middle-range theory. A useful evaluation finding should
+be abstract enough to guide future inquiry, but concrete enough to specify where mechanisms should
+operate.
+
+Replication becomes configuration focusing. Subsequent studies do not expect the same program to
+produce the same result everywhere; they test how a mechanism behaves under new contextual
+conditions.
+
+The Kirkholt burglary example illustrates the messy but progressive character of realist cumulation.
+Evidence accumulates by preserving the relationship among mechanisms, contexts, and outcomes, not by
+stripping cases down to undifferentiated effects.
+
+For close reading, track how the chapter uses cumulation, middle-range theory, replication,
+configuration focusing while moving through realistic cumulation, typology of theory, ladder of
+abstraction. The note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the design sequence.
+
+## Key Concepts
+
+- **cumulation**: The progressive refinement of program theory across studies, cases, and replications.
+- **middle-range theory**: A theory abstract enough to travel across cases but specific enough to guide empirical evaluation.
+- **replication**: A follow-on test that refines where and how a CMO configuration holds, rather than expecting identical effects everywhere.
+- **configuration focusing**: Refining CMO configurations by adapting and testing a known mechanism across new local contexts.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+
+## Chapter Structure
+
+- Realistic cumulation.
+- Typology of theory.
+- Ladder of abstraction.
+- Replication.
+- Kirkholt case.
+- Accumulated wisdom.
+
+## Practical Implications
+
+- Treat every evaluation as a contribution to a larger program theory.
+- Use replication to refine CMO boundaries.
+- Reject reports that only state whether change occurred.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 5: How to Make Evaluations Cumulate help explain?"]
+  Central["Concept: How to Make Evaluations Cumulate"]
+  Concept1["Concept: cumulation"]
+  Concept2["Concept: middle-range theory"]
+  Concept3["Concept: replication"]
+  Mechanism1["Inquiry element: realistic cumulation"]
+  Mechanism2["Inquiry element: typology of theory"]
+  Mechanism3["Inquiry element: ladder of abstraction"]
+  Implication1["Practice implication: Treat every evaluation as a contribution to a larger program theory."]
+  Implication2["Practice implication: Use replication to refine CMO boundaries."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: How to Design a Realistic Evaluation](chapter-04-how-to-design-a-realistic-evaluation.qmd)
+- Next: [Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge](chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 5: How to Make Evaluations Cumulate help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030`
+- `chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070`
+
+## References

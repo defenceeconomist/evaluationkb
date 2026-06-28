@@ -5,15 +5,21 @@
   "book_id": "realistic-evaluation",
   "book_title": "Realistic Evaluation",
   "source_status": "needs_review",
-  "rag_status": "ready",
   "source_tool": "mcp__researchlibrary.rag_evidence_pack",
-  "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
-  "records": [
+  "evidence_pack_defaults": {
+    "include_neighbors": true,
+    "limit": "targeted chapter retrieval; broad full-book evidence pack used before synthesis",
+    "include_media": "true for full-book grounding and figure-heavy chapters"
+  },
+  "chapters": [
     {
-      "section_id": "introduction",
-      "section_title": "Introduction",
+      "chapter_number": 0,
+      "chapter_title": "Introduction",
+      "target_path": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "section_paths": [
+        "Introduction"
+      ],
       "source_pages": "10-18",
-      "section_path": "Introduction",
       "evidence_ids": [
         "chunk:realistic-evaluation:introduction:c0004",
         "chunk:realistic-evaluation:introduction:c0008",
@@ -23,13 +29,16 @@
         "chunk:realistic-evaluation:introduction:c0014"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-00-introduction.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-01",
-      "section_title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+      "chapter_number": 1,
+      "chapter_title": "A History of Evaluation in 28 1/2 Pages",
+      "target_path": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "section_paths": [
+        "Chapter 1: A History of Evaluation in 28 1/2 Pages"
+      ],
       "source_pages": "18-46",
-      "section_path": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003",
         "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006",
@@ -38,13 +47,16 @@
         "chunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-02",
-      "section_title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+      "chapter_number": 2,
+      "chapter_title": "Out with the Old: Weaknesses in Experimental Evaluation",
+      "target_path": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "section_paths": [
+        "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation"
+      ],
       "source_pages": "47-71",
-      "section_path": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001",
         "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002",
@@ -52,13 +64,16 @@
         "chunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-03",
-      "section_title": "Chapter 3: In with the New: Introducing Scientific Realism",
+      "chapter_number": 3,
+      "chapter_title": "In with the New: Introducing Scientific Realism",
+      "target_path": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "section_paths": [
+        "Chapter 3: In with the New: Introducing Scientific Realism"
+      ],
       "source_pages": "72-100",
-      "section_path": "Chapter 3: In with the New: Introducing Scientific Realism",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005",
         "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011",
@@ -67,13 +82,16 @@
         "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-04",
-      "section_title": "Chapter 4: How to Design a Realistic Evaluation",
+      "chapter_number": 4,
+      "chapter_title": "How to Design a Realistic Evaluation",
+      "target_path": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "section_paths": [
+        "Chapter 4: How to Design a Realistic Evaluation"
+      ],
       "source_pages": "100-130",
-      "section_path": "Chapter 4: How to Design a Realistic Evaluation",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003",
         "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004",
@@ -81,13 +99,16 @@
         "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-05",
-      "section_title": "Chapter 5: How to Make Evaluations Cumulate",
+      "chapter_number": 5,
+      "chapter_title": "How to Make Evaluations Cumulate",
+      "target_path": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "section_paths": [
+        "Chapter 5: How to Make Evaluations Cumulate"
+      ],
       "source_pages": "132-170",
-      "section_path": "Chapter 5: How to Make Evaluations Cumulate",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007",
         "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015",
@@ -96,26 +117,32 @@
         "chunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-06",
-      "section_title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge",
+      "chapter_number": 6,
+      "chapter_title": "How to Construct Realistic Data: Utilizing Stakeholders' Knowledge",
+      "target_path": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "section_paths": [
+        "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge"
+      ],
       "source_pages": "171-199",
-      "section_path": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge",
       "evidence_ids": [
         "chunk:realistic-evaluation:introduction:c0013",
         "chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019",
         "chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-07",
-      "section_title": "Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation",
+      "chapter_number": 7,
+      "chapter_title": "No Smoking Without Firing Mechanisms: A 'Realistic' Consultation",
+      "target_path": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "section_paths": [
+        "Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation"
+      ],
       "source_pages": "200-216",
-      "section_path": "Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation",
       "evidence_ids": [
         "chunk:realistic-evaluation:introduction:c0014",
         "chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001",
@@ -123,13 +150,16 @@
         "chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-08",
-      "section_title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+      "chapter_number": 8,
+      "chapter_title": "Evaluation, Policy and Practice: Realizing the Potential",
+      "target_path": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "section_paths": [
+        "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential"
+      ],
       "source_pages": "217-230",
-      "section_path": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001",
         "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004",
@@ -138,13 +168,16 @@
         "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd"
+      "status": "drafted"
     },
     {
-      "section_id": "chapter-09",
-      "section_title": "Chapter 9: The New Rules of Realistic Evaluation",
+      "chapter_number": 9,
+      "chapter_title": "The New Rules of Realistic Evaluation",
+      "target_path": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "section_paths": [
+        "Chapter 9: The New Rules of Realistic Evaluation"
+      ],
       "source_pages": "231-236",
-      "section_path": "Chapter 9: The New Rules of Realistic Evaluation",
       "evidence_ids": [
         "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001",
         "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004",
@@ -154,7 +187,7 @@
         "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
       ],
       "media_ids": [],
-      "target_path": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd"
+      "status": "drafted"
     }
   ]
 }

@@ -1,0 +1,148 @@
+---
+title: "Chapter 3: In with the New: Introducing Scientific Realism"
+description: "Detailed study notes for Chapter 3: In with the New: Introducing Scientific Realism of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "72-100"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050"
+  - "chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3: In with the New: Introducing Scientific Realism</span><span>Source pages 72-100</span></div>
+
+This note summarises Chapter 3: In with the New: Introducing Scientific Realism from Ray Pawson and
+Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Scientific realism gives evaluation its central explanatory formula: outcomes are generated when mechanisms are activated in contexts, and evaluation tests CMO configurations.
+
+## Study Summary
+
+Chapter 3 develops the philosophical and methodological foundation of realistic evaluation. It
+argues that the task of science is to explain observed events by identifying the mechanisms and
+conditions that produce them.
+
+The chapter translates that philosophy into evaluation. Programs work only insofar as they introduce
+ideas, resources, constraints, and opportunities that trigger mechanisms for particular people in
+particular social and cultural contexts.
+
+This produces the book's core formula: context, mechanism, and outcome belong together. The
+evaluation task is to identify, articulate, test, and refine conjectured CMO configurations.
+
+The CCTV car park example shows why programs cannot be treated as uniform causal packages. A single
+intervention can fire multiple mechanisms and generate different outcome patterns depending on
+location, users, routines, and local norms.
+
+For close reading, track how the chapter uses scientific realism, CMO configuration, generative
+causation, mechanism while moving through realist explanation, real experiments, mechanism question.
+The note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the foundation sequence.
+
+## Key Concepts
+
+- **scientific realism**: A philosophy of science that explains observable events through underlying mechanisms operating in open systems.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+- **generative causation**: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.
+- **mechanism**: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.
+- **context**: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.
+- **outcome pattern**: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.
+
+## Chapter Structure
+
+- Realist explanation.
+- Real experiments.
+- Mechanism question.
+- Context question.
+- CMO configurations.
+- Car park example.
+
+## Practical Implications
+
+- Write hypotheses as CMO configurations.
+- Design comparisons around mechanism-context variation.
+- Use contradictory outcomes to refine the program theory.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 3: In with the New: Introducing Scientific Realism help explain?"]
+  Central["Concept: In with the New: Introducing Scientific Realism"]
+  Concept1["Concept: scientific realism"]
+  Concept2["Concept: CMO configuration"]
+  Concept3["Concept: generative causation"]
+  Mechanism1["Inquiry element: realist explanation"]
+  Mechanism2["Inquiry element: real experiments"]
+  Mechanism3["Inquiry element: mechanism question"]
+  Implication1["Practice implication: Write hypotheses as CMO configurations."]
+  Implication2["Practice implication: Design comparisons around mechanism-context variation."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation](chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd)
+- Next: [Chapter 4: How to Design a Realistic Evaluation](chapter-04-how-to-design-a-realistic-evaluation.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 3: In with the New: Introducing Scientific Realism help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050`
+- `chunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051`
+
+## References

@@ -1,0 +1,146 @@
+---
+title: "Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation"
+description: "Detailed study notes for Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "200-216"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0014"
+  - "chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001"
+  - "chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026"
+  - "chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation</span><span>Source pages 200-216</span></div>
+
+This note summarises Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation
+from Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+The smoking consultation demonstrates how realist evaluation translates research evidence and policy ideas into testable program theories and differentiated demonstration designs.
+
+## Study Summary
+
+Chapter 7 is a worked consultation rather than a conventional methods chapter. It shows how the
+realist approach can move outside the criminal justice examples used earlier and apply to smoking
+cessation.
+
+The dialogue form makes visible the evaluator's reasoning. Existing research, policy expectations,
+and practical options are converted into candidate mechanisms, contexts, and possible program
+designs.
+
+The chapter insists that theory is practical. Anti-smoking programs embody ideas about health
+warnings, identity, social support, addiction, medical authority, and readiness to change, and these
+ideas should be made explicit.
+
+The resulting advice is to test families of tailored interventions rather than launch a single
+blockbuster. Different programs can be designed to fire mechanisms in contexts where they are most
+likely to matter.
+
+For close reading, track how the chapter uses program theory, mechanism, context, realist design
+while moving through fictional consultation, smoking cessation evidence, program theories. The note
+identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the application sequence.
+
+## Key Concepts
+
+- **program theory**: An account of how a program is expected to trigger mechanisms and outcomes in specific contexts.
+- **mechanism**: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.
+- **context**: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.
+- **realist design**: An evaluation design that begins with conjectured CMO configurations and selects comparisons and data to test them.
+- **stakeholder theory**: The ideas held by policy makers, practitioners, and participants about how a program works.
+
+## Chapter Structure
+
+- Fictional consultation.
+- Smoking cessation evidence.
+- Program theories.
+- Mechanism selection.
+- Demonstration projects.
+- Tailored designs.
+
+## Practical Implications
+
+- Translate policy ideas into explicit program theories.
+- Design related interventions to test different mechanism-context combinations.
+- Use consultation to surface the assumptions behind program choice.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation help explain?"]
+  Central["Concept: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation"]
+  Concept1["Concept: program theory"]
+  Concept2["Concept: mechanism"]
+  Concept3["Concept: context"]
+  Mechanism1["Inquiry element: fictional consultation"]
+  Mechanism2["Inquiry element: smoking cessation evidence"]
+  Mechanism3["Inquiry element: program theories"]
+  Implication1["Practice implication: Translate policy ideas into explicit program theories."]
+  Implication2["Practice implication: Design related interventions to test different mechanism-context combinations."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge](chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd)
+- Next: [Chapter 8: Evaluation, Policy and Practice: Realizing the Potential](chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:introduction:c0014`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026`
+- `chunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040`
+
+## References

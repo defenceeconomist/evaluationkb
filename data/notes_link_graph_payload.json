@@ -901,13 +901,63 @@
       "path": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd"
     },
     {
+      "id": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "title": "Introduction",
+      "path": "notes/realistic-evaluation/chapter-00-introduction.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+      "path": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+      "path": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+      "path": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "title": "Chapter 4: How to Design a Realistic Evaluation",
+      "path": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "title": "Chapter 5: How to Make Evaluations Cumulate",
+      "path": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge",
+      "path": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "title": "Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation",
+      "path": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+      "path": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd"
+    },
+    {
+      "id": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "title": "Chapter 9: The New Rules of Realistic Evaluation",
+      "path": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd"
+    },
+    {
       "id": "notes/realistic-evaluation/chapter-map.qmd",
       "title": "Realistic Evaluation Chapter Map",
       "path": "notes/realistic-evaluation/chapter-map.qmd"
     },
     {
       "id": "notes/realistic-evaluation/concepts.qmd",
-      "title": "Core Concepts in Realistic Evaluation",
+      "title": "Realistic Evaluation Core Concepts",
       "path": "notes/realistic-evaluation/concepts.qmd"
     },
     {
@@ -8113,6 +8163,496 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-map.qmd",
+      "target": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/realistic-evaluation/chapter-map.qmd",
       "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
       "type": "internal-link"
@@ -8129,17 +8669,52 @@
     },
     {
       "source": "notes/realistic-evaluation/concepts.qmd",
-      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-00-introduction.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/realistic-evaluation/concepts.qmd",
-      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/realistic-evaluation/concepts.qmd",
-      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/concepts.qmd",
+      "target": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
       "type": "internal-link"
     },
     {
@@ -8159,6 +8734,56 @@
     },
     {
       "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
+      "target": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/index.qmd",
       "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
       "type": "internal-link"
     },
@@ -8174,17 +8799,52 @@
     },
     {
       "source": "notes/realistic-evaluation/practice-implications.qmd",
-      "target": "notes/realistic-evaluation/section-01-reader-guide-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-00-introduction.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/realistic-evaluation/practice-implications.qmd",
-      "target": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.qmd",
+      "target": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/realistic-evaluation/practice-implications.qmd",
-      "target": "notes/realistic-evaluation/section-03-new-rules-cmo-configurations.qmd",
+      "target": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/realistic-evaluation/practice-implications.qmd",
+      "target": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
       "type": "internal-link"
     },
     {
@@ -8964,6 +9624,46 @@
     {
       "source": "notes/qualitative-research-evaluation-methods/section-03-program-models-and-theories-of-change.qmd",
       "citation": "patton_2015_qualitative_research_evaluation_methods"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-00-introduction.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
+    },
+    {
+      "source": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.qmd",
+      "citation": "pawson_tilley_1997_realistic_evaluation"
     },
     {
       "source": "notes/realistic-evaluation/chapter-map.qmd",

@@ -1,0 +1,145 @@
+---
+title: "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge"
+description: "Detailed study notes for Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "171-199"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:introduction:c0013"
+  - "chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019"
+  - "chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge</span><span>Source pages 171-199</span></div>
+
+This note summarises Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge
+from Ray Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation].
+It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Realist data are constructed by using stakeholder knowledge to inspect, challenge, and refine program theories about mechanisms, contexts, and outcomes.
+
+## Study Summary
+
+Chapter 6 develops a realist account of data collection. The question is not whether to choose
+controlled measurement or empathetic immersion, but how to gather evidence that tests program
+theories.
+
+Stakeholders are treated as holders of partial but valuable knowledge. Practitioners and
+participants can explain routines, constraints, interpretations, and mechanisms that are otherwise
+invisible to external measurement.
+
+The realist interview is the chapter's signature strategy. Rather than asking only for attitudes or
+experiences, evaluators share candidate theories with respondents and invite them to confirm,
+correct, or complicate those theories.
+
+Data construction is therefore dialogic and theory-driven. The evaluator moves between teaching and
+learning, using stakeholder accounts as evidence about how mechanisms may operate in particular
+contexts.
+
+For close reading, track how the chapter uses stakeholder knowledge, realist interview, teacher-
+learner cycle, program theory while moving through research relationship, stakeholder theories,
+realist interview. The note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the data sequence.
+
+## Key Concepts
+
+- **stakeholder knowledge**: Practitioner, participant, and policy-maker knowledge used as evidence about program theories and mechanisms.
+- **realist interview**: An interview strategy that invites respondents to inspect, correct, and refine the evaluator's program-theory propositions.
+- **teacher-learner cycle**: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.
+- **program theory**: An account of how a program is expected to trigger mechanisms and outcomes in specific contexts.
+- **mechanism**: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.
+- **context**: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.
+
+## Chapter Structure
+
+- Research relationship.
+- Stakeholder theories.
+- Realist interview.
+- Data construction.
+- Quantitative and qualitative routes.
+- Conclusion.
+
+## Practical Implications
+
+- Ask stakeholders to reason about candidate mechanisms, not only describe experiences.
+- Use interviews to test program theory.
+- Treat respondent disagreement as theory-refining evidence.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge help explain?"]
+  Central["Concept: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge"]
+  Concept1["Concept: stakeholder knowledge"]
+  Concept2["Concept: realist interview"]
+  Concept3["Concept: teacher-learner cycle"]
+  Mechanism1["Inquiry element: research relationship"]
+  Mechanism2["Inquiry element: stakeholder theories"]
+  Mechanism3["Inquiry element: realist interview"]
+  Implication1["Practice implication: Ask stakeholders to reason about candidate mechanisms, not only describe experiences."]
+  Implication2["Practice implication: Use interviews to test program theory."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: How to Make Evaluations Cumulate](chapter-05-how-to-make-evaluations-cumulate.qmd)
+- Next: [Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation](chapter-07-no-smoking-without-firing-mechanisms.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:introduction:c0013`
+- `chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019`
+- `chunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061`
+
+## References

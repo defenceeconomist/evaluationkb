@@ -130,7 +130,7 @@
     "href": "notes/realistic-evaluation/index.html",
     "title": "Realistic Evaluation",
     "section": "",
-    "text": "Book notes\n\n\nStudy notes on Realistic Evaluation (Pawson and Tilley 1997). These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.\n\n3 major-section notes 1997 Source status: needs_review MCP evaluation-texts\n\n\n\n\n\nSynthesis\n\n\nRecurring ideas and distinctions used across these notes.\n\n\n\nMap\n\n\nSelected source sections, page ranges, and reading routes.\n\n\n\nPractice\n\n\nPractical evaluation design habits drawn from the notes.",
+    "text": "Book notes\n\n\nChapter-level study notes on Realistic Evaluation (Pawson and Tilley 1997). These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.\n\n10 chapter notes 1997 Source status: needs_review MCP evaluation-texts\n\n\n\n\n\nSynthesis\n\n\nRecurring ideas and distinctions used across these chapter notes.\n\n\n\nMap\n\n\nSource chapters, page ranges, and reading routes.\n\n\n\nPractice\n\n\nPractical evaluation design habits drawn from the notes.",
     "crumbs": [
       "Notes",
       "Evaluation Texts",
@@ -142,7 +142,7 @@
     "href": "notes/realistic-evaluation/index.html#source",
     "title": "Realistic Evaluation",
     "section": "Source",
-    "text": "Source\n\n1997MCP evaluation-textsStatus: needs_reviewBook overview\n\nThis index summarises generated study notes for Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). The generated pages use selected MCP research-library retrieval records and compact evidence summaries.",
+    "text": "Source\n\n1997MCP evaluation-textsStatus: needs_reviewBook overview\n\nThis index summarises generated chapter-level study notes for Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). The generated pages use selected MCP research-library retrieval records and compact evidence summaries.",
     "crumbs": [
       "Notes",
       "Evaluation Texts",
@@ -154,7 +154,7 @@
     "href": "notes/realistic-evaluation/index.html#core-argument",
     "title": "Realistic Evaluation",
     "section": "Core Argument",
-    "text": "Core Argument\nRealist evaluation studies programs through context-mechanism-outcome configurations rather than asking only whether a whole program worked.",
+    "text": "Core Argument\nRealistic evaluation explains programs through CMO configurations: programs trigger mechanisms in contexts to produce outcome patterns, and evaluation tests and refines those explanations for policy and practice.",
     "crumbs": [
       "Notes",
       "Evaluation Texts",
@@ -162,11 +162,35 @@
     ]
   },
   {
-    "objectID": "notes/realistic-evaluation/index.html#major-section-notes",
-    "href": "notes/realistic-evaluation/index.html#major-section-notes",
+    "objectID": "notes/realistic-evaluation/index.html#chapter-notes",
+    "href": "notes/realistic-evaluation/index.html#chapter-notes",
     "title": "Realistic Evaluation",
-    "section": "Major-Section Notes",
-    "text": "Major-Section Notes\n\nReader’s Guide to Context, Mechanism, and Outcome - source pages 14-15\nScientific Realism and CMO Hypotheses - source pages 94-95\nThe New Rules and CMO Configurations - source pages 234",
+    "section": "Chapter Notes",
+    "text": "Chapter Notes\n\nOrientation\n\nIntroduction - source pages 10-18\n\n\n\nCritique of Existing Evaluation Traditions\n\nChapter 1: A History of Evaluation in 28 1/2 Pages - source pages 18-46\nChapter 2: Out with the Old: Weaknesses in Experimental Evaluation - source pages 47-71\n\n\n\nRealist Foundation\n\nChapter 3: In with the New: Introducing Scientific Realism - source pages 72-100\n\n\n\nDesign and Cumulation\n\nChapter 4: How to Design a Realistic Evaluation - source pages 100-130\nChapter 5: How to Make Evaluations Cumulate - source pages 132-170\n\n\n\nData Construction\n\nChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge - source pages 171-199\n\n\n\nWorked Application\n\nChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation - source pages 200-216\n\n\n\nPolicy and Practice\n\nChapter 8: Evaluation, Policy and Practice: Realizing the Potential - source pages 217-230\n\n\n\nSynthesis\n\nChapter 9: The New Rules of Realistic Evaluation - source pages 231-236",
+    "crumbs": [
+      "Notes",
+      "Evaluation Texts",
+      "Realistic Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/realistic-evaluation/index.html#legacy-extracts",
+    "href": "notes/realistic-evaluation/index.html#legacy-extracts",
+    "title": "Realistic Evaluation",
+    "section": "Legacy Extracts",
+    "text": "Legacy Extracts\n\nReader’s Guide to Context, Mechanism, and Outcome\nScientific Realism and CMO Hypotheses\nThe New Rules and CMO Configurations",
+    "crumbs": [
+      "Notes",
+      "Evaluation Texts",
+      "Realistic Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/realistic-evaluation/index.html#source-records",
+    "href": "notes/realistic-evaluation/index.html#source-records",
+    "title": "Realistic Evaluation",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0004\nchunk:realistic-evaluation:introduction:c0008\nchunk:realistic-evaluation:introduction:c0010\nchunk:realistic-evaluation:introduction:c0011\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:introduction:c0014\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012",
     "crumbs": [
       "Notes",
       "Evaluation Texts",
@@ -178,28 +202,427 @@
     "href": "notes/realistic-evaluation/chapter-map.html",
     "title": "Realistic Evaluation Chapter Map",
     "section": "",
-    "text": "This map uses selected MCP research-library sections from Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This map organises the generated chapter notes for Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
     "objectID": "notes/realistic-evaluation/chapter-map.html#source",
     "href": "notes/realistic-evaluation/chapter-map.html#source",
     "title": "Realistic Evaluation Chapter Map",
     "section": "",
-    "text": "This map uses selected MCP research-library sections from Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This map organises the generated chapter notes for Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
     "objectID": "notes/realistic-evaluation/chapter-map.html#reading-route",
     "href": "notes/realistic-evaluation/chapter-map.html#reading-route",
     "title": "Realistic Evaluation Chapter Map",
     "section": "Reading Route",
-    "text": "Reading Route\n\nReader’s Guide to Context, Mechanism, and Outcome - pages 14-15; Introduction\nScientific Realism and CMO Hypotheses - pages 94-95; Chapter 3: In with the New: Introducing Scientific Realism\nThe New Rules and CMO Configurations - pages 234; Chapter 9: The New Rules of Realistic Evaluation"
+    "text": "Reading Route\n\nStart with the problem of evaluation: Introduction and Chapter 1 explain why existing traditions need a stronger account of explanation.\nUnderstand the realist foundation: Chapters 2-3 move from critique of experimental causation to CMO configurations.\nDesign and build knowledge: Chapters 4-6 cover realist design, cumulation, and stakeholder-informed data.\nApply and use the approach: Chapters 7-9 show consultation, policy learning, and the final rules."
   },
   {
-    "objectID": "notes/realistic-evaluation/chapter-map.html#how-to-use-this-map",
-    "href": "notes/realistic-evaluation/chapter-map.html#how-to-use-this-map",
+    "objectID": "notes/realistic-evaluation/chapter-map.html#chapters",
+    "href": "notes/realistic-evaluation/chapter-map.html#chapters",
     "title": "Realistic Evaluation Chapter Map",
-    "section": "How to Use This Map",
-    "text": "How to Use This Map\n\nStart with the first section for the book’s framing logic.\nUse the middle section to inspect the main design or method implications.\nUse the final section to check limits, quality standards, or implications for use."
+    "section": "Chapters",
+    "text": "Chapters\n\n\n\nChapter\nSource Pages\nMain Design Question\nLink\n\n\n\n\nIntroduction\n10-18\nThe introduction positions realistic evaluation as a constructive alternative to evaluation traditions that ask whether programs work without explaining why, for whom, and in what circumstances.\nchapter-00-introduction.qmd\n\n\nChapter 1: A History of Evaluation in 28 1/2 Pages\n18-46\nEvaluation history shows repeated attempts to solve the same problem: how to produce useful, objective knowledge about complex programs without collapsing into method dogma or ungrounded pluralism.\nchapter-01-a-history-of-evaluation-in-28-and-a-half-pages.qmd\n\n\nChapter 2: Out with the Old: Weaknesses in Experimental Evaluation\n47-71\nThe experimental tradition is criticized for treating causation as external regularity, which can estimate net effects while missing the mechanisms and contexts that make social programs work or fail.\nchapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.qmd\n\n\nChapter 3: In with the New: Introducing Scientific Realism\n72-100\nScientific realism gives evaluation its central explanatory formula: outcomes are generated when mechanisms are activated in contexts, and evaluation tests CMO configurations.\nchapter-03-in-with-the-new-introducing-scientific-realism.qmd\n\n\nChapter 4: How to Design a Realistic Evaluation\n100-130\nRealist design starts from theory, derives hypotheses about mechanisms and contexts, then selects empirical comparisons that can test and refine those explanations.\nchapter-04-how-to-design-a-realistic-evaluation.qmd\n\n\nChapter 5: How to Make Evaluations Cumulate\n132-170\nEvaluation knowledge cumulates when studies refine middle-range CMO theories across cases, rather than merely aggregating average effects or replicating interventions mechanically.\nchapter-05-how-to-make-evaluations-cumulate.qmd\n\n\nChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge\n171-199\nRealist data are constructed by using stakeholder knowledge to inspect, challenge, and refine program theories about mechanisms, contexts, and outcomes.\nchapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.qmd\n\n\nChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation\n200-216\nThe smoking consultation demonstrates how realist evaluation translates research evidence and policy ideas into testable program theories and differentiated demonstration designs.\nchapter-07-no-smoking-without-firing-mechanisms.qmd\n\n\nChapter 8: Evaluation, Policy and Practice: Realizing the Potential\n217-230\nRealistic evaluation supports policy and practice by creating a teacher-learner cycle in which evaluators reconstruct, test, and feed back stakeholder theories for program improvement.\nchapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd\n\n\nChapter 9: The New Rules of Realistic Evaluation\n231-236\nThe final rules condense the book into a realist evaluation language: generative causation, ontological depth, mechanisms, contexts, outcomes, CMO configurations, teacher-learner processes, and open systems.\nchapter-09-the-new-rules-of-realistic-evaluation.qmd"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-map.html#legacy-extracts",
+    "href": "notes/realistic-evaluation/chapter-map.html#legacy-extracts",
+    "title": "Realistic Evaluation Chapter Map",
+    "section": "Legacy Extracts",
+    "text": "Legacy Extracts\n\nReader’s Guide to Context, Mechanism, and Outcome\nScientific Realism and CMO Hypotheses\nThe New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-map.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-map.html#source-records",
+    "title": "Realistic Evaluation Chapter Map",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0004\nchunk:realistic-evaluation:introduction:c0008\nchunk:realistic-evaluation:introduction:c0010\nchunk:realistic-evaluation:introduction:c0011\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:introduction:c0014\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 8: Evaluation, Policy and Practice: Realizing the PotentialSource pages 217-230\n\nThis note summarises Chapter 8: Evaluation, Policy and Practice: Realizing the Potential from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#source",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#source",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 8: Evaluation, Policy and Practice: Realizing the PotentialSource pages 217-230\n\nThis note summarises Chapter 8: Evaluation, Policy and Practice: Realizing the Potential from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#core-argument",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Core Argument",
+    "text": "Core Argument\nRealistic evaluation supports policy and practice by creating a teacher-learner cycle in which evaluators reconstruct, test, and feed back stakeholder theories for program improvement."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#study-summary",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 8 extends the teacher-learner cycle to policy makers. Policy makers commission, authorize, maintain, modify, or terminate programs, but their knowledge is partial and embedded in political and organizational constraints.\nThe realist evaluator treats the policy maker’s account as one source of testable theory. It is not merely a preference to be negotiated, nor a fixed design specification, but a claim about how the program can realize objectives.\nThe chapter brings together policy makers, practitioners, participants, and evaluators in a cycle of mutual teaching and learning. Evaluators learn stakeholder theories and teach back refined CMO explanations.\nThe concept of realization links understanding and action. Evaluation should help policy actors understand how change is brought about, actualize causal potential in context, and improve accomplishment of policy objectives.\nFor close reading, track how the chapter uses teacher-learner cycle, policy learning, stakeholder theory, realization while moving through policy maker role, teacher-learner cycle, Safer Cities example. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the policy sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#key-concepts",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nteacher-learner cycle: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.\npolicy learning: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.\nstakeholder theory: The ideas held by policy makers, practitioners, and participants about how a program works.\nrealization: The process by which a program actualizes causal potential in particular contexts and accomplishes policy objectives.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#chapter-structure",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nPolicy maker role.\nTeacher-learner cycle.\nSafer Cities example.\nRealization.\nFeedback.\nPolicy practice."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#practical-implications",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nTreat policy-maker assumptions as testable program theory.\nFeed back findings as refined CMO explanations.\nUse evaluation to improve future program realization, not only judge past performance."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#concept-map",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 8: Evaluation, Policy and Practice: Realizing the Potential help explain?\"]\n  Central[\"Concept: Evaluation, Policy and Practice: Realizing the Potential\"]\n  Concept1[\"Concept: teacher-learner cycle\"]\n  Concept2[\"Concept: policy learning\"]\n  Concept3[\"Concept: stakeholder theory\"]\n  Mechanism1[\"Inquiry element: policy maker role\"]\n  Mechanism2[\"Inquiry element: teacher-learner cycle\"]\n  Mechanism3[\"Inquiry element: Safer Cities example\"]\n  Implication1[\"Practice implication: Treat policy-maker assumptions as testable program theory.\"]\n  Implication2[\"Practice implication: Feed back findings as refined CMO explanations.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#connections",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#connections",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation\nNext: Chapter 9: The New Rules of Realistic Evaluation\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#study-prompts",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 8: Evaluation, Policy and Practice: Realizing the Potential help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-08-evaluation-policy-and-practice-realizing-the-potential.html#source-records",
+    "title": "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ KnowledgeSource pages 171-199\n\nThis note summarises Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#source",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#source",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ KnowledgeSource pages 171-199\n\nThis note summarises Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#core-argument",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Core Argument",
+    "text": "Core Argument\nRealist data are constructed by using stakeholder knowledge to inspect, challenge, and refine program theories about mechanisms, contexts, and outcomes."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#study-summary",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 6 develops a realist account of data collection. The question is not whether to choose controlled measurement or empathetic immersion, but how to gather evidence that tests program theories.\nStakeholders are treated as holders of partial but valuable knowledge. Practitioners and participants can explain routines, constraints, interpretations, and mechanisms that are otherwise invisible to external measurement.\nThe realist interview is the chapter’s signature strategy. Rather than asking only for attitudes or experiences, evaluators share candidate theories with respondents and invite them to confirm, correct, or complicate those theories.\nData construction is therefore dialogic and theory-driven. The evaluator moves between teaching and learning, using stakeholder accounts as evidence about how mechanisms may operate in particular contexts.\nFor close reading, track how the chapter uses stakeholder knowledge, realist interview, teacher- learner cycle, program theory while moving through research relationship, stakeholder theories, realist interview. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the data sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#key-concepts",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nstakeholder knowledge: Practitioner, participant, and policy-maker knowledge used as evidence about program theories and mechanisms.\nrealist interview: An interview strategy that invites respondents to inspect, correct, and refine the evaluator’s program-theory propositions.\nteacher-learner cycle: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.\nprogram theory: An account of how a program is expected to trigger mechanisms and outcomes in specific contexts.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#chapter-structure",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nResearch relationship.\nStakeholder theories.\nRealist interview.\nData construction.\nQuantitative and qualitative routes.\nConclusion."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#practical-implications",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nAsk stakeholders to reason about candidate mechanisms, not only describe experiences.\nUse interviews to test program theory.\nTreat respondent disagreement as theory-refining evidence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#concept-map",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge help explain?\"]\n  Central[\"Concept: How to Construct Realistic Data: Utilizing Stakeholders' Knowledge\"]\n  Concept1[\"Concept: stakeholder knowledge\"]\n  Concept2[\"Concept: realist interview\"]\n  Concept3[\"Concept: teacher-learner cycle\"]\n  Mechanism1[\"Inquiry element: research relationship\"]\n  Mechanism2[\"Inquiry element: stakeholder theories\"]\n  Mechanism3[\"Inquiry element: realist interview\"]\n  Implication1[\"Practice implication: Ask stakeholders to reason about candidate mechanisms, not only describe experiences.\"]\n  Implication2[\"Practice implication: Use interviews to test program theory.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#connections",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#connections",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 5: How to Make Evaluations Cumulate\nNext: Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#study-prompts",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-06-how-to-construct-realistic-data-utilizing-stakeholders-knowledge.html#source-records",
+    "title": "Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 4: How to Design a Realistic EvaluationSource pages 100-130\n\nThis note summarises Chapter 4: How to Design a Realistic Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#source",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#source",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 4: How to Design a Realistic EvaluationSource pages 100-130\n\nThis note summarises Chapter 4: How to Design a Realistic Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#core-argument",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Core Argument",
+    "text": "Core Argument\nRealist design starts from theory, derives hypotheses about mechanisms and contexts, then selects empirical comparisons that can test and refine those explanations."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#study-summary",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 4 turns realist principles into design practice. Pawson and Tilley keep the broad research cycle of theory, hypothesis, observation, and refinement, but change its content.\nThe realist evaluation cycle begins with candidate program theories. The evaluator specifies expected CMO configurations, gathers evidence about where they do or do not appear, and returns refined explanations rather than unconditional generalizations.\nThe chapter’s exemplars show that no single method is uniquely realist. Qualitative, quantitative, contemporaneous, retrospective, active, and passive designs can all be realist when they test how mechanisms operate in contexts.\nThe design task is therefore imaginative and disciplined. The evaluator asks what comparisons, cases, measures, interviews, observations, and outcome patterns would put the conjectured CMO theory at risk.\nFor close reading, track how the chapter uses realist design, theory testing, specification, CMO configuration while moving through research cycle, realist evaluation cycle, three exemplars. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the design sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#key-concepts",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nrealist design: An evaluation design that begins with conjectured CMO configurations and selects comparisons and data to test them.\ntheory testing: Using empirical evidence to assess and refine a conjectured explanation rather than only measuring whether a program worked.\nspecification: The realist alternative to universal generalization: stating the circumstances under which a pattern is expected to hold.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.\noutcome pattern: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#chapter-structure",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nResearch cycle.\nRealist evaluation cycle.\nThree exemplars.\nComparison logic.\nOutcome patterns.\nTheory refinement."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#practical-implications",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nSelect methods by the CMO proposition being tested.\nPrefer comparisons that expose context-mechanism variation.\nReport specified conditions rather than universal claims."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#concept-map",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 4: How to Design a Realistic Evaluation help explain?\"]\n  Central[\"Concept: How to Design a Realistic Evaluation\"]\n  Concept1[\"Concept: realist design\"]\n  Concept2[\"Concept: theory testing\"]\n  Concept3[\"Concept: specification\"]\n  Mechanism1[\"Inquiry element: research cycle\"]\n  Mechanism2[\"Inquiry element: realist evaluation cycle\"]\n  Mechanism3[\"Inquiry element: three exemplars\"]\n  Implication1[\"Practice implication: Select methods by the CMO proposition being tested.\"]\n  Implication2[\"Practice implication: Prefer comparisons that expose context-mechanism variation.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#connections",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#connections",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 3: In with the New: Introducing Scientific Realism\nNext: Chapter 5: How to Make Evaluations Cumulate\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#study-prompts",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 4: How to Design a Realistic Evaluation help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-04-how-to-design-a-realistic-evaluation.html#source-records",
+    "title": "Chapter 4: How to Design a Realistic Evaluation",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 2: Out with the Old: Weaknesses in Experimental EvaluationSource pages 47-71\n\nThis note summarises Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#source",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#source",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 2: Out with the Old: Weaknesses in Experimental EvaluationSource pages 47-71\n\nThis note summarises Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#core-argument",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Core Argument",
+    "text": "Core Argument\nThe experimental tradition is criticized for treating causation as external regularity, which can estimate net effects while missing the mechanisms and contexts that make social programs work or fail."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#study-summary",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 2 offers a constructive critique of experimental evaluation. Pawson and Tilley do not reject scientific ambition; they argue that experimental evaluation has relied on an inadequate model of scientific explanation.\nThe target is successionist causation: the idea that causal explanation is established by constant conjunction between treatment and outcome under controlled conditions. For social programs, this can leave the causal process itself in a black box.\nThe chapter contrasts that view with generative causation. Programs work by activating powers, reasoning, opportunities, and constraints within particular contexts, so explanation has to reach inside the treatment-outcome relationship.\nExamples such as community policing show why net differences between treatment and control areas are not enough. Evaluators need to know which causal agents were omitted, how implementation interacted with context, and why apparent effects varied.\nFor close reading, track how the chapter uses successionist causation, generative causation, black box evaluation, mechanism while moving through constructive critique, experiments and causation, missing causal agents. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the critique sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#key-concepts",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nsuccessionist causation: A causation model focused on observed regularities between events, which Pawson and Tilley critique as too thin for social programs.\ngenerative causation: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.\nblack box evaluation: Evaluation that estimates whether outcomes changed without explaining how or why the program produced them.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#chapter-structure",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nConstructive critique.\nExperiments and causation.\nMissing causal agents.\nProgram integrity.\nCommunity policing.\nRealist remedy."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#practical-implications",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nUse experiments to support explanation, not replace it.\nIdentify the causal process a program is expected to trigger.\nTreat subgroup and site variation as evidence, not nuisance."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#concept-map",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation help explain?\"]\n  Central[\"Concept: Out with the Old: Weaknesses in Experimental Evaluation\"]\n  Concept1[\"Concept: successionist causation\"]\n  Concept2[\"Concept: generative causation\"]\n  Concept3[\"Concept: black box evaluation\"]\n  Mechanism1[\"Inquiry element: constructive critique\"]\n  Mechanism2[\"Inquiry element: experiments and causation\"]\n  Mechanism3[\"Inquiry element: missing causal agents\"]\n  Implication1[\"Practice implication: Use experiments to support explanation, not replace it.\"]\n  Implication2[\"Practice implication: Identify the causal process a program is expected to trigger.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#connections",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#connections",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 1: A History of Evaluation in 28 1/2 Pages\nNext: Chapter 3: In with the New: Introducing Scientific Realism\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#study-prompts",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-02-out-with-the-old-weaknesses-in-experimental-evaluation.html#source-records",
+    "title": "Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewIntroductionSource pages 10-18\n\nThis note summarises Introduction from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#source",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#source",
+    "title": "Introduction",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewIntroductionSource pages 10-18\n\nThis note summarises Introduction from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#core-argument",
+    "title": "Introduction",
+    "section": "Core Argument",
+    "text": "Core Argument\nThe introduction positions realistic evaluation as a constructive alternative to evaluation traditions that ask whether programs work without explaining why, for whom, and in what circumstances."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#study-summary",
+    "title": "Introduction",
+    "section": "Study Summary",
+    "text": "Study Summary\nThe introduction sets the agenda for a realist reconstruction of evaluation. Pawson and Tilley argue that evaluation needs a scientific account of policy learning, but one suited to the messy, open character of social programs.\nThe reader’s guide presents the book as a staged argument: a history of evaluation, a critique of experimental evaluation, a philosophical account of scientific realism, and then practical chapters on design, cumulation, data construction, consultation, policy, and rules.\nThe introduction names context, mechanism, and outcome as the conceptual backbone of realistic evaluation. Programs are not treated as simple treatments that cause effects, but as resources and ideas that may trigger mechanisms under particular conditions.\nThe practical stance is neither method rejection nor paradigm warfare. The book asks evaluators to recover objectivity by improving explanation: to learn why a program works, for whom, in which settings, and how that knowledge can guide future decisions.\nFor close reading, track how the chapter uses realistic evaluation, CMO configuration, context, mechanism while moving through evaluation at a watershed, being real, realist, and realistic, reader’s guide. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the orientation sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#key-concepts",
+    "title": "Introduction",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nrealistic evaluation: Pawson and Tilley’s approach to evaluation that tests and refines theories of how programs work in particular contexts.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\noutcome pattern: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.\npolicy learning: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#chapter-structure",
+    "title": "Introduction",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nEvaluation at a watershed.\nBeing real, realist, and realistic.\nReader’s guide.\nCMO vocabulary.\nBook argument."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#practical-implications",
+    "title": "Introduction",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nFrame evaluation questions as explanatory questions, not only effect questions.\nUse CMO language before choosing methods.\nTreat the book as a route from critique to practical design."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#concept-map",
+    "title": "Introduction",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Introduction help explain?\"]\n  Central[\"Concept: Introduction\"]\n  Concept1[\"Concept: realistic evaluation\"]\n  Concept2[\"Concept: CMO configuration\"]\n  Concept3[\"Concept: context\"]\n  Mechanism1[\"Inquiry element: evaluation at a watershed\"]\n  Mechanism2[\"Inquiry element: being real, realist, and realistic\"]\n  Mechanism3[\"Inquiry element: reader's guide\"]\n  Implication1[\"Practice implication: Frame evaluation questions as explanatory questions, not only effect questions.\"]\n  Implication2[\"Practice implication: Use CMO language before choosing methods.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#connections",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#connections",
+    "title": "Introduction",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nNext: Chapter 1: A History of Evaluation in 28 1/2 Pages\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#study-prompts",
+    "title": "Introduction",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Introduction help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-00-introduction.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-00-introduction.html#source-records",
+    "title": "Introduction",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0004\nchunk:realistic-evaluation:introduction:c0008\nchunk:realistic-evaluation:introduction:c0010\nchunk:realistic-evaluation:introduction:c0011\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:introduction:c0014"
   },
   {
     "objectID": "notes/qualitative-research-evaluation-methods/section-02-practical-actionable-qualitative-inquiry.html",
@@ -6655,7 +7078,7 @@
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "Evaluation notes\n\nNotes overview\nThis section collects source-grounded study notes from the MCP research library’s evaluation-texts collection. The notes combine the existing hand-authored Purposeful Program Theory section, chapter-level Rossi/Lipsey, Chen, and Impact Evaluation in Practice notes, step-level Patton/U-FE notes, and generated notes for the other ready evaluation texts.\n\n10 books Evaluation texts MCP sourced Export BibTeX\n\n\n\n\n  Find\n    \n  \n  Book\n    \n      All books\n              Purposeful Program Theory\n              Practical Program Evaluation\n              Qualitative Research & Evaluation Methods\n              Realistic Evaluation\n              Impact Evaluation in Practice\n              Handbook of Practical Program Evaluation\n              Evaluation: A Systematic Approach\n              Essentials of Utilization-Focused Evaluation\n              Magenta Book\n              Evaluation Theory, Models, and Applications\n\n  \n  Type\n    \n      All types\n      Book\n      Synthesis\n      Map\n      Practice\n    \n  \n\n\n\n\n\nBook2011\n\n\nPurposeful Program Theory\nTheories of change, theories of action, logic models, assumptions, and causal inference for program theory use.\n\n\n\n\nSynthesis2011\n\n\nCore Concepts: Purposeful Program Theory\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2011\n\n\nChapter Map: Purposeful Program Theory\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2011\n\n\nPractice Implications: Purposeful Program Theory\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nPractical Program Evaluation\nA practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Practical Program Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Practical Program Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Practical Program Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nQualitative Research & Evaluation Methods\nQualitative inquiry for evaluation questions where context, meaning, process, and use matter.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Qualitative Research & Evaluation Methods\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Qualitative Research & Evaluation Methods\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Qualitative Research & Evaluation Methods\nEvaluation design habits and practical uses.\n\n\n\n\nBook1997\n\n\nRealistic Evaluation\nA realist approach to explaining what works, for whom, in what circumstances, and why.\n\n\n\n\nSynthesis1997\n\n\nCore Concepts: Realistic Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap1997\n\n\nChapter Map: Realistic Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice1997\n\n\nPractice Implications: Realistic Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2016\n\n\nImpact Evaluation in Practice\nImpact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.\n\n\n\n\nSynthesis2016\n\n\nCore Concepts: Impact Evaluation in Practice\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2016\n\n\nChapter Map: Impact Evaluation in Practice\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2016\n\n\nPractice Implications: Impact Evaluation in Practice\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nHandbook of Practical Program Evaluation\nA broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Handbook of Practical Program Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Handbook of Practical Program Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Handbook of Practical Program Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2004\n\n\nEvaluation: A Systematic Approach\nA systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.\n\n\n\n\nSynthesis2004\n\n\nCore Concepts: Evaluation: A Systematic Approach\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2004\n\n\nChapter Map: Evaluation: A Systematic Approach\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2004\n\n\nPractice Implications: Evaluation: A Systematic Approach\nEvaluation design habits and practical uses.\n\n\n\n\nBook2012\n\n\nEssentials of Utilization-Focused Evaluation\nA compact guide to designing evaluations for primary intended users and actual use.\n\n\n\n\nSynthesis2012\n\n\nCore Concepts: Essentials of Utilization-Focused Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2012\n\n\nChapter Map: Essentials of Utilization-Focused Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2012\n\n\nPractice Implications: Essentials of Utilization-Focused Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2020\n\n\nMagenta Book\nUK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.\n\n\n\n\nSynthesis2020\n\n\nCore Concepts: Magenta Book\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2020\n\n\nChapter Map: Magenta Book\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2020\n\n\nPractice Implications: Magenta Book\nEvaluation design habits and practical uses.\n\n\n\n\nBook2014\n\n\nEvaluation Theory, Models, and Applications\nA survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications.\n\n\n\n\nSynthesis2014\n\n\nCore Concepts: Evaluation Theory, Models, and Applications\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2014\n\n\nChapter Map: Evaluation Theory, Models, and Applications\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2014\n\n\nPractice Implications: Evaluation Theory, Models, and Applications\nEvaluation design habits and practical uses.",
+    "text": "Evaluation notes\n\nNotes overview\nThis section collects source-grounded study notes from the MCP research library’s evaluation-texts collection. The notes combine the existing hand-authored Purposeful Program Theory section, chapter-level Rossi/Lipsey, Chen, Impact Evaluation in Practice, and Realistic Evaluation notes, step-level Patton/U-FE notes, and generated notes for the other ready evaluation texts.\n\n10 books Evaluation texts MCP sourced Export BibTeX\n\n\n\n\n  Find\n    \n  \n  Book\n    \n      All books\n              Purposeful Program Theory\n              Practical Program Evaluation\n              Qualitative Research & Evaluation Methods\n              Realistic Evaluation\n              Impact Evaluation in Practice\n              Handbook of Practical Program Evaluation\n              Evaluation: A Systematic Approach\n              Essentials of Utilization-Focused Evaluation\n              Magenta Book\n              Evaluation Theory, Models, and Applications\n\n  \n  Type\n    \n      All types\n      Book\n      Synthesis\n      Map\n      Practice\n    \n  \n\n\n\n\n\nBook2011\n\n\nPurposeful Program Theory\nTheories of change, theories of action, logic models, assumptions, and causal inference for program theory use.\n\n\n\n\nSynthesis2011\n\n\nCore Concepts: Purposeful Program Theory\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2011\n\n\nChapter Map: Purposeful Program Theory\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2011\n\n\nPractice Implications: Purposeful Program Theory\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nPractical Program Evaluation\nA practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Practical Program Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Practical Program Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Practical Program Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nQualitative Research & Evaluation Methods\nQualitative inquiry for evaluation questions where context, meaning, process, and use matter.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Qualitative Research & Evaluation Methods\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Qualitative Research & Evaluation Methods\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Qualitative Research & Evaluation Methods\nEvaluation design habits and practical uses.\n\n\n\n\nBook1997\n\n\nRealistic Evaluation\nA realist approach to explaining what works, for whom, in what circumstances, and why.\n\n\n\n\nSynthesis1997\n\n\nCore Concepts: Realistic Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap1997\n\n\nChapter Map: Realistic Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice1997\n\n\nPractice Implications: Realistic Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2016\n\n\nImpact Evaluation in Practice\nImpact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.\n\n\n\n\nSynthesis2016\n\n\nCore Concepts: Impact Evaluation in Practice\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2016\n\n\nChapter Map: Impact Evaluation in Practice\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2016\n\n\nPractice Implications: Impact Evaluation in Practice\nEvaluation design habits and practical uses.\n\n\n\n\nBook2015\n\n\nHandbook of Practical Program Evaluation\nA broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.\n\n\n\n\nSynthesis2015\n\n\nCore Concepts: Handbook of Practical Program Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2015\n\n\nChapter Map: Handbook of Practical Program Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2015\n\n\nPractice Implications: Handbook of Practical Program Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2004\n\n\nEvaluation: A Systematic Approach\nA systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.\n\n\n\n\nSynthesis2004\n\n\nCore Concepts: Evaluation: A Systematic Approach\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2004\n\n\nChapter Map: Evaluation: A Systematic Approach\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2004\n\n\nPractice Implications: Evaluation: A Systematic Approach\nEvaluation design habits and practical uses.\n\n\n\n\nBook2012\n\n\nEssentials of Utilization-Focused Evaluation\nA compact guide to designing evaluations for primary intended users and actual use.\n\n\n\n\nSynthesis2012\n\n\nCore Concepts: Essentials of Utilization-Focused Evaluation\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2012\n\n\nChapter Map: Essentials of Utilization-Focused Evaluation\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2012\n\n\nPractice Implications: Essentials of Utilization-Focused Evaluation\nEvaluation design habits and practical uses.\n\n\n\n\nBook2020\n\n\nMagenta Book\nUK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.\n\n\n\n\nSynthesis2020\n\n\nCore Concepts: Magenta Book\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2020\n\n\nChapter Map: Magenta Book\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2020\n\n\nPractice Implications: Magenta Book\nEvaluation design habits and practical uses.\n\n\n\n\nBook2014\n\n\nEvaluation Theory, Models, and Applications\nA survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications.\n\n\n\n\nSynthesis2014\n\n\nCore Concepts: Evaluation Theory, Models, and Applications\nRecurring concepts and distinctions for this source.\n\n\n\n\nMap2014\n\n\nChapter Map: Evaluation Theory, Models, and Applications\nSelected source sections, evidence IDs, and reading route.\n\n\n\n\nPractice2014\n\n\nPractice Implications: Evaluation Theory, Models, and Applications\nEvaluation design habits and practical uses.",
     "crumbs": [
       "Notes",
       "Notes Overview"
@@ -6666,7 +7089,7 @@
     "href": "index.html",
     "title": "Evaluation Knowledge Base",
     "section": "",
-    "text": "Evaluation study notes\n\nEvaluation Knowledge Base\nA Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready evaluation-texts records from the MCP research library, with detailed notes for Purposeful Program Theory, chapter-level Rossi/Lipsey, Chen, and Impact Evaluation in Practice notes, step-level Patton/U-FE notes, and generated notes for the wider collection.\n\nOpen Notes Purposeful Program Theory Export BibTeX\n\n\n\n\n\nBook notes\n\nPurposeful Program Theory\nTheories of change, theories of action, logic models, assumptions, and causal inference for program theory use.\n\n\n\nBook notes\n\nPractical Program Evaluation\nA practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.\n\n\n\nBook notes\n\nQualitative Research & Evaluation Methods\nQualitative inquiry for evaluation questions where context, meaning, process, and use matter.\n\n\n\nBook notes\n\nRealistic Evaluation\nA realist approach to explaining what works, for whom, in what circumstances, and why.\n\n\n\nBook notes\n\nImpact Evaluation in Practice\nImpact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.\n\n\n\nBook notes\n\nHandbook of Practical Program Evaluation\nA broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.\n\n\n\nBook notes\n\nEvaluation: A Systematic Approach\nA systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.\n\n\n\nBook notes\n\nEssentials of Utilization-Focused Evaluation\nA compact guide to designing evaluations for primary intended users and actual use.\n\n\n\nBook notes\n\nMagenta Book\nUK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.\n\n\n\nBook notes\n\nEvaluation Theory, Models, and Applications\nA survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications."
+    "text": "Evaluation study notes\n\nEvaluation Knowledge Base\nA Quarto knowledge base for source-grounded notes on evaluation books and guidance. The site now integrates ready evaluation-texts records from the MCP research library, with detailed notes for Purposeful Program Theory, chapter-level Rossi/Lipsey, Chen, Impact Evaluation in Practice, and Realistic Evaluation notes, step-level Patton/U-FE notes, and generated notes for the wider collection.\n\nOpen Notes Purposeful Program Theory Export BibTeX\n\n\n\n\n\nBook notes\n\nPurposeful Program Theory\nTheories of change, theories of action, logic models, assumptions, and causal inference for program theory use.\n\n\n\nBook notes\n\nPractical Program Evaluation\nA practice-oriented guide to matching evaluation types, program stages, logic models, and program theory.\n\n\n\nBook notes\n\nQualitative Research & Evaluation Methods\nQualitative inquiry for evaluation questions where context, meaning, process, and use matter.\n\n\n\nBook notes\n\nRealistic Evaluation\nA realist approach to explaining what works, for whom, in what circumstances, and why.\n\n\n\nBook notes\n\nImpact Evaluation in Practice\nImpact evaluation design around theory of change, counterfactuals, questions, methods, data, and implementation timing.\n\n\n\nBook notes\n\nHandbook of Practical Program Evaluation\nA broad handbook on evaluation planning, stakeholder engagement, monitoring, study designs, and use.\n\n\n\nBook notes\n\nEvaluation: A Systematic Approach\nA systematic evaluation framework covering questions, needs, theory, process, impact, efficiency, and use.\n\n\n\nBook notes\n\nEssentials of Utilization-Focused Evaluation\nA compact guide to designing evaluations for primary intended users and actual use.\n\n\n\nBook notes\n\nMagenta Book\nUK central government guidance on evaluation scoping, methods, data, management, dissemination, and capability.\n\n\n\nBook notes\n\nEvaluation Theory, Models, and Applications\nA survey and assessment of evaluation theory, models, standards, CIPP, metaevaluation, and applications."
   },
   {
     "objectID": "notes/essentials-utilization-focused-evaluation/chapter-map.html",
@@ -13062,74 +13485,459 @@
     "text": "Study Prompts\n\nWhat is the main evaluation problem that Program Models, Theories of Change, and Qualitative Methods helps diagnose?\nWhich assumptions would need evidence before using this guidance in a live evaluation?\nHow would this change the way an evaluator scopes questions, methods, or reporting?\nWhere could the guidance be misused if treated as a fixed template?"
   },
   {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 1: A History of Evaluation in 28 1/2 PagesSource pages 18-46\n\nThis note summarises Chapter 1: A History of Evaluation in 28 1/2 Pages from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#source",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#source",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 1: A History of Evaluation in 28 1/2 PagesSource pages 18-46\n\nThis note summarises Chapter 1: A History of Evaluation in 28 1/2 Pages from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#core-argument",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Core Argument",
+    "text": "Core Argument\nEvaluation history shows repeated attempts to solve the same problem: how to produce useful, objective knowledge about complex programs without collapsing into method dogma or ungrounded pluralism."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#study-summary",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 1 surveys major evaluation traditions and uses that history to position the realist alternative. The chapter begins from the proliferation of evaluation approaches and the danger that evaluation becomes a label rather than a disciplined methodology.\nThe discussion moves through experimental, pragmatic, naturalistic, constructivist, pluralist, and comprehensive evaluation traditions. Each contributes something useful, but each also leaves unresolved tensions about explanation, objectivity, stakeholder knowledge, and policy use.\nPawson and Tilley are especially wary of easy pluralism. They recognize the appeal of combining rigor, policy usefulness, and stakeholder sensitivity, but argue that a synthesis needs a stronger theory of causation and explanation.\nThe chapter prepares the realist stance by retaining the aspiration to learn from interventions while rejecting both simple effectism and the idea that all stakeholder accounts are equally adequate explanations.\nFor close reading, track how the chapter uses realistic evaluation, black box evaluation, policy learning, stakeholder theory while moving through evaluation proliferation, experimental tradition, pragmatic and naturalistic turns. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the critique sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#key-concepts",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nrealistic evaluation: Pawson and Tilley’s approach to evaluation that tests and refines theories of how programs work in particular contexts.\nblack box evaluation: Evaluation that estimates whether outcomes changed without explaining how or why the program produced them.\npolicy learning: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.\nstakeholder theory: The ideas held by policy makers, practitioners, and participants about how a program works.\nscientific realism: A philosophy of science that explains observable events through underlying mechanisms operating in open systems."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#chapter-structure",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nEvaluation proliferation.\nExperimental tradition.\nPragmatic and naturalistic turns.\nConstructivism.\nPluralism.\nRealist positioning."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#practical-implications",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nUse evaluation history as a warning against method-first design.\nDo not mistake plural coverage for explanatory clarity.\nPreserve objectivity by improving the theory of how programs generate change."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#concept-map",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 1: A History of Evaluation in 28 1/2 Pages help explain?\"]\n  Central[\"Concept: A History of Evaluation in 28 1/2 Pages\"]\n  Concept1[\"Concept: realistic evaluation\"]\n  Concept2[\"Concept: black box evaluation\"]\n  Concept3[\"Concept: policy learning\"]\n  Mechanism1[\"Inquiry element: evaluation proliferation\"]\n  Mechanism2[\"Inquiry element: experimental tradition\"]\n  Mechanism3[\"Inquiry element: pragmatic and naturalistic turns\"]\n  Implication1[\"Practice implication: Use evaluation history as a warning against method-first design.\"]\n  Implication2[\"Practice implication: Do not mistake plural coverage for explanatory clarity.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#connections",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#connections",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Introduction\nNext: Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#study-prompts",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 1: A History of Evaluation in 28 1/2 Pages help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-01-a-history-of-evaluation-in-28-and-a-half-pages.html#source-records",
+    "title": "Chapter 1: A History of Evaluation in 28 1/2 Pages",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 3: In with the New: Introducing Scientific RealismSource pages 72-100\n\nThis note summarises Chapter 3: In with the New: Introducing Scientific Realism from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#source",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#source",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 3: In with the New: Introducing Scientific RealismSource pages 72-100\n\nThis note summarises Chapter 3: In with the New: Introducing Scientific Realism from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#core-argument",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Core Argument",
+    "text": "Core Argument\nScientific realism gives evaluation its central explanatory formula: outcomes are generated when mechanisms are activated in contexts, and evaluation tests CMO configurations."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#study-summary",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 3 develops the philosophical and methodological foundation of realistic evaluation. It argues that the task of science is to explain observed events by identifying the mechanisms and conditions that produce them.\nThe chapter translates that philosophy into evaluation. Programs work only insofar as they introduce ideas, resources, constraints, and opportunities that trigger mechanisms for particular people in particular social and cultural contexts.\nThis produces the book’s core formula: context, mechanism, and outcome belong together. The evaluation task is to identify, articulate, test, and refine conjectured CMO configurations.\nThe CCTV car park example shows why programs cannot be treated as uniform causal packages. A single intervention can fire multiple mechanisms and generate different outcome patterns depending on location, users, routines, and local norms.\nFor close reading, track how the chapter uses scientific realism, CMO configuration, generative causation, mechanism while moving through realist explanation, real experiments, mechanism question. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the foundation sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#key-concepts",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nscientific realism: A philosophy of science that explains observable events through underlying mechanisms operating in open systems.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.\ngenerative causation: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.\noutcome pattern: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#chapter-structure",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nRealist explanation.\nReal experiments.\nMechanism question.\nContext question.\nCMO configurations.\nCar park example."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#practical-implications",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nWrite hypotheses as CMO configurations.\nDesign comparisons around mechanism-context variation.\nUse contradictory outcomes to refine the program theory."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#concept-map",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 3: In with the New: Introducing Scientific Realism help explain?\"]\n  Central[\"Concept: In with the New: Introducing Scientific Realism\"]\n  Concept1[\"Concept: scientific realism\"]\n  Concept2[\"Concept: CMO configuration\"]\n  Concept3[\"Concept: generative causation\"]\n  Mechanism1[\"Inquiry element: realist explanation\"]\n  Mechanism2[\"Inquiry element: real experiments\"]\n  Mechanism3[\"Inquiry element: mechanism question\"]\n  Implication1[\"Practice implication: Write hypotheses as CMO configurations.\"]\n  Implication2[\"Practice implication: Design comparisons around mechanism-context variation.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#connections",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#connections",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 2: Out with the Old: Weaknesses in Experimental Evaluation\nNext: Chapter 4: How to Design a Realistic Evaluation\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#study-prompts",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 3: In with the New: Introducing Scientific Realism help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-03-in-with-the-new-introducing-scientific-realism.html#source-records",
+    "title": "Chapter 3: In with the New: Introducing Scientific Realism",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 5: How to Make Evaluations CumulateSource pages 132-170\n\nThis note summarises Chapter 5: How to Make Evaluations Cumulate from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#source",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#source",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 5: How to Make Evaluations CumulateSource pages 132-170\n\nThis note summarises Chapter 5: How to Make Evaluations Cumulate from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#core-argument",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Core Argument",
+    "text": "Core Argument\nEvaluation knowledge cumulates when studies refine middle-range CMO theories across cases, rather than merely aggregating average effects or replicating interventions mechanically."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#study-summary",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 5 addresses how evaluation can build knowledge over time. Pawson and Tilley reject cumulation as simple empirical generalization and instead propose cumulation as theory development.\nThe chapter connects CMO configurations to middle-range theory. A useful evaluation finding should be abstract enough to guide future inquiry, but concrete enough to specify where mechanisms should operate.\nReplication becomes configuration focusing. Subsequent studies do not expect the same program to produce the same result everywhere; they test how a mechanism behaves under new contextual conditions.\nThe Kirkholt burglary example illustrates the messy but progressive character of realist cumulation. Evidence accumulates by preserving the relationship among mechanisms, contexts, and outcomes, not by stripping cases down to undifferentiated effects.\nFor close reading, track how the chapter uses cumulation, middle-range theory, replication, configuration focusing while moving through realistic cumulation, typology of theory, ladder of abstraction. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the design sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#key-concepts",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\ncumulation: The progressive refinement of program theory across studies, cases, and replications.\nmiddle-range theory: A theory abstract enough to travel across cases but specific enough to guide empirical evaluation.\nreplication: A follow-on test that refines where and how a CMO configuration holds, rather than expecting identical effects everywhere.\nconfiguration focusing: Refining CMO configurations by adapting and testing a known mechanism across new local contexts.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#chapter-structure",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nRealistic cumulation.\nTypology of theory.\nLadder of abstraction.\nReplication.\nKirkholt case.\nAccumulated wisdom."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#practical-implications",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nTreat every evaluation as a contribution to a larger program theory.\nUse replication to refine CMO boundaries.\nReject reports that only state whether change occurred."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#concept-map",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 5: How to Make Evaluations Cumulate help explain?\"]\n  Central[\"Concept: How to Make Evaluations Cumulate\"]\n  Concept1[\"Concept: cumulation\"]\n  Concept2[\"Concept: middle-range theory\"]\n  Concept3[\"Concept: replication\"]\n  Mechanism1[\"Inquiry element: realistic cumulation\"]\n  Mechanism2[\"Inquiry element: typology of theory\"]\n  Mechanism3[\"Inquiry element: ladder of abstraction\"]\n  Implication1[\"Practice implication: Treat every evaluation as a contribution to a larger program theory.\"]\n  Implication2[\"Practice implication: Use replication to refine CMO boundaries.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#connections",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#connections",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 4: How to Design a Realistic Evaluation\nNext: Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#study-prompts",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 5: How to Make Evaluations Cumulate help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-05-how-to-make-evaluations-cumulate.html#source-records",
+    "title": "Chapter 5: How to Make Evaluations Cumulate",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ ConsultationSource pages 200-216\n\nThis note summarises Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#source",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#source",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ ConsultationSource pages 200-216\n\nThis note summarises Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#core-argument",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Core Argument",
+    "text": "Core Argument\nThe smoking consultation demonstrates how realist evaluation translates research evidence and policy ideas into testable program theories and differentiated demonstration designs."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#study-summary",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 7 is a worked consultation rather than a conventional methods chapter. It shows how the realist approach can move outside the criminal justice examples used earlier and apply to smoking cessation.\nThe dialogue form makes visible the evaluator’s reasoning. Existing research, policy expectations, and practical options are converted into candidate mechanisms, contexts, and possible program designs.\nThe chapter insists that theory is practical. Anti-smoking programs embody ideas about health warnings, identity, social support, addiction, medical authority, and readiness to change, and these ideas should be made explicit.\nThe resulting advice is to test families of tailored interventions rather than launch a single blockbuster. Different programs can be designed to fire mechanisms in contexts where they are most likely to matter.\nFor close reading, track how the chapter uses program theory, mechanism, context, realist design while moving through fictional consultation, smoking cessation evidence, program theories. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the application sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#key-concepts",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nprogram theory: An account of how a program is expected to trigger mechanisms and outcomes in specific contexts.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.\nrealist design: An evaluation design that begins with conjectured CMO configurations and selects comparisons and data to test them.\nstakeholder theory: The ideas held by policy makers, practitioners, and participants about how a program works."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#chapter-structure",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nFictional consultation.\nSmoking cessation evidence.\nProgram theories.\nMechanism selection.\nDemonstration projects.\nTailored designs."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#practical-implications",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nTranslate policy ideas into explicit program theories.\nDesign related interventions to test different mechanism-context combinations.\nUse consultation to surface the assumptions behind program choice."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#concept-map",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation help explain?\"]\n  Central[\"Concept: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation\"]\n  Concept1[\"Concept: program theory\"]\n  Concept2[\"Concept: mechanism\"]\n  Concept3[\"Concept: context\"]\n  Mechanism1[\"Inquiry element: fictional consultation\"]\n  Mechanism2[\"Inquiry element: smoking cessation evidence\"]\n  Mechanism3[\"Inquiry element: program theories\"]\n  Implication1[\"Practice implication: Translate policy ideas into explicit program theories.\"]\n  Implication2[\"Practice implication: Design related interventions to test different mechanism-context combinations.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#connections",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#connections",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge\nNext: Chapter 8: Evaluation, Policy and Practice: Realizing the Potential\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#study-prompts",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-07-no-smoking-without-firing-mechanisms.html#source-records",
+    "title": "Chapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0014\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 9: The New Rules of Realistic EvaluationSource pages 231-236\n\nThis note summarises Chapter 9: The New Rules of Realistic Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#source",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#source",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "",
+    "text": "1997MCP evaluation-textsStatus: needs_reviewChapter 9: The New Rules of Realistic EvaluationSource pages 231-236\n\nThis note summarises Chapter 9: The New Rules of Realistic Evaluation from Ray Pawson and Nick Tilley’s Realistic Evaluation (Pawson and Tilley 1997). It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.\nThe retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter’s argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#core-argument",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#core-argument",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Core Argument",
+    "text": "Core Argument\nThe final rules condense the book into a realist evaluation language: generative causation, ontological depth, mechanisms, contexts, outcomes, CMO configurations, teacher-learner processes, and open systems."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#study-summary",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#study-summary",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Study Summary",
+    "text": "Study Summary\nChapter 9 recapitulates the book as a set of methodological rules. The rules are not a checklist detached from the argument; they summarize how realist evaluation understands causation, evidence, stakeholders, and use.\nThe rules begin with generative causation and ontological depth. Evaluators should look beneath observed inputs and outputs to the causal powers, choices, constraints, and social forces that make outcomes possible.\nMechanisms, contexts, and outcomes are treated as mutually explanatory. Programs produce multiple outcomes by firing mechanisms differently for different people in different situations.\nThe chapter ends with CMO configurations, teacher-learner processes, and open systems. Realistic evaluation remains cumulative and objective, but it accepts that social programs operate in changing, permeable worlds where explanation must be refined continually.\nFor close reading, track how the chapter uses generative causation, open system, CMO configuration, teacher-learner cycle while moving through new rules, generative causation, ontological depth. The note identifies which CMO claim the chapter helps formulate, test, or refine.\nWithin the wider book, this chapter belongs to the synthesis sequence."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#key-concepts",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#key-concepts",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\ngenerative causation: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.\nopen system: A social setting where new contexts, actors, learning, and causal forces continually affect program operation.\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.\nteacher-learner cycle: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.\noutcome pattern: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#chapter-structure",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#chapter-structure",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Chapter Structure",
+    "text": "Chapter Structure\n\nNew rules.\nGenerative causation.\nOntological depth.\nMechanisms and contexts.\nCMO configurations.\nOpen systems."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#practical-implications",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#practical-implications",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Practical Implications",
+    "text": "Practical Implications\n\nUse the rules as design tests for realist evaluations.\nState findings as refined CMO configurations.\nExpect even strong explanations to remain open to new contexts and mechanisms."
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#concept-map",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#concept-map",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Concept Map",
+    "text": "Concept Map\n\n\n\n\n\n\nflowchart TD\n  Problem[\"Problem: What does Chapter 9: The New Rules of Realistic Evaluation help explain?\"]\n  Central[\"Concept: The New Rules of Realistic Evaluation\"]\n  Concept1[\"Concept: generative causation\"]\n  Concept2[\"Concept: open system\"]\n  Concept3[\"Concept: CMO configuration\"]\n  Mechanism1[\"Inquiry element: new rules\"]\n  Mechanism2[\"Inquiry element: generative causation\"]\n  Mechanism3[\"Inquiry element: ontological depth\"]\n  Implication1[\"Practice implication: Use the rules as design tests for realist evaluations.\"]\n  Implication2[\"Practice implication: State findings as refined CMO configurations.\"]\n  Question[\"Open question: Which CMO claim needs source checking?\"]\n\n  Problem --&gt; Central\n  Central --&gt; Question\n  Central --&gt; Concept1\n  Central --&gt; Concept2\n  Central --&gt; Concept3\n  Concept1 --&gt; Mechanism1\n  Concept2 --&gt; Mechanism2\n  Concept3 --&gt; Mechanism3\n  Mechanism1 --&gt; Implication1\n  Mechanism2 --&gt; Implication2\n  Implication1 --&gt; Question\n\n  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;\n  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;\n  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;\n  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;\n  class Problem problem;\n  class Central concept;\n  class Concept1,Concept2,Concept3 concept;\n  class Mechanism1,Mechanism2,Mechanism3 mechanism;\n  class Implication1,Implication2,Question implication;"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#connections",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#connections",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Connections",
+    "text": "Connections\n\nBook overview: Overview\nReading route: Chapter Map\nConcepts synthesis: Core Concepts\nPractice synthesis: Practice Implications\nPrevious: Chapter 8: Evaluation, Policy and Practice: Realizing the Potential\nLegacy extract retained: Reader’s Guide to Context, Mechanism, and Outcome\nLegacy extract retained: Scientific Realism and CMO Hypotheses\nLegacy extract retained: The New Rules and CMO Configurations"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#study-prompts",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#study-prompts",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Study Prompts",
+    "text": "Study Prompts\n\nWhat CMO configuration does Chapter 9: The New Rules of Realistic Evaluation help formulate or refine?\nWhich mechanism and context claims would need stronger empirical evidence?\nWhich source record should be reopened before using this note in applied work?"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#source-records",
+    "href": "notes/realistic-evaluation/chapter-09-the-new-rules-of-realistic-evaluation.html#source-records",
+    "title": "Chapter 9: The New Rules of Realistic Evaluation",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
+  },
+  {
     "objectID": "notes/realistic-evaluation/concepts.html",
     "href": "notes/realistic-evaluation/concepts.html",
-    "title": "Core Concepts in Realistic Evaluation",
+    "title": "Realistic Evaluation Core Concepts",
     "section": "",
-    "text": "This synthesis draws across the generated notes for Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This synthesis draws on the generated chapter notes from Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
     "objectID": "notes/realistic-evaluation/concepts.html#source",
     "href": "notes/realistic-evaluation/concepts.html#source",
-    "title": "Core Concepts in Realistic Evaluation",
+    "title": "Realistic Evaluation Core Concepts",
     "section": "",
-    "text": "This synthesis draws across the generated notes for Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This synthesis draws on the generated chapter notes from Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
-    "objectID": "notes/realistic-evaluation/concepts.html#central-logic",
-    "href": "notes/realistic-evaluation/concepts.html#central-logic",
-    "title": "Core Concepts in Realistic Evaluation",
-    "section": "Central Logic",
-    "text": "Central Logic\nRealist evaluation studies programs through context-mechanism-outcome configurations rather than asking only whether a whole program worked."
+    "objectID": "notes/realistic-evaluation/concepts.html#concept-clusters",
+    "href": "notes/realistic-evaluation/concepts.html#concept-clusters",
+    "title": "Realistic Evaluation Core Concepts",
+    "section": "Concept Clusters",
+    "text": "Concept Clusters\n\nCore Explanation\n\nCMO configuration: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.\ncontext: The social, cultural, institutional, relational, and material conditions that shape whether a mechanism can operate.\nmechanism: The reasoning, resource, opportunity, constraint, or causal process triggered by a program in a given context.\noutcome pattern: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.\ngenerative causation: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.\nscientific realism: A philosophy of science that explains observable events through underlying mechanisms operating in open systems.\n\n\n\nDesign and Evidence\n\nrealist design: An evaluation design that begins with conjectured CMO configurations and selects comparisons and data to test them.\ntheory testing: Using empirical evidence to assess and refine a conjectured explanation rather than only measuring whether a program worked.\nspecification: The realist alternative to universal generalization: stating the circumstances under which a pattern is expected to hold.\nopen system: A social setting where new contexts, actors, learning, and causal forces continually affect program operation.\ncumulation: The progressive refinement of program theory across studies, cases, and replications.\nmiddle-range theory: A theory abstract enough to travel across cases but specific enough to guide empirical evaluation.\nreplication: A follow-on test that refines where and how a CMO configuration holds, rather than expecting identical effects everywhere.\nconfiguration focusing: Refining CMO configurations by adapting and testing a known mechanism across new local contexts.\n\n\n\nStakeholders and Use\n\nstakeholder knowledge: Practitioner, participant, and policy-maker knowledge used as evidence about program theories and mechanisms.\nrealist interview: An interview strategy that invites respondents to inspect, correct, and refine the evaluator’s program-theory propositions.\nteacher-learner cycle: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.\nprogram theory: An account of how a program is expected to trigger mechanisms and outcomes in specific contexts.\npolicy learning: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.\nrealization: The process by which a program actualizes causal potential in particular contexts and accomplishes policy objectives.\nstakeholder theory: The ideas held by policy makers, practitioners, and participants about how a program works."
   },
   {
-    "objectID": "notes/realistic-evaluation/concepts.html#concepts",
-    "href": "notes/realistic-evaluation/concepts.html#concepts",
-    "title": "Core Concepts in Realistic Evaluation",
-    "section": "Concepts",
-    "text": "Concepts\n\nContext-mechanism-outcome configuration: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.\nRealist research design: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.\nTheory testing: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.\nOutcome patterns: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.\nSubgroup variation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.\nTeacher-learner cycle: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book."
+    "objectID": "notes/realistic-evaluation/concepts.html#chapter-links",
+    "href": "notes/realistic-evaluation/concepts.html#chapter-links",
+    "title": "Realistic Evaluation Core Concepts",
+    "section": "Chapter Links",
+    "text": "Chapter Links\n\nIntroduction\nChapter 1: A History of Evaluation in 28 1/2 Pages\nChapter 2: Out with the Old: Weaknesses in Experimental Evaluation\nChapter 3: In with the New: Introducing Scientific Realism\nChapter 4: How to Design a Realistic Evaluation\nChapter 5: How to Make Evaluations Cumulate\nChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge\nChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation\nChapter 8: Evaluation, Policy and Practice: Realizing the Potential\nChapter 9: The New Rules of Realistic Evaluation"
   },
   {
-    "objectID": "notes/realistic-evaluation/concepts.html#links",
-    "href": "notes/realistic-evaluation/concepts.html#links",
-    "title": "Core Concepts in Realistic Evaluation",
-    "section": "Links",
-    "text": "Links\n\nReader’s Guide to Context, Mechanism, and Outcome\nScientific Realism and CMO Hypotheses\nThe New Rules and CMO Configurations"
+    "objectID": "notes/realistic-evaluation/concepts.html#source-records",
+    "href": "notes/realistic-evaluation/concepts.html#source-records",
+    "title": "Realistic Evaluation Core Concepts",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0004\nchunk:realistic-evaluation:introduction:c0008\nchunk:realistic-evaluation:introduction:c0010\nchunk:realistic-evaluation:introduction:c0011\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:introduction:c0014\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
   },
   {
     "objectID": "notes/realistic-evaluation/practice-implications.html",
     "href": "notes/realistic-evaluation/practice-implications.html",
     "title": "Realistic Evaluation Practice Implications",
     "section": "",
-    "text": "This practice synthesis draws on selected notes from Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This practice synthesis draws on the chapter notes from Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
     "objectID": "notes/realistic-evaluation/practice-implications.html#source",
     "href": "notes/realistic-evaluation/practice-implications.html#source",
     "title": "Realistic Evaluation Practice Implications",
     "section": "",
-    "text": "This practice synthesis draws on selected notes from Realistic Evaluation (Pawson and Tilley 1997)."
+    "text": "This practice synthesis draws on the chapter notes from Realistic Evaluation (Pawson and Tilley 1997)."
   },
   {
     "objectID": "notes/realistic-evaluation/practice-implications.html#evaluation-practice-implications",
     "href": "notes/realistic-evaluation/practice-implications.html#evaluation-practice-implications",
     "title": "Realistic Evaluation Practice Implications",
     "section": "Evaluation Practice Implications",
-    "text": "Evaluation Practice Implications\n\nSpecify conjectured CMO configurations before selecting data collection methods.\nAnalyze variation across contexts and participants instead of averaging it away too quickly.\nUse evaluation findings to refine program theory for future adaptation.\nReport findings as conditional explanations, not universal effects."
-  },
-  {
-    "objectID": "notes/realistic-evaluation/practice-implications.html#applying-the-notes",
-    "href": "notes/realistic-evaluation/practice-implications.html#applying-the-notes",
-    "title": "Realistic Evaluation Practice Implications",
-    "section": "Applying the Notes",
-    "text": "Applying the Notes\nUse these implications as prompts during scoping, design review, method selection, and reporting. They should be adapted to the evaluation’s decision context, available evidence, and user needs."
+    "text": "Evaluation Practice Implications\n\nState evaluation questions as what works, for whom, in what circumstances, and why.\nTranslate each program theory into a conjectured CMO configuration before selecting methods.\nUse variation across places, people, implementation forms, and outcome patterns as explanatory evidence.\nChoose methods because they test a mechanism-context proposition, not because they belong to a favored paradigm.\nUse stakeholder interviews to inspect and refine program theories, not only to collect opinions.\nReport findings as specified explanations that can guide adaptation, replication, and future testing.\nTreat cumulation as theory refinement across cases rather than simple aggregation of effect sizes.\nFeed findings back to policy makers, practitioners, and participants as part of a teacher-learner cycle.\nExpect realist explanations to remain open to revision as programs enter new contexts and causal forces emerge."
   },
   {
     "objectID": "notes/realistic-evaluation/practice-implications.html#links",
     "href": "notes/realistic-evaluation/practice-implications.html#links",
     "title": "Realistic Evaluation Practice Implications",
     "section": "Links",
-    "text": "Links\n\nReader’s Guide to Context, Mechanism, and Outcome\nScientific Realism and CMO Hypotheses\nThe New Rules and CMO Configurations"
+    "text": "Links\n\nIntroduction\nChapter 1: A History of Evaluation in 28 1/2 Pages\nChapter 2: Out with the Old: Weaknesses in Experimental Evaluation\nChapter 3: In with the New: Introducing Scientific Realism\nChapter 4: How to Design a Realistic Evaluation\nChapter 5: How to Make Evaluations Cumulate\nChapter 6: How to Construct Realistic Data: Utilizing Stakeholders’ Knowledge\nChapter 7: No Smoking Without Firing Mechanisms: A ‘Realistic’ Consultation\nChapter 8: Evaluation, Policy and Practice: Realizing the Potential\nChapter 9: The New Rules of Realistic Evaluation"
+  },
+  {
+    "objectID": "notes/realistic-evaluation/practice-implications.html#source-records",
+    "href": "notes/realistic-evaluation/practice-implications.html#source-records",
+    "title": "Realistic Evaluation Practice Implications",
+    "section": "Source Records",
+    "text": "Source Records\n\nchunk:realistic-evaluation:introduction:c0004\nchunk:realistic-evaluation:introduction:c0008\nchunk:realistic-evaluation:introduction:c0010\nchunk:realistic-evaluation:introduction:c0011\nchunk:realistic-evaluation:introduction:c0013\nchunk:realistic-evaluation:introduction:c0014\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0003\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0006\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0045\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0054\nchunk:realistic-evaluation:ch01-chapter-1-a-history-of-evaluation-in-28-1-2-pages:c0067\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0001\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0002\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0010\nchunk:realistic-evaluation:ch02-chapter-2-out-with-the-old-weaknesses-in-experimental-evaluation:c0044\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0005\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0011\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0033\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0050\nchunk:realistic-evaluation:ch03-chapter-3-in-with-the-new-introducing-scientific-realism:c0051\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006\nchunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0007\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0015\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0016\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0030\nchunk:realistic-evaluation:ch05-chapter-5-how-to-make-evaluations-cumulate:c0070\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0019\nchunk:realistic-evaluation:ch06-chapter-6-how-to-construct-realistic-data-utilizing-stakeholders-knowledge:c0061\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0001\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0026\nchunk:realistic-evaluation:ch07-chapter-7-no-smoking-without-firing-mechanisms-a-realistic-consultation:c0040\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019\nchunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010\nchunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
   },
   {
     "objectID": "notes/realistic-evaluation/section-02-scientific-realism-and-cmo.html",

@@ -1,0 +1,148 @@
+---
+title: "Chapter 9: The New Rules of Realistic Evaluation"
+description: "Detailed study notes for Chapter 9: The New Rules of Realistic Evaluation of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "231-236"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010"
+  - "chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9: The New Rules of Realistic Evaluation</span><span>Source pages 231-236</span></div>
+
+This note summarises Chapter 9: The New Rules of Realistic Evaluation from Ray Pawson and Nick
+Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+The final rules condense the book into a realist evaluation language: generative causation, ontological depth, mechanisms, contexts, outcomes, CMO configurations, teacher-learner processes, and open systems.
+
+## Study Summary
+
+Chapter 9 recapitulates the book as a set of methodological rules. The rules are not a checklist
+detached from the argument; they summarize how realist evaluation understands causation, evidence,
+stakeholders, and use.
+
+The rules begin with generative causation and ontological depth. Evaluators should look beneath
+observed inputs and outputs to the causal powers, choices, constraints, and social forces that make
+outcomes possible.
+
+Mechanisms, contexts, and outcomes are treated as mutually explanatory. Programs produce multiple
+outcomes by firing mechanisms differently for different people in different situations.
+
+The chapter ends with CMO configurations, teacher-learner processes, and open systems. Realistic
+evaluation remains cumulative and objective, but it accepts that social programs operate in
+changing, permeable worlds where explanation must be refined continually.
+
+For close reading, track how the chapter uses generative causation, open system, CMO configuration,
+teacher-learner cycle while moving through new rules, generative causation, ontological depth. The
+note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the synthesis sequence.
+
+## Key Concepts
+
+- **generative causation**: A view of causation that asks how underlying powers or processes produce outcomes when activated in suitable conditions.
+- **open system**: A social setting where new contexts, actors, learning, and causal forces continually affect program operation.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+- **teacher-learner cycle**: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.
+- **outcome pattern**: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.
+
+## Chapter Structure
+
+- New rules.
+- Generative causation.
+- Ontological depth.
+- Mechanisms and contexts.
+- CMO configurations.
+- Open systems.
+
+## Practical Implications
+
+- Use the rules as design tests for realist evaluations.
+- State findings as refined CMO configurations.
+- Expect even strong explanations to remain open to new contexts and mechanisms.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 9: The New Rules of Realistic Evaluation help explain?"]
+  Central["Concept: The New Rules of Realistic Evaluation"]
+  Concept1["Concept: generative causation"]
+  Concept2["Concept: open system"]
+  Concept3["Concept: CMO configuration"]
+  Mechanism1["Inquiry element: new rules"]
+  Mechanism2["Inquiry element: generative causation"]
+  Mechanism3["Inquiry element: ontological depth"]
+  Implication1["Practice implication: Use the rules as design tests for realist evaluations."]
+  Implication2["Practice implication: State findings as refined CMO configurations."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Evaluation, Policy and Practice: Realizing the Potential](chapter-08-evaluation-policy-and-practice-realizing-the-potential.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 9: The New Rules of Realistic Evaluation help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0001`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0004`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0007`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0008`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0010`
+- `chunk:realistic-evaluation:ch09-chapter-9-the-new-rules-of-realistic-evaluation:c0012`
+
+## References

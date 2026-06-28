@@ -1,0 +1,148 @@
+---
+title: "Chapter 8: Evaluation, Policy and Practice: Realizing the Potential"
+description: "Detailed study notes for Chapter 8: Evaluation, Policy and Practice: Realizing the Potential of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+source_pages: "217-230"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001"
+  - "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004"
+  - "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014"
+  - "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019"
+  - "chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 8: Evaluation, Policy and Practice: Realizing the Potential</span><span>Source pages 217-230</span></div>
+
+This note summarises Chapter 8: Evaluation, Policy and Practice: Realizing the Potential from Ray
+Pawson and Nick Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a
+paraphrased study note based on source-linked MCP research-library retrieval records, not a
+substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Realistic evaluation supports policy and practice by creating a teacher-learner cycle in which evaluators reconstruct, test, and feed back stakeholder theories for program improvement.
+
+## Study Summary
+
+Chapter 8 extends the teacher-learner cycle to policy makers. Policy makers commission, authorize,
+maintain, modify, or terminate programs, but their knowledge is partial and embedded in political
+and organizational constraints.
+
+The realist evaluator treats the policy maker's account as one source of testable theory. It is not
+merely a preference to be negotiated, nor a fixed design specification, but a claim about how the
+program can realize objectives.
+
+The chapter brings together policy makers, practitioners, participants, and evaluators in a cycle of
+mutual teaching and learning. Evaluators learn stakeholder theories and teach back refined CMO
+explanations.
+
+The concept of realization links understanding and action. Evaluation should help policy actors
+understand how change is brought about, actualize causal potential in context, and improve
+accomplishment of policy objectives.
+
+For close reading, track how the chapter uses teacher-learner cycle, policy learning, stakeholder
+theory, realization while moving through policy maker role, teacher-learner cycle, Safer Cities
+example. The note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the policy sequence.
+
+## Key Concepts
+
+- **teacher-learner cycle**: A realist relationship in which evaluators learn stakeholder theories and teach back refined CMO explanations.
+- **policy learning**: The use of evaluation to improve program design, adaptation, commissioning, and termination decisions.
+- **stakeholder theory**: The ideas held by policy makers, practitioners, and participants about how a program works.
+- **realization**: The process by which a program actualizes causal potential in particular contexts and accomplishes policy objectives.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+
+## Chapter Structure
+
+- Policy maker role.
+- Teacher-learner cycle.
+- Safer Cities example.
+- Realization.
+- Feedback.
+- Policy practice.
+
+## Practical Implications
+
+- Treat policy-maker assumptions as testable program theory.
+- Feed back findings as refined CMO explanations.
+- Use evaluation to improve future program realization, not only judge past performance.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 8: Evaluation, Policy and Practice: Realizing the Potential help explain?"]
+  Central["Concept: Evaluation, Policy and Practice: Realizing the Potential"]
+  Concept1["Concept: teacher-learner cycle"]
+  Concept2["Concept: policy learning"]
+  Concept3["Concept: stakeholder theory"]
+  Mechanism1["Inquiry element: policy maker role"]
+  Mechanism2["Inquiry element: teacher-learner cycle"]
+  Mechanism3["Inquiry element: Safer Cities example"]
+  Implication1["Practice implication: Treat policy-maker assumptions as testable program theory."]
+  Implication2["Practice implication: Feed back findings as refined CMO explanations."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: No Smoking Without Firing Mechanisms: A 'Realistic' Consultation](chapter-07-no-smoking-without-firing-mechanisms.qmd)
+- Next: [Chapter 9: The New Rules of Realistic Evaluation](chapter-09-the-new-rules-of-realistic-evaluation.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 8: Evaluation, Policy and Practice: Realizing the Potential help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0001`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0004`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0014`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0019`
+- `chunk:realistic-evaluation:ch08-chapter-8-evaluation-policy-and-practice-realizing-the-potential:c0025`
+
+## References

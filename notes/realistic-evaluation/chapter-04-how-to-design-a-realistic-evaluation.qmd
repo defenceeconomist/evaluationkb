@@ -1,0 +1,145 @@
+---
+title: "Chapter 4: How to Design a Realistic Evaluation"
+description: "Detailed study notes for Chapter 4: How to Design a Realistic Evaluation of Realistic Evaluation."
+book_id: "realistic-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 4
+source_pages: "100-130"
+citation_key: "pawson_tilley_1997_realistic_evaluation"
+evidence_ids:
+  - "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003"
+  - "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004"
+  - "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006"
+  - "chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>1997</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 4: How to Design a Realistic Evaluation</span><span>Source pages 100-130</span></div>
+
+This note summarises Chapter 4: How to Design a Realistic Evaluation from Ray Pawson and Nick
+Tilley's *Realistic Evaluation* [@pawson_tilley_1997_realistic_evaluation]. It is a paraphrased
+study note based on source-linked MCP research-library retrieval records, not a substitute for the
+chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, figures, boxes, or extended passages.
+
+## Core Argument
+
+Realist design starts from theory, derives hypotheses about mechanisms and contexts, then selects empirical comparisons that can test and refine those explanations.
+
+## Study Summary
+
+Chapter 4 turns realist principles into design practice. Pawson and Tilley keep the broad research
+cycle of theory, hypothesis, observation, and refinement, but change its content.
+
+The realist evaluation cycle begins with candidate program theories. The evaluator specifies
+expected CMO configurations, gathers evidence about where they do or do not appear, and returns
+refined explanations rather than unconditional generalizations.
+
+The chapter's exemplars show that no single method is uniquely realist. Qualitative, quantitative,
+contemporaneous, retrospective, active, and passive designs can all be realist when they test how
+mechanisms operate in contexts.
+
+The design task is therefore imaginative and disciplined. The evaluator asks what comparisons,
+cases, measures, interviews, observations, and outcome patterns would put the conjectured CMO theory
+at risk.
+
+For close reading, track how the chapter uses realist design, theory testing, specification, CMO
+configuration while moving through research cycle, realist evaluation cycle, three exemplars. The
+note identifies which CMO claim the chapter helps formulate, test, or refine.
+
+Within the wider book, this chapter belongs to the design sequence.
+
+## Key Concepts
+
+- **realist design**: An evaluation design that begins with conjectured CMO configurations and selects comparisons and data to test them.
+- **theory testing**: Using empirical evidence to assess and refine a conjectured explanation rather than only measuring whether a program worked.
+- **specification**: The realist alternative to universal generalization: stating the circumstances under which a pattern is expected to hold.
+- **CMO configuration**: A context-mechanism-outcome proposition about what works, for whom, in what circumstances, and why.
+- **outcome pattern**: The observed pattern of effects or responses that a realist evaluation explains by reference to mechanisms and contexts.
+
+## Chapter Structure
+
+- Research cycle.
+- Realist evaluation cycle.
+- Three exemplars.
+- Comparison logic.
+- Outcome patterns.
+- Theory refinement.
+
+## Practical Implications
+
+- Select methods by the CMO proposition being tested.
+- Prefer comparisons that expose context-mechanism variation.
+- Report specified conditions rather than universal claims.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 4: How to Design a Realistic Evaluation help explain?"]
+  Central["Concept: How to Design a Realistic Evaluation"]
+  Concept1["Concept: realist design"]
+  Concept2["Concept: theory testing"]
+  Concept3["Concept: specification"]
+  Mechanism1["Inquiry element: research cycle"]
+  Mechanism2["Inquiry element: realist evaluation cycle"]
+  Mechanism3["Inquiry element: three exemplars"]
+  Implication1["Practice implication: Select methods by the CMO proposition being tested."]
+  Implication2["Practice implication: Prefer comparisons that expose context-mechanism variation."]
+  Question["Open question: Which CMO claim needs source checking?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 3: In with the New: Introducing Scientific Realism](chapter-03-in-with-the-new-introducing-scientific-realism.qmd)
+- Next: [Chapter 5: How to Make Evaluations Cumulate](chapter-05-how-to-make-evaluations-cumulate.qmd)
+- Legacy extract retained: [Reader's Guide to Context, Mechanism, and Outcome](section-01-reader-guide-cmo.qmd)
+- Legacy extract retained: [Scientific Realism and CMO Hypotheses](section-02-scientific-realism-and-cmo.qmd)
+- Legacy extract retained: [The New Rules and CMO Configurations](section-03-new-rules-cmo-configurations.qmd)
+
+## Study Prompts
+
+- What CMO configuration does Chapter 4: How to Design a Realistic Evaluation help formulate or refine?
+- Which mechanism and context claims would need stronger empirical evidence?
+- Which source record should be reopened before using this note in applied work?
+
+## Source Records
+
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0003`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0004`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0006`
+- `chunk:realistic-evaluation:ch04-chapter-4-how-to-design-a-realistic-evaluation:c0038`
+
+## References
