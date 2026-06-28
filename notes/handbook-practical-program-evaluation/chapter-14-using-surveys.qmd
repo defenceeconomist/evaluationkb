@@ -1,0 +1,51 @@
+---
+title: "Chapter 14: Using Surveys"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 14
+source_pages: "389-424"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch14-chapter-14-using-surveys:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 14: Using Surveys
+
+<div class="chapter-meta"><span>389-424</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Surveys provide structured evidence from clients, households, agencies, or other populations when questions, samples, and response processes are well designed.
+
+## Summary
+
+The chapter covers population and sample surveys, including mail and electronic approaches.
+
+It stresses question wording, sampling, response rates, mode choice, and reliable measurement of factual information and perceptions.
+
+Surveys are useful when evaluators need systematic evidence that can be summarized across respondents.
+
+## Key Concepts
+
+- **survey**: Structured data collection from a population or sample.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+
+## Practice Implications
+
+- Use surveys when structured respondent evidence is needed.
+- Invest in sampling and question design before fielding.
+- Plan response-rate strategies as part of validity.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch14-chapter-14-using-surveys:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

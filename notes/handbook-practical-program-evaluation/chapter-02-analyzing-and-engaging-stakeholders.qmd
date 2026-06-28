@@ -1,0 +1,51 @@
+---
+title: "Chapter 2: Analyzing and Engaging Stakeholders"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+source_pages: "79-103"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 2: Analyzing and Engaging Stakeholders
+
+<div class="chapter-meta"><span>79-103</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Stakeholder analysis is a design task that clarifies intended users, influence, interests, and feasible engagement.
+
+## Summary
+
+The chapter treats stakeholder engagement as deliberate work rather than a courtesy. Evaluators identify who can use, block, support, or be affected by evaluation information.
+
+It emphasizes flexibility: stakeholder interests and political context can shift during an evaluation, so engagement plans need active management.
+
+Engagement is tied to usefulness because the mission, goals, questions, and reporting routes are negotiated with the people who will act on the findings.
+
+## Key Concepts
+
+- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+
+## Practice Implications
+
+- Map users, decision makers, implementers, participants, and affected groups separately.
+- Use engagement to sharpen questions and intended uses.
+- Build room for adaptation when stakeholder needs change.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

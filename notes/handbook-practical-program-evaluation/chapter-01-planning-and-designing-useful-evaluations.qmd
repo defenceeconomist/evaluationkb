@@ -1,0 +1,51 @@
+---
+title: "Chapter 1: Planning and Designing Useful Evaluations"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "49-78"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 1: Planning and Designing Useful Evaluations
+
+<div class="chapter-meta"><span>49-78</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Useful evaluation design starts by matching information needs, context, rigor, and use before methods are chosen.
+
+## Summary
+
+The chapter frames design as a practical alignment problem: evaluators must understand the decisions, stakeholders, program context, and evidence standards before committing to a design.
+
+It links evaluation questions to data, analysis, and use, stressing that credibility depends on both methodological rigor and responsiveness to the setting.
+
+A recurring message is that evaluation products should be envisioned early, because the eventual audience and decision use shape what data must be credible and how findings should be reported.
+
+## Key Concepts
+
+- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Start every design with intended users and information needs.
+- Connect questions, measures, analysis, reporting, and use in one design logic.
+- Define credibility standards before data collection begins.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

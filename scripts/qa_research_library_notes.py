@@ -13,6 +13,10 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "data" / "research_library_notes_manifest.json"
 REFERENCES = ROOT / "references.bib"
 REQUIRED_HEADINGS = {"## Source", "## References"}
+PLACEHOLDER_RE = re.compile(
+    r"\bTODO\b|FIXME|TBD|Source-linked concept|A recurring concept used",
+    re.IGNORECASE,
+)
 
 
 def front_matter(text: str) -> dict[str, str]:
@@ -58,6 +62,8 @@ def main() -> int:
         citation = book.get("citation", "")
         if citation and f"{{{citation}," not in references:
             add(issues, "references", f"Missing BibTeX entry for {citation}")
+        if generated and book.get("generation_mode") == "generated-major-sections":
+            add(issues, "coverage", f"{slug} is still generated-major-sections")
 
         evidence_path = ROOT / "data" / "research-library" / "evidence" / slug / "evidence-summary.json"
         if not evidence_path.exists():
@@ -65,12 +71,21 @@ def main() -> int:
             evidence_ids: set[str] = set()
         else:
             evidence = load_json(evidence_path)
+            records = evidence.get("records", [])
+            if generated and len(records) != len(book.get("sections", [])):
+                add(
+                    issues,
+                    "evidence",
+                    f"{slug} evidence record count {len(records)} does not match manifest section count {len(book.get('sections', []))}",
+                )
             evidence_ids = {
                 evidence_id
-                for record in evidence.get("records", [])
+                for record in records
                 for evidence_id in record.get("evidence_ids", [])
             }
 
+        chapter_map_path = ROOT / "notes" / slug / "chapter-map.qmd"
+        chapter_map = chapter_map_path.read_text(encoding="utf-8") if chapter_map_path.exists() else ""
         target_paths = [book.get("target_path", "")]
         target_paths.extend(section.get("target_path", "") for section in book.get("sections", []))
         for target in filter(None, target_paths):
@@ -91,8 +106,15 @@ def main() -> int:
             for heading in required_headings:
                 if heading not in text:
                     add(issues, "content", f"{target} missing {heading}")
-            if re.search(r"\bTODO\b|FIXME|TBD", text):
+            if PLACEHOLDER_RE.search(text):
                 add(issues, "content", f"{target} contains placeholder text")
+            if generated and target != book.get("target_path", ""):
+                if "source_pages" not in meta:
+                    add(issues, "front_matter", f"{target} missing source_pages")
+                if "evidence_ids:" not in text:
+                    add(issues, "front_matter", f"{target} missing evidence_ids")
+                if chapter_map and Path(target).name not in chapter_map:
+                    add(issues, "links", f"{target} not linked from {chapter_map_path.relative_to(ROOT)}")
 
         for section in book.get("sections", []):
             for evidence_id in section.get("evidence_ids", []):

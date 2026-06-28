@@ -1,0 +1,51 @@
+---
+title: "Chapter 18: Using the Internet"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 18
+source_pages: "516-538"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch18-chapter-18-using-the-internet:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 18: Using the Internet
+
+<div class="chapter-meta"><span>516-538</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Internet-based tools support literature review, online data collection, project communication, and evidence dissemination.
+
+## Summary
+
+The chapter discusses Internet use for literature searches, online polls or surveys, and project web sites.
+
+It treats the Internet as a practical extension of evaluation data collection and communication rather than a separate method family.
+
+The evaluator still has to assess search quality, source credibility, coverage, respondent access, and the fit between online tools and evaluation questions.
+
+## Key Concepts
+
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **survey**: Structured data collection from a population or sample.
+- **evaluation synthesis**: Systematic combination of existing studies or findings to assess what is known.
+
+## Practice Implications
+
+- Use online tools only when coverage and quality fit the question.
+- Document search and retrieval procedures.
+- Pair Internet tools with other data sources when needed.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch18-chapter-18-using-the-internet:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

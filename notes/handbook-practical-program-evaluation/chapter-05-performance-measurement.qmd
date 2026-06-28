@@ -1,0 +1,51 @@
+---
+title: "Chapter 5: Performance Measurement"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "150-177"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 5: Performance Measurement
+
+<div class="chapter-meta"><span>150-177</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Performance measurement systems monitor outcomes and operations so managers can improve programs without waiting for episodic studies.
+
+## Summary
+
+The chapter explains how to design measures that are meaningful, credible, and useful to decision makers.
+
+It cautions that monitoring systems can create burden or distort behavior if measures are poorly chosen or presented.
+
+Performance information is most valuable when it is reported in ways that invite interpretation, learning, and corrective action.
+
+## Key Concepts
+
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **administrative data**: Existing agency, archival, or management records used as evaluation evidence.
+
+## Practice Implications
+
+- Select measures that matter for program improvement.
+- Anticipate unintended consequences of measurement systems.
+- Present performance information in forms managers can act on.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

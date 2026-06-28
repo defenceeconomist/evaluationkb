@@ -1,0 +1,51 @@
+---
+title: "Chapter 21: Using Stories in Evaluation"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 21
+source_pages: "577-598"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 21: Using Stories in Evaluation
+
+<div class="chapter-meta"><span>577-598</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Stories can make evaluation findings vivid and memorable when collected and presented systematically.
+
+## Summary
+
+The chapter argues that stories can enrich evaluation by communicating experience, emotion, and meaning.
+
+It does not treat stories as replacements for quantitative evidence; instead, stories can complement other evidence and help audiences understand findings.
+
+Credibility depends on systematic collection, careful selection, preservation of intent, and transparency about what the story represents.
+
+## Key Concepts
+
+- **stories**: Narrative evidence used to communicate experience, meaning, and findings memorably.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **case study**: A design for describing or explaining program operation, context, and outcomes in bounded cases.
+
+## Practice Implications
+
+- Collect stories with a clear topic or evaluation question.
+- Use stories to illuminate evidence, not to replace it.
+- Preserve key details while editing for clarity and ethics.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

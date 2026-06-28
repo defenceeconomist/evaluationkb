@@ -1,0 +1,51 @@
+---
+title: "Chapter 16: Using Ratings by Trained Observers"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 16
+source_pages: "454-486"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 16: Using Ratings by Trained Observers
+
+<div class="chapter-meta"><span>454-486</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Trained observer ratings turn direct observation into systematic evidence through explicit scales and procedures.
+
+## Summary
+
+The chapter covers ratings of physical conditions, interactions, facilities, and service environments.
+
+Anchored scales and trained raters can generate comparable data, but reliability depends on training, calibration, and quality control.
+
+Observer ratings are especially useful when conditions can be seen directly but are not captured well in administrative records or surveys.
+
+## Key Concepts
+
+- **trained observer rating**: Systematic rating by observers using explicit scales or criteria.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+
+## Practice Implications
+
+- Use explicit rating anchors and training protocols.
+- Check inter-rater consistency.
+- Match observation schedules to the program conditions being assessed.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

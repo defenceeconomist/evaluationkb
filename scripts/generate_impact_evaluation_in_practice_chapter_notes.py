@@ -35,6 +35,7 @@ CONCEPT_GLOSSES = {
     "attrition": "Loss of sample members between baseline and follow-up that can bias estimates if it differs across groups or correlates with outcomes.",
     "causal inference": "Reasoning that links observed outcome differences to the program rather than to other influences.",
     "comparison group": "Units used to estimate what would have happened to the treatment group without the program.",
+    "cost-effectiveness": "Comparison of program costs with nonmonetized outcome units so decision makers can judge value across options.",
     "common support": "Overlap in characteristics or propensity scores that allows treated units to be compared with similar untreated units.",
     "counterfactual": "The unobserved outcome that treatment units would have experienced without the program.",
     "data quality": "The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.",
@@ -50,6 +51,7 @@ CONCEPT_GLOSSES = {
     "fieldwork": "The organized collection of new data, including enumerator training, piloting, supervision, quality checks, and respondent follow-up.",
     "human subjects protection": "Review, consent, confidentiality, and risk-management procedures for research involving people.",
     "impact evaluation": "Evaluation that estimates the causal effect of a program, policy, or intervention on outcomes.",
+    "imperfect compliance": "A mismatch between assigned treatment status and actual participation or receipt of services.",
     "implementation fidelity": "The degree to which program assignment, uptake, delivery, and follow-up match the evaluation design.",
     "instrumental variables": "A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.",
     "intention-to-treat": "The effect of being assigned or offered treatment, regardless of whether the unit actually receives it.",
@@ -57,6 +59,8 @@ CONCEPT_GLOSSES = {
     "local average treatment effect": "The impact estimated for a specific subgroup, such as compliers or units near a cutoff.",
     "matching": "A method that constructs a comparison group by pairing treated units with untreated units that have similar observed characteristics.",
     "minimum detectable effect": "The smallest impact an evaluation is powered to detect for a given sample, variance, significance level, and design.",
+    "budget": "A management estimate of the resources needed for design, data collection, analysis, ethics, dissemination, and coordination.",
+    "cluster": "A grouped assignment, sampling, or analysis unit such as a school, village, clinic, or community.",
     "multifaceted program": "A program with different components, treatment levels, or treatment arms whose separate and joint effects may need testing.",
     "operational rules": "Program rules governing eligibility, assignment, timing, scale-up, and delivery that shape feasible evaluation methods.",
     "open science": "Registration, preanalysis planning, transparent reporting, and data or code sharing that support credibility and replication.",
@@ -549,7 +553,7 @@ def chapter_link(chapter_item: dict) -> str:
 
 def concept_lines(concepts: list[str]) -> list[str]:
     return [
-        f"- **{concept}**: {CONCEPT_GLOSSES.get(concept, 'Source-linked concept; reopen the cited records before relying on it in applied work.')}"
+        f"- **{concept}**: {CONCEPT_GLOSSES.get(concept, 'Chapter-specific term; check the cited records before treating it as a portable evaluation concept.')}"
         for concept in concepts
     ]
 

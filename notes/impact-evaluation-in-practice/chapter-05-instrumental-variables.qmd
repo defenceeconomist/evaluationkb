@@ -60,7 +60,7 @@ Within the wider book, this chapter belongs to the methods sequence.
 ## Key Concepts
 
 - **instrumental variables**: A method that uses external variation in program participation to estimate impacts when take-up or assignment is imperfect.
-- **imperfect compliance**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **imperfect compliance**: A mismatch between assigned treatment status and actual participation or receipt of services.
 - **randomized promotion**: An encouragement design that randomly varies outreach or incentives and uses that variation as an instrument for participation.
 - **local average treatment effect**: The impact estimated for a specific subgroup, such as compliers or units near a cutoff.
 - **intention-to-treat**: The effect of being assigned or offered treatment, regardless of whether the unit actually receives it.

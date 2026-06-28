@@ -1,0 +1,51 @@
+---
+title: "Chapter 7: Randomized Controlled Trials"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "214-237"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 7: Randomized Controlled Trials
+
+<div class="chapter-meta"><span>214-237</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Randomized controlled trials strengthen causal claims when assignment, implementation, ethics, and operations can support the design.
+
+## Summary
+
+The chapter positions random assignment as a strong design for causal questions, but not as a default for every evaluation.
+
+It attends to operational requirements: eligibility, recruitment, compliance, retention, and preserving assignment integrity.
+
+RCTs are framed as practical studies that must still produce useful findings for stakeholders and program decisions.
+
+## Key Concepts
+
+- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Use randomization only when assignment is ethical and operationally feasible.
+- Protect the assignment process through implementation.
+- Plan communication so causal findings are understandable to users.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

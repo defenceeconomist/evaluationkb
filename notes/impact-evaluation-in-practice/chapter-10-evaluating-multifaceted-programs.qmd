@@ -61,7 +61,7 @@ Within the wider book, this chapter belongs to the methods sequence.
 - **treatment arms**: Distinct groups assigned to different program versions, levels, combinations, or comparison conditions.
 - **treatment levels**: Different intensities, doses, or versions of a program whose impacts can be compared.
 - **factorial design**: A design that assigns units across combinations of components so separate and joint treatment effects can be estimated.
-- **cost-effectiveness**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **cost-effectiveness**: Comparison of program costs with nonmonetized outcome units so decision makers can judge value across options.
 
 ## Chapter Structure
 

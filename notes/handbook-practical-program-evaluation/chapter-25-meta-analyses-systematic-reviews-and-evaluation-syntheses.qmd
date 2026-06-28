@@ -1,0 +1,51 @@
+---
+title: "Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 25
+source_pages: "717-740"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-3:c0002"
+source_status: "needs_review"
+---
+
+# Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses
+
+<div class="chapter-meta"><span>717-740</span><span>Part 3: Data Analysis</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Evidence synthesis clarifies where evaluation evidence is strong, absent, ambiguous, or not comparable.
+
+## Summary
+
+The chapter distinguishes meta-analysis, systematic review, and research synthesis.
+
+It emphasizes transparent search, study selection, quality appraisal, and interpretation of prior studies.
+
+Synthesis can help evaluators and decision makers avoid overreliance on one study and identify where new evaluation is needed.
+
+## Key Concepts
+
+- **meta-analysis**: Quantitative synthesis of results from prior studies.
+- **evaluation synthesis**: Systematic combination of existing studies or findings to assess what is known.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Use explicit inclusion criteria and search procedures.
+- Assess study quality before combining evidence.
+- Report where evidence is absent or ambiguous.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001`
+- `chunk:handbook-practical-program-evaluation:part-3:c0002`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

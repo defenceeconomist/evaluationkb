@@ -1,0 +1,51 @@
+---
+title: "Chapter 9: Recruitment and Retention of Study Participants"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "238-267"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 9: Recruitment and Retention of Study Participants
+
+<div class="chapter-meta"><span>238-267</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Recruitment and retention are design-critical because missing or unrepresentative participants can undermine evidence quality.
+
+## Summary
+
+The chapter identifies common overconfidence about how many participants can be recruited and retained.
+
+It covers procedures for obtaining participants with needed characteristics and keeping them engaged through data collection.
+
+It also flags institutional review, burden, incentives, and tracking as practical constraints that affect sample quality.
+
+## Key Concepts
+
+- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Budget more time for recruitment than optimistic plans suggest.
+- Track retention risk as an evidence-quality issue.
+- Align recruitment methods with ethics and participant burden.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

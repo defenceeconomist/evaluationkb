@@ -1,0 +1,51 @@
+---
+title: "Chapter 26: Pitfalls in Evaluations"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 26
+source_pages: "745-766"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-4:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 26: Pitfalls in Evaluations
+
+<div class="chapter-meta"><span>745-766</span><span>Part 4: Use of Evaluation</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Evaluation pitfalls are predictable design, data, analysis, and use problems that can be anticipated and reduced.
+
+## Summary
+
+The chapter catalogues common problems that undermine evaluations, including weak design, intrusive data collection, attrition, and misaligned expectations.
+
+Its value is diagnostic: evaluators can use the pitfalls as a pre-mortem before committing to a design.
+
+The chapter links technical risks to practical consequences for credibility and use.
+
+## Key Concepts
+
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **recruitment and retention**: Procedures for obtaining and keeping study participants through data collection.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Run a pitfalls check during design review.
+- Treat attrition and implementation disruption as threats to usefulness.
+- Build mitigation plans before fieldwork starts.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

@@ -1,0 +1,51 @@
+---
+title: "Chapter 11: Evaluating Community Change Programs"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 11
+source_pages: "303-330"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 11: Evaluating Community Change Programs
+
+<div class="chapter-meta"><span>303-330</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Community change evaluation must handle complex interventions, shifting context, multiple actors, and long time horizons.
+
+## Summary
+
+The chapter addresses initiatives whose effects emerge through partnerships, neighborhoods, systems, and community conditions.
+
+It emphasizes designs that can track implementation, contextual change, intermediate outcomes, and contribution rather than relying on simple single-program attribution.
+
+The evaluator's task is to make credible claims while respecting the open and adaptive character of community change work.
+
+## Key Concepts
+
+- **case study**: A design for describing or explaining program operation, context, and outcomes in bounded cases.
+- **multisite evaluation**: Evaluation across multiple locations requiring cross-site design, management, and analysis.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+
+## Practice Implications
+
+- Use mixed evidence for complex community change.
+- Track context and implementation alongside outcomes.
+- Avoid overclaiming attribution when contribution is the defensible claim.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

@@ -56,7 +56,7 @@ Within the wider book, this chapter belongs to the implementation sequence.
 
 - **evaluation plan**: The management document that aligns questions, design, sampling, data, analysis, ethics, dissemination, roles, timeline, and budget.
 - **preanalysis plan**: A document specifying hypotheses, outcomes, methods, and analytic decisions before results are examined.
-- **budget**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **budget**: A management estimate of the resources needed for design, data collection, analysis, ethics, dissemination, and coordination.
 - **team roles**: Explicit responsibilities across policy, research, data collection, analysis, ethics, and dissemination workstreams.
 - **data quality**: The accuracy, completeness, consistency, confidentiality, and usability of data for impact estimation.
 

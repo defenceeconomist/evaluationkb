@@ -1,0 +1,51 @@
+---
+title: "Chapter 17: Collecting Data in the Field"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 17
+source_pages: "487-515"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 17: Collecting Data in the Field
+
+<div class="chapter-meta"><span>487-515</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Field data collection turns evaluation questions into systematic on-site evidence about implementation, quality, context, and outcomes.
+
+## Summary
+
+The chapter addresses site visits, field staffing, interview planning, implementation evidence, and ways to avoid overcollection.
+
+It emphasizes frameworks that clarify what information is required for each evaluation question and which data collection strategies will gather it.
+
+Fieldwork should produce credible, organized evidence rather than disconnected impressions.
+
+## Key Concepts
+
+- **fieldwork**: On-site or direct data collection used to understand implementation, context, and outcomes.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **logic model**: A representation of program resources, activities, outputs, outcomes, and assumptions.
+
+## Practice Implications
+
+- Build a fieldwork plan from the evaluation questions.
+- Specify information needs before choosing instruments.
+- Use fieldwork to understand implementation and context.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

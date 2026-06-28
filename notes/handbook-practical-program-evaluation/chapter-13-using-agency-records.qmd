@@ -1,0 +1,51 @@
+---
+title: "Chapter 13: Using Agency Records"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 13
+source_pages: "369-388"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch13-chapter-13-using-agency-records:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 13: Using Agency Records
+
+<div class="chapter-meta"><span>369-388</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Agency and administrative records are common evaluation data sources, but access, definitions, missingness, and quality must be assessed.
+
+## Summary
+
+The chapter treats agency records as attractive but risky: they can provide counts, service histories, and outcomes, yet may be incomplete or inconsistently defined.
+
+Evaluators need to understand how records were created, why fields exist, and whether data elements mean the same thing across units and time.
+
+Administrative data become useful only when quality checks, access agreements, confidentiality, and documentation are handled carefully.
+
+## Key Concepts
+
+- **administrative data**: Existing agency, archival, or management records used as evaluation evidence.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+
+## Practice Implications
+
+- Audit record definitions before analysis.
+- Check missingness and comparability across sites or time.
+- Negotiate access and confidentiality early.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch13-chapter-13-using-agency-records:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

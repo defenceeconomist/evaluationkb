@@ -59,7 +59,7 @@ Within the wider book, this chapter belongs to the methods sequence.
 
 ## Key Concepts
 
-- **imperfect compliance**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **imperfect compliance**: A mismatch between assigned treatment status and actual participation or receipt of services.
 - **intention-to-treat**: The effect of being assigned or offered treatment, regardless of whether the unit actually receives it.
 - **local average treatment effect**: The impact estimated for a specific subgroup, such as compliers or units near a cutoff.
 - **spillovers**: Effects of treatment on units outside the intended treatment group, which can contaminate comparison groups.

@@ -1,0 +1,51 @@
+---
+title: "Chapter 15: Role Playing"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 15
+source_pages: "425-453"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch15-chapter-15-role-playing:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-2:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 15: Role Playing
+
+<div class="chapter-meta"><span>425-453</span><span>Part 2: Practical Data Collection Procedures</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Role playing uses trained testers to observe transactions and service quality that may otherwise be hidden.
+
+## Summary
+
+The chapter describes role playing, testing, and audit-study methods.
+
+Role players can provide evidence about service quality, access, treatment differences, and customer experience.
+
+The method requires careful training, ethical review, data capture, and analysis because it places researchers directly into service transactions.
+
+## Key Concepts
+
+- **role playing**: A data collection method using trained actors or testers to observe service transactions.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **comparison group design**: A nonrandomized impact design that estimates program effects by comparing participants with a credible comparison group.
+
+## Practice Implications
+
+- Use role playing when direct service encounters must be observed.
+- Treat ethics and legality as design constraints.
+- Train testers and document interactions consistently.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch15-chapter-15-role-playing:c0001`
+- `chunk:handbook-practical-program-evaluation:part-2:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

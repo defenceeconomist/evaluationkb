@@ -1,0 +1,51 @@
+---
+title: "Chapter 4: Exploratory Evaluation"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 4
+source_pages: "130-149"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch04-chapter-4-exploratory-evaluation:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 4: Exploratory Evaluation
+
+<div class="chapter-meta"><span>130-149</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Exploratory evaluation improves feasibility and usefulness when program goals, boundaries, data, or uses are unclear.
+
+## Summary
+
+The chapter covers evaluability assessment, rapid feedback evaluation, evaluation synthesis, and small-sample studies.
+
+These approaches produce findings while also clarifying program goals, criteria, information needs, and options for more definitive evaluation.
+
+The central design habit is to avoid launching a large evaluation when a rapid, low-cost exploratory step would expose feasibility, data, or use problems.
+
+## Key Concepts
+
+- **evaluability assessment**: Exploratory work to test whether a program is ready for useful evaluation.
+- **evaluation synthesis**: Systematic combination of existing studies or findings to assess what is known.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Use evaluability assessment when program theory or stakeholder agreement is weak.
+- Use rapid feedback to support timely management decisions.
+- Treat exploratory work as evidence-producing, not merely preparatory.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch04-chapter-4-exploratory-evaluation:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

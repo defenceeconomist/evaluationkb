@@ -1,0 +1,51 @@
+---
+title: "Chapter 31: Evaluation Challenges, Issues, and Trends"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 31
+source_pages: "858-870"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-4:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 31: Evaluation Challenges, Issues, and Trends
+
+<div class="chapter-meta"><span>858-870</span><span>Part 4: Use of Evaluation</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+The concluding chapter identifies cross-cutting challenges in evaluation quality, evaluator capacity, standards, ethics, and evidence use.
+
+## Summary
+
+The chapter returns to the handbook's practical aim: helping organizations improve program design and performance.
+
+It addresses quality control, evaluator selection and training, standards and ethics, and getting others to use findings.
+
+It also connects performance monitoring and evaluation studies while noting trends that affect public and nonprofit evaluation practice.
+
+## Key Concepts
+
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
+
+## Practice Implications
+
+- Treat quality control as an evaluation-management responsibility.
+- Invest in evaluator capacity and ethical standards.
+- Link monitoring systems and evaluation studies so evidence supports improvement.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

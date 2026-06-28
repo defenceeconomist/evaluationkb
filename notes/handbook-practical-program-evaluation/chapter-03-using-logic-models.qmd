@@ -1,0 +1,51 @@
+---
+title: "Chapter 3: Using Logic Models"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "104-129"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 3: Using Logic Models
+
+<div class="chapter-meta"><span>104-129</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Logic models organize program components, assumptions, outcomes, and contextual factors so evaluation questions can be focused.
+
+## Summary
+
+The chapter presents logic models as tools for planning, design, management, performance monitoring, and reporting.
+
+Logic modeling helps evaluators and program staff surface assumptions about how activities should lead to outputs, outcomes, and longer-term change.
+
+The chapter also treats models as communication devices: they let evaluation findings tell a performance story that links evidence back to program elements.
+
+## Key Concepts
+
+- **logic model**: A representation of program resources, activities, outputs, outcomes, and assumptions.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+- **evaluation question**: A decision-relevant question that determines design, data collection, analysis, and reporting.
+
+## Practice Implications
+
+- Use logic models to focus measures and questions.
+- Verify models with staff and stakeholders rather than treating them as desk products.
+- Use the model to interpret whether findings reflect theory, implementation, or measurement problems.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

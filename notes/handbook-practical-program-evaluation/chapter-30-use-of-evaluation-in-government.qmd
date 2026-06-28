@@ -1,0 +1,51 @@
+---
+title: "Chapter 30: Use of Evaluation in Government"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 30
+source_pages: "831-857"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch30-chapter-30-use-of-evaluation-in-government:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-4:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 30: Use of Evaluation in Government
+
+<div class="chapter-meta"><span>831-857</span><span>Part 4: Use of Evaluation</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Government evaluation use depends on politics, bureaucracy, evidence agendas, and strategies for overcoming institutional barriers.
+
+## Summary
+
+The chapter discusses evaluation in public-sector settings where political and bureaucratic contexts affect what is asked, funded, reported, and used.
+
+It provides guidance on building support, navigating resistance, and connecting evaluation evidence to government decisions.
+
+The chapter treats use as an active strategy rather than a passive consequence of producing a report.
+
+## Key Concepts
+
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+- **stakeholder engagement**: Deliberate identification, analysis, and involvement of intended users and affected parties.
+- **performance measurement**: Ongoing monitoring of indicators to support accountability and improvement.
+
+## Practice Implications
+
+- Plan for political and bureaucratic barriers.
+- Connect evaluation agendas to real government decisions.
+- Build routines that help agencies use evidence for improvement.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch30-chapter-30-use-of-evaluation-in-government:c0001`
+- `chunk:handbook-practical-program-evaluation:part-4:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

@@ -391,13 +391,168 @@
       "path": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd"
     },
     {
+      "id": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
+      "title": "Chapter 1: Planning and Designing Useful Evaluations",
+      "path": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
+      "title": "Chapter 2: Analyzing and Engaging Stakeholders",
+      "path": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "title": "Chapter 3: Using Logic Models",
+      "path": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "title": "Chapter 4: Exploratory Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "title": "Chapter 5: Performance Measurement",
+      "path": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "title": "Chapter 6: Comparison Group Designs",
+      "path": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "title": "Chapter 7: Randomized Controlled Trials",
+      "path": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "title": "Chapter 8: Case Studies",
+      "path": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "title": "Chapter 9: Recruitment and Retention of Study Participants",
+      "path": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "title": "Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations",
+      "path": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "title": "Chapter 11: Evaluating Community Change Programs",
+      "path": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "title": "Chapter 12: Culturally Responsive Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "title": "Chapter 13: Using Agency Records",
+      "path": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "title": "Chapter 14: Using Surveys",
+      "path": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "title": "Chapter 15: Role Playing",
+      "path": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "title": "Chapter 16: Using Ratings by Trained Observers",
+      "path": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "title": "Chapter 17: Collecting Data in the Field",
+      "path": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "title": "Chapter 18: Using the Internet",
+      "path": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "title": "Chapter 19: Semi-Structured Interviewing",
+      "path": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "title": "Chapter 20: Focus Group Interviewing",
+      "path": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "title": "Chapter 21: Using Stories in Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "title": "Chapter 22: Qualitative Data Analysis",
+      "path": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "title": "Chapter 23: Using Statistics in Evaluation",
+      "path": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "title": "Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis",
+      "path": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "title": "Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses",
+      "path": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "title": "Chapter 26: Pitfalls in Evaluations",
+      "path": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "title": "Chapter 27: Providing Recommendations, Suggestions, and Options for Improvement",
+      "path": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "title": "Chapter 28: Writing for Impact",
+      "path": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "title": "Chapter 29: Evaluation Contracting",
+      "path": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "title": "Chapter 30: Use of Evaluation in Government",
+      "path": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd"
+    },
+    {
+      "id": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
+      "title": "Chapter 31: Evaluation Challenges, Issues, and Trends",
+      "path": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd"
+    },
+    {
       "id": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
       "title": "Handbook of Practical Program Evaluation Chapter Map",
       "path": "notes/handbook-practical-program-evaluation/chapter-map.qmd"
     },
     {
       "id": "notes/handbook-practical-program-evaluation/concepts.qmd",
-      "title": "Core Concepts in Handbook of Practical Program Evaluation",
+      "title": "Handbook of Practical Program Evaluation Core Concepts",
       "path": "notes/handbook-practical-program-evaluation/concepts.qmd"
     },
     {
@@ -4264,6 +4419,161 @@
     },
     {
       "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",
       "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
       "type": "internal-link"
     },
@@ -4279,17 +4589,157 @@
     },
     {
       "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/concepts.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
       "type": "internal-link"
     },
     {
@@ -4309,6 +4759,161 @@
     },
     {
       "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/index.qmd",
       "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
       "type": "internal-link"
     },
@@ -4324,17 +4929,157 @@
     },
     {
       "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
       "type": "internal-link"
     },
     {
@@ -9810,6 +10555,130 @@
     {
       "source": "notes/evaluation-theory-models-applications/section-03-standards-and-metaevaluation.qmd",
       "citation": "stufflebeam_coryn_2014_evaluation_theory_models_applications"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+    },
+    {
+      "source": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd",
+      "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
     },
     {
       "source": "notes/handbook-practical-program-evaluation/chapter-map.qmd",

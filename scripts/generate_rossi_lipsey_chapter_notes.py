@@ -463,7 +463,10 @@ def concept_gloss(concept: str, chapter: dict) -> str:
     gloss = CONCEPT_GLOSSES.get(concept.lower())
     if gloss:
         return gloss
-    return f"A recurring concept used in Chapter {chapter['number']} to connect evidence, criteria, and evaluation use."
+    return (
+        f"A chapter-specific term used in Chapter {chapter['number']}; check the cited source records "
+        "before treating it as a portable evaluation concept."
+    )
 
 
 def render_book_connection(chapter: dict) -> str:

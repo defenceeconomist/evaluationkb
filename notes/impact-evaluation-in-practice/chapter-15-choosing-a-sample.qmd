@@ -59,7 +59,7 @@ Within the wider book, this chapter belongs to the data sequence.
 - **sample**: The units selected for data collection and analysis, ideally aligned with the treatment assignment unit and policy population.
 - **power calculation**: A calculation used to determine the sample size needed to detect a meaningful effect with acceptable probability.
 - **minimum detectable effect**: The smallest impact an evaluation is powered to detect for a given sample, variance, significance level, and design.
-- **cluster**: Source-linked concept; reopen the cited records before relying on it in applied work.
+- **cluster**: A grouped assignment, sampling, or analysis unit such as a school, village, clinic, or community.
 - **attrition**: Loss of sample members between baseline and follow-up that can bias estimates if it differs across groups or correlates with outcomes.
 
 ## Chapter Structure

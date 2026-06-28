@@ -1,0 +1,51 @@
+---
+title: "Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 24
+source_pages: "685-716"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch24-chapter-24-cost-effectiveness-and-cost-benefit-analysis:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-3:c0002"
+source_status: "needs_review"
+---
+
+# Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis
+
+<div class="chapter-meta"><span>685-716</span><span>Part 3: Data Analysis</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Economic analysis compares program costs with effects or monetized benefits so decision makers can judge value.
+
+## Summary
+
+The chapter explains when to use cost-effectiveness and benefit-cost techniques.
+
+It covers identifying costs, measuring benefits or effects, discounting, sensitivity, and interpreting ratios or net value.
+
+The practical point is to make economic assumptions visible enough for decision makers to use and challenge them.
+
+## Key Concepts
+
+- **cost-effectiveness analysis**: Economic analysis comparing costs with nonmonetized units of effect.
+- **cost-benefit analysis**: Economic analysis that monetizes costs and benefits to compare net value.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Define the decision alternative before calculating ratios.
+- Document cost categories and assumptions.
+- Use sensitivity analysis for uncertain prices, effects, and discount rates.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch24-chapter-24-cost-effectiveness-and-cost-benefit-analysis:c0001`
+- `chunk:handbook-practical-program-evaluation:part-3:c0002`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

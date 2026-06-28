@@ -1,0 +1,51 @@
+---
+title: "Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations"
+description: "Chapter-level study notes for Handbook of Practical Program Evaluation."
+book_id: "handbook-practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 10
+source_pages: "268-302"
+citation_key: "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation"
+evidence_ids:
+  - "chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001"
+  - "chunk:handbook-practical-program-evaluation:part-1:c0001"
+source_status: "needs_review"
+---
+
+# Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations
+
+<div class="chapter-meta"><span>268-302</span><span>Part 1: Evaluation Planning and Design</span><span>Source status: needs_review</span></div>
+
+## Core Claim
+
+Multisite evaluation requires coordinated design, site-level management, and cross-site analysis.
+
+## Summary
+
+The chapter focuses on evaluations that must learn from multiple locations without flattening site differences.
+
+It highlights the need to manage shared protocols, local variation, data comparability, and cross-site interpretation.
+
+The design task is to decide what must be common across sites and what must remain locally responsive.
+
+## Key Concepts
+
+- **multisite evaluation**: Evaluation across multiple locations requiring cross-site design, management, and analysis.
+- **data collection plan**: The operational plan linking evaluation questions to information sources, instruments, fieldwork, and staffing.
+- **use**: Application of evaluation evidence to decisions, improvement, accountability, or learning.
+
+## Practice Implications
+
+- Clarify common and site-specific questions.
+- Create protocols that support comparability without suppressing context.
+- Plan cross-site analysis before fieldwork starts.
+
+## Source Records
+
+- `chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001`
+- `chunk:handbook-practical-program-evaluation:part-1:c0001`
+
+## References
+
+These notes summarise source-linked records from *Handbook of Practical Program Evaluation* [@newcomer_hatry_wholey_2015_handbook_practical_program_evaluation].

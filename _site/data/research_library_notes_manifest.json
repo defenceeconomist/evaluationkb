@@ -772,39 +772,349 @@
       "citation": "newcomer_hatry_wholey_2015_handbook_practical_program_evaluation",
       "source_status": "needs_review",
       "rag_status": "ready",
-      "generation_mode": "generated-major-sections",
+      "generation_mode": "generated-chapter-notes",
       "target_path": "notes/handbook-practical-program-evaluation/index.qmd",
       "sections": [
         {
-          "id": "planning-and-design",
-          "title": "Evaluation Planning and Design",
-          "source_pages": "43-45",
-          "section_path": "Part 1: Evaluation Planning and Design",
-          "evidence_ids": [
-            "chunk:handbook-practical-program-evaluation:part-1:c0001",
-            "chunk:handbook-practical-program-evaluation:part-1:c0004"
-          ],
-          "target_path": "notes/handbook-practical-program-evaluation/section-01-planning-and-design.qmd"
-        },
-        {
-          "id": "planning-useful-evaluations",
-          "title": "Planning and Designing Useful Evaluations",
-          "source_pages": "49-51",
+          "id": "chapter-01",
+          "title": "Chapter 1: Planning and Designing Useful Evaluations",
+          "source_pages": "49-78",
           "section_path": "Part 1: Evaluation Planning and Design > Chapter 1: Planning and Designing Useful Evaluations",
           "evidence_ids": [
-            "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0003"
+            "chunk:handbook-practical-program-evaluation:ch01-chapter-1-planning-and-designing-useful-evaluations:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
           ],
-          "target_path": "notes/handbook-practical-program-evaluation/section-02-planning-useful-evaluations.qmd"
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-01-planning-and-designing-useful-evaluations.qmd"
         },
         {
-          "id": "performance-measurement",
-          "title": "Performance Measurement and Program Evaluation",
-          "source_pages": "150-151",
+          "id": "chapter-02",
+          "title": "Chapter 2: Analyzing and Engaging Stakeholders",
+          "source_pages": "79-103",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 2: Analyzing and Engaging Stakeholders",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch02-chapter-2-analyzing-and-engaging-stakeholders:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-02-analyzing-and-engaging-stakeholders.qmd"
+        },
+        {
+          "id": "chapter-03",
+          "title": "Chapter 3: Using Logic Models",
+          "source_pages": "104-129",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 3: Using Logic Models",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch03-chapter-3-using-logic-models:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-03-using-logic-models.qmd"
+        },
+        {
+          "id": "chapter-04",
+          "title": "Chapter 4: Exploratory Evaluation",
+          "source_pages": "130-149",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 4: Exploratory Evaluation",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch04-chapter-4-exploratory-evaluation:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-04-exploratory-evaluation.qmd"
+        },
+        {
+          "id": "chapter-05",
+          "title": "Chapter 5: Performance Measurement",
+          "source_pages": "150-177",
           "section_path": "Part 1: Evaluation Planning and Design > Chapter 5: Performance Measurement",
           "evidence_ids": [
-            "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001"
+            "chunk:handbook-practical-program-evaluation:ch05-chapter-5-performance-measurement:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
           ],
-          "target_path": "notes/handbook-practical-program-evaluation/section-03-performance-measurement.qmd"
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-05-performance-measurement.qmd"
+        },
+        {
+          "id": "chapter-06",
+          "title": "Chapter 6: Comparison Group Designs",
+          "source_pages": "178-213",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 6: Comparison Group Designs",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch06-chapter-6-comparison-group-designs:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-06-comparison-group-designs.qmd"
+        },
+        {
+          "id": "chapter-07",
+          "title": "Chapter 7: Randomized Controlled Trials",
+          "source_pages": "214-237",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 7: Randomized Controlled Trials",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch07-chapter-7-randomized-controlled-trials:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-07-randomized-controlled-trials.qmd"
+        },
+        {
+          "id": "chapter-08",
+          "title": "Chapter 8: Case Studies",
+          "source_pages": "238-267",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 8: Case Studies",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch08-chapter-8-case-studies:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-08-case-studies.qmd"
+        },
+        {
+          "id": "chapter-09",
+          "title": "Chapter 9: Recruitment and Retention of Study Participants",
+          "source_pages": "238-267",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 9: Recruitment and Retention of Study Participants",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch09-chapter-9-recruitment-and-retention-of-study-participants:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-09-recruitment-and-retention-of-study-participants.qmd"
+        },
+        {
+          "id": "chapter-10",
+          "title": "Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations",
+          "source_pages": "268-302",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 10: Designing, Managing, and Analyzing Multisite Evaluations",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch10-chapter-10-designing-managing-and-analyzing-multisite-evaluations:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-10-designing-managing-and-analyzing-multisite-evaluations.qmd"
+        },
+        {
+          "id": "chapter-11",
+          "title": "Chapter 11: Evaluating Community Change Programs",
+          "source_pages": "303-330",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 11: Evaluating Community Change Programs",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch11-chapter-11-evaluating-community-change-programs:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-11-evaluating-community-change-programs.qmd"
+        },
+        {
+          "id": "chapter-12",
+          "title": "Chapter 12: Culturally Responsive Evaluation",
+          "source_pages": "331-360",
+          "section_path": "Part 1: Evaluation Planning and Design > Chapter 12: Culturally Responsive Evaluation",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch12-chapter-12-culturally-responsive-evaluation:c0001",
+            "chunk:handbook-practical-program-evaluation:part-1:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-12-culturally-responsive-evaluation.qmd"
+        },
+        {
+          "id": "chapter-13",
+          "title": "Chapter 13: Using Agency Records",
+          "source_pages": "369-388",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 13: Using Agency Records",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch13-chapter-13-using-agency-records:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-13-using-agency-records.qmd"
+        },
+        {
+          "id": "chapter-14",
+          "title": "Chapter 14: Using Surveys",
+          "source_pages": "389-424",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 14: Using Surveys",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch14-chapter-14-using-surveys:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-14-using-surveys.qmd"
+        },
+        {
+          "id": "chapter-15",
+          "title": "Chapter 15: Role Playing",
+          "source_pages": "425-453",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 15: Role Playing",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch15-chapter-15-role-playing:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-15-role-playing.qmd"
+        },
+        {
+          "id": "chapter-16",
+          "title": "Chapter 16: Using Ratings by Trained Observers",
+          "source_pages": "454-486",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 16: Using Ratings by Trained Observers",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch16-chapter-16-using-ratings-by-trained-observers:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-16-using-ratings-by-trained-observers.qmd"
+        },
+        {
+          "id": "chapter-17",
+          "title": "Chapter 17: Collecting Data in the Field",
+          "source_pages": "487-515",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 17: Collecting Data in the Field",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch17-chapter-17-collecting-data-in-the-field:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-17-collecting-data-in-the-field.qmd"
+        },
+        {
+          "id": "chapter-18",
+          "title": "Chapter 18: Using the Internet",
+          "source_pages": "516-538",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 18: Using the Internet",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch18-chapter-18-using-the-internet:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-18-using-the-internet.qmd"
+        },
+        {
+          "id": "chapter-19",
+          "title": "Chapter 19: Semi-Structured Interviewing",
+          "source_pages": "539-546",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 19: Semi-Structured Interviewing",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch19-chapter-19-semi-structured-interviewing:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-19-semi-structured-interviewing.qmd"
+        },
+        {
+          "id": "chapter-20",
+          "title": "Chapter 20: Focus Group Interviewing",
+          "source_pages": "547-576",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 20: Focus Group Interviewing",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch20-chapter-20-focus-group-interviewing:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-20-focus-group-interviewing.qmd"
+        },
+        {
+          "id": "chapter-21",
+          "title": "Chapter 21: Using Stories in Evaluation",
+          "source_pages": "577-598",
+          "section_path": "Part 2: Practical Data Collection Procedures > Chapter 21: Using Stories in Evaluation",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch21-chapter-21-using-stories-in-evaluation:c0001",
+            "chunk:handbook-practical-program-evaluation:part-2:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-21-using-stories-in-evaluation.qmd"
+        },
+        {
+          "id": "chapter-22",
+          "title": "Chapter 22: Qualitative Data Analysis",
+          "source_pages": "605-638",
+          "section_path": "Part 3: Data Analysis > Chapter 22: Qualitative Data Analysis",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch22-chapter-22-qualitative-data-analysis:c0001",
+            "chunk:handbook-practical-program-evaluation:part-3:c0002"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-22-qualitative-data-analysis.qmd"
+        },
+        {
+          "id": "chapter-23",
+          "title": "Chapter 23: Using Statistics in Evaluation",
+          "source_pages": "639-684",
+          "section_path": "Part 3: Data Analysis > Chapter 23: Using Statistics in Evaluation",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch23-chapter-23-using-statistics-in-evaluation:c0001",
+            "chunk:handbook-practical-program-evaluation:part-3:c0002"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-23-using-statistics-in-evaluation.qmd"
+        },
+        {
+          "id": "chapter-24",
+          "title": "Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis",
+          "source_pages": "685-716",
+          "section_path": "Part 3: Data Analysis > Chapter 24: Cost-Effectiveness and Cost-Benefit Analysis",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch24-chapter-24-cost-effectiveness-and-cost-benefit-analysis:c0001",
+            "chunk:handbook-practical-program-evaluation:part-3:c0002"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-24-cost-effectiveness-and-cost-benefit-analysis.qmd"
+        },
+        {
+          "id": "chapter-25",
+          "title": "Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses",
+          "source_pages": "717-740",
+          "section_path": "Part 3: Data Analysis > Chapter 25: Meta-Analyses, Systematic Reviews, and Evaluation Syntheses",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch25-chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses:c0001",
+            "chunk:handbook-practical-program-evaluation:part-3:c0002"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-25-meta-analyses-systematic-reviews-and-evaluation-syntheses.qmd"
+        },
+        {
+          "id": "chapter-26",
+          "title": "Chapter 26: Pitfalls in Evaluations",
+          "source_pages": "745-766",
+          "section_path": "Part 4: Use of Evaluation > Chapter 26: Pitfalls in Evaluations",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch26-chapter-26-pitfalls-in-evaluations:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-26-pitfalls-in-evaluations.qmd"
+        },
+        {
+          "id": "chapter-27",
+          "title": "Chapter 27: Providing Recommendations, Suggestions, and Options for Improvement",
+          "source_pages": "767-780",
+          "section_path": "Part 4: Use of Evaluation > Chapter 27: Providing Recommendations, Suggestions, and Options for Improvement",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch27-chapter-27-providing-recommendations-suggestions-and-options-for-improvement:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-27-providing-recommendations-suggestions-and-options-for-improvement.qmd"
+        },
+        {
+          "id": "chapter-28",
+          "title": "Chapter 28: Writing for Impact",
+          "source_pages": "781-805",
+          "section_path": "Part 4: Use of Evaluation > Chapter 28: Writing for Impact",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch28-chapter-28-writing-for-impact:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-28-writing-for-impact.qmd"
+        },
+        {
+          "id": "chapter-29",
+          "title": "Chapter 29: Evaluation Contracting",
+          "source_pages": "807-830",
+          "section_path": "Part 4: Use of Evaluation > Chapter 29: Evaluation Contracting",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch29-chapter-29-evaluation-contracting:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-29-evaluation-contracting.qmd"
+        },
+        {
+          "id": "chapter-30",
+          "title": "Chapter 30: Use of Evaluation in Government",
+          "source_pages": "831-857",
+          "section_path": "Part 4: Use of Evaluation > Chapter 30: Use of Evaluation in Government",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch30-chapter-30-use-of-evaluation-in-government:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-30-use-of-evaluation-in-government.qmd"
+        },
+        {
+          "id": "chapter-31",
+          "title": "Chapter 31: Evaluation Challenges, Issues, and Trends",
+          "source_pages": "858-870",
+          "section_path": "Part 4: Use of Evaluation > Chapter 31: Evaluation Challenges, Issues, and Trends",
+          "evidence_ids": [
+            "chunk:handbook-practical-program-evaluation:ch31-chapter-31-evaluation-challenges-issues-and-trends:c0001",
+            "chunk:handbook-practical-program-evaluation:part-4:c0001"
+          ],
+          "target_path": "notes/handbook-practical-program-evaluation/chapter-31-evaluation-challenges-issues-and-trends.qmd"
         }
       ]
     },
