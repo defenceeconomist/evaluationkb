@@ -6,32 +6,116 @@ collection_id: "evaluation-texts"
 note_type: "Synthesis"
 citation_key: "chen_2015_practical_program_evaluation"
 evidence_ids:
-  - "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+  - "chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001"
+  - "table_segment:practical-program-evaluation:table:2.1:s001"
   - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
-  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+  - "chunk:practical-program-evaluation:ch04-the-program-plan-program-scope-and-action-plan:c0001"
+  - "chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003"
+  - "chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001"
+  - "chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001"
+  - "chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001"
+  - "chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002"
+  - "chunk:practical-program-evaluation:ch10-the-experimentation-evaluation-approach-to-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch11-the-holistic-effectuality-approach-s-conceptualization-of-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001"
+  - "chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
-This synthesis draws across the generated notes for *Practical Program Evaluation* [@chen_2015_practical_program_evaluation].
+This synthesis draws across the chapter notes for *Practical Program Evaluation* [@chen_2015_practical_program_evaluation].
 
 ## Central Logic
 
-Evaluation design should match a program's stage, stakeholder needs, and theory of how action is expected to produce change.
+The book treats practical evaluation as a staged, contingent design problem: clarify the program, identify its stage, select constructive, conclusive, or hybrid approaches, and judge evidence by usefulness as well as technical credibility.
 
 ## Concepts
 
-- Evaluation design: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Program stage: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Logic model: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Action model/change model schema: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Stakeholder use: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
-- Constructive and conclusive evaluation: a recurring idea used to frame evaluation design, evidence collection, interpretation, or use in this book.
+### Evaluation Fit
+
+- fundamental evaluation typology: Chen's early matrix distinguishing constructive and conclusive functions across process and outcome stages.
+- comprehensive evaluation typology: Chen's map of evaluation approaches by program stage, evaluation function, and strategy.
+- constructive evaluation: Evaluation used to improve, clarify, develop, or strengthen a program before or during implementation.
+- conclusive evaluation: Evaluation used to judge merit, worth, performance, effectiveness, or accountability.
+- hybrid evaluation: Evaluation that intentionally combines constructive and conclusive functions, or spans more than one program stage.
+
+### Program Theory
+
+- logic model: A compact representation of program inputs, activities, outputs, and outcomes used for planning and communication.
+- program theory: The explicit or implicit assumptions linking action, context, mechanisms, and outcomes in an intervention.
+- action model: The program theory component specifying the organizations, implementers, partners, context, target population, and delivery arrangements needed for action.
+- change model: The program theory component explaining how intervention activities are expected to change determinants and outcomes.
+- stakeholder theory: Program theory based primarily on stakeholders' experience, assumptions, and local knowledge.
+- formal theory: A theory from research literature or a scientific tradition used to design or explain an intervention.
+
+### Planning and Implementation
+
+- program scope: The planning account of problem, goals, target population, intervention, determinants, and expected outcomes.
+- action plan: The planning account of how the intervention will be organized, staffed, delivered, supported, and adapted in practice.
+- needs assessment: Planning-stage inquiry into unmet needs, service gaps, target groups, and priorities.
+- pilot testing: Small-scale trial of intervention or implementation arrangements before full-scale launch.
+- formative evaluation: Development-oriented evaluation during implementation that identifies barriers, facilitators, and remedies.
+- fidelity evaluation: Assessment of whether implementation matches the intended intervention, delivery, referral, or target-population design.
+
+### Monitoring and Outcomes
+
+- program monitoring: Periodic quantitative tracking of program process and outcomes to support management and accountability.
+- constructive outcome evaluation: Outcome-stage work that strengthens goals, evaluability, coherence, and stakeholder agreement before conclusive outcome assessment.
+- validity-focused outcome evaluation: Outcome evaluation guided by experimentation logic and the priority of ruling out threats to internal validity.
+- holistic effectuality evaluation: A real-world outcome approach that combines constructive and conclusive assessment and examines joint effects of intervention and adjuvants.
+- theory-driven outcome evaluation: Outcome evaluation that examines causal mechanisms and implementation processes, not only whether outcomes changed.
+
+### Evidence and Dissemination
+
+- adjuvant: A real-world support, adaptation, or contextual aid that helps an intervention work but may look like a validity threat in conventional experiments.
+- system change: Intervention work aimed at changing organizational, community, partnership, or contextual arrangements, not only delivering a discrete service.
+- integrative cogency model: A model that treats credible evidence as multidimensional: viable, effectual, and transferable.
+- viable cogency: Evidence about whether an intervention can work as a feasible real-world program.
+- effectual cogency: Evidence about whether an intervention affects intended outcomes.
+- transferable cogency: Evidence about whether viability and effectuality can transfer across real-world settings.
 
 ## Links
 
-- [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
-- [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
-- [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+- [Chapter 1: Fundamentals of Program Evaluation](chapter-01-fundamentals-of-program-evaluation.qmd)
+- [Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology](chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd)
+- [Chapter 3: Logic Models and the Action Model/Change Model Schema (Program Theory)](chapter-03-logic-models-and-the-action-model-change-model-schema.qmd)
+- [Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope](chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd)
+- [Chapter 5: Helping Stakeholders Clarify a Program Plan: Action Plan](chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd)
+- [Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation](chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd)
+- [Chapter 7: Assessing Implementation in the Mature Implementation Stage](chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd)
+- [Chapter 8: Program Monitoring and the Development of a Monitoring System](chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd)
+- [Chapter 9: Constructive Outcome Evaluations](chapter-09-constructive-outcome-evaluations.qmd)
+- [Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation](chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd)
+- [Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation](chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd)
+- [Chapter 12: The Theory-driven Approach to Outcome Evaluation](chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd)
+- [Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected](chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd)
+- [Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations](chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd)
+- [Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach](chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd)
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001</code></li>
+<li><code>table_segment:practical-program-evaluation:table:2.1:s001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch04-the-program-plan-program-scope-and-action-plan:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003</code></li>
+<li><code>chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch10-the-experimentation-evaluation-approach-to-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch11-the-holistic-effectuality-approach-s-conceptualization-of-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0001</code></li>
+</ul>
+</details>
 
 ## References

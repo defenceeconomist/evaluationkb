@@ -1,0 +1,137 @@
+---
+title: "Chapter 04: Assessing the Need for a Program"
+description: "Detailed study notes for Chapter 4 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 4
+source_pages: "93-120"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0001"
+  - "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0002"
+  - "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0052"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 4</span><span>Source pages 93-120</span></div>
+
+This note summarises Chapter 4, "Assessing the Need for a Program," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Needs assessment tests whether a social problem exists, who is affected, what services are needed, and whether program action fits that diagnosis.
+
+## Study Summary
+
+Chapter 4 begins the substantive evaluation sequence by asking whether the program addresses a real and significant social need. Without a defensible diagnosis of need, later assessments of theory, process, impact, and efficiency rest on weak foundations.
+
+The chapter describes needs assessment as systematic problem diagnosis. Evaluators define the problem, estimate its extent, identify trends, forecast needs, and use data sources such as records, indicators, surveys, censuses, key informants, and qualitative inquiry.
+
+Target specification is central. Evaluators have to distinguish direct and indirect targets, set target boundaries, describe target populations, and separate risk, need, and demand. These distinctions determine whether services are aligned with the problem.
+
+The chapter also emphasizes reproducibility and precision. Stakeholders may define problems differently, so the evaluator's role is to make the diagnosis careful, explicit, objective enough for deliberation, and useful for program design.
+
+For close reading, track how the chapter uses needs assessment, social problem, target population, and incidence while moving through defining the problem, estimating extent and trends, and forecasting needs. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the pre-impact sequence: it checks need, theory, and implementation before outcome and impact claims are treated as meaningful.
+
+## Key Concepts
+
+- **needs assessment**: Systematic diagnosis of the social problem, target population, and service needs a program is intended to address.
+- **social problem**: The condition or need a program is intended to ameliorate, defined precisely enough for diagnosis and action.
+- **target population**: The people, units, or conditions the program intends to affect directly or indirectly.
+- **incidence**: The number of new cases of a condition or problem arising in a defined population during a defined period.
+- **prevalence**: The total number or rate of existing cases of a condition or problem in a defined population.
+- **service needs**: The kinds, amount, timing, and accessibility of services required by a target population given the diagnosed problem.
+
+## Chapter Structure
+
+- Defining the problem.
+- Estimating extent and trends.
+- Forecasting needs.
+- Identifying targets.
+- Describing service needs.
+
+## Practical Implications
+
+- Do not assume the program's stated problem definition is adequate.
+- Separate problem prevalence from demand for services.
+- Use needs evidence to judge whether the intervention design is plausible.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 4 help diagnose?"]
+  Central["Concept: Assessing the Need for a Program"]
+  Concept1["Concept: needs assessment"]
+  Concept2["Concept: social problem"]
+  Concept3["Concept: target population"]
+  Mechanism1["Mechanism: defining the problem"]
+  Mechanism2["Mechanism: estimating extent and trends"]
+  Mechanism3["Mechanism: forecasting needs"]
+  Implication1["Practice implication: Do not assume the program's stated problem definition is adequate."]
+  Implication2["Practice implication: Separate problem prevalence from demand for services."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 3: Identifying Issues and Formulating Questions](chapter-03-identifying-issues-and-formulating-questions.qmd)
+- Next: [Chapter 5: Expressing and Assessing Program Theory](chapter-05-expressing-and-assessing-program-theory.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 4 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0052</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 4, pages 93-120.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

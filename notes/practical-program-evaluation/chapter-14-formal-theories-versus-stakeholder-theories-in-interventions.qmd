@@ -1,0 +1,141 @@
+---
+title: "Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations"
+description: "Detailed study notes for Chapter 14 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 14
+source_pages: "387-410"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch04-determinants-and-types-of-action-model-change-model-schemas:c0001"
+  - "chunk:practical-program-evaluation:ch03-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch03-applying-the-action-model-change-model-schema-an-example:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 14</span><span>Source pages 387-410</span></div>
+
+This note summarises Chapter 14, "Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Formal theory and stakeholder theory each strengthen and weaken different parts of program theory, so evaluators must clarify both change logic and action arrangements before judging an intervention.
+
+## Study Summary
+
+Chapter 14 compares interventions grounded mainly in formal theory with interventions grounded mainly in stakeholder theory.
+
+Formal theory can provide a clearer literature-based change model, especially about determinants and causal assumptions. It may also come with protocols that help specify the intervention.
+
+Stakeholder theory is often more locally grounded and practice-sensitive, but it is usually less explicit in documents and literature. Evaluators therefore need to help stakeholders articulate assumptions that may otherwise remain implicit.
+
+The chapter's practical lesson is diagnostic. Evaluators should ask which part of program theory is strong or weak: the change model, the action model, the intervention protocol, implementation arrangements, or the fit between local practice and formal theory.
+
+For close reading, track how the chapter uses formal theory, stakeholder theory, program theory, and change model while moving through formal theory-based interventions, stakeholder theory-based interventions, and change model clarification. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the advanced sequence: it tests the limits of common tools and connects evaluation evidence to theory, system change, and dissemination.
+
+## Key Concepts
+
+- **formal theory**: A theory from research literature or a scientific tradition used to design or explain an intervention.
+- **stakeholder theory**: Program theory based primarily on stakeholders' experience, assumptions, and local knowledge.
+- **program theory**: The explicit or implicit assumptions linking action, context, mechanisms, and outcomes in an intervention.
+- **change model**: The program theory component explaining how intervention activities are expected to change determinants and outcomes.
+- **action model**: The program theory component specifying the organizations, implementers, partners, context, target population, and delivery arrangements needed for action.
+- **intervention protocol**: The specification of intervention content, sequence, dosage, materials, activities, and delivery expectations.
+- **determinants**: The conditions, behaviors, beliefs, capacities, or mechanisms an intervention must change to reach desired outcomes.
+
+## Chapter Structure
+
+- Formal theory-based interventions.
+- Stakeholder theory-based interventions.
+- Change model clarification.
+- Action model clarification.
+- Relative strengths.
+- Relative limitations.
+
+## Practical Implications
+
+- Use formal theory where it clarifies determinants and mechanisms.
+- Do not assume local stakeholder theory is explicit enough for evaluation.
+- Assess change and action models separately when comparing intervention theories.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 14 help decide?"]
+  Central["Concept: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations"]
+  Concept1["Concept: formal theory"]
+  Concept2["Concept: stakeholder theory"]
+  Concept3["Concept: program theory"]
+  Mechanism1["Mechanism: formal theory-based interventions"]
+  Mechanism2["Mechanism: stakeholder theory-based interventions"]
+  Mechanism3["Mechanism: change model clarification"]
+  Implication1["Practice implication: Use formal theory where it clarifies determinants and mechanisms."]
+  Implication2["Practice implication: Do not assume local stakeholder theory is explicit enough for evaluation."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected](chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd)
+- Next: [Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach](chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 14 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch04-determinants-and-types-of-action-model-change-model-schemas:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-applying-the-action-model-change-model-schema-an-example:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 14, pages 387-410.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

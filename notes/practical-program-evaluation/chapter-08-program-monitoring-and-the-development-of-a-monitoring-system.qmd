@@ -1,0 +1,141 @@
+---
+title: "Chapter 08: Program Monitoring and the Development of a Monitoring System"
+description: "Detailed study notes for Chapter 8 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+source_pages: "223-250"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001"
+  - "chunk:practical-program-evaluation:ch08-program-monitoring-systems-within-organizations:c0001"
+  - "chunk:practical-program-evaluation:ch08-questions-for-reflection:c0001"
+  - "chunk:practical-program-evaluation:part-iv:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 8</span><span>Source pages 223-250</span></div>
+
+This note summarises Chapter 8, "Program Monitoring and the Development of a Monitoring System," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Program monitoring supplies periodic process and outcome indicators for management and accountability, but it complements rather than replaces deeper process or outcome evaluation.
+
+## Study Summary
+
+Chapter 8 explains program monitoring as periodic quantitative collection of process and outcome information. It provides vital statistics about implementation and client progress.
+
+Chen distinguishes monitoring from evaluation. Monitoring indicators can show direction, volume, coverage, and progress, but they usually do not provide the depth needed to explain implementation quality or establish outcome effectiveness.
+
+Process monitoring tracks service delivery and implementation. Outcome monitoring tracks client or program outcomes over time. The chapter argues that organizations often need an integrated monitoring system that connects both.
+
+Monitoring systems require organizational capacity, data routines, information systems, and accountability uses. Their value depends on whether indicators are meaningful and whether stakeholders understand the limits of what monitoring can claim.
+
+For close reading, track how the chapter uses program monitoring, process monitoring, outcome monitoring, and performance monitoring while moving through definition of monitoring, process monitoring, and outcome monitoring. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence: it separates early troubleshooting, mature implementation assessment, and routine monitoring.
+
+## Key Concepts
+
+- **program monitoring**: Periodic quantitative tracking of program process and outcomes to support management and accountability.
+- **process monitoring**: Repeated tracking of implementation and service-delivery indicators.
+- **outcome monitoring**: Periodic tracking of client or program outcomes that informs progress but does not by itself establish effectiveness.
+- **performance monitoring**: A merit-assessment strategy that repeatedly tracks indicators of process or outcome performance.
+- **indicator**: A measurable sign of process or outcome performance used in monitoring or evaluation.
+- **monitoring system**: The organizational data routines, indicators, tools, and information infrastructure used for ongoing program monitoring.
+- **accountability**: Use of evaluation evidence to support responsibility, reporting, judgment, and program oversight.
+
+## Chapter Structure
+
+- Definition of monitoring.
+- Process monitoring.
+- Outcome monitoring.
+- Monitoring versus evaluation.
+- Organizational systems.
+- Using monitoring data.
+
+## Practical Implications
+
+- Build monitoring indicators around decisions and accountability needs.
+- Avoid treating monitoring trends as causal impact evidence.
+- Integrate process and outcome monitoring when both implementation and progress matter.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 8 help decide?"]
+  Central["Concept: Program Monitoring and the Development of a Monitoring System"]
+  Concept1["Concept: program monitoring"]
+  Concept2["Concept: process monitoring"]
+  Concept3["Concept: outcome monitoring"]
+  Mechanism1["Mechanism: definition of monitoring"]
+  Mechanism2["Mechanism: process monitoring"]
+  Mechanism3["Mechanism: outcome monitoring"]
+  Implication1["Practice implication: Build monitoring indicators around decisions and accountability needs."]
+  Implication2["Practice implication: Avoid treating monitoring trends as causal impact evidence."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Assessing Implementation in the Mature Implementation Stage](chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd)
+- Next: [Chapter 9: Constructive Outcome Evaluations](chapter-09-constructive-outcome-evaluations.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 8 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch08-program-monitoring-systems-within-organizations:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch08-questions-for-reflection:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:part-iv:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 8, pages 223-250.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

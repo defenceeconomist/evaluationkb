@@ -1,0 +1,146 @@
+---
+title: "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected"
+description: "Detailed study notes for Chapter 13 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 13
+source_pages: "364-385"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001"
+  - "chunk:practical-program-evaluation:ch13-applying-the-logic-model:c0001"
+  - "chunk:practical-program-evaluation:ch13-applying-the-action-model-change-model-schema-2:c0002"
+  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0003"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 13</span><span>Source pages 364-385</span></div>
+
+This note summarises Chapter 13, "What to Do If Your Logic Model Does Not Work as Well as Expected," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Logic models often help, but programs that mix intervention delivery with system change may need the action model/change model schema to clarify context, partnership, and causal mechanisms.
+
+## Study Summary
+
+Chapter 13 revisits logic models through two applied cases. The point is not that logic models are useless, but that they can be too limited for programs where system change is part of the intervention.
+
+In such cases, stakeholders may struggle to distinguish activities, contextual change, intervention components, and outcomes. A standard logic model can compress these distinctions until the model becomes confusing or misleading.
+
+The action model/change model schema helps by making context, partnership, community awareness, needs assessment, interventions, and mechanisms more explicit.
+
+Chen offers reactive and proactive options. Evaluators can continue with logic models and add the schema when problems arise, or use the schema from the outset when they know the program involves system change and contextual mechanisms.
+
+For close reading, track how the chapter uses logic model, system change, action model, and change model while moving through logic-model limitations, diversity enhancement case, and community health initiative case. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the advanced sequence: it tests the limits of common tools and connects evaluation evidence to theory, system change, and dissemination.
+
+## Key Concepts
+
+- **logic model**: A compact representation of program inputs, activities, outputs, and outcomes used for planning and communication.
+- **system change**: Intervention work aimed at changing organizational, community, partnership, or contextual arrangements, not only delivering a discrete service.
+- **action model**: The program theory component specifying the organizations, implementers, partners, context, target population, and delivery arrangements needed for action.
+- **change model**: The program theory component explaining how intervention activities are expected to change determinants and outcomes.
+- **reactive approach**: A strategy of continuing with a logic model until limitations appear, then adding the action model/change model schema.
+- **proactive approach**: A strategy of using the action model/change model schema early when logic-model limitations are predictable.
+- **contextual factors**: Setting conditions, resources, relationships, constraints, and supports that shape implementation or outcomes.
+
+## Chapter Structure
+
+- Logic-model limitations.
+- Diversity enhancement case.
+- Community health initiative case.
+- Action model/change model clarification.
+- Reactive approach.
+- Proactive approach.
+
+## Practical Implications
+
+- Check whether a logic model is hiding system-change work.
+- Use the action model/change model schema when context and partnership are central.
+- Choose reactive or proactive supplementation based on foreseeable model risk.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 13 help decide?"]
+  Central["Concept: What to Do If Your Logic Model Does Not Work as Well as Expected"]
+  Concept1["Concept: logic model"]
+  Concept2["Concept: system change"]
+  Concept3["Concept: action model"]
+  Mechanism1["Mechanism: logic-model limitations"]
+  Mechanism2["Mechanism: diversity enhancement case"]
+  Mechanism3["Mechanism: community health initiative case"]
+  Implication1["Practice implication: Check whether a logic model is hiding system-change work."]
+  Implication2["Practice implication: Use the action model/change model schema when context and partnership are central."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 12: The Theory-driven Approach to Outcome Evaluation](chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd)
+- Next: [Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations](chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd)
+- Legacy extract retained: [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
+- Legacy extract retained: [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
+- Legacy extract retained: [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 13 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-applying-the-logic-model:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-applying-the-action-model-change-model-schema-2:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0003</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 13, pages 364-385.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

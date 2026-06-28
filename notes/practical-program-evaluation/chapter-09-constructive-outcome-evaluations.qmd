@@ -1,0 +1,141 @@
+---
+title: "Chapter 09: Constructive Outcome Evaluations"
+description: "Detailed study notes for Chapter 9 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "252-267"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002"
+  - "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach:c0001"
+  - "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0001"
+  - "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0009"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9</span><span>Source pages 252-267</span></div>
+
+This note summarises Chapter 9, "Constructive Outcome Evaluations," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Constructive outcome evaluation improves goals, evaluability, plausibility, and stakeholder consensus before a program is judged by outcome evidence.
+
+## Study Summary
+
+Chapter 9 focuses on outcome-stage work that is still developmental. The aim is to strengthen the program's coherence and readiness for conclusive outcome evaluation.
+
+SMART goals help stakeholders develop goals that are specific and measurable. Evaluability assessment checks whether the program is organized well enough for a rigorous outcome evaluation to be meaningful.
+
+Plausibility assessment/consensus building addresses two common problems: official goals may not reflect what the program is actually doing, and stakeholder groups may not agree on which goals should be evaluated.
+
+Chen also warns against the goal trap. Evaluators should not take official goals at face value when they are symbolic, unrealistic, vague, or disconnected from operative practice.
+
+For close reading, track how the chapter uses constructive outcome evaluation, SMART goals, evaluability assessment, and plausibility assessment while moving through purpose of constructive outcome work, SMART goals, and evaluability assessment. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome sequence: it moves from readiness for outcome evaluation to experimentation, real-world effectuality, and theory-driven explanation.
+
+## Key Concepts
+
+- **constructive outcome evaluation**: Outcome-stage work that strengthens goals, evaluability, coherence, and stakeholder agreement before conclusive outcome assessment.
+- **SMART goals**: Goals specified so they can be meaningfully understood, measured, and used for outcome evaluation.
+- **evaluability assessment**: Assessment of whether a program is coherent, measurable, and ready for credible outcome evaluation.
+- **plausibility assessment**: Inquiry into which official, operative, intended, and unintended goals are credible enough to guide evaluation.
+- **goal trap**: A problem created when official goals are accepted uncritically even though they are vague, implausible, symbolic, or disconnected from program reality.
+- **operative goals**: Goals actually pursued through program behavior, whether or not they match official goals.
+- **consensus building**: Evaluator-facilitated agreement among stakeholder groups about goals, outcomes, assumptions, or evaluation focus.
+
+## Chapter Structure
+
+- Purpose of constructive outcome work.
+- Smart goals.
+- Evaluability assessment.
+- Goal traps.
+- Plausibility assessment.
+- Consensus building.
+
+## Practical Implications
+
+- Clarify and test goals before measuring them.
+- Use evaluability assessment to avoid premature outcome evaluation.
+- Surface operative and unintended goals before finalizing evaluation outcomes.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 9 help decide?"]
+  Central["Concept: Constructive Outcome Evaluations"]
+  Concept1["Concept: constructive outcome evaluation"]
+  Concept2["Concept: SMART goals"]
+  Concept3["Concept: evaluability assessment"]
+  Mechanism1["Mechanism: purpose of constructive outcome work"]
+  Mechanism2["Mechanism: SMART goals"]
+  Mechanism3["Mechanism: evaluability assessment"]
+  Implication1["Practice implication: Clarify and test goals before measuring them."]
+  Implication2["Practice implication: Use evaluability assessment to avoid premature outcome evaluation."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Program Monitoring and the Development of a Monitoring System](chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd)
+- Next: [Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation](chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 9 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0009</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 9, pages 252-267.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

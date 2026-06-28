@@ -1,0 +1,138 @@
+---
+title: "Chapter 12: The Social Context of Evaluation"
+description: "Detailed study notes for Chapter 12 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 12
+source_pages: "315-358"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0001"
+  - "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0090"
+  - "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0093"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 12</span><span>Source pages 315-358</span></div>
+
+This note summarises Chapter 12, "The Social Context of Evaluation," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation is a real-world, political, professional, and use-oriented activity whose value depends on whether findings influence policy, programs, and practice.
+
+## Study Summary
+
+Chapter 12 closes the book by returning to the social ecology of evaluation. Evaluation is not only a technical research exercise; it is undertaken among multiple stakeholders, political time pressures, professional norms, and contested policy interests.
+
+The chapter discusses dissemination, the political character of evaluation, the profession of evaluation, intellectual diversity, working arrangements, standards, guidelines, ethics, and evaluation use.
+
+Use is treated broadly. Direct or instrumental use matters, but conceptual use can change how programs and social problems are understood, and persuasive use can influence debate. These forms of use connect back to Chapter 3's advice on question priority.
+
+The chapter's closing message is pragmatic: evaluation is worthwhile when it improves decisions, programs, policies, or understanding. Technical quality remains necessary, but it is not the whole measure of success if findings never reach or affect the people positioned to act.
+
+For close reading, track how the chapter uses evaluation use, political context, stakeholder, and dissemination while moving through social ecology, multiple stakeholders, and politics and timing. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter extends the evaluation sequence beyond impact by addressing cost, social context, professional standards, politics, and use.
+
+## Key Concepts
+
+- **evaluation use**: Application of evaluation processes or findings to decisions, understanding, debate, accountability, or program improvement.
+- **political context**: The policy, organizational, funding, stakeholder, and timing conditions that shape evaluation conduct and use.
+- **stakeholder**: A person, group, or organization with a significant interest in the program, evaluation, or findings.
+- **dissemination**: Planned communication of findings to audiences who need evidence for action, debate, or accountability.
+- **instrumental use**: Direct use of evaluation findings in a specific program, policy, funding, or management decision.
+- **conceptual use**: Use of evaluation findings to reshape understanding, framing, debate, or assumptions rather than to trigger one immediate decision.
+- **evaluation standards**: Criteria, guidelines, or ethical expectations used to judge evaluation quality and conduct.
+
+## Chapter Structure
+
+- Social ecology.
+- Multiple stakeholders.
+- Politics and timing.
+- Profession and standards.
+- Utilization of results.
+- Future of evaluation.
+
+## Practical Implications
+
+- Plan dissemination and use as part of the evaluation design.
+- Account for political timing without compromising evidence.
+- Judge evaluation success partly by whether credible findings affect action or understanding.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 12 help diagnose?"]
+  Central["Concept: The Social Context of Evaluation"]
+  Concept1["Concept: evaluation use"]
+  Concept2["Concept: political context"]
+  Concept3["Concept: stakeholder"]
+  Mechanism1["Mechanism: social ecology"]
+  Mechanism2["Mechanism: multiple stakeholders"]
+  Mechanism3["Mechanism: politics and timing"]
+  Implication1["Practice implication: Plan dissemination and use as part of the evaluation design."]
+  Implication2["Practice implication: Account for political timing without compromising evidence."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 11: Measuring Efficiency](chapter-11-measuring-efficiency.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 12 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0090</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0093</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 12, pages 315-358.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

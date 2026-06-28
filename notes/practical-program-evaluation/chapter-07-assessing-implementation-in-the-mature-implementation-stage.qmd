@@ -1,0 +1,141 @@
+---
+title: "Chapter 07: Assessing Implementation in the Mature Implementation Stage"
+description: "Detailed study notes for Chapter 7 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "197-220"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001"
+  - "chunk:practical-program-evaluation:ch07-approaches-of-conclusive-process-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch07-fidelity-versus-reinvention-in-conclusive-process-evaluation:c0002"
+  - "chunk:practical-program-evaluation:ch07-hybrid-process-evaluation-theory-driven-process-evaluation:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 7</span><span>Source pages 197-220</span></div>
+
+This note summarises Chapter 7, "Assessing Implementation in the Mature Implementation Stage," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Mature implementation can support conclusive process evaluation, but evaluators may still need constructive or hybrid designs when accountability and improvement both matter.
+
+## Study Summary
+
+Chapter 7 asks how to evaluate implementation once program procedures are routine. At this stage, stakeholders may need accountability evidence about whether the intervention is being delivered as intended.
+
+Fidelity evaluation is the main conclusive process approach. It can focus on intervention fidelity, referral fidelity, service delivery fidelity, target population fidelity, or other action-model components.
+
+The chapter also addresses the tension between fidelity and reinvention. Adaptation can be valuable during early development, but excessive deviation in mature implementation can dilute program integrity unless a defensible reason for change exists.
+
+Theory-driven process evaluation provides a hybrid alternative. It asks not only whether implementation matches the plan, but how implementation components contribute to the program's quality and performance.
+
+For close reading, track how the chapter uses mature implementation, conclusive evaluation, fidelity evaluation, and reinvention while moving through constructive process evaluation in maturity, conclusive process evaluation, and fidelity approaches. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence: it separates early troubleshooting, mature implementation assessment, and routine monitoring.
+
+## Key Concepts
+
+- **mature implementation**: A program stage in which delivery routines and rules are sufficiently established for fidelity, monitoring, or hybrid process assessment.
+- **conclusive evaluation**: Evaluation used to judge merit, worth, performance, effectiveness, or accountability.
+- **fidelity evaluation**: Assessment of whether implementation matches the intended intervention, delivery, referral, or target-population design.
+- **reinvention**: Local modification or adaptation of an intervention during implementation.
+- **theory-driven process evaluation**: Hybrid process evaluation that examines how implementation components contribute to program quality and performance.
+- **hybrid evaluation**: Evaluation that intentionally combines constructive and conclusive functions, or spans more than one program stage.
+- **implementation quality**: The degree to which actual delivery is adequate, consistent, appropriate, and aligned with the program plan.
+
+## Chapter Structure
+
+- Constructive process evaluation in maturity.
+- Conclusive process evaluation.
+- Fidelity approaches.
+- Fidelity versus reinvention.
+- Theory-driven process evaluation.
+- Design fit.
+
+## Practical Implications
+
+- Use fidelity evaluation when accountability for implementation quality is central.
+- Distinguish useful adaptation from damaging drift.
+- Use theory-driven process evaluation when stakeholders need both judgment and explanation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 7 help decide?"]
+  Central["Concept: Assessing Implementation in the Mature Implementation Stage"]
+  Concept1["Concept: mature implementation"]
+  Concept2["Concept: conclusive evaluation"]
+  Concept3["Concept: fidelity evaluation"]
+  Mechanism1["Mechanism: constructive process evaluation in maturity"]
+  Mechanism2["Mechanism: conclusive process evaluation"]
+  Mechanism3["Mechanism: fidelity approaches"]
+  Implication1["Practice implication: Use fidelity evaluation when accountability for implementation quality is central."]
+  Implication2["Practice implication: Distinguish useful adaptation from damaging drift."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation](chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd)
+- Next: [Chapter 8: Program Monitoring and the Development of a Monitoring System](chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 7 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch07-approaches-of-conclusive-process-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch07-fidelity-versus-reinvention-in-conclusive-process-evaluation:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch07-hybrid-process-evaluation-theory-driven-process-evaluation:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 7, pages 197-220.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

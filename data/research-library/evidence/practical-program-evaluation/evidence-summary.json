@@ -1,40 +1,230 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-25",
+  "generated_at": "2026-06-28",
   "collection_id": "evaluation-texts",
   "book_id": "practical-program-evaluation",
   "book_title": "Practical Program Evaluation",
   "source_status": "needs_review",
   "rag_status": "ready",
-  "source_tool": "mcp__researchlibrary.rag_search",
+  "source_tool": "mcp__researchlibrary.rag_evidence_pack",
   "copyright_note": "Stores retrieval IDs and source locations only; source text is not duplicated.",
   "records": [
     {
-      "section_id": "evaluation-design-components",
-      "section_title": "Evaluation Design and Its Components",
-      "source_pages": "39-40",
-      "section_path": "Chapter 1: Fundamentals of Program Evaluation > Evaluation Design and Its Components",
+      "section_id": "chapter-01",
+      "section_title": "Chapter 1: Fundamentals of Program Evaluation",
+      "source_pages": "23-56",
+      "section_path": "Chapter 1: Fundamentals of Program Evaluation",
       "evidence_ids": [
-        "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
-      ]
+        "chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001",
+        "chunk:practical-program-evaluation:ch01-evaluations-must-address-both-scientific-and-stakeholder-credibility:c0001",
+        "chunk:practical-program-evaluation:ch01-integrated-evaluation-perspective:c0001",
+        "chunk:practical-program-evaluation:ch01-introducing-the-rest-of-the-chapters:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd"
     },
     {
-      "section_id": "logic-models-and-program-theory",
-      "section_title": "Logic Models and the Action Model/Change Model Schema",
-      "source_pages": "79",
-      "section_path": "Part I: Introduction > Chapter 3: Logic Models and the Action Model/change Model Schema (program Theory)",
+      "section_id": "chapter-02",
+      "section_title": "Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology",
+      "source_pages": "57-78",
+      "section_path": "Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: the Comprehensive Evaluation Typology",
       "evidence_ids": [
-        "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
-      ]
+        "table_segment:practical-program-evaluation:table:2.1:s001",
+        "chunk:practical-program-evaluation:ch02-the-comprehensive-evaluation-typology-means-and-ends:c0001",
+        "chunk:practical-program-evaluation:ch02-applying-the-typology-steps-to-take:c0001",
+        "chunk:practical-program-evaluation:ch02-2-multiple-entry-evaluation:c0001"
+      ],
+      "media_ids": [
+        "practical-program-evaluation:table:2.1:image"
+      ],
+      "target_path": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd"
     },
     {
-      "section_id": "logic-model-limits",
-      "section_title": "When Logic Models Do Not Work as Expected",
-      "source_pages": "382",
-      "section_path": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected > A Guide to Productively Applying the Logic Model and the Action Model/change Model Schema",
+      "section_id": "chapter-03",
+      "section_title": "Chapter 3: Logic Models and the Action Model/Change Model Schema (Program Theory)",
+      "source_pages": "79-114",
+      "section_path": "Chapter 3: Logic Models and the Action Model/change Model Schema (program Theory)",
       "evidence_ids": [
-        "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
-      ]
+        "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001",
+        "chunk:practical-program-evaluation:ch03-program-theory:c0001",
+        "chunk:practical-program-evaluation:ch03-components-of-the-change-model:c0001",
+        "chunk:practical-program-evaluation:ch03-components-of-the-action-model:c0002",
+        "chunk:practical-program-evaluation:ch03-applications-of-logic-models-and-the-action-model-change-model-schema:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd"
+    },
+    {
+      "section_id": "chapter-04",
+      "section_title": "Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope",
+      "source_pages": "117-137",
+      "section_path": "Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch04-the-program-plan-program-scope-and-action-plan:c0001",
+        "chunk:practical-program-evaluation:ch04-background-information-provision-strategy-and-approaches:c0001",
+        "chunk:practical-program-evaluation:ch04-needs-assessment:c0001",
+        "chunk:practical-program-evaluation:ch04-the-relevancy-testing-approach-a-part-of-the-troubleshooting-strategy:c0002"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd"
+    },
+    {
+      "section_id": "chapter-05",
+      "section_title": "Chapter 5: Helping Stakeholders Clarify a Program Plan: Action Plan",
+      "source_pages": "139-171",
+      "section_path": "Chapter 5: Helping Stakeholders Clarify a Program Plan: Action Plan",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003",
+        "chunk:practical-program-evaluation:ch05-the-conceptualization-facilitation-approach-under-development-facilitation-strat:c0002",
+        "chunk:practical-program-evaluation:ch05-designing-pilot-testing:c0001",
+        "chunk:practical-program-evaluation:ch05-questions-to-inform-the-evaluator-s-commentary-on-an-action-plan:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd"
+    },
+    {
+      "section_id": "chapter-06",
+      "section_title": "Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation",
+      "source_pages": "174-196",
+      "section_path": "Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001",
+        "chunk:practical-program-evaluation:ch06-the-formative-evaluation-approach-under-the-troubleshooting-strategy:c0001",
+        "chunk:practical-program-evaluation:ch06-the-program-review-development-meeting-under-the-troubleshooting-strategy:c0002",
+        "chunk:practical-program-evaluation:ch06-pros-and-cons-of-bilateral-empowerment-evaluation:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd"
+    },
+    {
+      "section_id": "chapter-07",
+      "section_title": "Chapter 7: Assessing Implementation in the Mature Implementation Stage",
+      "source_pages": "197-220",
+      "section_path": "Chapter 7: Assessing Implementation in the Mature Implementation Stage",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001",
+        "chunk:practical-program-evaluation:ch07-approaches-of-conclusive-process-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch07-fidelity-versus-reinvention-in-conclusive-process-evaluation:c0002",
+        "chunk:practical-program-evaluation:ch07-hybrid-process-evaluation-theory-driven-process-evaluation:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd"
+    },
+    {
+      "section_id": "chapter-08",
+      "section_title": "Chapter 8: Program Monitoring and the Development of a Monitoring System",
+      "source_pages": "223-250",
+      "section_path": "Chapter 8: Program Monitoring and the Development of a Monitoring System",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001",
+        "chunk:practical-program-evaluation:ch08-program-monitoring-systems-within-organizations:c0001",
+        "chunk:practical-program-evaluation:ch08-questions-for-reflection:c0001",
+        "chunk:practical-program-evaluation:part-iv:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd"
+    },
+    {
+      "section_id": "chapter-09",
+      "section_title": "Chapter 9: Constructive Outcome Evaluations",
+      "source_pages": "252-267",
+      "section_path": "Chapter 9: Constructive Outcome Evaluations",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002",
+        "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach:c0001",
+        "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0001",
+        "chunk:practical-program-evaluation:ch09-plausibility-assessment-consensus-building-approach-2:c0009"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd"
+    },
+    {
+      "section_id": "chapter-10",
+      "section_title": "Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation",
+      "source_pages": "268-280",
+      "section_path": "Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch10-the-experimentation-evaluation-approach-to-outcome-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch10-research-designs-for-ruling-out-threats-to-internal-validity:c0001",
+        "chunk:practical-program-evaluation:ch10-questions-for-reflection:c0001",
+        "chunk:practical-program-evaluation:ch02-outcome-stage:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "section_id": "chapter-11",
+      "section_title": "Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation",
+      "source_pages": "283-324",
+      "section_path": "Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch11-the-holistic-effectuality-approach-s-conceptualization-of-outcome-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch11-conclusive-assessment:c0001",
+        "chunk:practical-program-evaluation:ch11-methodology-for-real-world-outcome-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch11-checklist-for-ranking-real-world-evaluations:c0001"
+      ],
+      "media_ids": [
+        "practical-program-evaluation:table:11.1:image"
+      ],
+      "target_path": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "section_id": "chapter-12",
+      "section_title": "Chapter 12: The Theory-driven Approach to Outcome Evaluation",
+      "source_pages": "325-360",
+      "section_path": "Chapter 12: The Theory-driven Approach to Outcome Evaluation",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch12-types-of-theory-driven-outcome-evaluation:c0001",
+        "chunk:practical-program-evaluation:ch12-the-moderating-mechanism-evaluation-approach:c0001",
+        "chunk:practical-program-evaluation:ch12-the-integrative-process-outcome-evaluation-approach:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "section_id": "chapter-13",
+      "section_title": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected",
+      "source_pages": "364-385",
+      "section_path": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001",
+        "chunk:practical-program-evaluation:ch13-applying-the-logic-model:c0001",
+        "chunk:practical-program-evaluation:ch13-applying-the-action-model-change-model-schema-2:c0002",
+        "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001",
+        "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0003"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd"
+    },
+    {
+      "section_id": "chapter-14",
+      "section_title": "Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations",
+      "source_pages": "387-410",
+      "section_path": "Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001",
+        "chunk:practical-program-evaluation:ch04-determinants-and-types-of-action-model-change-model-schemas:c0001",
+        "chunk:practical-program-evaluation:ch03-program-theory:c0001",
+        "chunk:practical-program-evaluation:ch03-applying-the-action-model-change-model-schema-an-example:c0001"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd"
+    },
+    {
+      "section_id": "chapter-15",
+      "section_title": "Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach",
+      "source_pages": "413-432",
+      "section_path": "Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach",
+      "evidence_ids": [
+        "chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0001",
+        "chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0002",
+        "chunk:practical-program-evaluation:ch15-the-bottom-up-approach:c0001",
+        "chunk:practical-program-evaluation:ch15-the-current-version-of-evidence-based-interventions-limitations-and-strategies-t:c0006",
+        "chunk:practical-program-evaluation:ch15-the-usefulness-of-the-bottom-up-approach-and-the-integrative-cogency-model:c0003"
+      ],
+      "media_ids": [],
+      "target_path": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd"
     }
   ]
 }

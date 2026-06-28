@@ -1,0 +1,139 @@
+---
+title: "Chapter 07: Measuring and Monitoring Program Outcomes"
+description: "Detailed study notes for Chapter 7 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 7
+source_pages: "177-202"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0001"
+  - "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0035"
+  - "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0049"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 7</span><span>Source pages 177-202</span></div>
+
+This note summarises Chapter 7, "Measuring and Monitoring Program Outcomes," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Outcome evaluation requires identifying relevant outcomes, measuring them well, and interpreting outcome data without confusing outcome change with program effect.
+
+## Study Summary
+
+Chapter 7 explains outcomes as the changed conditions a program is intended to produce. Outcome measurement is essential because programs ultimately aim to improve social conditions, not merely operate smoothly.
+
+The chapter separates outcome level, outcome change, and net effect. A target group can improve, decline, or remain stable for reasons unrelated to the program, so outcome monitoring alone cannot establish impact.
+
+Relevant outcomes are identified through stakeholder perspectives, program impact theory, prior research, and attention to unintended outcomes. Measures need reliability, validity, sensitivity, and enough fit to the expected magnitude and timing of change.
+
+Outcome monitoring can support management and accountability, but it carries pitfalls. Indicators must be practical and informative, and interpretation must acknowledge external influences, measurement limits, and the need for stronger designs when causal claims are required.
+
+For close reading, track how the chapter uses program outcome, outcome level, outcome change, and program effect while moving through program outcomes, identifying relevant outcomes, and measurement procedures. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome and impact sequence: it moves from outcome measurement to causal design and interpretation of effects.
+
+## Key Concepts
+
+- **program outcome**: A social, behavioral, organizational, or participant condition the program is expected to change.
+- **outcome level**: The observed status of an outcome at a point in time.
+- **outcome change**: Difference in outcome level over time, which may or may not be attributable to the program.
+- **program effect**: The change attributable to the program, distinct from outcome status or change that would have occurred anyway.
+- **reliability**: The consistency or dependability of a measure, data collection procedure, or classification.
+- **validity**: The degree to which a measure, comparison, or interpretation supports the claim being made.
+- **outcome monitoring**: Routine tracking of outcome indicators, with care not to confuse outcome status or change with program impact.
+
+## Chapter Structure
+
+- Program outcomes.
+- Identifying relevant outcomes.
+- Measurement procedures.
+- Reliability and validity.
+- Monitoring indicators.
+- Interpreting outcome data.
+
+## Practical Implications
+
+- Separate outcome status from net program effect in reports.
+- Select measures that are sensitive enough for expected changes.
+- Use multiple outcome measures when the program theory is multidimensional.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 7 help diagnose?"]
+  Central["Concept: Measuring and Monitoring Program Outcomes"]
+  Concept1["Concept: program outcome"]
+  Concept2["Concept: outcome level"]
+  Concept3["Concept: outcome change"]
+  Mechanism1["Mechanism: program outcomes"]
+  Mechanism2["Mechanism: identifying relevant outcomes"]
+  Mechanism3["Mechanism: measurement procedures"]
+  Implication1["Practice implication: Separate outcome status from net program effect in reports."]
+  Implication2["Practice implication: Select measures that are sensitive enough for expected changes."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 6: Assessing and Monitoring Program Process](chapter-06-assessing-and-monitoring-program-process.qmd)
+- Next: [Chapter 8: Assessing Program Impact: Randomized Field Experiments](chapter-08-assessing-program-impact-randomized-field-experiments.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 7 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0035</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0049</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 7, pages 177-202.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

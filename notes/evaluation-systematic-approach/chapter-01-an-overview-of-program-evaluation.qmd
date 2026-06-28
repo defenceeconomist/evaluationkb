@@ -1,0 +1,136 @@
+---
+title: "Chapter 01: An Overview of Program Evaluation"
+description: "Detailed study notes for Chapter 1 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "12-38"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027"
+  - "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0032"
+  - "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0034"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 1</span><span>Source pages 12-38</span></div>
+
+This note summarises Chapter 1, "An Overview of Program Evaluation," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Program evaluation adapts social research methods to judge social interventions in ways that fit political and organizational context and inform action.
+
+## Study Summary
+
+The opening chapter defines program evaluation as systematic inquiry into social interventions. It treats evaluation as both empirical and practical: evaluators must describe program performance credibly, compare that performance with relevant criteria, and produce information that can inform social action.
+
+The chapter introduces the book's central domains of evaluation: need, program design and theory, implementation and service delivery, impact or outcomes, and efficiency. These domains become the structure for later chapters and keep evaluation from collapsing into one preferred method.
+
+Rossi, Lipsey, and Freeman also stress context. Programs are created, funded, defended, revised, and criticized in political and organizational settings. Evaluation findings compete with other interests, so the evaluator has to design for technical credibility and realistic use.
+
+The chapter positions evaluation as a response to scarce resources, accountability demands, and continuing claims that social programs can improve human conditions. It warns that evaluators need methodological skill, but also judgment about stakeholders, politics, purposes, and program circumstances.
+
+For close reading, track how the chapter uses program evaluation, social program, social research methods, and stakeholder while moving through history and contemporary demand, definition of program evaluation, and five domains of program performance. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the framing sequence: it defines evaluation, explains how designs are tailored, and turns issues into usable questions.
+
+## Key Concepts
+
+- **program evaluation**: Systematic use of social research methods to judge social interventions and inform action.
+- **social program**: An organized intervention intended to improve social conditions or ameliorate a social problem.
+- **social research methods**: Systematic observation, measurement, sampling, research design, and analysis used to describe program performance credibly.
+- **stakeholder**: A person, group, or organization with a significant interest in the program, evaluation, or findings.
+- **accountability**: Use of evaluation evidence to support judgments about program performance, resource use, and continuation.
+- **evaluation use**: Application of evaluation processes or findings to decisions, understanding, debate, accountability, or program improvement.
+
+## Chapter Structure
+
+- History and contemporary demand.
+- Definition of program evaluation.
+- Five domains of program performance.
+- Political and organizational context.
+- Evaluation practice and roles.
+
+## Practical Implications
+
+- Define the program and performance domain before selecting methods.
+- Treat political context as a design condition, not an afterthought.
+- Ask how findings will inform action as well as whether they are technically sound.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 1 help diagnose?"]
+  Central["Concept: An Overview of Program Evaluation"]
+  Concept1["Concept: program evaluation"]
+  Concept2["Concept: social program"]
+  Concept3["Concept: social research methods"]
+  Mechanism1["Mechanism: history and contemporary demand"]
+  Mechanism2["Mechanism: definition of program evaluation"]
+  Mechanism3["Mechanism: five domains of program performance"]
+  Implication1["Practice implication: Define the program and performance domain before selecting methods."]
+  Implication2["Practice implication: Treat political context as a design condition, not an afterthought."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 2: Tailoring Evaluations](chapter-02-tailoring-evaluations.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 1 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0032</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0034</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 1, pages 12-38.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

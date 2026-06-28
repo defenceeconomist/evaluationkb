@@ -1,30 +1,87 @@
 ---
 title: "Evaluation: A Systematic Approach Chapter Map"
-description: "Reading map for selected Evaluation: A Systematic Approach notes."
+description: "Full reading map for Evaluation: A Systematic Approach chapter notes."
 book_id: "evaluation-systematic-approach"
 collection_id: "evaluation-texts"
 note_type: "Map"
 citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
 evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027"
   - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
-  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0054"
+  - "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0001"
   - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+  - "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0002"
+  - "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0001"
+  - "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0001"
+  - "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0001"
+  - "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0001"
+  - "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0001"
+  - "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0001"
 source_status: "needs_review"
 ---
+
 ## Source
 
 This map uses selected MCP research-library sections from *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach].
 
 ## Reading Route
 
-1. [Tailoring Evaluations](section-01-tailoring-evaluations.qmd) - pages 38-39; `Chapter 2: Tailoring Evaluations`
-2. [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd) - pages 89-90; `Chapter 3: Identifying Issues and Formulating Questions`
-3. [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd) - pages 120-121; `Chapter 5: Expressing and Assessing Program Theory`
+### Framing and Design
+
+- [Chapter 1: An Overview of Program Evaluation](chapter-01-an-overview-of-program-evaluation.qmd) - pages 12-38; `Chapter 1: An Overview of Program Evaluation`
+- [Chapter 2: Tailoring Evaluations](chapter-02-tailoring-evaluations.qmd) - pages 38-67; `Chapter 2: Tailoring Evaluations`
+- [Chapter 3: Identifying Issues and Formulating Questions](chapter-03-identifying-issues-and-formulating-questions.qmd) - pages 67-93; `Chapter 3: Identifying Issues and Formulating Questions`
+
+### Need, Theory, and Process
+
+- [Chapter 4: Assessing the Need for a Program](chapter-04-assessing-the-need-for-a-program.qmd) - pages 93-120; `Chapter 4: Assessing the Need for a Program`
+- [Chapter 5: Expressing and Assessing Program Theory](chapter-05-expressing-and-assessing-program-theory.qmd) - pages 120-150; `Chapter 5: Expressing and Assessing Program Theory`
+- [Chapter 6: Assessing and Monitoring Program Process](chapter-06-assessing-and-monitoring-program-process.qmd) - pages 150-177; `Chapter 6: Assessing and Monitoring Program Process`
+
+### Outcomes, Impact, and Interpretation
+
+- [Chapter 7: Measuring and Monitoring Program Outcomes](chapter-07-measuring-and-monitoring-program-outcomes.qmd) - pages 177-202; `Chapter 7: Measuring and Monitoring Program Outcomes`
+- [Chapter 8: Assessing Program Impact: Randomized Field Experiments](chapter-08-assessing-program-impact-randomized-field-experiments.qmd) - pages 202-229; `Chapter 8: Assessing Program Impact: Randomized Field Experiments`
+- [Chapter 9: Assessing Program Impact: Alternative Designs](chapter-09-assessing-program-impact-alternative-designs.qmd) - pages 229-258; `Chapter 9: Assessing Program Impact: Alternative Designs`
+- [Chapter 10: Detecting, Interpreting, and Analyzing Program Effects](chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd) - pages 258-283; `Chapter 10: Detecting, Interpreting, and Analyzing Program Effects`
+
+### Efficiency and Use
+
+- [Chapter 11: Measuring Efficiency](chapter-11-measuring-efficiency.qmd) - pages 283-315; `Chapter 11: Measuring Efficiency`
+- [Chapter 12: The Social Context of Evaluation](chapter-12-the-social-context-of-evaluation.qmd) - pages 315-358; `Chapter 12: The Social Context of Evaluation`
 
 ## How to Use This Map
 
-- Start with the first section for the book's framing logic.
-- Use the middle section to inspect the main design or method implications.
-- Use the final section to check limits, quality standards, or implications for use.
+- Start with Chapters 1-3 when scoping an evaluation and turning stakeholder concerns into answerable questions.
+- Use Chapters 4-6 before impact work to check need, theory, and implementation.
+- Use Chapters 7-10 for outcome measurement, impact design, and interpretation of program effects.
+- Use Chapters 11-12 to connect findings to resource allocation, politics, professional standards, and use.
+
+## Legacy Extracts
+
+- [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0054</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0001</code></li>
+</ul>
+</details>
 
 ## References

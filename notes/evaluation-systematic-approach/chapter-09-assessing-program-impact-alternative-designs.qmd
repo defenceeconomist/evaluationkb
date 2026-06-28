@@ -1,0 +1,138 @@
+---
+title: "Chapter 09: Assessing Program Impact: Alternative Designs"
+description: "Detailed study notes for Chapter 9 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 9
+source_pages: "229-258"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0001"
+  - "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0017"
+  - "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0061"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 9</span><span>Source pages 229-258</span></div>
+
+This note summarises Chapter 9, "Assessing Program Impact: Alternative Designs," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+When random assignment is infeasible, alternative impact designs can be useful only if evaluators confront selection bias and other validity threats directly.
+
+## Study Summary
+
+Chapter 9 covers nonrandomized impact designs. The authors are clear that these alternatives do not provide the same confidence as well-implemented randomized experiments, but they are often necessary in real program settings.
+
+The chapter begins with bias. Selection bias, secular trends, interfering events, maturation, and other influences can exaggerate or obscure program effects. The evaluator must identify plausible sources of bias before choosing a design or reporting findings.
+
+Quasi-experimental strategies include constructing control groups by matching, adjusting groups statistically, modeling outcomes and selection, and using regression-discontinuity designs. Reflexive controls include simple pre-post studies and time-series designs.
+
+The chapter's practical stance is conditional. Nonrandomized designs may be justified when the need for impact evidence is great and randomization is not feasible, but reports must communicate limitations, use strong controls where possible, and avoid definitive claims unsupported by design.
+
+For close reading, track how the chapter uses quasi-experimental design, selection bias, matching, and statistical controls while moving through bias in effect estimates, selection and nonrandomized designs, and matching. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome and impact sequence: it moves from outcome measurement to causal design and interpretation of effects.
+
+## Key Concepts
+
+- **quasi-experimental design**: A nonrandomized impact design that uses constructed comparisons, timing, or statistical controls to estimate effects.
+- **selection bias**: Bias caused when program and comparison groups differ in ways that affect outcomes apart from program participation.
+- **matching**: Constructing comparison groups by pairing or balancing units on variables expected to affect outcomes or selection.
+- **statistical controls**: Analytic adjustments intended to reduce nonrandom differences between program and comparison groups.
+- **regression discontinuity**: A quasi-experimental design using a cutoff rule on an assignment variable to estimate program effects near the threshold.
+- **time series**: A design or monitoring approach using repeated observations over time to examine trends and possible program-related change.
+
+## Chapter Structure
+
+- Bias in effect estimates.
+- Selection and nonrandomized designs.
+- Matching.
+- Statistical adjustment.
+- Regression discontinuity.
+- Reflexive controls.
+
+## Practical Implications
+
+- Name likely biases before choosing an alternative design.
+- Use theory and prior research to select matching or control variables.
+- Report nonrandomized estimates with explicit uncertainty and limitations.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 9 help diagnose?"]
+  Central["Concept: Assessing Program Impact: Alternative Designs"]
+  Concept1["Concept: quasi-experimental design"]
+  Concept2["Concept: selection bias"]
+  Concept3["Concept: matching"]
+  Mechanism1["Mechanism: bias in effect estimates"]
+  Mechanism2["Mechanism: selection and nonrandomized designs"]
+  Mechanism3["Mechanism: matching"]
+  Implication1["Practice implication: Name likely biases before choosing an alternative design."]
+  Implication2["Practice implication: Use theory and prior research to select matching or control variables."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 8: Assessing Program Impact: Randomized Field Experiments](chapter-08-assessing-program-impact-randomized-field-experiments.qmd)
+- Next: [Chapter 10: Detecting, Interpreting, and Analyzing Program Effects](chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 9 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0017</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0061</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 9, pages 229-258.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

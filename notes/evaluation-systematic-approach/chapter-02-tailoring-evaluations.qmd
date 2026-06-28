@@ -1,0 +1,140 @@
+---
+title: "Chapter 02: Tailoring Evaluations"
+description: "Detailed study notes for Chapter 2 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 2
+source_pages: "38-67"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002"
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0044"
+  - "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0060"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 2</span><span>Source pages 38-67</span></div>
+
+This note summarises Chapter 2, "Tailoring Evaluations," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation design is a fit problem: purpose, program circumstances, resources, stakeholder relationship, questions, and methods must be tailored together.
+
+## Study Summary
+
+Chapter 2 rejects a one-size-fits-all evaluation model. A useful evaluation plan depends on why the evaluation is being commissioned, how the program is organized, what resources are available, and what kind of relationship the evaluator will have with sponsors and stakeholders.
+
+The chapter distinguishes purposes such as program improvement, accountability, knowledge generation, and hidden agendas. These purposes affect what questions should be asked, how much independence is needed, and what communication practices will support use.
+
+It also introduces the major question types that organize the rest of the book: needs assessment, program theory assessment, process evaluation, impact assessment, and efficiency assessment. The evaluator's task is to match questions to methods and program maturity.
+
+The stakeholder relationship is treated as a design choice. Independent, collaborative, participatory, and capacity-building orientations each change the evaluator's role, the flow of information, and the likely use and credibility of findings.
+
+For close reading, track how the chapter uses evaluation purpose, evaluation question, stakeholder, and needs assessment while moving through purposes of evaluation, program structure and circumstances, and resources. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the framing sequence: it defines evaluation, explains how designs are tailored, and turns issues into usable questions.
+
+## Key Concepts
+
+- **evaluation purpose**: The main reason for the evaluation, such as improvement, accountability, knowledge generation, or political positioning.
+- **evaluation question**: A question about program performance that guides the evaluation design and requires criteria for judgment.
+- **stakeholder**: A person, group, or organization with a significant interest in the program, evaluation, or findings.
+- **needs assessment**: Systematic diagnosis of the social problem, target population, and service needs a program is intended to address.
+- **impact assessment**: Evaluation that estimates whether and how much a program changed outcomes relative to what would have happened without it.
+- **efficiency assessment**: Evaluation of the relationship between program costs and program benefits, effects, or outcomes.
+
+## Chapter Structure
+
+- Purposes of evaluation.
+- Program structure and circumstances.
+- Resources.
+- Evaluator-stakeholder relationships.
+- Question types and methods.
+
+## Practical Implications
+
+- Classify the evaluation's main purpose before designing the work.
+- Check whether program maturity supports the requested question type.
+- Make the stakeholder relationship explicit in the evaluation plan.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 2 help diagnose?"]
+  Central["Concept: Tailoring Evaluations"]
+  Concept1["Concept: evaluation purpose"]
+  Concept2["Concept: evaluation question"]
+  Concept3["Concept: stakeholder"]
+  Mechanism1["Mechanism: purposes of evaluation"]
+  Mechanism2["Mechanism: program structure and circumstances"]
+  Mechanism3["Mechanism: resources"]
+  Implication1["Practice implication: Classify the evaluation's main purpose before designing the work."]
+  Implication2["Practice implication: Check whether program maturity supports the requested question type."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 1: An Overview of Program Evaluation](chapter-01-an-overview-of-program-evaluation.qmd)
+- Next: [Chapter 3: Identifying Issues and Formulating Questions](chapter-03-identifying-issues-and-formulating-questions.qmd)
+- Legacy extract retained: [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- Legacy extract retained: [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- Legacy extract retained: [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 2 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0044</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0060</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 2, pages 38-67.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

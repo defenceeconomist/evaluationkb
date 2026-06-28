@@ -1,0 +1,140 @@
+---
+title: "Chapter 03: Identifying Issues and Formulating Questions"
+description: "Detailed study notes for Chapter 3 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "67-93"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0054"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055"
+  - "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0056"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3</span><span>Source pages 67-93</span></div>
+
+This note summarises Chapter 3, "Identifying Issues and Formulating Questions," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation questions turn stakeholder concerns and program assumptions into answerable, prioritized inquiries about performance and value.
+
+## Study Summary
+
+Chapter 3 makes question formulation the control point for evaluation design. Questions focus the evaluation on the areas of program performance that matter and determine what evidence, criteria, and methods will be needed.
+
+Good evaluation questions are not just interesting topics. They must be reasonable, appropriate, answerable, and tied to observable dimensions of program performance. They also need criteria or standards so findings can support judgment rather than description alone.
+
+The chapter treats question development as both negotiated and analytical. Stakeholders help identify concerns and uses, but evaluators must also inspect program documents, assumptions, and theory to surface issues that stakeholders may miss.
+
+Prioritization is necessary because resources rarely allow every plausible question to be answered. The chapter also broadens use beyond immediate decisions: questions may support conceptual or persuasive use by shaping how a program and its problem are understood.
+
+For close reading, track how the chapter uses evaluation question, performance criteria, stakeholder, and instrumental use while moving through sources of evaluation issues, formulating answerable questions, and performance criteria. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the framing sequence: it defines evaluation, explains how designs are tailored, and turns issues into usable questions.
+
+## Key Concepts
+
+- **evaluation question**: A question about program performance that guides the evaluation design and requires criteria for judgment.
+- **performance criteria**: The standards or dimensions used to judge whether observed program performance is good enough.
+- **stakeholder**: A person, group, or organization with a significant interest in the program, evaluation, or findings.
+- **instrumental use**: Direct use of evaluation findings in a specific program, policy, funding, or management decision.
+- **conceptual use**: Use of evaluation findings to reshape understanding, framing, debate, or assumptions rather than to trigger one immediate decision.
+- **persuasive use**: Use of evaluation evidence to support, challenge, or reframe positions in policy and program debate.
+
+## Chapter Structure
+
+- Sources of evaluation issues.
+- Formulating answerable questions.
+- Performance criteria.
+- Question hierarchy.
+- Collating and prioritizing questions.
+
+## Practical Implications
+
+- Turn broad concerns into observable and answerable questions.
+- Prioritize questions by purpose, use, and feasibility.
+- Document criteria so interpretation is not improvised after results arrive.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 3 help diagnose?"]
+  Central["Concept: Identifying Issues and Formulating Questions"]
+  Concept1["Concept: evaluation question"]
+  Concept2["Concept: performance criteria"]
+  Concept3["Concept: stakeholder"]
+  Mechanism1["Mechanism: sources of evaluation issues"]
+  Mechanism2["Mechanism: formulating answerable questions"]
+  Mechanism3["Mechanism: performance criteria"]
+  Implication1["Practice implication: Turn broad concerns into observable and answerable questions."]
+  Implication2["Practice implication: Prioritize questions by purpose, use, and feasibility."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Tailoring Evaluations](chapter-02-tailoring-evaluations.qmd)
+- Next: [Chapter 4: Assessing the Need for a Program](chapter-04-assessing-the-need-for-a-program.qmd)
+- Legacy extract retained: [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- Legacy extract retained: [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- Legacy extract retained: [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 3 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0054</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0056</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 3, pages 67-93.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

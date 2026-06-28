@@ -1,0 +1,138 @@
+---
+title: "Chapter 11: Measuring Efficiency"
+description: "Detailed study notes for Chapter 11 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 11
+source_pages: "283-315"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0001"
+  - "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0049"
+  - "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0060"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 11</span><span>Source pages 283-315</span></div>
+
+This note summarises Chapter 11, "Measuring Efficiency," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Efficiency assessment relates program costs to benefits or effects so resource decisions can consider value as well as implementation and impact.
+
+## Study Summary
+
+Chapter 11 adds the cost dimension to evaluation. A program may be implemented well and produce outcomes, but decision makers still need to know whether benefits justify costs or whether another intervention could produce similar effects more efficiently.
+
+The chapter distinguishes cost-benefit and cost-effectiveness analysis. Cost-benefit analysis monetizes both costs and benefits where possible, while cost-effectiveness analysis compares costs with outcome units that may remain nonmonetary.
+
+Efficiency analysis depends on perspective and assumptions. Evaluators have to assemble cost data, choose accounting perspectives, consider opportunity costs, shadow prices, secondary effects, distributional issues, and discounting.
+
+The authors present the technical material as something every evaluator should understand conceptually, even if specialist expertise is needed for full analysis. Efficiency questions often shape decisions about expansion, continuation, termination, and allocation across alternatives.
+
+For close reading, track how the chapter uses efficiency assessment, cost-benefit analysis, cost-effectiveness analysis, and opportunity cost while moving through key concepts, ex ante and ex post analysis, and cost-benefit analysis. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter extends the evaluation sequence beyond impact by addressing cost, social context, professional standards, politics, and use.
+
+## Key Concepts
+
+- **efficiency assessment**: Evaluation of the relationship between program costs and program benefits, effects, or outcomes.
+- **cost-benefit analysis**: Efficiency analysis that monetizes costs and benefits so their net relationship can be compared.
+- **cost-effectiveness analysis**: Efficiency analysis that compares costs with nonmonetized outcomes or effects.
+- **opportunity cost**: The value of the best alternative use of resources committed to a program or evaluation.
+- **discounting**: Converting future costs or benefits into present value for efficiency analysis.
+- **accounting perspective**: The standpoint from which costs and benefits are counted, such as program, participant, funder, or society.
+
+## Chapter Structure
+
+- Key concepts.
+- Ex ante and ex post analysis.
+- Cost-benefit analysis.
+- Measuring costs and benefits.
+- Comparing costs and benefits.
+- Cost-effectiveness analysis.
+
+## Practical Implications
+
+- Plan cost data collection before impact findings arrive.
+- State the accounting perspective behind efficiency claims.
+- Avoid treating positive impact as sufficient evidence for resource allocation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 11 help diagnose?"]
+  Central["Concept: Measuring Efficiency"]
+  Concept1["Concept: efficiency assessment"]
+  Concept2["Concept: cost-benefit analysis"]
+  Concept3["Concept: cost-effectiveness analysis"]
+  Mechanism1["Mechanism: key concepts"]
+  Mechanism2["Mechanism: ex ante and ex post analysis"]
+  Mechanism3["Mechanism: cost-benefit analysis"]
+  Implication1["Practice implication: Plan cost data collection before impact findings arrive."]
+  Implication2["Practice implication: State the accounting perspective behind efficiency claims."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 10: Detecting, Interpreting, and Analyzing Program Effects](chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd)
+- Next: [Chapter 12: The Social Context of Evaluation](chapter-12-the-social-context-of-evaluation.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 11 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0049</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0060</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 11, pages 283-315.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

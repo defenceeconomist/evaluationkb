@@ -1,0 +1,141 @@
+---
+title: "Chapter 06: Constructive Process Evaluation Tailored for the Initial Implementation"
+description: "Detailed study notes for Chapter 6 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "174-196"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001"
+  - "chunk:practical-program-evaluation:ch06-the-formative-evaluation-approach-under-the-troubleshooting-strategy:c0001"
+  - "chunk:practical-program-evaluation:ch06-the-program-review-development-meeting-under-the-troubleshooting-strategy:c0002"
+  - "chunk:practical-program-evaluation:ch06-pros-and-cons-of-bilateral-empowerment-evaluation:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6</span><span>Source pages 174-196</span></div>
+
+This note summarises Chapter 6, "Constructive Process Evaluation Tailored for the Initial Implementation," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Initial implementation requires constructive process evaluation that rapidly identifies delivery problems, supports troubleshooting, and helps stakeholders stabilize the program.
+
+## Study Summary
+
+Chapter 6 moves from planning to early implementation. At this stage, rules, procedures, staffing, recruitment, and delivery routines are still fluid, so the main evaluation need is timely information for improvement.
+
+Formative evaluation is the main troubleshooting approach. It uses flexible methods to identify barriers and facilitators, distinguish implementation problems from design problems, and help stakeholders make corrections while the program is still taking shape.
+
+Program review/development meetings are another troubleshooting tool, especially for surfacing staff experience and building shared understanding of implementation problems. Chen is clear that these meetings are mainly internal improvement tools, not substitutes for accountability evaluation.
+
+Bilateral empowerment evaluation extends the evaluator role into partnership. It can maximize the use of evaluation information during development, but it also creates limits for later independent accountability assessment.
+
+For close reading, track how the chapter uses initial implementation, constructive evaluation, formative evaluation, and troubleshooting while moving through initial implementation concerns, formative evaluation, and program review/development meetings. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the implementation sequence: it separates early troubleshooting, mature implementation assessment, and routine monitoring.
+
+## Key Concepts
+
+- **initial implementation**: The early delivery stage when routines are still being established and constructive troubleshooting is often needed.
+- **constructive evaluation**: Evaluation used to improve, clarify, develop, or strengthen a program before or during implementation.
+- **formative evaluation**: Development-oriented evaluation during implementation that identifies barriers, facilitators, and remedies.
+- **troubleshooting**: A strategy for quickly identifying implementation problems and supporting stakeholders in fixing them.
+- **program review/development meeting**: A facilitated internal meeting used to identify implementation difficulties and possible remedies.
+- **bilateral empowerment evaluation**: A partnership form in which evaluators and stakeholders jointly use evaluation information while developing and stabilizing a program.
+- **implementation problem**: A barrier, failure, inconsistency, or unexpected condition that interferes with delivering the program as intended.
+
+## Chapter Structure
+
+- Initial implementation concerns.
+- Formative evaluation.
+- Program review/development meetings.
+- Bilateral empowerment evaluation.
+- Pros and cons.
+- Selection of approaches.
+
+## Practical Implications
+
+- Use fast feedback when implementation routines are unstable.
+- Do not confuse internal troubleshooting meetings with accountability evidence.
+- Plan for role changes if evaluators later need to provide independent assessment.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 6 help decide?"]
+  Central["Concept: Constructive Process Evaluation Tailored for the Initial Implementation"]
+  Concept1["Concept: initial implementation"]
+  Concept2["Concept: constructive evaluation"]
+  Concept3["Concept: formative evaluation"]
+  Mechanism1["Mechanism: initial implementation concerns"]
+  Mechanism2["Mechanism: formative evaluation"]
+  Mechanism3["Mechanism: program review/development meetings"]
+  Implication1["Practice implication: Use fast feedback when implementation routines are unstable."]
+  Implication2["Practice implication: Do not confuse internal troubleshooting meetings with accountability evidence."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Helping Stakeholders Clarify a Program Plan: Action Plan](chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd)
+- Next: [Chapter 7: Assessing Implementation in the Mature Implementation Stage](chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 6 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch06-the-formative-evaluation-approach-under-the-troubleshooting-strategy:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch06-the-program-review-development-meeting-under-the-troubleshooting-strategy:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch06-pros-and-cons-of-bilateral-empowerment-evaluation:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 6, pages 174-196.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

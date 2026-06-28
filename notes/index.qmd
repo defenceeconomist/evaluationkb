@@ -11,7 +11,7 @@ toc: false
 
 # Notes overview
 
-This section collects source-grounded study notes from the MCP research library's `evaluation-texts` collection. The notes combine the existing hand-authored Purposeful Program Theory section with generated major-section notes for the other ready evaluation texts.
+This section collects source-grounded study notes from the MCP research library's `evaluation-texts` collection. The notes combine the existing hand-authored Purposeful Program Theory section, chapter-level Rossi/Lipsey and Chen notes, and generated notes for the other ready evaluation texts.
 
 <div class="page-metadata">
   <span>10 books</span>

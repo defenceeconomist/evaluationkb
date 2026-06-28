@@ -1,0 +1,138 @@
+---
+title: "Chapter 10: Detecting, Interpreting, and Analyzing Program Effects"
+description: "Detailed study notes for Chapter 10 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 10
+source_pages: "258-283"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0001"
+  - "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0002"
+  - "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0052"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 10</span><span>Source pages 258-283</span></div>
+
+This note summarises Chapter 10, "Detecting, Interpreting, and Analyzing Program Effects," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Impact findings require interpretation of magnitude, uncertainty, practical significance, variation, and cumulative evidence, not only a design-based estimate.
+
+## Study Summary
+
+Chapter 10 follows the design chapters by asking how effects are detected and interpreted. Even strong measurement and design do not automatically make program effects clear, important, or credible for decision purposes.
+
+The chapter covers effect magnitude, statistical significance, Type I and Type II errors, and statistical power. These topics matter because evaluations can miss meaningful effects or overstate noisy findings if analysis is poorly matched to expected effects.
+
+Practical significance is a separate judgment. A statistically detectable effect may be too small to justify action, while a substantively important effect may require careful interpretation when sample size or design limits precision.
+
+The chapter also examines variation in program effects through moderator and mediator analysis and links individual studies to meta-analysis. This connects a single impact assessment to broader knowledge about what works, for whom, and under what conditions.
+
+For close reading, track how the chapter uses effect size, statistical significance, statistical power, and practical significance while moving through magnitude of effects, detecting effects, and practical significance. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome and impact sequence: it moves from outcome measurement to causal design and interpretation of effects.
+
+## Key Concepts
+
+- **effect size**: A standardized expression of the magnitude of a program effect.
+- **statistical significance**: A judgment about whether observed differences are unlikely to be due to sampling error under a specified model.
+- **statistical power**: The ability of an impact assessment to detect an effect of a given size if that effect exists.
+- **practical significance**: The real-world importance of an estimated effect, beyond statistical detectability.
+- **moderator variable**: A variable that identifies for whom or under what conditions effects are larger, smaller, or different.
+- **mediator variable**: A variable that helps explain how or why a program produces an effect.
+- **meta-analysis**: Quantitative synthesis of effect estimates across studies to inform one evaluation or the wider evidence base.
+
+## Chapter Structure
+
+- Magnitude of effects.
+- Detecting effects.
+- Practical significance.
+- Variation in effects.
+- Meta-analysis.
+
+## Practical Implications
+
+- Plan sample size and power around decision-relevant effects.
+- Report practical significance alongside statistical tests.
+- Analyze variation when program theory predicts differential effects.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 10 help diagnose?"]
+  Central["Concept: Detecting, Interpreting, and Analyzing Program Effects"]
+  Concept1["Concept: effect size"]
+  Concept2["Concept: statistical significance"]
+  Concept3["Concept: statistical power"]
+  Mechanism1["Mechanism: magnitude of effects"]
+  Mechanism2["Mechanism: detecting effects"]
+  Mechanism3["Mechanism: practical significance"]
+  Implication1["Practice implication: Plan sample size and power around decision-relevant effects."]
+  Implication2["Practice implication: Report practical significance alongside statistical tests."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 9: Assessing Program Impact: Alternative Designs](chapter-09-assessing-program-impact-alternative-designs.qmd)
+- Next: [Chapter 11: Measuring Efficiency](chapter-11-measuring-efficiency.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 10 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0052</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 10, pages 258-283.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

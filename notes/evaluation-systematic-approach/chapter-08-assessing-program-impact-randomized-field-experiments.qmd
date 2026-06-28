@@ -1,0 +1,138 @@
+---
+title: "Chapter 08: Assessing Program Impact: Randomized Field Experiments"
+description: "Detailed study notes for Chapter 8 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 8
+source_pages: "202-229"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0001"
+  - "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0002"
+  - "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0052"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 8</span><span>Source pages 202-229</span></div>
+
+This note summarises Chapter 8, "Assessing Program Impact: Randomized Field Experiments," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Randomized field experiments provide the strongest basis for estimating program impact, but only when program, ethical, practical, and implementation conditions support them.
+
+## Study Summary
+
+Chapter 8 begins impact assessment by framing effects as differences between observed outcomes and credible estimates of what would have happened without the program. Random assignment is the strongest way to create comparable program and control groups.
+
+The chapter explains why randomized field experiments matter even when they cannot be used. Their logic underlies impact assessment generally: comparison, assignment, outcome measurement, and protection against biased estimates.
+
+The authors also set limits. Randomized designs may be inappropriate for early-stage programs, ethically difficult, costly, politically resisted, or compromised when experimental delivery differs from ordinary program delivery.
+
+A good randomized impact assessment therefore requires more than assignment. Evaluators must attend to units of analysis, data collection before and after intervention, attrition, intervention integrity, analysis of complex designs, and the practical context in which findings will be used.
+
+For close reading, track how the chapter uses impact assessment, randomized field experiment, random assignment, and control group while moving through appropriateness of impact assessment, key concepts, and randomization logic. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome and impact sequence: it moves from outcome measurement to causal design and interpretation of effects.
+
+## Key Concepts
+
+- **impact assessment**: Evaluation that estimates whether and how much a program changed outcomes relative to what would have happened without it.
+- **randomized field experiment**: A real-world impact design comparing randomly assigned program and control groups.
+- **random assignment**: Allocation by chance to program and comparison conditions to support unbiased impact estimates.
+- **control group**: A comparison group used to estimate what would have happened to program targets without the intervention.
+- **counterfactual**: An estimate of the outcome status that would have occurred if the program had not been present.
+- **attrition**: Loss of participants or observations from measurement, which can weaken comparison and bias impact estimates.
+
+## Chapter Structure
+
+- Appropriateness of impact assessment.
+- Key concepts.
+- Randomization logic.
+- Field experiment prerequisites.
+- Data collection and analysis.
+- Limitations.
+
+## Practical Implications
+
+- Use randomized designs when stakes are high and conditions permit.
+- Protect implementation integrity and outcome measurement after assignment.
+- Explain ethical and practical constraints when a randomized design is not feasible.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 8 help diagnose?"]
+  Central["Concept: Assessing Program Impact: Randomized Field Experiments"]
+  Concept1["Concept: impact assessment"]
+  Concept2["Concept: randomized field experiment"]
+  Concept3["Concept: random assignment"]
+  Mechanism1["Mechanism: appropriateness of impact assessment"]
+  Mechanism2["Mechanism: key concepts"]
+  Mechanism3["Mechanism: randomization logic"]
+  Implication1["Practice implication: Use randomized designs when stakes are high and conditions permit."]
+  Implication2["Practice implication: Protect implementation integrity and outcome measurement after assignment."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 7: Measuring and Monitoring Program Outcomes](chapter-07-measuring-and-monitoring-program-outcomes.qmd)
+- Next: [Chapter 9: Assessing Program Impact: Alternative Designs](chapter-09-assessing-program-impact-alternative-designs.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 8 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0052</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 8, pages 202-229.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

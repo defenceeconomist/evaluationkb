@@ -1,0 +1,143 @@
+---
+title: "Chapter 01: Fundamentals of Program Evaluation"
+description: "Detailed study notes for Chapter 1 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 1
+source_pages: "23-56"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001"
+  - "chunk:practical-program-evaluation:ch01-evaluations-must-address-both-scientific-and-stakeholder-credibility:c0001"
+  - "chunk:practical-program-evaluation:ch01-integrated-evaluation-perspective:c0001"
+  - "chunk:practical-program-evaluation:ch01-introducing-the-rest-of-the-chapters:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 1</span><span>Source pages 23-56</span></div>
+
+This note summarises Chapter 1, "Fundamentals of Program Evaluation," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Evaluation is an applied practice that must balance scientific credibility, stakeholder credibility, program stage, and practical usefulness.
+
+## Study Summary
+
+Chapter 1 introduces Chen's practical orientation to evaluation. It treats program evaluation as more than method selection: evaluators need to understand intervention programs, stakeholder needs, program politics, and the purposes that evidence is expected to serve.
+
+The chapter extends the familiar formative/summative distinction into a fundamental typology. Evaluation can serve constructive or conclusive functions, and it can focus on process, outcome, or hybrid combinations of the two.
+
+A central tension is the need to address both scientific and stakeholder credibility. Scientific credibility asks whether evidence is technically sound; stakeholder credibility asks whether the evaluation takes users' concerns, practices, and decisions seriously enough to be useful.
+
+The integrated evaluation perspective sets up the rest of the book. Instead of privileging method-driven rigor or stakeholder responsiveness alone, Chen argues for designs that synthesize both requirements in ways that fit real programs.
+
+For close reading, track how the chapter uses fundamental evaluation typology, constructive evaluation, conclusive evaluation, and hybrid evaluation while moving through intervention programs and feedback, fundamental evaluation typology, and internal and external evaluators. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the foundations sequence: it defines evaluation fit, typology, and program theory before any stage-specific evaluation is selected.
+
+## Key Concepts
+
+- **fundamental evaluation typology**: Chen's early matrix distinguishing constructive and conclusive functions across process and outcome stages.
+- **constructive evaluation**: Evaluation used to improve, clarify, develop, or strengthen a program before or during implementation.
+- **conclusive evaluation**: Evaluation used to judge merit, worth, performance, effectiveness, or accountability.
+- **hybrid evaluation**: Evaluation that intentionally combines constructive and conclusive functions, or spans more than one program stage.
+- **scientific credibility**: The degree to which an evaluation is judged technically sound, systematic, and governed by defensible inquiry principles.
+- **stakeholder credibility**: The degree to which stakeholders judge that an evaluation reflects their views, concerns, needs, and practical realities.
+- **integrated evaluation perspective**: Chen's stance that evaluation should synthesize scientific credibility and stakeholder responsiveness.
+
+## Chapter Structure
+
+- Intervention programs and feedback.
+- Fundamental evaluation typology.
+- Internal and external evaluators.
+- Stakeholder credibility.
+- Scientific credibility.
+- Integrated evaluation perspective.
+
+## Practical Implications
+
+- Classify the evaluation function before choosing methods.
+- Treat stakeholder credibility as a design requirement, not a courtesy.
+- Use the integrated perspective to avoid rigid method-first evaluation.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 1 help decide?"]
+  Central["Concept: Fundamentals of Program Evaluation"]
+  Concept1["Concept: fundamental evaluation typology"]
+  Concept2["Concept: constructive evaluation"]
+  Concept3["Concept: conclusive evaluation"]
+  Mechanism1["Mechanism: intervention programs and feedback"]
+  Mechanism2["Mechanism: fundamental evaluation typology"]
+  Mechanism3["Mechanism: internal and external evaluators"]
+  Implication1["Practice implication: Classify the evaluation function before choosing methods."]
+  Implication2["Practice implication: Treat stakeholder credibility as a design requirement, not a courtesy."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Next: [Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology](chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd)
+- Legacy extract retained: [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
+- Legacy extract retained: [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
+- Legacy extract retained: [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 1 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch01-evaluations-must-address-both-scientific-and-stakeholder-credibility:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch01-integrated-evaluation-perspective:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch01-introducing-the-rest-of-the-chapters:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 1, pages 23-56.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

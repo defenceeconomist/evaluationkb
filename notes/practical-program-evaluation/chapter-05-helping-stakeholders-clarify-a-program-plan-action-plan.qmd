@@ -1,0 +1,141 @@
+---
+title: "Chapter 05: Helping Stakeholders Clarify a Program Plan: Action Plan"
+description: "Detailed study notes for Chapter 5 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "139-171"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003"
+  - "chunk:practical-program-evaluation:ch05-the-conceptualization-facilitation-approach-under-development-facilitation-strat:c0002"
+  - "chunk:practical-program-evaluation:ch05-designing-pilot-testing:c0001"
+  - "chunk:practical-program-evaluation:ch05-questions-to-inform-the-evaluator-s-commentary-on-an-action-plan:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 5</span><span>Source pages 139-171</span></div>
+
+This note summarises Chapter 5, "Helping Stakeholders Clarify a Program Plan: Action Plan," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Action-plan evaluation tests whether the program has the organizational, human, partnership, contextual, and delivery arrangements needed to implement the intervention.
+
+## Study Summary
+
+Chapter 5 completes the planning-stage sequence by focusing on the action model. If Chapter 4 clarifies what change is intended, Chapter 5 asks whether stakeholders have a practical plan for making that change happen.
+
+The action model framework directs attention to implementers, implementing organizations, partners, ecological context, target populations, and delivery protocols. These components are interdependent, so a change to one component can alter the feasibility of the whole plan.
+
+Conceptualization facilitation helps stakeholders develop or improve the action plan. The evaluator's role is not merely to review documents, but to surface missing components, weak assumptions, and practical implementation risks.
+
+Pilot testing then provides field-based feedback before full implementation. It tests whether proposed activities, dosage, scheduling, settings, staff roles, and client responses are workable at a smaller scale.
+
+For close reading, track how the chapter uses action plan, action model, conceptualization facilitation, and pilot testing while moving through action model framework, conceptualization facilitation, and commentary on action plans. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the planning sequence: it helps stakeholders clarify program scope and action plan before implementation begins.
+
+## Key Concepts
+
+- **action plan**: The planning account of how the intervention will be organized, staffed, delivered, supported, and adapted in practice.
+- **action model**: The program theory component specifying the organizations, implementers, partners, context, target population, and delivery arrangements needed for action.
+- **conceptualization facilitation**: Evaluator support for helping stakeholders articulate program scope, action plan, and underlying assumptions.
+- **pilot testing**: Small-scale trial of intervention or implementation arrangements before full-scale launch.
+- **implementing organization**: The organization responsible for arranging resources, staff, partnerships, and routines needed to deliver the intervention.
+- **ecological context**: The surrounding social, organizational, community, policy, and interpersonal conditions that support or constrain implementation.
+- **service delivery protocols**: Procedures that specify how, where, when, and by whom services are delivered to participants.
+
+## Chapter Structure
+
+- Action model framework.
+- Conceptualization facilitation.
+- Commentary on action plans.
+- Pilot testing principles.
+- Designing pilot tests.
+- Revising the plan.
+
+## Practical Implications
+
+- Assess implementer capacity and organizational support before launch.
+- Use pilot testing to find practical delivery problems early.
+- Treat the action plan as a theory that can be improved, not as an administrative formality.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 5 help decide?"]
+  Central["Concept: Helping Stakeholders Clarify a Program Plan: Action Plan"]
+  Concept1["Concept: action plan"]
+  Concept2["Concept: action model"]
+  Concept3["Concept: conceptualization facilitation"]
+  Mechanism1["Mechanism: action model framework"]
+  Mechanism2["Mechanism: conceptualization facilitation"]
+  Mechanism3["Mechanism: commentary on action plans"]
+  Implication1["Practice implication: Assess implementer capacity and organizational support before launch."]
+  Implication2["Practice implication: Use pilot testing to find practical delivery problems early."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope](chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd)
+- Next: [Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation](chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 5 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003</code></li>
+<li><code>chunk:practical-program-evaluation:ch05-the-conceptualization-facilitation-approach-under-development-facilitation-strat:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch05-designing-pilot-testing:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch05-questions-to-inform-the-evaluator-s-commentary-on-an-action-plan:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 5, pages 139-171.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

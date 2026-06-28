@@ -1,0 +1,138 @@
+---
+title: "Chapter 06: Assessing and Monitoring Program Process"
+description: "Detailed study notes for Chapter 6 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 6
+source_pages: "150-177"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0002"
+  - "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0055"
+  - "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0056"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 6</span><span>Source pages 150-177</span></div>
+
+This note summarises Chapter 6, "Assessing and Monitoring Program Process," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Process evaluation asks whether the program is actually being delivered as intended, to whom, with what coverage, consistency, and organizational support.
+
+## Study Summary
+
+Chapter 6 turns program process theory into evidence about implementation. A program cannot produce expected outcomes if it fails to deliver the intended services, reaches the wrong participants, or operates inconsistently across sites.
+
+The chapter distinguishes process evaluation from process monitoring. Process evaluation may be a stand-alone study or part of an impact evaluation. Monitoring is repeated measurement over time, often supported by management information systems.
+
+Criteria for judging process can come from program theory, administrative standards, legal and ethical requirements, professional expectations, and after-the-fact judgment. This makes process evaluation both descriptive and evaluative.
+
+The chapter's major domains are service utilization and organizational functions. Evaluators assess coverage, accessibility, bias, intensity, participant response, delivery systems, support functions, and whether actual operation conforms to design.
+
+For close reading, track how the chapter uses process evaluation, program monitoring, coverage, and bias while moving through process theory and criteria, process evaluation, and process monitoring. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the pre-impact sequence: it checks need, theory, and implementation before outcome and impact claims are treated as meaningful.
+
+## Key Concepts
+
+- **process evaluation**: Evaluation of whether and how a program is implemented, delivered, accessed, and operated.
+- **program monitoring**: Repeated measurement of program process, performance, or outcomes to support evaluation, accountability, or management.
+- **coverage**: The extent to which a program reaches its intended target population.
+- **bias**: A systematic distortion in measurement, coverage, selection, comparison, or interpretation that can misstate program performance or effects.
+- **implementation failure**: A situation where a program does not deliver the intended services, enough service, the right service, or consistent service.
+- **administrative standards**: Expected performance levels or requirements set by administrators, law, ethics, professional norms, or program theory.
+
+## Chapter Structure
+
+- Process theory and criteria.
+- Process evaluation.
+- Process monitoring.
+- Service utilization.
+- Organizational functions.
+- Analysis of monitoring data.
+
+## Practical Implications
+
+- Check implementation before interpreting weak outcomes as program failure.
+- Track coverage and bias, not only service counts.
+- Use process findings to decide whether impact assessment is appropriate.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 6 help diagnose?"]
+  Central["Concept: Assessing and Monitoring Program Process"]
+  Concept1["Concept: process evaluation"]
+  Concept2["Concept: program monitoring"]
+  Concept3["Concept: coverage"]
+  Mechanism1["Mechanism: process theory and criteria"]
+  Mechanism2["Mechanism: process evaluation"]
+  Mechanism3["Mechanism: process monitoring"]
+  Implication1["Practice implication: Check implementation before interpreting weak outcomes as program failure."]
+  Implication2["Practice implication: Track coverage and bias, not only service counts."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 5: Expressing and Assessing Program Theory](chapter-05-expressing-and-assessing-program-theory.qmd)
+- Next: [Chapter 7: Measuring and Monitoring Program Outcomes](chapter-07-measuring-and-monitoring-program-outcomes.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 6 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0002</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0055</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0056</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 6, pages 150-177.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

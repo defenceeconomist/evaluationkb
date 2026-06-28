@@ -1,0 +1,141 @@
+---
+title: "Chapter 12: The Theory-driven Approach to Outcome Evaluation"
+description: "Detailed study notes for Chapter 12 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 12
+source_pages: "325-360"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch12-types-of-theory-driven-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch12-the-moderating-mechanism-evaluation-approach:c0001"
+  - "chunk:practical-program-evaluation:ch12-the-integrative-process-outcome-evaluation-approach:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 12</span><span>Source pages 325-360</span></div>
+
+This note summarises Chapter 12, "The Theory-driven Approach to Outcome Evaluation," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Theory-driven outcome evaluation explains how, why, and under what implementation conditions outcomes occur by examining mechanisms as well as effects.
+
+## Study Summary
+
+Chapter 12 upgrades outcome evaluation from a works-or-does-not-work question to an explanatory assessment of transformation processes.
+
+The theory-driven approach examines program theory, causal mechanisms, and implementation. It is placed under the enlightenment strategy because it helps stakeholders understand why a program succeeds, fails, or works only under certain conditions.
+
+Chen distinguishes intervening mechanism evaluation, moderating mechanism evaluation, and integrative process/outcome evaluation. These designs focus respectively on mediating processes, conditioning factors, and the full connection between implementation and outcomes.
+
+The integrative process/outcome approach is the most comprehensive. It checks implementation assumptions and causal processes together, showing that implementation success is necessary but not sufficient for program success.
+
+For close reading, track how the chapter uses theory-driven outcome evaluation, intervening mechanism, moderating mechanism, and integrative process/outcome evaluation while moving through rationale for theory-driven outcome evaluation, clarifying stakeholder theory, and types of mechanism evaluation. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the outcome sequence: it moves from readiness for outcome evaluation to experimentation, real-world effectuality, and theory-driven explanation.
+
+## Key Concepts
+
+- **theory-driven outcome evaluation**: Outcome evaluation that examines causal mechanisms and implementation processes, not only whether outcomes changed.
+- **intervening mechanism**: A mediator-like causal process through which an intervention affects determinants or outcomes.
+- **moderating mechanism**: A conditioning process or factor that changes whether, how, or for whom an intervention affects outcomes.
+- **integrative process/outcome evaluation**: Theory-driven evaluation that jointly examines implementation assumptions, causal processes, and outcomes.
+- **implementation success**: A state in which action model delivery activates the intended change process, while still requiring evidence that the change model works.
+- **causal mechanism**: The process through which an intervention is expected to affect determinants or outcomes.
+- **program theory**: The explicit or implicit assumptions linking action, context, mechanisms, and outcomes in an intervention.
+
+## Chapter Structure
+
+- Rationale for theory-driven outcome evaluation.
+- Clarifying stakeholder theory.
+- Types of mechanism evaluation.
+- Moderating mechanisms.
+- Integrative process/outcome evaluation.
+- Mixed methods.
+
+## Practical Implications
+
+- Use theory-driven outcome evaluation when stakeholders need explanation, not only verdicts.
+- Match design to whether the question concerns mediation, moderation, or whole-program operation.
+- Interpret implementation success as necessary but not sufficient for outcome success.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 12 help decide?"]
+  Central["Concept: The Theory-driven Approach to Outcome Evaluation"]
+  Concept1["Concept: theory-driven outcome evaluation"]
+  Concept2["Concept: intervening mechanism"]
+  Concept3["Concept: moderating mechanism"]
+  Mechanism1["Mechanism: rationale for theory-driven outcome evaluation"]
+  Mechanism2["Mechanism: clarifying stakeholder theory"]
+  Mechanism3["Mechanism: types of mechanism evaluation"]
+  Implication1["Practice implication: Use theory-driven outcome evaluation when stakeholders need explanation, not only verdicts."]
+  Implication2["Practice implication: Match design to whether the question concerns mediation, moderation, or whole-program operation."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation](chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd)
+- Next: [Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected](chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 12 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch12-types-of-theory-driven-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch12-the-moderating-mechanism-evaluation-approach:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch12-the-integrative-process-outcome-evaluation-approach:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 12, pages 325-360.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.

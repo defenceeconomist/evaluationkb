@@ -1,0 +1,140 @@
+---
+title: "Chapter 05: Expressing and Assessing Program Theory"
+description: "Detailed study notes for Chapter 5 of Evaluation: A Systematic Approach."
+book_id: "evaluation-systematic-approach"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 5
+source_pages: "120-150"
+citation_key: "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+evidence_ids:
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0059"
+  - "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0061"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2004</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 5</span><span>Source pages 120-150</span></div>
+
+This note summarises Chapter 5, "Expressing and Assessing Program Theory," from Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman's *Evaluation: A Systematic Approach* [@rossi_lipsey_freeman_2004_evaluation_systematic_approach]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source chunks at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or exhibit is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Program theory is itself evaluable: evaluators should articulate and assess the logic connecting program action, use, organization, and intended change.
+
+## Study Summary
+
+Chapter 5 shifts from diagnosing need to assessing the program's theory. A program may be well intentioned yet unlikely to succeed if its assumptions about causes, services, users, organizational capacity, or implementation are vague or implausible.
+
+The chapter distinguishes impact theory from process theory. Impact theory explains how program action should cause social benefits. Process theory combines the service utilization plan and organizational plan that specify how the program is supposed to operate.
+
+When theory is implicit, evaluators extract and articulate it from documents, interviews, observations, and stakeholder accounts. The result should be concrete enough to show goals, functions, activities, assumptions, sequences, and expected outcomes.
+
+Assessment compares the theory with social needs, logic and plausibility, research and practice evidence, and preliminary observation. If theory is weak, the evaluation may legitimately recommend redesign before impact assessment proceeds.
+
+For close reading, track how the chapter uses program theory, impact theory, process theory, and service utilization plan while moving through evaluability perspective, describing theory, and eliciting implicit theory. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the pre-impact sequence: it checks need, theory, and implementation before outcome and impact claims are treated as meaningful.
+
+## Key Concepts
+
+- **program theory**: The assumptions and expectations connecting needs, program action, implementation, and intended outcomes.
+- **impact theory**: A causal account of how program activities are expected to produce intended social benefits.
+- **process theory**: The combined service utilization and organizational plan describing how the program is expected to operate.
+- **service utilization plan**: The program theory component describing how intended participants are expected to enter, engage with, and complete services.
+- **organizational plan**: The program theory component describing the functions, activities, staffing, resources, and support needed for delivery.
+- **evaluability assessment**: Joint investigation of whether a program is sufficiently clear, plausible, and ready for useful evaluation.
+
+## Chapter Structure
+
+- Evaluability perspective.
+- Describing theory.
+- Eliciting implicit theory.
+- Corroborating theory.
+- Assessing theory.
+
+## Practical Implications
+
+- Articulate the program theory before estimating impact.
+- Treat implausible theory as an evaluation finding in its own right.
+- Use theory assessment to decide whether implementation or impact evaluation is premature.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What evaluation problem does Chapter 5 help diagnose?"]
+  Central["Concept: Expressing and Assessing Program Theory"]
+  Concept1["Concept: program theory"]
+  Concept2["Concept: impact theory"]
+  Concept3["Concept: process theory"]
+  Mechanism1["Mechanism: evaluability perspective"]
+  Mechanism2["Mechanism: describing theory"]
+  Mechanism3["Mechanism: eliciting implicit theory"]
+  Implication1["Practice implication: Articulate the program theory before estimating impact."]
+  Implication2["Practice implication: Treat implausible theory as an evaluation finding in its own right."]
+  Question["Open question: What evidence would make this guidance credible in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 4: Assessing the Need for a Program](chapter-04-assessing-the-need-for-a-program.qmd)
+- Next: [Chapter 6: Assessing and Monitoring Program Process](chapter-06-assessing-and-monitoring-program-process.qmd)
+- Legacy extract retained: [Tailoring Evaluations](section-01-tailoring-evaluations.qmd)
+- Legacy extract retained: [Identifying Issues and Formulating Questions](section-02-formulating-questions.qmd)
+- Legacy extract retained: [Expressing and Assessing Program Theory](section-03-program-theory-assessment.qmd)
+
+## Study Prompts
+
+1. What evaluation problem does Chapter 5 help diagnose?
+2. Which assumptions would need evidence before applying this chapter in a live evaluation?
+3. How would this chapter change the way an evaluator scopes questions, methods, reporting, or use?
+4. Where could the guidance be misused if treated as a fixed template?
+
+## Source Chunks
+
+<details class="source-chunks">
+<summary>Source chunks</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0059</code></li>
+<li><code>chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0061</code></li>
+</ul>
+</details>
+
+## References
+
+- Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach*. SAGE Publications. Chapter 5, pages 120-150.
+- Saved retrieval metadata: `data/research-library/evidence/evaluation-systematic-approach/chapter-evidence-summary.json`.

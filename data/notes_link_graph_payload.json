@@ -36,6 +36,66 @@
       "path": "notes/essentials-utilization-focused-evaluation/section-03-methods-for-use.qmd"
     },
     {
+      "id": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "title": "Chapter 01: An Overview of Program Evaluation",
+      "path": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "title": "Chapter 02: Tailoring Evaluations",
+      "path": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "title": "Chapter 03: Identifying Issues and Formulating Questions",
+      "path": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "title": "Chapter 04: Assessing the Need for a Program",
+      "path": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "title": "Chapter 05: Expressing and Assessing Program Theory",
+      "path": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "title": "Chapter 06: Assessing and Monitoring Program Process",
+      "path": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "title": "Chapter 07: Measuring and Monitoring Program Outcomes",
+      "path": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "title": "Chapter 08: Assessing Program Impact: Randomized Field Experiments",
+      "path": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "title": "Chapter 09: Assessing Program Impact: Alternative Designs",
+      "path": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "title": "Chapter 10: Detecting, Interpreting, and Analyzing Program Effects",
+      "path": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "title": "Chapter 11: Measuring Efficiency",
+      "path": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd"
+    },
+    {
+      "id": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "title": "Chapter 12: The Social Context of Evaluation",
+      "path": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd"
+    },
+    {
       "id": "notes/evaluation-systematic-approach/chapter-map.qmd",
       "title": "Evaluation: A Systematic Approach Chapter Map",
       "path": "notes/evaluation-systematic-approach/chapter-map.qmd"
@@ -421,6 +481,81 @@
       "path": "notes/magenta-book/practice-implications.qmd"
     },
     {
+      "id": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "title": "Chapter 01: Fundamentals of Program Evaluation",
+      "path": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "title": "Chapter 02: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology",
+      "path": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "title": "Chapter 03: Logic Models and the Action Model/Change Model Schema (Program Theory)",
+      "path": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "title": "Chapter 04: Helping Stakeholders Clarify a Program Plan: Program Scope",
+      "path": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "title": "Chapter 05: Helping Stakeholders Clarify a Program Plan: Action Plan",
+      "path": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "title": "Chapter 06: Constructive Process Evaluation Tailored for the Initial Implementation",
+      "path": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "title": "Chapter 07: Assessing Implementation in the Mature Implementation Stage",
+      "path": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "title": "Chapter 08: Program Monitoring and the Development of a Monitoring System",
+      "path": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "title": "Chapter 09: Constructive Outcome Evaluations",
+      "path": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "title": "Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation",
+      "path": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "title": "Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation",
+      "path": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "title": "Chapter 12: The Theory-driven Approach to Outcome Evaluation",
+      "path": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "title": "Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected",
+      "path": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "title": "Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations",
+      "path": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd"
+    },
+    {
+      "id": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "title": "Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach",
+      "path": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd"
+    },
+    {
       "id": "notes/practical-program-evaluation/chapter-map.qmd",
       "title": "Practical Program Evaluation Chapter Map",
       "path": "notes/practical-program-evaluation/chapter-map.qmd"
@@ -763,6 +898,461 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
       "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
       "type": "internal-link"
@@ -779,17 +1369,62 @@
     },
     {
       "source": "notes/evaluation-systematic-approach/concepts.qmd",
-      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/evaluation-systematic-approach/concepts.qmd",
-      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/evaluation-systematic-approach/concepts.qmd",
-      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/concepts.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
       "type": "internal-link"
     },
     {
@@ -809,6 +1444,66 @@
     },
     {
       "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/index.qmd",
       "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
       "type": "internal-link"
     },
@@ -824,17 +1519,62 @@
     },
     {
       "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
-      "target": "notes/evaluation-systematic-approach/section-01-tailoring-evaluations.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
-      "target": "notes/evaluation-systematic-approach/section-02-formulating-questions.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
-      "target": "notes/evaluation-systematic-approach/section-03-program-theory-assessment.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/practice-implications.qmd",
+      "target": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
       "type": "internal-link"
     },
     {
@@ -3673,6 +4413,566 @@
       "type": "internal-link"
     },
     {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "target": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "target": "notes/practical-program-evaluation/index.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "target": "notes/practical-program-evaluation/chapter-map.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "target": "notes/practical-program-evaluation/concepts.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "target": "notes/practical-program-evaluation/practice-implications.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-map.qmd",
+      "target": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "type": "internal-link"
+    },
+    {
       "source": "notes/practical-program-evaluation/chapter-map.qmd",
       "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
       "type": "internal-link"
@@ -3689,17 +4989,77 @@
     },
     {
       "source": "notes/practical-program-evaluation/concepts.qmd",
-      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/practical-program-evaluation/concepts.qmd",
-      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/practical-program-evaluation/concepts.qmd",
-      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/concepts.qmd",
+      "target": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
       "type": "internal-link"
     },
     {
@@ -3719,6 +5079,81 @@
     },
     {
       "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
+      "target": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/index.qmd",
       "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
       "type": "internal-link"
     },
@@ -3734,17 +5169,77 @@
     },
     {
       "source": "notes/practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/practical-program-evaluation/section-01-evaluation-design-components.qmd",
+      "target": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/practical-program-evaluation/section-02-logic-models-and-program-theory.qmd",
+      "target": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
       "type": "internal-link"
     },
     {
       "source": "notes/practical-program-evaluation/practice-implications.qmd",
-      "target": "notes/practical-program-evaluation/section-03-logic-model-limits.qmd",
+      "target": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "type": "internal-link"
+    },
+    {
+      "source": "notes/practical-program-evaluation/practice-implications.qmd",
+      "target": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
       "type": "internal-link"
     },
     {
@@ -4653,6 +6148,54 @@
       "citation": "patton_2012_essentials_utilization_focused_evaluation"
     },
     {
+      "source": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
+      "source": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
+    },
+    {
       "source": "notes/evaluation-systematic-approach/chapter-map.qmd",
       "citation": "rossi_lipsey_freeman_2004_evaluation_systematic_approach"
     },
@@ -4955,6 +6498,66 @@
     {
       "source": "notes/magenta-book/practice-implications.qmd",
       "citation": "hm_treasury_evaluation_task_force_2020_magenta_book"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-01-fundamentals-of-program-evaluation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-03-logic-models-and-the-action-model-change-model-schema.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-09-constructive-outcome-evaluations.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
+    },
+    {
+      "source": "notes/practical-program-evaluation/chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd",
+      "citation": "chen_2015_practical_program_evaluation"
     },
     {
       "source": "notes/practical-program-evaluation/chapter-map.qmd",

@@ -1,16 +1,29 @@
 ---
 title: "Practical Program Evaluation"
-description: "Book overview and study-note index for Practical Program Evaluation."
+description: "Book overview and chapter study-note index for Practical Program Evaluation."
 book_id: "practical-program-evaluation"
 collection_id: "evaluation-texts"
 note_type: "Book"
 citation_key: "chen_2015_practical_program_evaluation"
 evidence_ids:
-  - "chunk:practical-program-evaluation:ch01-evaluation-design-and-its-components:c0002"
+  - "chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001"
+  - "table_segment:practical-program-evaluation:table:2.1:s001"
   - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
-  - "chunk:practical-program-evaluation:ch13-a-guide-to-productively-applying-the-logic-model-and-the-action-model-change-mod:c0001"
+  - "chunk:practical-program-evaluation:ch04-the-program-plan-program-scope-and-action-plan:c0001"
+  - "chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003"
+  - "chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001"
+  - "chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001"
+  - "chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001"
+  - "chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002"
+  - "chunk:practical-program-evaluation:ch10-the-experimentation-evaluation-approach-to-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch11-the-holistic-effectuality-approach-s-conceptualization-of-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001"
+  - "chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001"
+  - "chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0001"
 source_status: "needs_review"
 ---
+
 <div class="landing-stack">
 
 ::: {.landing-hero}
@@ -18,10 +31,10 @@ source_status: "needs_review"
 
 # Practical Program Evaluation
 
-Study notes on *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. These notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
+Study notes on *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. These chapter notes are generated from source-linked MCP research-library records and are intended for study, comparison, and later refinement.
 
 <div class="page-metadata">
-  <span>3 major-section notes</span>
+  <span>15 chapter notes</span>
   <span>2015</span>
   <span>Source status: needs_review</span>
   <span>MCP evaluation-texts</span>
@@ -34,7 +47,7 @@ Study notes on *Practical Program Evaluation* [@chen_2015_practical_program_eval
 
 ### [Core Concepts](concepts.qmd)
 
-Recurring ideas and distinctions used across these notes.
+Recurring ideas and distinctions used across these chapter notes.
 :::
 
 ::: {.section-card}
@@ -42,7 +55,7 @@ Recurring ideas and distinctions used across these notes.
 
 ### [Chapter Map](chapter-map.qmd)
 
-Selected source sections, page ranges, and reading routes.
+Full reading route for all 15 chapters.
 :::
 
 ::: {.section-card}
@@ -50,7 +63,7 @@ Selected source sections, page ranges, and reading routes.
 
 ### [Practice Implications](practice-implications.qmd)
 
-Practical evaluation design habits drawn from the notes.
+Practical evaluation design habits drawn from the full chapter set.
 :::
 :::
 
@@ -58,18 +71,59 @@ Practical evaluation design habits drawn from the notes.
 
 ## Source
 
-<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Book overview</span></div>
+<div class="chapter-meta"><span>2015</span><span>Book overview</span><span>Chapter route</span></div>
 
 This index summarises generated study notes for Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. The generated pages use selected MCP research-library retrieval records and compact evidence summaries.
 
 ## Core Argument
 
-Evaluation design should match a program's stage, stakeholder needs, and theory of how action is expected to produce change.
+Practical evaluation design should match program stage, stakeholder needs, program theory, and intended use, choosing among constructive, conclusive, and hybrid approaches rather than defaulting to one method or one model of evidence.
 
-## Major-Section Notes
+## Chapter Notes
 
-- [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd) - source pages 39-40
-- [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd) - source pages 79
-- [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd) - source pages 382
+- [Chapter 1: Fundamentals of Program Evaluation](chapter-01-fundamentals-of-program-evaluation.qmd) - source pages 23-56
+- [Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology](chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd) - source pages 57-78
+- [Chapter 3: Logic Models and the Action Model/Change Model Schema (Program Theory)](chapter-03-logic-models-and-the-action-model-change-model-schema.qmd) - source pages 79-114
+- [Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope](chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd) - source pages 117-137
+- [Chapter 5: Helping Stakeholders Clarify a Program Plan: Action Plan](chapter-05-helping-stakeholders-clarify-a-program-plan-action-plan.qmd) - source pages 139-171
+- [Chapter 6: Constructive Process Evaluation Tailored for the Initial Implementation](chapter-06-constructive-process-evaluation-tailored-for-initial-implementation.qmd) - source pages 174-196
+- [Chapter 7: Assessing Implementation in the Mature Implementation Stage](chapter-07-assessing-implementation-in-the-mature-implementation-stage.qmd) - source pages 197-220
+- [Chapter 8: Program Monitoring and the Development of a Monitoring System](chapter-08-program-monitoring-and-the-development-of-a-monitoring-system.qmd) - source pages 223-250
+- [Chapter 9: Constructive Outcome Evaluations](chapter-09-constructive-outcome-evaluations.qmd) - source pages 252-267
+- [Chapter 10: The Experimentation Evaluation Approach to Outcome Evaluation](chapter-10-the-experimentation-evaluation-approach-to-outcome-evaluation.qmd) - source pages 268-280
+- [Chapter 11: The Holistic Effectuality Evaluation Approach to Outcome Evaluation](chapter-11-the-holistic-effectuality-evaluation-approach-to-outcome-evaluation.qmd) - source pages 283-324
+- [Chapter 12: The Theory-driven Approach to Outcome Evaluation](chapter-12-the-theory-driven-approach-to-outcome-evaluation.qmd) - source pages 325-360
+- [Chapter 13: What to Do If Your Logic Model Does Not Work as Well as Expected](chapter-13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected.qmd) - source pages 364-385
+- [Chapter 14: Formal Theories versus Stakeholder Theories in Interventions: Relative Strengths and Limitations](chapter-14-formal-theories-versus-stakeholder-theories-in-interventions.qmd) - source pages 387-410
+- [Chapter 15: Evaluation and Dissemination: Top-down Approach versus Bottom-up Approach](chapter-15-evaluation-and-dissemination-top-down-approach-versus-bottom-up-approach.qmd) - source pages 413-432
+
+## Legacy Extracts
+
+- [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
+- [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
+- [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch01-a-fundamental-evaluation-typology:c0001</code></li>
+<li><code>table_segment:practical-program-evaluation:table:2.1:s001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch04-the-program-plan-program-scope-and-action-plan:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch05-the-action-model-framework-and-the-action-plan:c0003</code></li>
+<li><code>chunk:practical-program-evaluation:ch06-constructive-process-evaluation-tailored-for-the-initial-implementation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch07-assessing-implementation-in-the-mature-implementation-stage:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch08-what-is-program-monitoring:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch09-constructive-outcome-evaluation:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch10-the-experimentation-evaluation-approach-to-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch11-the-holistic-effectuality-approach-s-conceptualization-of-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch12-the-theory-driven-approach-to-outcome-evaluation:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch13-what-to-do-if-your-logic-model-does-not-work-as-well-as-expected:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch14-efforts-to-clarify-the-change-model-and-action-model-in-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch15-integrative-cogency-model-the-integrated-evaluation-perspective:c0001</code></li>
+</ul>
+</details>
 
 ## References

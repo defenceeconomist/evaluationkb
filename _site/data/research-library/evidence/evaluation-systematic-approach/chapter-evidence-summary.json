@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-27",
+  "collection_id": "evaluation-texts",
+  "book_id": "evaluation-systematic-approach",
+  "book_title": "Evaluation: A Systematic Approach",
+  "source_status": "needs_review",
+  "source_tool": "mcp__researchlibrary.rag_evidence_pack",
+  "evidence_pack_defaults": {
+    "include_neighbors": true,
+    "limit": "1-4 during implementation; supplement with chapter anchors and summary chunks",
+    "include_media": "true for Chapter 11 efficiency evidence; otherwise false unless table evidence is central"
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "An Overview of Program Evaluation",
+      "target_path": "notes/evaluation-systematic-approach/chapter-01-an-overview-of-program-evaluation.qmd",
+      "section_paths": [
+        "Chapter 1: An Overview of Program Evaluation"
+      ],
+      "source_pages": "12-38",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0027",
+        "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0032",
+        "chunk:evaluation-systematic-approach:ch01-chapter-1-an-overview-of-program-evaluation:c0034"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Tailoring Evaluations",
+      "target_path": "notes/evaluation-systematic-approach/chapter-02-tailoring-evaluations.qmd",
+      "section_paths": [
+        "Chapter 2: Tailoring Evaluations"
+      ],
+      "source_pages": "38-67",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0002",
+        "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0044",
+        "chunk:evaluation-systematic-approach:ch02-chapter-2-tailoring-evaluations:c0060"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Identifying Issues and Formulating Questions",
+      "target_path": "notes/evaluation-systematic-approach/chapter-03-identifying-issues-and-formulating-questions.qmd",
+      "section_paths": [
+        "Chapter 3: Identifying Issues and Formulating Questions"
+      ],
+      "source_pages": "67-93",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0054",
+        "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0055",
+        "chunk:evaluation-systematic-approach:ch03-chapter-3-identifying-issues-and-formulating-questions:c0056"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Assessing the Need for a Program",
+      "target_path": "notes/evaluation-systematic-approach/chapter-04-assessing-the-need-for-a-program.qmd",
+      "section_paths": [
+        "Chapter 4: Assessing the Need for a Program"
+      ],
+      "source_pages": "93-120",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0001",
+        "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0002",
+        "chunk:evaluation-systematic-approach:ch04-chapter-4-assessing-the-need-for-a-program:c0052"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Expressing and Assessing Program Theory",
+      "target_path": "notes/evaluation-systematic-approach/chapter-05-expressing-and-assessing-program-theory.qmd",
+      "section_paths": [
+        "Chapter 5: Expressing and Assessing Program Theory"
+      ],
+      "source_pages": "120-150",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0001",
+        "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0059",
+        "chunk:evaluation-systematic-approach:ch05-chapter-5-expressing-and-assessing-program-theory:c0061"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Assessing and Monitoring Program Process",
+      "target_path": "notes/evaluation-systematic-approach/chapter-06-assessing-and-monitoring-program-process.qmd",
+      "section_paths": [
+        "Chapter 6: Assessing and Monitoring Program Process"
+      ],
+      "source_pages": "150-177",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0002",
+        "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0055",
+        "chunk:evaluation-systematic-approach:ch06-chapter-6-assessing-and-monitoring-program-process:c0056"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Measuring and Monitoring Program Outcomes",
+      "target_path": "notes/evaluation-systematic-approach/chapter-07-measuring-and-monitoring-program-outcomes.qmd",
+      "section_paths": [
+        "Chapter 7: Measuring and Monitoring Program Outcomes"
+      ],
+      "source_pages": "177-202",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0001",
+        "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0035",
+        "chunk:evaluation-systematic-approach:ch07-chapter-7-measuring-and-monitoring-program-outcomes:c0049"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Assessing Program Impact: Randomized Field Experiments",
+      "target_path": "notes/evaluation-systematic-approach/chapter-08-assessing-program-impact-randomized-field-experiments.qmd",
+      "section_paths": [
+        "Chapter 8: Assessing Program Impact: Randomized Field Experiments"
+      ],
+      "source_pages": "202-229",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0001",
+        "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0002",
+        "chunk:evaluation-systematic-approach:ch08-chapter-8-assessing-program-impact-randomized-field-experiments:c0052"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Assessing Program Impact: Alternative Designs",
+      "target_path": "notes/evaluation-systematic-approach/chapter-09-assessing-program-impact-alternative-designs.qmd",
+      "section_paths": [
+        "Chapter 9: Assessing Program Impact: Alternative Designs"
+      ],
+      "source_pages": "229-258",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0001",
+        "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0017",
+        "chunk:evaluation-systematic-approach:ch09-chapter-9-assessing-program-impact-alternative-designs:c0061"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Detecting, Interpreting, and Analyzing Program Effects",
+      "target_path": "notes/evaluation-systematic-approach/chapter-10-detecting-interpreting-and-analyzing-program-effects.qmd",
+      "section_paths": [
+        "Chapter 10: Detecting, Interpreting, and Analyzing Program Effects"
+      ],
+      "source_pages": "258-283",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0001",
+        "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0002",
+        "chunk:evaluation-systematic-approach:ch10-chapter-10-detecting-interpreting-and-analyzing-program-effects:c0052"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Measuring Efficiency",
+      "target_path": "notes/evaluation-systematic-approach/chapter-11-measuring-efficiency.qmd",
+      "section_paths": [
+        "Chapter 11: Measuring Efficiency"
+      ],
+      "source_pages": "283-315",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0001",
+        "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0049",
+        "chunk:evaluation-systematic-approach:ch11-chapter-11-measuring-efficiency:c0060"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "The Social Context of Evaluation",
+      "target_path": "notes/evaluation-systematic-approach/chapter-12-the-social-context-of-evaluation.qmd",
+      "section_paths": [
+        "Chapter 12: The Social Context of Evaluation"
+      ],
+      "source_pages": "315-358",
+      "evidence_ids": [
+        "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0001",
+        "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0090",
+        "chunk:evaluation-systematic-approach:ch12-chapter-12-the-social-context-of-evaluation:c0093"
+      ],
+      "media_ids": [],
+      "status": "drafted"
+    }
+  ]
+}

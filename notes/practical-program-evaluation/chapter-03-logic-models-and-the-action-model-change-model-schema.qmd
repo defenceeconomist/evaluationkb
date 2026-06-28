@@ -1,0 +1,146 @@
+---
+title: "Chapter 03: Logic Models and the Action Model/Change Model Schema (Program Theory)"
+description: "Detailed study notes for Chapter 3 of Practical Program Evaluation."
+book_id: "practical-program-evaluation"
+collection_id: "evaluation-texts"
+note_type: "Chapter"
+chapter_number: 3
+source_pages: "79-114"
+citation_key: "chen_2015_practical_program_evaluation"
+evidence_ids:
+  - "chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch03-program-theory:c0001"
+  - "chunk:practical-program-evaluation:ch03-components-of-the-change-model:c0001"
+  - "chunk:practical-program-evaluation:ch03-components-of-the-action-model:c0002"
+  - "chunk:practical-program-evaluation:ch03-applications-of-logic-models-and-the-action-model-change-model-schema:c0001"
+source_status: "needs_review"
+---
+
+## Source
+
+<div class="chapter-meta"><span>2015</span><span>MCP evaluation-texts</span><span>Status: needs_review</span><span>Chapter 3</span><span>Source pages 79-114</span></div>
+
+This note summarises Chapter 3, "Logic Models and the Action Model/Change Model Schema (Program Theory)," from Huey T. Chen's *Practical Program Evaluation* [@chen_2015_practical_program_evaluation]. It is a paraphrased study note based on source-linked MCP research-library retrieval records, not a substitute for the chapter.
+
+The retrieval trail is retained in the source records at the bottom of the page. The note paraphrases the chapter's argument and procedures, and it does not reproduce textbook tables, review questions, checklists, exhibits, or extended passages. When a table or figure is central, the note describes its function and leaves the source artifact in the evidence record.
+
+## Core Argument
+
+Logic models and the action model/change model schema are complementary tools for describing programs, with the schema adding context, implementation, and causal mechanisms when a simple logic model is too thin.
+
+## Study Summary
+
+Chapter 3 gives evaluators two program-description tools. Logic models are compact and useful for communication, grant requirements, and reducing complexity into manageable components.
+
+Program theory is treated as a richer framework. Chen's action model/change model schema separates the causal logic of change from the practical arrangements required to deliver the intervention.
+
+The change model focuses on goals, determinants, and interventions. The action model focuses on implementing organizations, implementers, partners, context, target population, and service delivery protocols.
+
+The chapter does not reject logic models. It argues that evaluators should choose the representation that fits the program and evaluation purpose, using the fuller schema when causal mechanisms, context, feedback loops, or implementation assumptions matter.
+
+For close reading, track how the chapter uses logic model, program theory, action model, and change model while moving through logic models, program theory, and change model components. The notes below identify what the chapter asks the evaluator to notice, what design problem it helps solve, and what should be checked against the saved evidence records before relying on the summary in applied work.
+
+Within the wider book, this chapter belongs to the foundations sequence: it defines evaluation fit, typology, and program theory before any stage-specific evaluation is selected.
+
+## Key Concepts
+
+- **logic model**: A compact representation of program inputs, activities, outputs, and outcomes used for planning and communication.
+- **program theory**: The explicit or implicit assumptions linking action, context, mechanisms, and outcomes in an intervention.
+- **action model**: The program theory component specifying the organizations, implementers, partners, context, target population, and delivery arrangements needed for action.
+- **change model**: The program theory component explaining how intervention activities are expected to change determinants and outcomes.
+- **causal mechanism**: The process through which an intervention is expected to affect determinants or outcomes.
+- **contextual factors**: Setting conditions, resources, relationships, constraints, and supports that shape implementation or outcomes.
+- **feedback loops**: Information paths through which monitoring, process, or outcome evidence can improve program design and implementation.
+
+## Chapter Structure
+
+- Logic models.
+- Program theory.
+- Change model components.
+- Action model components.
+- Relationships among components.
+- Applications.
+
+## Practical Implications
+
+- Use logic models when communication and basic structure are enough.
+- Use the action model/change model schema when context and mechanisms drive evaluation risk.
+- Clarify stakeholder theory before designing data collection.
+
+## Concept Map
+
+::: {.concept-map}
+```{mermaid}
+flowchart TD
+  Problem["Problem: What does Chapter 3 help decide?"]
+  Central["Concept: Logic Models and the Action Model/Change Model Schema (Program Theory)"]
+  Concept1["Concept: logic model"]
+  Concept2["Concept: program theory"]
+  Concept3["Concept: action model"]
+  Mechanism1["Mechanism: logic models"]
+  Mechanism2["Mechanism: program theory"]
+  Mechanism3["Mechanism: change model components"]
+  Implication1["Practice implication: Use logic models when communication and basic structure are enough."]
+  Implication2["Practice implication: Use the action model/change model schema when context and mechanisms drive evaluation risk."]
+  Question["Open question: What evidence would make this usable in a live evaluation?"]
+
+  Problem --> Central
+  Central --> Question
+  Central --> Concept1
+  Central --> Concept2
+  Central --> Concept3
+  Concept1 --> Mechanism1
+  Concept2 --> Mechanism2
+  Concept3 --> Mechanism3
+  Mechanism1 --> Implication1
+  Mechanism2 --> Implication2
+  Implication1 --> Question
+
+  classDef problem fill:#fee2e2,stroke:#b91c1c,color:#7f1d1d;
+  classDef concept fill:#e6f3f1,stroke:#115e59,color:#134e4a;
+  classDef mechanism fill:#e8f1ff,stroke:#1d4ed8,color:#1e3a8a;
+  classDef implication fill:#fce7f3,stroke:#be185d,color:#831843;
+  class Problem problem;
+  class Central concept;
+  class Concept1,Concept2,Concept3 concept;
+  class Mechanism1,Mechanism2,Mechanism3 mechanism;
+  class Implication1,Implication2,Question implication;
+```
+:::
+
+## Connections
+
+- Book overview: [Overview](index.qmd)
+- Reading route: [Chapter Map](chapter-map.qmd)
+- Concepts synthesis: [Core Concepts](concepts.qmd)
+- Practice synthesis: [Practice Implications](practice-implications.qmd)
+- Previous: [Chapter 2: Understand Approaches to Evaluation and Select Ones That Work: The Comprehensive Evaluation Typology](chapter-02-understand-approaches-to-evaluation-and-select-ones-that-work.qmd)
+- Next: [Chapter 4: Helping Stakeholders Clarify a Program Plan: Program Scope](chapter-04-helping-stakeholders-clarify-a-program-plan-program-scope.qmd)
+- Legacy extract retained: [Evaluation Design and Its Components](section-01-evaluation-design-components.qmd)
+- Legacy extract retained: [Logic Models and the Action Model/Change Model Schema](section-02-logic-models-and-program-theory.qmd)
+- Legacy extract retained: [When Logic Models Do Not Work as Expected](section-03-logic-model-limits.qmd)
+
+## Study Prompts
+
+1. What evaluation design decision does Chapter 3 help make?
+2. Which stakeholder assumptions would need evidence before applying this guidance?
+3. How would this chapter change scoping, data collection, interpretation, or use?
+4. Where could this guidance be misused if treated as a fixed template?
+
+## Source Records
+
+<details class="source-chunks">
+<summary>Source records</summary>
+<ul class="source-chunk-list">
+<li><code>chunk:practical-program-evaluation:ch03-logic-models-and-the-action-model-change-model-schema-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-program-theory:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-components-of-the-change-model:c0001</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-components-of-the-action-model:c0002</code></li>
+<li><code>chunk:practical-program-evaluation:ch03-applications-of-logic-models-and-the-action-model-change-model-schema:c0001</code></li>
+</ul>
+</details>
+
+## References
+
+- Chen, H. T. (2015). *Practical Program Evaluation*. SAGE Publications. Chapter 3, pages 79-114.
+- Saved retrieval metadata: `data/research-library/evidence/practical-program-evaluation/chapter-evidence-summary.json`.
